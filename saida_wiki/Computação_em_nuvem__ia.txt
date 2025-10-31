@@ -1,0 +1,24 @@
+Computação em nuvem é um modelo que permite o acesso sob demanda a recursos computacionais, como armazenamento e capacidade de processamento, através de uma rede, geralmente a Internet, sem a necessidade de gerenciamento direto por parte do utilizador. Infraestruturas de nuvem em larga escala frequentemente distribuem funções por múltiplos servidores em diferentes localizações, com servidores de borda para proximidade com o utilizador.
+
+Empresas como Amazon, Oracle, Google, IBM e Microsoft estão entre as pioneiras no desenvolvimento de serviços de computação em nuvem. Um dos primeiros serviços a oferecer um ambiente operacional online foi criado pelo estudante sueco Fredrik Malmer. Posteriormente, a WebOS Inc. adquiriu os direitos desse sistema.
+
+A computação em nuvem é comumente categorizada em diferentes modelos de serviço, incluindo:
+
+*   **IaaS (Infraestrutura como Serviço):** Fornece acesso a recursos de computação virtualizados, como servidores, armazenamento e redes.
+*   **PaaS (Plataforma como Serviço):** Oferece um ambiente para o desenvolvimento, execução e gerenciamento de aplicativos, abstraindo a infraestrutura subjacente.
+*   **DaaS (Área de Trabalho como Serviço):** Terceirização da infraestrutura de desktop virtual para um provedor.
+*   **SaaS (Software como Serviço):** Distribui aplicativos de software pela Internet, onde os utilizadores acedem através de um navegador ou aplicativo.
+*   **CaaS (Contêineres como Serviço):** Fornece um ambiente para gerenciamento de contêineres, uma forma de virtualização leve.
+*   **XaaS (Tudo como Serviço):** Um termo genérico que engloba diversos serviços de TI entregues sob demanda.
+*   **DBaaS (Banco de dados como Serviço):** Oferece acesso a serviços de gerenciamento de banco de dados.
+*   **SECaaS (Segurança como Serviço):** Fornece serviços de segurança, como autenticação, detecção de intrusão e gerenciamento de vulnerabilidades.
+*   **FaaS (Função como Serviço):** Permite que os desenvolvedores executem código em resposta a eventos, sem gerenciar servidores.
+*   **MBaaS (Back-End Móvel como Serviço):** Fornece ferramentas e serviços para simplificar o desenvolvimento de aplicativos móveis.
+
+As características essenciais da computação em nuvem, conforme definidas pelo Instituto Nacional de Padrões e Tecnologia (NIST), incluem:
+
+*   **Autoatendimento sob demanda:** Capacidade de provisionar recursos de forma autônoma.
+*   **Amplo acesso à rede:** Acesso aos recursos por meio de mecanismos padrão, utilizando diversos dispositivos.
+*   **Pool de recursos:** Recursos compartilhados entre múltiplos utilizadores através de multilocação.
+*   **Elasticidade rápida:** Capacidade de escalonar recursos de forma rápida e flexível.
+*   **Serviço medido:** Monitoramento e otimização do uso de recursos, com base em métricas de utilização.

@@ -1,0 +1,99 @@
+O sistema nervoso é a parte do organismo que transmite sinais entre as suas diferentes partes e coordena as suas ações voluntárias e involuntárias. Na maioria das espécies animais, constitui-se de duas partes principais: o sistema nervoso central (SNC) e o sistema nervoso periférico (SNP).
+O sistema central é formado pelo encéfalo e pela medula espinhal. Todas as partes do encéfalo e da medula estão envolvidas por três membranas de tecido conjuntivo - as meninges. O encéfalo, principal centro de controle, é constituído por cérebro, cerebelo, tálamo, hipotálamo e bulbo.
+O SNP constitui-se principalmente de nervos, que são feixes de axônios que ligam o sistema nervoso central a todas as outras partes do corpo. O SNP inclui: neurônios motores, mediando o movimento voluntário; o sistema nervoso autônomo, compreendendo o sistema nervoso simpático e o sistema nervoso parassimpático, que regulam as funções involuntárias; e o sistema nervoso entérico, que  controla o aparelho digestivo.
+
+
+== Definição ==
+O sistema nervoso deriva seu nome de nervos, que são pacotes cilíndricos de fibras que emanam do cérebro e da medula central, e se ramificam repetidamente para inervar todas as partes do corpo. Os nervos são grandes o suficiente para serem reconhecidos pelos antigos egípcios, gregos e romanos, mas sua estrutura interna não foi compreendida até que se tornasse possível examiná-los usando um microscópio. Um exame microscópico mostra que os nervos consistem principalmente de axônios de neurônios, juntamente com uma variedade de membranas que os envolvem, segregando-os em fascículos de nervos . Os neurônios que dão origem aos nervos não ficam inteiramente dentro dos próprios nervos - seus corpos celulares residem no cérebro, medula central, ou gânglios periféricos.
+Todos os animais mais complexos do que as esponjas possuem sistema nervoso. No entanto, mesmo as esponjas, animais unicelulares, e não metazoários, como micetozoários têm mecanismos de sinalização célula a célula que são precursores dos neurônios. Em animais radialmente simétricos, como as águas-vivas e hidras, o sistema nervoso consiste de uma rede difusa de células isoladas. Em animais bilaterianos, que compõem a grande maioria das espécies existentes, o sistema nervoso tem uma estrutura comum que se originou no início do período Cambriano, mais de 500 milhões de anos atrás.
+
+
+== Anatomia comparada ==
+
+Membros do filo dos celenterados, tais como águas-vivas e hidras, têm um sistema nervoso simples intitulado de rede neural. Ela é formada por neurônios, ligados por sinapses ou conexões celulares. A rede neural é centralizada ao redor da boca, mas não há um agrupamento anatômico de neurônios. Algumas águas-vivas possuem neurônios sensoriais conhecidos como rhopalia, com os quais podem perceber luz, movimento, ou gravidade.[carece de fontes?]
+
+
+=== Platelmintos e nematoides ===
+
+Planárias, um tipo de platelminto, possuem uma corda nervosa dupla que percorre todo o comprimento do corpo e se funde com a cauda. Estas cordas nervosas são conectadas por nervos transversais, como os degraus de uma escada. Estes nervos ajudam a coordenar os dois lados do animal. Dois grandes gânglios na extremidade da cabeça funcionam de modo semelhante a um cérebro simplificado. Fotorreceptores nos ocelos desses animais proveem informação sensorial sobre luz e escuridão. Porém, os ocelos não são capazes de formar imagens. Os platelmintos foram os primeiros animais na escala evolutiva a apresentarem um processo de cefalização. A partir dos platelmintos até os equinodermos, o sistema nervoso é ganglionar ventral, com exceção dos nematelmintos que possuem cordão nervoso peri esofágico.
+
+Obs. : A centralização do sistema nervoso dos platelmintos representa um avanço em relação aos cnidários, que têm uma rede nervosa difusa, sem nenhum órgão integrador das funções nervosas.
+
+
+=== Artrópodes ===
+
+Os artrópodes possuem um sistema nervoso constituído de uma série de gânglios conectados por uma corda nervosa ventral feita de conectores paralelos que correm ao longo da barriga. Tipicamente, cada segmento do corpo possui um gânglio de cada lado, embora alguns deles se fundam para formar o cérebro e outros grandes gânglios.
+O segmento da cabeça contém o cérebro, também conhecido como gânglio supraesofágico. No sistema nervoso dos insetos, o cérebro é anatomicamente dividido em protocérebro, deutocérebro e tritocérebro. Imediatamente atrás do cérebro está o gânglio supraesofágico que controla as mandíbulas.
+Muitos artrópodes possuem órgãos sensoriais bem desenvolvidos, incluindo olhos compostos para visão e antenas para olfato e percepção de feromônios. A informação sensorial destes órgãos é processada pelo cérebro.
+
+
+=== Moluscos ===
+
+A maioria dos Moluscos, tais como Bivalves e lesmas, têm vários grupos de neurônios intercomunicantes chamados gânglios. O sistema nervoso da lebre-do-mar  (Aplysia) tem sido utilizado extensamente em experimentos de neurociência por causa  de sua simplicidade e capacidade de aprender associações simples.
+Os cefalópodes, tais como lulas e polvos, possuem cérebros relativamente complexos. Estes animais também apresentam olhos sofisticados. Como em todos os invertebrados, os axônios dos cefalópodes carecem de mielina, o isolante que permite reação rápida nos vertebrados. Para obter uma velocidade de condução rápida o bastante para controlar músculos em tentáculos distantes, os axônios dos cefalópodes precisam ter um diâmetro avantajado nas grandes espécies de cefalópodes. Por este motivo, os axônios da lula são usados por neurocientistas para trabalhar as propriedades básicas da ação potencial.
+
+
+=== Vertebrados ===
+
+O sistema nervoso dos animais vertebrados é frequentemente dividido em Sistema nervoso central (SNC) e Sistema nervoso periférico (SNP). O SNC consiste no encéfalo e na medula espinhal. O SNP consiste em todos os outros neurônios que não estão no SNC. A maioria do que comumente se denomina nervos (que são realmente os apêndices dos axónio de células nervosas) são considerados como constituintes do SNP. O sistema nervoso periférico é dividido em sistema nervoso somático e sistema nervoso autônomo.
+O sistema nervoso somático é o responsável pela coordenação dos movimentos do corpo e também por receber estímulos externos. Este é o sistema que regula as atividades que estão sob controle consciente.
+O sistema nervoso autônomo é dividido em sistema nervoso simpático, sistema nervoso parassimpático e sistema nervoso entérico. O sistema nervoso simpático responde ao perigo iminente ou stress, e é responsável pelo incremento do batimento cardíaco e da pressão arterial, entre outras mudanças fisiológicas, juntamente com a sensação de excitação que se sente devido ao incremento de adrenalina no sistema. O sistema nervoso parassimpático, por outro lado, torna-se evidente quando a pessoa está descansando e se sente relaxada, e é responsável por coisas tais como a constrição pupilar, a redução dos batimentos cardíacos, a dilatação dos vasos sanguíneos e a estimulação dos sistemas digestivo e genitourinário. O papel do sistema nervoso entérico é gerenciar todos os aspectos da digestão, do esôfago ao estômago, intestino delgado e cólon.
+
+
+== Centralização do Sistema Nervoso ==
+
+Observando a filogenia do sistema nervoso dos metazoários, poderíamos supor que a estrutura difusa dos cnidários serviu como base ancestral ao desenvolvimento do sistema nervoso centralizado presente em espécies subsequentes, tanto dos protóstomos quanto dos deuterostômios. Porém, assumir que houve uma transição do sistema nervoso difuso para o central não é algo tão trivial, uma vez que os hemicordados também possuem sistema nervoso difuso e uma notocorda primitiva. Essa transição é uma interessante questão ainda em aberto na biologia, o sistema nervoso dos urbilaterais (o ancestral comum entre hemicordados, cordados e protostomos).[carece de fontes?]
+Atualmente existem algumas teorias propondo elucidar essa questão evolutiva, as quais abordam o sistema nervoso desse bilatério primitivo de maneiras diferentes. Duas teorias especialmente interessantes são as que propõem um sistema nervoso central para o urbilateral, sendo então necessária a existência de uma inversão dorso-ventral na história evolutiva dos cordados (cenários 3 e 4). Isso sugeriria uma vantagem evolutiva para essa inversão, uma vez que esta é uma mudança relativamente drástica.
+
+
+= Sistema Nervoso e os sentidos dos Seres Vivos =
+
+
+=== Visão ===
+A visão de um ser vivo é responsável pela percepção e detecção das cores, estas, relacionadas à emissão de luz. A cor nada mais é do que a propagação da luz interpretada pela visão do ser humano. A luz é uma onda eletromagnética visível, sendo seu percurso em função do tempo (velocidade) dado por: v = λƒ, em que λ (lambda) se refere à distância entre dois picos de uma onda e ƒ (frequência) à sua constância em um segundo. Em meio homogêneo e transparente, a luz se propaga em linha reta, o que permite os seres vivos a identificar formas e objetos. Ao mesmo tempo, os raios de luz são independentes, ao se interceptarem, mantém sua trajetória como se os demais não existissem, permitindo assim interpretar as distâncias e profundidade.
+Os estudos apresentados agora são referentes à propostas de Sir Isaac Newton. O λ, ou o comprimento da onda, indica qual é sua respectiva cor. Dentro do espectro visível ao ser humano, ou seja, dentre as cores interpretadas pelo ser humano, encontram-se os comprimentos entre 400 e 700 nm, cores essas que vão do violeta ao vermelho (seguindo a sequência do conhecido arco-íris). Não são somente esses comprimentos de luz presentes no nosso cotidiano, o λ maior que o vermelho, entre o infravermelho e a onda de rádio, possui um comprimento entre o 10−5 e 103m, não visíveis ao olho humano, e são utilizados desde a simples medição de temperatura por termômetros digitais até as frequências AM e FM de rádio. O comprimento inferior ao Violeta, entre 10−8 e 10−12m, também não visível ao ser humano, está mais associado a experimentos químicos. O ultravioleta, situado em 10−8m é a radiação provinda do sol, e os Raios Gama, a 10−12m são somente utilizados em laboratório. Os estudos e utilidades do comprimento de onda se limitam entre o 10−12m e o 103m.
+Os fótons de luz ao atingirem uma superfície podem ser refletidos ou refratados, dependendo do arranjo molecular do raio de luz analisado. Esses fótons refletidos alcançam o olho humano passando por suas estruturas internas na seguinte ordem: córnea, pupila, íris e cristalino. Quando os fótons de luz atravessam o globo ocular e chegam à retina, eles entram em contato com células fotorreceptoras que reconhecem a presença e ausência de luz pela presença de vitamina A. Essas células são conhecidas como cones e bastonetes, que identificam os raios de luz a partir da sensibilidade de cada estrutura à determinado comprimento de onda. Assim, esses sinais luminosos são transformados em sinais neurais e essa informação passa pelas células nervosas e alcança o encéfalo, que as interpreta.
+
+
+=== Teorias de percepção de cor no corpo humano ===
+Existem duas teorias que se relacionam a sensibilidade dos cones e bastonetes quanto ao comprimento do raio de luz. A primeira é a teoria Tricromática que aponta que os cones e bastonetes possuem sensibilidade aos comprimentos de onda das cores primárias, enquanto a teoria de Maxwell diz que a sensibilidade se refere aos comprimentos de onda das cores vermelho, verde e azul, as cores primárias de luz. A teoria mais aceita seria a teoria de Maxwell, porém pode-se encontrar materiais referentes a ambas teorias.
+
+
+=== Dificuldades na percepção de cores ===
+Dependendo da formação genética e do histórico de traumas do indivíduo, podem surgir algumas dificuldades na percepção de cores. A mais conhecida seria o Daltonismo, cujo nome deriva do cientista John Dalton que era portador. O Daltonismo ocorre majoritariamente por questões genéticas em que indivíduo possui dificuldade para diferenciar o vermelho e o verde, e em alguns casos o azul e o amarelo. Porém existem outras condições além do Daltonismo, como a Protanopia (em que a dificuldade seria somente em relação a cor vermelha), a Deutranopia (a dificuldade seria em relação a cor verde) e a Tritanopia (que pode ser a dificuldade diferenciar o azul ou amarelo). No entanto há um distúrbio em que o indivíduo possui dificuldade de identificar as cores, somente enxergando tons acinzentados mais claros e mais escuros. Esse distúrbio seria a Acromatia.
+
+
+== Influência de Substâncias Psicoativas no Sistema Nervoso ==
+
+
+=== Álcool ===
+Um Sistema Nervoso saudável, sem o efeito do álcool, funciona detectando estímulos internos e externos, o que permite o desencadeamento de respostas glandulares e musculares. Admitindo ser um sistema formado por circuitos neurais – que são basicamente células nervosas interconectadas de maneiras específicas – pode-se perceber respostas estereotipadas condicionando a reação do sistema nervoso sobre determinados estilos.
+O Sistema Nervoso sofre por diversas influências no processo de ingestão de bebidas alcoólicas. Alguns dos prejuízos e efeitos deletérios que o consumo de álcool pode causar para o cérebro são: 
+Em primeira instância: dificuldades em andar, visão borrada, fala arrastada, tempo de resposta retardado e danos à memória. De maneira clara, o álcool afeta o cérebro. Uma série de fatores podem influenciar o como e o quanto o álcool afeta o cérebro, a saber:
+·     Quantidade e frequência de consumo de álcool;
+·     Idade de início e o tempo de consumo de álcool;
+·     Idade do indivíduo, nível de educação, gênero sexual, aspectos genéticos e histórico familiar de alcoolismo[3];
+·      Risco existente de exposição pré-natal ao álcool; e
+·      Condições gerais de saúde do indivíduo.
+Isso acontece, pois o etanol aumenta os efeitos do Gaba, um neurotransmissor inibitório, o que causa os movimentos lentos e a fala enrolada que frequentemente se observam em pessoas alcoolizadas. Ao mesmo tempo, inibe o neurotransmissor excitatório glutamato, suprimindo seus efeitos estimulantes e levando a um tipo de retardamento fisiológico. O sistema Gaba atua sobre o controle da ansiedade. Ou seja, quando "armado" pela inibição da produção de glutamato, as pessoas ficam mais relaxadas e com capacidade de interagir melhor com grupos. Quanto mais Gaba, menos autocontrole.
+
+Além disso, o álcool também aumenta a liberação de serotonina, neurotransmissor que serve para regular o prazer e o humor. Com mais serotonina, que é considerado o hormônio a felicidade, mais euforia - e, em alguns casos, atitudes que podem resultar em atos violentos tal como acontece com o Gaba.
+
+
+== Referências ==
+
+
+== Ver também ==
+Neurociência
+Zootomia
+Neurônio
+Memória espacial
+
+
+== Ligações externas ==
+O Corpo Humano: www.ocorpohumano.com.br/s_nervoso.htm
+«Ação potencial» (em inglês) 
+«Páginas de Biologia de Kimball, SNC». (em inglês) 
+«Páginas de Biologia de Kimball, SNP» (em inglês) 
+«Neurociências para crianças». (em inglês) 
+«Sistema nervoso»

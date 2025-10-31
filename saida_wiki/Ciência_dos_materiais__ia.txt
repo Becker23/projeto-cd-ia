@@ -1,0 +1,9 @@
+Ciência dos materiais é um campo interdisciplinar que investiga a relação entre a estrutura, as propriedades, o processamento e o desempenho dos materiais. A engenharia de materiais utiliza o conhecimento derivado da ciência dos materiais para projetar e aplicar materiais em diversas áreas e indústrias.
+
+As origens intelectuais da ciência dos materiais remontam ao Iluminismo, com a aplicação de princípios da química, física e engenharia à metalurgia e mineralogia. Inicialmente considerado um subcampo dessas disciplinas, a ciência dos materiais emergiu como um campo distinto a partir da década de 1940, com o estabelecimento de departamentos dedicados em universidades.
+
+O paradigma fundamental da ciência dos materiais reside na compreensão das relações entre processamento, estrutura e propriedades. Esse paradigma guia a pesquisa em áreas como nanotecnologia, biomateriais e metalurgia.
+
+A ciência dos materiais desempenha um papel importante na engenharia forense e na análise de falhas, investigando as causas de falhas em materiais, produtos e estruturas que resultam em danos ou ferimentos.
+
+O desenvolvimento da ciência dos materiais tem sido influenciado por e tem impulsionado avanços tecnológicos em áreas como cerâmicas, polímeros, semicondutores e biomateriais. O campo também se beneficia do uso crescente de simulações computacionais no projeto e na análise de materiais.

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo Humano x IA</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Humano x IA</h1>
+        
+        <!-- Botão de Voltar para o Index -->
+        <div class="back-button-container">
+            <a href="/" class="button-link back-button">Voltar para o Início</a>
+        </div>
+
+        <!-- Card de texto -->
+        <div class="card">
+            <h3>Texto:</h3>
+            <p id="question"></p>  <!-- Este parágrafo será atualizado via JavaScript -->
+        </div>
+
+        <!-- Botões para verificar a resposta -->
+        <button onclick="checkAnswer('humano')">Humano</button>
+        <button onclick="checkAnswer('ia')">IA</button>
+
+        <div id="feedback" style="margin-top: 10px; font-weight: bold;"></div>
+        <div id="score">Pontuação: 0</div>
+    </div>
+
+    <script>
+        let score = 0;
+        let currentCorrectAnswer = ""; // Variável para armazenar a resposta correta atual
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // Inicializa com o primeiro texto e resposta da renderização do Jinja2
+            const initialText = "{{ initial_text | safe }}"; // Usar 'safe' para garantir que HTML não seja escapado se contiver
+            currentCorrectAnswer = "{{ initial_correct_answer }}";
+
+            document.getElementById('question').textContent = initialText;
+            document.getElementById('score').textContent = `Pontuação: ${score}`;
+        });
+
+        async function checkAnswer(userAnswer) {
+            // Enviar a resposta do usuário e a resposta correta atual para o servidor
+            const response = await fetch('/check_answer', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    user_answer: userAnswer,
+                    correct_answer: currentCorrectAnswer
+                }),
+            });
+            const data = await response.json();
+
+            score += data.score_change;  // Atualiza a pontuação
+            document.getElementById('score').textContent = `Pontuação: ${score}`;
+            document.getElementById('feedback').textContent = data.message; // Exibe feedback
+
+            // Obtém e exibe um novo texto e atualiza a resposta correta
+            getNewText();
+        }
+
+        // Função para obter um novo texto aleatório e sua resposta correta
+        async function getNewText() {
+            const response = await fetch('/get_next_text');
+            const data = await response.json();
+            
+            document.getElementById('question').textContent = data.text;
+            currentCorrectAnswer = data.correct_answer; // Atualiza a resposta correta para o próximo palpite
+            document.getElementById('feedback').textContent = ""; // Limpa feedback anterior
+        }
+    </script>
+</body>
+</html>

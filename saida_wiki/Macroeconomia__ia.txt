@@ -1,0 +1,15 @@
+A macroeconomia é um ramo da economia que estuda o desempenho e a estrutura de economias em nível regional ou nacional. Foca-se em tendências amplas, como produção total, renda, emprego, utilização de recursos, comportamento de preços e comércio internacional. Seus objetivos incluem o crescimento econômico, o pleno emprego e a estabilidade de preços.
+
+O estudo macroeconômico emergiu como uma crítica ao mercantilismo, com Adam Smith sendo considerado um dos pioneiros da ciência econômica com a publicação de "A Riqueza das Nações" em 1776. O termo "macroeconomia" ganhou destaque na década de 1930, durante a Grande Depressão, impulsionando o estudo das questões macroeconômicas. John Maynard Keynes contribuiu significativamente com sua obra "Teoria Geral do Emprego, do Juro e da Moeda".
+
+A estrutura macroeconômica pode ser analisada através de mercados interconectados, incluindo o mercado de bens e serviços, o mercado de trabalho, o mercado monetário, o mercado de títulos e o mercado de divisas.
+
+Agregados macroeconômicos são medidas da atividade econômica total, como produto, renda e despesa. O produto representa a produção total de bens e serviços finais em um período. A renda é a soma das remunerações dos fatores de produção. A despesa é o total gasto na aquisição de bens e serviços.
+
+A taxa de câmbio, que é o preço de uma moeda estrangeira em termos da moeda nacional, pode ser determinada pela interação da oferta e da demanda em um regime de câmbio flexível ou definida pelo Banco Central em um regime de câmbio fixo.
+
+O Modelo Keynesiano Simples, ou Básico, enfatiza a rigidez de preços e salários no curto prazo. A demanda agregada é considerada um determinante fundamental da produção e do emprego. O Modelo IS-LM procura sintetizar as interações entre os mercados de bens e monetários, utilizando as curvas IS e LM para representar o equilíbrio nesses mercados.
+
+Temas importantes na macroeconomia incluem o crescimento e a economia do desenvolvimento, que analisam os fatores que impulsionam o crescimento econômico e as diferenças entre países. Os sistemas econômicos, que estudam como as sociedades alocam recursos, e a contabilidade nacional, que fornece um método para rastrear a atividade econômica agregada de uma nação, também são áreas centrais.
+
+A macroeconomia evoluiu a partir da teoria do ciclo econômico e da teoria monetária, com a teoria quantitativa da moeda tendo uma influência significativa em seu desenvolvimento inicial. Keynes desafiou as ideias clássicas, enfatizando o papel da demanda agregada e a possibilidade de intervenção governamental para estabilizar a economia. Modelos mais recentes, como a Nova Economia Keynesiana, incorporam rigidez de preços e salários, informação imperfeita e outros fatores para entender melhor o comportamento macroeconômico.

@@ -1,0 +1,9 @@
+A microeconomia é o ramo da economia que estuda o comportamento econômico de agentes individuais, como consumidores e empresas, e suas interações nos mercados. Analisa a alocação de recursos escassos entre usos alternativos, a determinação de preços relativos de bens e serviços, e o funcionamento de diferentes estruturas de mercado.
+
+A teoria microeconômica tradicionalmente assume que os consumidores buscam maximizar sua utilidade, dadas as suas restrições orçamentárias, e as empresas buscam maximizar seus lucros, dadas suas restrições de custos e tecnologia. O estudo da teoria do consumidor examina as preferências, escolhas e demanda dos consumidores, enquanto a teoria da firma analisa a produção, os custos e a oferta das empresas. A teoria da produção estuda a transformação de insumos em produtos.
+
+A microeconomia também analisa diferentes estruturas de mercado, como concorrência perfeita, monopólio, oligopólio e concorrência monopolística, e as implicações de cada uma para a eficiência econômica e o bem-estar social. Além disso, examina o papel da informação e da regulação governamental nos mercados.
+
+A análise microeconômica frequentemente utiliza a hipótese *ceteris paribus*, que assume que todas as outras variáveis permanecem constantes, para isolar o efeito de uma variável específica sobre o comportamento dos agentes.  O foco recai sobre os preços relativos e não nos preços absolutos, avaliando-se o preço de um bem em relação aos demais. As abordagens alternativas à maximização do lucro consideram outros objetivos da empresa, como a participação de mercado ou a margem de lucro.
+
+A microeconomia se distingue da macroeconomia, que estuda a economia como um todo, concentrando-se em variáveis agregadas como o produto interno bruto, a inflação e o desemprego.

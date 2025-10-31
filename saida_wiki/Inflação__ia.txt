@@ -1,0 +1,21 @@
+Em economia, inflação refere-se a um aumento generalizado nos preços de bens e serviços em uma economia, o que implica uma redução no poder de compra por unidade de moeda. A deflação é o oposto da inflação, caracterizada por uma diminuição sustentada no nível geral de preços. A taxa de inflação, uma medida comum, é a variação percentual anualizada de um índice de preços geral, como o Índice de Preços ao Consumidor (IPC).
+
+Economistas divergem sobre as causas da inflação. Inflação alta e hiperinflação são geralmente atribuídas ao crescimento excessivo da oferta monetária. Taxas de inflação baixas a moderadas podem resultar de flutuações na demanda ou em mudanças na oferta de bens e serviços.
+
+Os efeitos da inflação moderada em uma economia são mistos. Entre os efeitos negativos estão o aumento do custo de oportunidade de manter moeda, a incerteza sobre a inflação futura (que pode impactar o investimento e a poupança) e, em casos de inflação acelerada, a possível escassez de bens devido ao acúmulo por parte dos consumidores. Os efeitos positivos podem incluir a redução do desemprego devido à rigidez nominal dos salários, maior flexibilidade para os bancos centrais na política monetária, estímulo a empréstimos e investimentos, e a prevenção de algumas ineficiências associadas à deflação.
+
+A maioria dos economistas atualmente defende uma taxa de inflação baixa e estável. A inflação baixa pode diminuir a severidade das recessões econômicas e reduzir o risco de uma armadilha de liquidez que limite a eficácia da política monetária. Geralmente, as autoridades monetárias, como os bancos centrais, são responsáveis por manter a inflação baixa e estável, gerenciando a política monetária por meio de taxas de juros, operações de mercado aberto e, ocasionalmente, alterando os requisitos de reserva bancária.
+
+O termo "inflação" surgiu nos Estados Unidos em meados do século XIX, originalmente referindo-se à emissão de papel-moeda. Conceitos relacionados incluem deflação, desinflação (diminuição da taxa de inflação), hiperinflação (inflação descontrolada), estagflação (inflação combinada com baixo crescimento econômico e alto desemprego), reflação (tentativa de aumentar o nível de preços) e inflação de preços de ativos (aumento generalizado dos preços dos ativos). Formas específicas de inflação podem se referir a setores particulares, como habitação ou energia.
+
+Historicamente, economistas clássicos identificaram fatores como mudanças nos custos de produção, flutuações no valor da moeda e a depreciação da moeda devido a um aumento na oferta monetária como causas da inflação.
+
+A prática de imprimir papel-moeda, como na China durante a Dinastia Song, influenciou a inflação. A emissão excessiva de papel-moeda para financiar guerras na Dinastia Yuan levou à inflação, o que levou a Dinastia Ming a rejeitar o papel-moeda inicialmente.
+
+Durante a Idade Média europeia, houve períodos de estabilidade de preços, mas também de inflação significativa, como durante o reinado de Eduardo II na Inglaterra e após a epidemia de Peste Bubônica. A viagem de Mansa Musa a Meca no século XIV, com grandes quantidades de ouro, impactou o preço do ouro no Egito.
+
+A Revolução Americana levantou questões sobre a emissão de papel-moeda e a regulamentação da moeda. A hiperinflação na República de Weimar na década de 1920 foi causada por fatores como as obrigações do Tratado de Versalhes e a impressão excessiva de dinheiro.
+
+No Brasil, a inflação foi alta até a implementação do Plano Real em 1994. Atualmente, o Banco Central controla a inflação por meio de metas de inflação e política monetária.
+
+A medição da inflação pode ser feita por meio de vários índices de preços, incluindo o IPC, o Índice de Preços ao Produtor e o deflator do PIB. A inflação central exclui os preços de alimentos e energia para fornecer uma medida mais estável das tendências de inflação.

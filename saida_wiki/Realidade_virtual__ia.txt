@@ -1,0 +1,21 @@
+Realidade virtual (RV) é uma tecnologia de interface que cria um ambiente simulado, geralmente tridimensional, no qual o usuário pode interagir. Essa simulação é produzida por computador e pode envolver o uso de dispositivos como óculos de RV, que substituem a visão e/ou audição natural por estímulos criados artificialmente, promovendo uma sensação de imersão. O objetivo é proporcionar ao usuário a percepção de estar presente nesse ambiente virtual.
+
+O conceito de realidade virtual surgiu na década de 1970, com Myron Krueger utilizando o termo "realidade artificial". Jaron Lanier é creditado por popularizar o termo "realidade virtual" na década de 1980, para descrever simulações interativas em ambientes compartilhados. William Gibson popularizou o termo "cyberspace" em seu romance de ficção científica *Neuromancer* (1984).
+
+O desenvolvimento da RV envolveu diversas etapas, incluindo simuladores de voo na década de 1950, protótipos de capacetes com monitores e câmeras remotas, o Sensorama de Morton Heilig (1962), luvas digitais (1977-1982), e a comercialização de capacetes e luvas digitais pela VPL Research Inc. (1987). Na década de 1990, a RV começou a ser explorada em jogos, com projetos como o Sega VR e o Nintendo Virtual Boy.
+
+Outros marcos incluem o VFX1 Headgear (1995), o iPhone Virtual Reality Viewer (2011), o Oculus Rift (2012), a aquisição da Oculus VR pelo Facebook (2014), e o lançamento do Microsoft HoloLens e das versões comerciais do Oculus Rift e HTC Vive (2016).
+
+Os sistemas de RV variam em níveis de imersão e interação, influenciados pelos dispositivos de entrada e saída de dados e pelo poder computacional. Formas de interação incluem telepresença e teleoperação. Os sistemas podem ser classificados como de mesa, de simulação e de projeção.
+
+A imersão é uma característica fundamental, proporcionando a sensação de presença no ambiente virtual. A interação permite a manipulação de objetos e o envolvimento no ambiente.
+
+Diversos dispositivos são utilizados na RV, como luvas digitais, óculos estereoscópicos, capacetes de imersão, e dispositivos de retorno tátil.
+
+Equipamentos de imersão virtual incluem adaptadores para *smartphones* (Google Cardboard, Samsung Gear VR, VR Box), óculos VR avançados para computador (Oculus Rift, HTC Vive, Valve Index), *PlayStation VR* para *videogames* e equipamentos independentes (*standalone* ou *all-in-one*) como Oculus Quest e HTC Vive Focus.
+
+Controladores e sensores como Ultraleap Motion, VirZoom e bHaptics TactSuit X40 permitem maior interação e imersão.
+
+O uso prolongado de RV pode causar o chamado "mal-estar da realidade virtual" (*Virtual Reality sickness*), com sintomas semelhantes aos da cinetose, como náuseas e desorientação.
+
+A realidade virtual tem aplicações em áreas como treinamento, simulações, jogos, entretenimento, medicina, educação e engenharia.

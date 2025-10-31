@@ -1,0 +1,167 @@
+Reação química é o processo em que ocorre a transformação de uma ou mais substâncias, se convertendo em outras, portanto mudando suas propriedades. As transformações ocorridas neste processo envolvem a reorganização dos átomos no espaço, onde estes mudam seus pares e não alteram sua massa em nenhum momento (Lei da Conservação das Massas).
+As reações químicas podem ser representadas por equações químicas, onde são demonstrados através da escrita os reagentes que participam do fenômeno e os produtos que serão formados por meio da reação. A demonstração simplificada segue o exemplo abaixo:
+
+  
+    
+      
+        R
+        e
+        a
+        g
+        e
+        n
+        t
+        e
+        s
+        →
+        P
+        r
+        o
+        d
+        u
+        t
+        o
+        s
+      
+    
+    {\displaystyle Reagentes\rightarrow Produtos}
+  
+
+Em uma reação química há indicadores que demonstram quando a mesma está ocorrendo, como, por exemplo: mudança de cor, formação de precipitado, liberação de gases ou odores, liberação ou absorção de calor. Ademais, diversas características podem influenciar o comportamento da reação, tais como: afinidade entre os reagentes, utilização de catalisadores, mudanças de temperatura e superfície de contato dos compostos.
+As reações possuem categorias para diferenciar a maneira e os processos que ocorrem, assim as classificando. Elas podem ser: reações de adição, reações de decomposição, reações de dupla-troca, reações de oxirredução, reações de ácido e base, reações de combustão e reações de catálise.
+
+
+== Características ==
+Podem haver certos aspectos visuais de que houve uma reação química, eles são desprendimento de gás, formação de precipitado, mudança de cor e aparecimento de luminosidade ou combustão. Um aspecto importante sobre uma reação química é a conservação da massa e o número de espécies químicas microscópicas(átomos e íons) presentes antes e depois da ocorrência da reação. Essas leis de conservação se manifestam microscopicamente sob a forma das leis de Lavoisier, do mestre Proust e de Dalton. De fato, essas leis, no modelo atômico de Dalton, se justificariam pelas leis de conservação acima explicitadas e pelo fato de os átomos apresentarem valências bem definidas. Ao conjunto das características e relações quantitativas dos números de espécies químicas presentes numa reação dá-se o nome de estequiometria.
+Deve-se salientar que uma ligação química ocorre devido a interações entre as nuvens eletrônicas dos átomos, e que então a reação química apenas envolve mudanças nas eletrosferas. No caso de ocorrer mudanças nos núcleos atômicos teremos uma reação nuclear. Ao passo que nas reações químicas a quantidade e os tipos de átomos sejam os mesmos nos reagentes e produtos, na reação nuclear, as partículas subatômicas são liberadas, o que causa redução de sua massa, sendo este um fato relacionado à existência de elementos isóbaros, isótonos e isótopos entre si.
+Um exemplo de uma reação química é (ambos os regentes em solução aquosa)
+
+NaCl + AgNO3 → NaNO3 + AgCl
+
+Nesta reação química, ao passo que o NaNO3 permanece em solução, formou-se uma ligação entre a prata (Ag) e o cloro (Cl) o que resultou em um produto sólido de cloreto de prata (AgCl), pode-se então dizer que houve uma reação química.
+
+
+== Causas das reações químicas ==
+O acontecimento de reações deve-se a fatores termodinâmicos e cinéticos.
+
+
+=== Termodinâmico ===
+Quanto à termodinâmica, o acontecimento de uma reação é favorecido com o aumento da entropia e a diminuição da energia. Essas duas grandezas se cooperam nesse caso, de acordo com a seguinte equação:
+
+ΔG = ΔH — T · ΔS (para sistemas a pressão constante)
+ΔA = ΔU — T · ΔS (para sistemas a volume constante)
+Onde T é a temperatura em kelvin, ΔH é a variação da entalpia (que é igual a energia absorvida ou liberada em pressão constante) entre os reagentes e os produtos, ΔU é variação da energia interna (que é igual a energia absorvida ou liberada a volume constante) entre eles, ΔS é a variação da entropia entre os mesmos, ΔG é uma grandeza chamada de energia livre de Gibbs e ΔA é uma grandeza chamada de energia de Helmholtz.
+Se ΔA e ΔG forem maiores que zero em dadas condições, a reação é dita como não espontânea nessas condições, e ela ocorre ou não ocorre em escala apreciável. Na situação de ΔA e ΔG iguais a zero teremos um equilíbrio químico.
+Caso ΔA e ΔG sejam menores que zero em dadas condições, dizemos que a reação é termodinamicamente favorável nestas condições, ou seja, ela é espontânea. Contudo é importante notar que uma reação ser espontânea não necessariamente significa que ela ocorra rapidamente. Reações espontâneas são aquelas que ocorrem sem a ajuda de uma influência externa. Já as reações não espontâneas precisam de uma força para move-las na direção contrária da espontânea. Nas reações espontâneas ocorre aumento de entropia, enquanto nas não espontâneas ocorre diminuição de entropia.
+
+
+=== Cinética ===
+Nesse ponto, entram os fatores cinéticos. Para que uma reação ocorra é necessário que antes, os reagentes superem uma certa barreira de energia, e quanto maior for essa barreira mais difícil será a reação ocorrer e mais lenta ela será. Dessa forma, uma reação termodinamicamente favorável pode ocorrer de forma extremamente lenta ou acabar nem sendo observada em um intervalo de tempo consideravelmente grande; então se diz que a reação é cineticamente desfavorável. Um bom exemplo disso é o carvão e o diamante, que são duas formas diferentes de carbono (alótropos); em condições normais a transformação de diamante a carvão é termodinamicamente favorável porém cineticamente desfavorável, o que faz com que fossem necessários centenas ou milhares de anos para se observar alguma mudança em um diamante. É preciso entender que uma reação para ser cineticamente viável, necessita primeiramente ser termodinamicamente possível. A velocidade da reação pode ser aumentada pelo aumento da temperatura, superfície de contato e concentração dos reagentes. Para que a reação ocorra, é necessária uma energia mínima chamada energia de ativação. Quanto maior for ela, mais lenta será a reação. Pode-se adicionar um catalisador à reação. Este tem a função de diminuir a energia de ativação, sem ser consumido durante a reação, aumentando a velocidade dela.
+
+
+== Tipos de reações químicas ==
+
+
+=== As 4 reações básicas ===
+Tradicionalmente, as reações químicas podem ser classificadas de acordo com o número de reagentes e produtos em cada membro da equação química que representa a reação. Os tipos de reações listados abaixo são meios de classificar as reações inorgânicas, que também são avaliadas pela presença ou não de substâncias compostas.
+
+
+==== Reação de síntese ====
+
+Em uma reação de síntese, também conhecida como reação de composição ou adição, duas ou mais substâncias simples combinam-se para formar uma substância mais complexa. Essas reações seguem a forma geral:
+A + B → AB
+
+
+==== Reação de análise ====
+
+Em uma reação de análise, também conhecida como reação de decomposição, uma substância mais complexa se quebra em substâncias mais simples. Ocorrendo então o oposto à uma reação de síntese, essas reações seguem a forma geral:
+AB → A + B
+
+
+==== Reação de simples troca ====
+
+Em uma reação de simples troca, uma substância simples substitui outra em um composto químico; em outras palavras, um dos elementos troca de lugar com outro elemento presente em um composto. Essas reações seguem a forma geral:
+A + BC → AC + B
+
+
+==== Reação de dupla troca ====
+
+Em uma reação de dupla troca, os ânions e cátions de dois compostos químicos trocam de lugar para formar dois compostos totalmente novos. Essas reações seguem a forma geral:
+AB + CD → AD + CB
+
+
+=== Combustão ===
+
+Em uma reação de combustão, um elemento ou composto reage com oxigênio, normalmente produzindo energia na forma de calor e luz. Reações de combustão sempre envolvem oxigênio, mas também é comum o envolvimento de um hidrocarboneto.
+2 C8H18 (l) + 25 O2 (g) → 16 CO2 (g) + 18 H2O (g)
+Uma reação de combustão também pode resultar da reação de carbono, magnésio ou enxofre com oxigênio.
+2 Mg (s) + O2 (g) → 2 MgO (s)
+S (s) + O2 (g) → SO2 (g)
+
+
+=== Oxidação e redução ===
+
+As reações redox podem ser entendidas em termos de transferência de elétrons de uma espécie envolvida (agente redutor) para outra (agente oxidante). Neste processo, a primeira espécie é oxidada e a segunda é reduzida. Embora suficientes para muitos fins, estas descrições não estão exatamente corretas. A oxidação é melhor definida como um aumento do estado de oxidação dos átomos, e a redução como uma diminuição do estado de oxidação. Na prática, a transferência de elétrons irá sempre alterar o estado de oxidação, mas há muitas reações que são classificadas como "redox" mesmo que não ocorra transferência de elétrons (tais como as que envolvem ligações covalentes).
+Na reação redox seguinte, o perigoso sódio metálico, reage com gás tóxico cloro para formar o composto iónico cloreto de sódio, ou sal comum de cozinha:
+
+2 Na (s) + Cl2 → 2 NaCl (s)
+Na reação, o sódio metálico passa de um estado de oxidação 0 (por ser um elemento puro) para +1, em outras palavras, o sódio perdeu um elétron e podemos dizer que foi oxidado. Por outro lado, o gás cloro passa de um estado de oxidação 0 (também é um elemento puro) para -1, ou seja, o cloro ganha um elétron e dizemos que foi reduzido. Como o cloro é o reduzido, ele é considerado o receptor de elétrons, ou em outras palavras, induz a oxidação no sódio sendo assim chamado de agente oxidante. Pelo contrário, o sódio é oxidado e doador de elétrons, induzindo a redução na outra espécie sendo chamado de agente redutor.
+
+
+=== Reações orgânicas ===
+
+Mas também existem as reações orgânicas, envolvendo compostos de carbono. Há três maneiras de classificar essas reações:
+
+Reações de adição: ocorre em compostos insaturados, principalmente alcenos, em que a ligação pi é quebrada por ser fraca e seus átomos são adicionados aos compostos de carbono da ligação sigma, que permanece intacta por ser mais forte;
+Reações de substituição: são aquelas em que há substituição de um átomo por outro ligante;
+Reações de eliminação: são aquelas em que ocorre a saída de ligantes sem que eles sejam substituídos por outros.
+Ainda existem uma série de reações que são estudadas em Química Orgânica, ou seja, sub-classes de reações, tais como : Reações de Halogenação, Reações de Hidrogenação, Reações de Substituição Nucleofílica etc.
+
+
+=== Outros tipos de reações ===
+Classes de reações por molécula:
+
+Reações unimoleculares, em que um reagente sofre ruptura e/ou formação de ligação para produzir diferentes produtos;
+Reações bimoleculares, em que dois reagentes colidem e depois sofrem ruptura e/ou formação para produzir diferentes produtos;
+Reações de associação termolecular, em que dois reagentes colidem para formar um complexo molecular com uma nova ligação química entre os dois reagentes e uma terceira molécula, remove uma parte da energia cinética interna dessa molécula para estabilizá-la.
+Reação quimicamente termolecular, uma reação mediada por um complexo de colisão efêmera (HO2) formado a partir da colisão de duas moléculas (H, O2) que então reage após colidir com uma terceira molécula (H).
+Um tipo de reação que não encontra paralelo nas classificações acima é a chamada reação de isomerização.
+
+
+== Transformações Químicas ==
+As transformações químicas podem ocorrer por diferentes maneiras:
+
+
+=== Por junção de substâncias ===
+Essas transformações ocorrem quando temos a mistura de substâncias que ocasionam a reação, Podemos dar exemplos de experimentos comuns realizados em laboratório, tendo como exemplo a transformação dos pregos de ferro após colocá-los em uma solução aquosa de sulfato de cobre, após algum tempo a solução vai perdendo sua cor azulado e é possível observar um depósito avermelhado(cor de cobre) em volta do prego, pois o prego sofreu uma oxidação, nessa reação ocorre uma reação de dupla troca.
+
+
+=== Por ação da luz ===
+Pode ocorrer de luz natural ou artificial, a luz faz transformações químicas no dia a dia, podendo ser vista nas folhas de árvores que vão ficando com uma coloração amarelada, nas frutas que amadurecem, e até mesmo em nossa pele que quando exposta a luz solar vai ficando com uma tonalidade diferente. Outro exemplo é a fotossíntese que é possível se produzir glicose com a reação da água e do dióxido de carbono, através da exposição da planta na luz solar.
+
+
+=== Por ação do calor ===
+A transformação por ação do calor também recebe o nome de termólise e acontece através da transferência de energia em forma de calor, ou seja, ao receber uma quantidade suficiente de calor (energia), poderá transformar-se. Podemos encontrar esse tipo de transformação no nosso cotidiano, dentro da nossa cozinha através do preparo de alimento, como exemplos podemos citar transformar o açúcar em caramelo.
+
+
+=== Por ação mecânica ===
+As ações mecânicas como atrito, choque ou fricção são capazes de promover transformações químicas pois liberam energia suficiente para que ocorra. Sendo os principais exemplos: raspar o fósforo na caixa para que o fogo apareça, acender um isqueiro para também obter fogo e como uma situação mais drástica estourar um dinamite.
+
+
+=== Por ação da corrente elétrica ===
+As transformações químicas que utilizam corrente elétrica para acontecer são chamadas de eletrólise. Um exemplo dessa reação é a adição do cloreto de sódio na água, quando submete-se a solução a eletrólise o resultado é a  dissociação do cloreto de sódio (NaCl), o ânion cloro  sofre oxidação, isto é, perdem elétrons e na reação transforma-se em Cl2(g) e o  cátions de hidrogênios sofrem redução, esses ganham elétrons resultando em H2(g)  , já o Na+ continua aquoso na solução.
+
+
+== Ver também ==
+Fenômeno químico
+Equação química
+Substrato
+Reagente
+Produto
+Catalisador
+Estequiometria
+Cinética química
+Reação reversível
+
+
+= Referências =

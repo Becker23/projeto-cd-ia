@@ -1,0 +1,128 @@
+Genética (do grego antigo: γένεσις transl. génesis, lit. "origens") é o ramo da biologia especializado no estudo científico dos genes, a variação genética dos organismos e a hereditariedade, ou seja, a forma como os organismos recebem e transmitem as características biológicas de geração para geração. O termo genética foi primeiramente aplicado para descrever o estudo da variação e hereditariedade, pelo biólogo William Bateson numa carta dirigida a Adam Sedgewick, datada a 18 de abril de 1908.
+Já no tempo da pré-história, os agricultores utilizavam conhecimentos de genética através da domesticação e do cruzamento seletivo de animais e plantas para melhorar suas espécies. Atualmente é a genética que proporciona as ferramentas necessárias  para a investigação das funções dos genes, isto é, a análise das interações genéticas. No interior dos organismos, a informação genética está normalmente contida nos cromossomos, onde é representada na estrutura química da molécula de DNA, o que diminui bastante o tempo de espera no cruzamento das espécies.
+Os genes, em geral, codificam a informação necessária para a síntese de proteínas, no entanto, diversos tipos de gene não-codificantes de proteínas já foram identificados, como por exemplo genes precursores de microRNAs (miRNA) ou de RNAs estruturais, como os ribossômicos. As proteínas por sua vez, podem atuar como enzimas (catalisadores) ou apenas estruturalmente, estas funções são diretamente responsáveis pelo fenótipo final de um organismo. O conceito de "um gene, uma proteína" é simplista e equivocado, por exemplo: um único gene poderá produzir múltiplos produtos (diferentes RNAs ou proteínas), dependendo de como a transcrição é regulada e como seu mRNA nascente é processador pela maquinaria de splicing.
+
+
+== História ==
+
+Em 1866, Gregor Mendel estabeleceu pela primeira vez os padrões de hereditariedade de algumas características existentes em ervilheiras, mostrando que obedeciam a regras estatísticas simples. Embora nem todas as características mostrem estes padrões de hereditariedade mendeliana, o trabalho de Mendel provou que a aplicação da estatística à genética poderia ser de grande utilidade.
+A partir da sua análise estatística, Mendel definiu o conceito de alelo como sendo a unidade fundamental da hereditariedade. O termo "alelo" tal como Mendel o utilizou, expressa a ideia de "gene", enquanto que nos nossos dias ele é utilizado para especificar uma variante de um gene.
+Só depois da morte de Mendel é que o seu trabalho foi redescoberto, entendido (início do século XX) e lhe foi dado o devido valor por cientistas que então trabalhavam em problemas similares.
+Mendel não tinha conhecimento da natureza física dos genes. O trabalho de James Watson e Francis Crick em 1953 mostrou que a base física da informação genética eram os ácidos nucleicos, especificamente o DNA, embora alguns vírus possuam genomas de RNA. A descoberta da estrutura do DNA, no entanto, não trouxe imediatamente o conhecimento de como as milhares de proteínas de um organismo estariam "codificadas" nas sequências de nucleotídeos do DNA. Esta descoberta crítica para o surgimento da moderna Biologia Molecular só foi alcançada no começo da década de 1960 por Marshall Nirenberg, que viria a receber o Nobel em 1968, assim como Watson e Crick cinco anos antes. A manipulação controlada do DNA (engenharia genética) pode alterar a hereditariedade e as características dos organismos.
+Mendel teve sucesso onde vários experimentadores, que também faziam cruzamentos com plantas e com animais, falharam. O fracasso desses pesquisadores explica-se pelo seguinte: eles tentavam entender a herança em bloco, isto é, considerando todas as características do indivíduo ao mesmo tempo; não estudavam uma característica de cada vez, como fez Mendel. Somente quando se compreendia o mecanismo de transmissão de certa característica é que Mendel se dedicava a outra, verificando se as regras valiam também nesse caso.
+O sucesso de Mendel deveu-se também a algumas particularidades do método que usava: a escolha do material, a escolha de características constantes e o tratamento dos resultados. Além de ele ter escolhido ervilhas para efetuar seus experimentos, espécie que possui ciclo de vida curto, flores hermafroditas o que permite a autofecundação, características variadas e o método empregado na organização das experimentações eram associados à aplicação da estatística, estimando matematicamente os resultados obtidos.
+
+
+=== Cronologia de descobertas importantes ===
+
+
+== Áreas da genética ==
+
+
+=== Genética clássica ===
+
+A Genética clássica consiste nas técnicas e métodos da genética, anteriores ao advento da biologia molecular. Depois da descoberta do código genético e de ferramentas de clonagem utilizando enzimas de restrição, os temas abertos à investigação científica em genética sofreram um aumento considerável. Algumas ideias da genética clássica foram abandonadas ou modificadas devido ao aumento do conhecimento trazido por descobertas de índole molecular, embora algumas ideias ainda permaneçam intactas, como a hereditariedade mendeliana. O estudo dos padrões de hereditariedade continuam ainda a ser um método muito útil no estudo de doenças genéticas, como a neurofibromatose.
+
+
+=== Genética molecular ===
+
+A genética molecular tem as suas fundações na genética clássica, mas dá um enfoque maior à estrutura e função dos genes ao nível molecular. A genética molecular emprega os métodos quer da genética clássica (como por exemplo a hibridação) quer da biologia molecular. É assim chamada para se poder distinguir de outros ramos da genética como a ecologia genética e a genética populacional. Uma de suas aplicações consiste no estudo da mutação e variação de cepas de bactérias. Uma área importante dentro da genética molecular é aquela que usa a informação molecular para determinar os padrões de descendência e daí avaliar a correta classificação científica dos organismos: chamada sistemática molecular.
+O estudo das características herdadas e que não estão estritamente associadas a mudanças na sequência do DNA dá-se o nome de epigenética.
+Alguns autores defendem que a vida pode ser definida, em termos moleculares, como o conjunto de estratégias que os polinucleótidos de RNA usaram e continuam a usar para perpectuar a eles próprios. Esta definição baseia-se em trabalho dirigido para conhecer a origem da vida, estando associada à hipótese do RNA.
+
+
+=== Genética populacional, genética quantitativa e ecologia genética ===
+
+A genética populacional, a genética quantitativa e a ecologia genética são ramos próximos da genética que também se baseiam nas premissas da genética clássica, suplementadas pela moderna genética molecular.
+Estudam as populações de organismos retirados da natureza mas diferem de alguma maneira na escolha do aspecto do organismo que irão focar. A disciplina essencial é a genética populacional, que estuda a distribuição e as alterações das frequências dos alelos que estão sob influência das forças evolutivas: selecção natural, deriva genética, mutação e migração. É a teoria que tenta explicar fenómenos como a adaptação e a especiação.
+O ramo da genética quantitativa, construído a partir da genética populacional, tenciona fazer predições das respostas da selecção natural, tendo como ponto de partida dados fenotípicos e dados das relações entre indivíduos.
+A ecologia genética é por sua vez baseada nos princípios básicos da genética populacional, mas tem o seu enfoque principal nos processos ecológicos. Enquanto que a genética molecular estuda a estrutura e função dos genes ao nível molecular, a ecologia genética estuda as populações selvagens de organismos e tenta deles recolher dados sobre aspectos ecológicos e marcadores moleculares que estes possuam.
+
+
+=== Genómica ===
+
+A genómica é um desenvolvimento recente da genética. Estuda os padrões genéticos de larga escala que possam existir no genoma (e em todo o DNA) de uma espécie em particular. Este ramo da genética depende da existência de genomas completamente sequenciados e de ferramentas computacionais desenvolvidas pela bioinformática que permitam a análise de grandes quantidades de dados.
+Células Haploides e Diploides
+
+As células haploides (n) possuem apenas um conjunto de cromossomos. Assim, nos animais, as células sexuais ou gametas são haploides. Essas células possuem metade do número de cromossomos da espécie.
+As células diploides (2n) são aquelas que possuem dois conjuntos de cromossomos, como é o caso do zigoto, que possui um conjunto de cromossomos originários da mãe e um conjunto originário do pai. São células diploides, os neurônios, células da epiderme, dos ossos, entre outras.
+
+
+=== Disciplinas relacionadas ===
+O termo "genética" é vulgarmente utilizado para denominar o processo de engenharia genética, em que o DNA de um organismo é modificado para se obter uma utilidade prática. No entanto, a maior parte da investigação em genética é direccionada para a explicação do efeito dos genes no fenótipo e para o papel dos genes nas populações.
+
+
+== Aplicações da genética ==
+Atualmente, acompanhamento os avanços da bioquímica e das técnicas de cultura de tecidos, a Genética se desenvolve rapidamente, subdividindo-se em vários campos, principalmente relacionamento relacionados com o aprimoramento animal e vegetal, com o controle de pragas e a Medicina. Uma das ramificações mais promissoras da Genética é a Engenharia Genética, que consiste na manipulação dos genótipos dos organismos. De uma maneira geral, consiste na inserção ou na retirada de genes de um genótipo cuja presença ou ausência pode ser desejável. 
+Por exemplo, por meio da introdução de um novo gene, uma célula pode produzir um novo tipo de proteína. No mundo todo, estações experimentais e instintos agrícolas produzem mudas de plantas obtidas através de processos de cultura de tecidos, partindo de células ou embriões geneticamente selecionados e de técnicas de engenharia genética. Assim, são obtidas plantas mais produtivas, de crescimento mais rápido, resistência a pragas, adaptadas a diferentes condições de clima e de solo etc. Por exemplo, mudas de plantas geneticamente idênticas são produzidas aos milhares para reflorestamento, fins medicinas ou alimentação. 
+O controle de pragas também apresenta avanços consideráveis. Têm sido desenvolvidos plantas imunes a pragas, isto é, que se tornaram capazes de produzir toxinas que matam as lagartas dos insetos. Sabe-se, por exemplo, que um vírus modificado pela engenharia genética é pulverizado nas plantações normalmente atacados por lagartas de borboletas. As lagartas, infectados pelos vírus, têm seu desenvolvimento bloqueado e não passam à fase adulta. A pecuária também tem se beneficiado com os avanços genéticos, que facilitam a seleção de animais para tração, produção de leite, carne ou lã etc. 
+Animais transgênicos, isto é, portadores para fins específicos, não só para melhoramento genético das raças já conhecidas, mas ainda para funcionar como verdadeiras "fábricas vivas", produzindo substâncias importantes. 
+A produção de remédios também tem sido altamente beneficiado. Uma técnica bastante utilizada é a da introdução de genes em bactérias para obtenção de substâncias específicas. Por exemplo, no genótipo da Escherichia coli foi introduzido um gene humano, responsável pela síntese de insulina utilizada no controle da diabete. A síntese industrial da insulina, a partir da Escherichia coli, veio baratear o produto e facilitar sua utilização pelos doentes. 
+O campo da genética médica é bastante amplo, pois compreende desde o estudo de deficiências e síndrome hereditárias humanas até a distribuição de vários tipos de gene nas população, como é o caso dos tipos sanguíneos. Muitas moléstias hereditárias já estão devidamente estudadas e os genes ou cromossomos responsáveis, localizados, como na síndrome de Down, na hemofilia, na distrofia muscular progressiva e em inúmeros outras. 
+Em muitas casos é possível reconhecer precocemente uma doença hereditária e tomar medidas preventivas. As aplicações da Genética, entretanto, envolvem vários problemas de ordem ética, pois o mundo caminha para uma civilização eugênica, preocupada com a qualidade da sua herança e capaz de manipular o próprio genoma.
+Algumas questões são polêmicas e exigem que se definam: 
+
+as formas de tratamento e de controle das deficiências hereditárias;
+a orientação para os portadores de anomalias hereditárias;
+uma reavaliação nos conceitos de diferença racial desvinculados de valores sociais, econômicos e culturais;
+os critérios para julgamento dos genes desejáveis e indesejáveis.
+Dentre as aplicações da genética, podem ser citadas:
+
+a prevenção (aconselhamento genético) e tratamento de doenças como asma, e câncer;
+a terapia genética permite substituir genes doentes por genes sãos, ou mesmo eliminar os genes doentes;
+a optimização do bem-estar e sobrevivência do indivíduo;
+intervenções terapêuticas definidas de acordo com o perfil genético do doente, o que faz com que a probabilidade de sucesso de tratamento seja maior.
+As aplicações acima descritas fazem parte da genética médica outras utilizações  da genética humana estão relacionadas à medicina legal e criminologia, a saber: reconhecimento de tecidos, reconhecimento de identidade através de características genéticas em especial as impressões digitais (dactiloscopia) e o exame de DNA seja para identificação de paternidade, de vítimas de sinistros ou de potenciais homicidas.
+Tão importantes para humanidade quanto a genética médica são as aplicações dessa ciência ao melhoramento animal e vegetal. Sabemos que a genética praticamente se iniciou com a domesticação de animais (fase pré-científica) e com os estudos de genética vegetal de Mendel contudo vivemos um impasse ainda não bem dimensionado pela comunidade científica que é a produção de Organismos Geneticamente Modificados ou Transgênicos, cujo impacto sobre o meio ambiente e mesmo sobre as estabilidade do DNA ainda não é de todo conhecida.
+Outra aplicação dessa ciência vem de sua associação à epidemiologia (epidemiologia genética) e toxicologia (toxicogenética e radiogenética) na medida em que produzem estratégias de identificar os agentes mutagênicos, teratogênicos ou carcinogênicos que ameaçam a saúde das comunidades humanas e integridade dos ecossistemas.
+
+
+=== Genética Médica ===
+
+A Genética Médica, embora utilize os conhecimentos das demais áreas, lida especificamente com as doenças genéticas, incluindo a Genética Clínica, que é o atendimento ao paciente com doenças genéticas, sua família, e a realização do aconselhamento genético. A Genética Médica procura entender como a variação genética é relacionada com a saúde humana e suas doenças. Ao procurar um gene desconhecido que pode estar envolvido numa doença, os investigadores usam geralmente a genética de ligação e diagramas de pedigrees genéticos para encontrar a localização no genoma associada com a doença. Ao nível da população, os pesquisadores tomam vantagem da randomização mendeliana para procurar locais no genoma que estão associados a doenças, um método especialmente útil para traços multigênicos não definidos claramente por um único gene.
+Os distúrbios genéticos podem ser inicialmente classificados em 4 grandes grupos: monogênicos, multifatoriais, cromossômicos e mutações somáticas. A Herança multifatorial é aquela em que o fenótipo ocorre pela determinação genética e de fatores do meio ambiente. A susceptibilidade genética ocorre quando genes propiciam a aquisição ou desenvolvimento de caracteres (ou doenças) determinadas por fatores do meio ambiente. A determinação da susceptibilidade pode ser monogênica ou poligênica, nesta última havendo limiares para determinação fenotípica. A maioria das doenças genéticas são doenças gênicas, isto é, determinadas por mutações em um gene, cujo efeito primário é a formação de uma proteína modificada ou supressão da síntese de determinada proteína, entretanto, na maior parte dessas doenças o efeito primário não é conhecido e a etiologia genética é reconhecida pelo fato de a doença ser hereditária (transmitida de geração a geração) ou de ser mais frequente em determinados grupos populacionais.
+A distribuição dos genes nas famílias e populações é objeto de estudo da genética de populações. As doenças geneticamente determinadas nas quais conhecemos a alteração bioquímica, são conhecidas como erros inatos do metabolismo e estudadas pela genética bioquímica. As cerca de 3 000 doenças que apresentam herança monogênica, podem em alguns casos ser tratadas pela correção dos distúrbios metabólicos, mas a sua maioria não tem tratamento no momento. Contudo, o estudo e identificação dos genes responsáveis por essas doenças e a busca de metodologia para modificar o DNA (terapia gênica) de grande interesse da genética molecular, incluindo-se aí o Projeto Mundial "Genoma Humano" que pretende decifrar todo o código genético da espécie humana na próxima década.
+A metodologia de investigação nas doenças decorrentes de mutações envolve a identificação de proteínas, produtos de degradação ou metabólitos de vias alternativas através de análises bioquímicas e a análise do ADN, que permite a identificação da região alterada. Os genes estão contidos nos cromossomos, organelas que se individualizam durante a divisão celular. Na espécie humana o número diploide de cromossomos é 46, sendo 22 pares de autossomos e 1 par de cromossomos sexuais, XX na mulher e XY no homem. Cada cromossomo contém centenas de genes, sendo o total do genoma humano composto por cerca de 50 mil genes estruturais, além de genes reguladores. Quando ocorrem aberrações cromossômicas, isto é perda ou excesso de cromossomos inteiros ou de segmentos de cromossomos (visíveis ao microscópio ótico), há perda ou excesso de vários genes, ocorrendo numerosas modificações fisiopatológicas. Estudamos as aberrações cromossômicas na área de citogenética.
+A análise do cariótipo humano é rotineiramente realizada nos linfócitos, sendo para isso colhida amostra de sangue periférico, mas também pode ser realizada nas células das vilosidades coriônicas, nas células de descamação fetal presentes no líquido amniótico, em fibroblastos ou em qualquer célula nucleada que possa ser cultivada in vitro. Por não compreendermos a fisiopatologia dessas doenças, não há ainda tratamento específico, apenas terapias paliativas. A realização de programas de aconselhamento genético, prevenção e diagnóstico pré-natal ainda são a única opção disponível para diminuir a frequência de crianças portadoras de doenças geneticamente determinadas.
+
+
+== Publicações ==
+Annals of Human Genetics
+
+
+== Ver também ==
+
+Algoritmo genético
+Camundongo
+Cromossomo
+DNA
+Gene
+Histórico do estudo do DNA
+PCR
+Plasmídeo
+Regulação genética
+Redes Funcionais
+Biologia sistêmica
+Mutação somática
+Diferenciação de crescimento fator-9
+
+
+== Referências ==
+
+
+== Ligações externas ==
+GENÉTICA: Conceito, mecanismos, hereditariedade, organizamos e mais
+«Genética - Links por área'» 
+«European Journal of Human Genetics» (em inglês) 
+«Genes and Development» (em inglês) 
+«Human Molecular Genetics» (em inglês) 
+«Journal of Heredity» (em inglês) 
+«Nature Genetics» (em inglês) 
+«Nature Genome Gateway» (em inglês) 
+«Pharmacogenetics» (em inglês) 
+Outros
+«Exploring the Way Life Works» (em inglês) 
+«Genetic Science Learning Center» (em inglês) 
+«Letter to Adam Sedgwick in 1905 from William Bateson» (em inglês) 
+«The Virtual Library on Genetics» (em inglês) 
+«Temas de Genética»

@@ -1,0 +1,15 @@
+Um sistema embarcado é um sistema eletrônico microprocessado dedicado a controlar um dispositivo ou sistema específico. Diferentemente de computadores de propósito geral, realiza um conjunto limitado de tarefas predefinidas e pode ser otimizado em tamanho, recursos e custo. A funcionalidade de um sistema embarcado geralmente não pode ser alterada sem reprogramação.
+
+Embora sua flexibilidade de software possa variar, sistemas como PDAs são considerados sistemas embarcados devido à sua arquitetura de hardware. Eles são encontrados em uma ampla gama de equipamentos, desde leitores de MP3 a semáforos.
+
+O conceito de controlador programável surgiu após os primeiros computadores digitais da década de 1940, que eram grandes demais para serem considerados embarcados. Um dos primeiros sistemas embarcados reconhecidos foi o Apollo Guidance Computer, desenvolvido no MIT, usado no programa espacial Apollo. O sistema militar de computador-guia do míssil nuclear LGM-30 Minuteman, lançado em 1961, foi o primeiro sistema embarcado produzido em massa. O desenvolvimento posterior integrou vários componentes externos no mesmo chip do processador, resultando em microcontroladores e uma ampla adoção de sistemas embarcados.
+
+O software para sistemas embarcados, frequentemente chamado de firmware, é armazenado em memória ROM ou flash. Sistemas embarcados podem ter interfaces de usuário variadas, desde nenhuma até interfaces gráficas completas, utilizando tecnologias como botões, LEDs, telas limitadas ou telas sensíveis ao toque. Interfaces web acessadas através de uma rede também são utilizadas.
+
+Geralmente, sistemas embarcados possuem capacidade de processamento reduzida e utilizam microcontroladores com periféricos integrados. Uma variedade de arquiteturas de processador está disponível, incluindo ARM, MIPS e PowerPC.
+
+Os sistemas embarcados comunicam-se com o ambiente externo através de periféricos, como teclados, LEDs, LCDs, interfaces seriais (RS-232, I2C), USB e TCP/IP.
+
+Projetados para operação contínua e recuperação de erros, o software para sistemas embarcados é frequentemente desenvolvido e testado com rigor. Técnicas como o watchdog timer são utilizadas para reiniciar o sistema em caso de falhas.
+
+Exemplos de aplicações de sistemas embarcados incluem aviônicos, telefones celulares, equipamentos de redes de computadores, impressoras, dispositivos de armazenamento, equipamentos de automação comercial, sistemas automotivos (controle de tração, freios ABS, injeção eletrônica), eletrodomésticos, equipamentos médicos, videogames, PDAs e urnas eletrônicas.

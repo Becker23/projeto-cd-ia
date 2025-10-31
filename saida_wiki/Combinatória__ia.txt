@@ -1,0 +1,7 @@
+A combinatória é um ramo da matemática que estuda coleções finitas de elementos sujeitas a critérios específicos. Concentra-se na contagem de elementos dessas coleções (combinatória enumerativa), na determinação da existência de objetos "ótimos" (combinatória extremal) e nas estruturas algébricas que esses objetos podem apresentar (combinatória algébrica).
+
+A análise combinatória envolve princípios como o aditivo, onde o número de elementos na união de conjuntos disjuntos é a soma do número de elementos em cada conjunto, e o multiplicativo, onde o número de maneiras de eventos sucessivos ocorrerem é o produto do número de maneiras de cada evento individual ocorrer.
+
+Conceitos fundamentais incluem permutações, que representam o número de maneiras de ordenar *n* elementos distintos, calculado como *n*!, e arranjos, onde a ordem dos elementos é relevante. Arranjos podem ser com ou sem repetição, sendo que o primeiro permite que cada elemento seja contado mais de uma vez. Combinações, por outro lado, são seleções de elementos onde a ordem não importa, podendo também ser com ou sem repetição.
+
+A combinatória enumerativa estuda funções enumerativas, *f(n)*, que descrevem o número de elementos em um conjunto *S<sub>n</sub>* para qualquer *n*. Estas funções podem ser expressas por fórmulas fechadas ou através de relações de recorrência.

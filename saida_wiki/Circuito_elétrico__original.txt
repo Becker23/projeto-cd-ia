@@ -1,0 +1,2804 @@
+Um circuito elétrico é a ligação de elementos elétricos, tais como resistores, indutores, capacitores, diodos, linhas de transmissão, fontes de tensão, fontes de corrente e interruptores, de modo que formem pelo menos um caminho fechado para a corrente elétrica. Um circuito elétrico simples, alimentado por pilhas, baterias ou tomadas, sempre apresenta uma fonte de energia elétrica, um aparelho elétrico, fios ou placas de ligação e um interruptor para ligar e desligar o aparelho. Estando ligado, o circuito elétrico está fechado e uma corrente elétrica passa por ele. Esta corrente pode produzir vários efeitos: óticos, cinéticos, térmicos, acústicos, mecânicos, etc. Circuitos elétricos são conjuntos formados por um gerador elétrico, um condutor em circuito fechado e um elemento capaz de utilizar a energia produzida pelo gerador.[carece de fontes?]
+
+
+== Definições ==
+Nó - Ponto do circuito ao qual estão ligados dois ou mais elementos.
+Nó essencial - Ponto do circuito ao qual estão ligados três ou mais elementos.
+Caminho - Sequência de elementos ligados entre si na qual nenhum elemento é incluído mais de uma vez.
+Ramo - Caminho que liga dois nós.
+Ramo essencial - Caminho que liga dois nós essenciais, sem passar por outro nó essencial.
+Malha - Caminho cujo último nó coincide com o primeiro.
+Malha essencial - Malha que não inclui nenhuma outra malha.
+Circuito planar - Circuito que pode ser desenhado em um plano sem que os ramos se cruzem.
+
+
+== Circuitos Elétricos em Série e Paralelo ==
+Circuito em Série: É o circuito onde todos os elementos se encontram interligados em série com a fonte de energia. No circuito em série a corrente elétrica é a mesma em todos os pontos do circuito e a tensão é dividida proporcionalmente.
+Circuitos em Paralelo: No circuito elétrico paralelo  todos os elementos se encontram em paralelo com a fonte de energia. O circuito paralelo apresenta vários caminhos para a corrente, em um circuito em paralelo a tensão é a mesma em todos os pontos do circuito, porém a corrente varia de acordo com a resistência.
+
+
+== Expressões para diferença de potencial em elementos de circuito ==
+Resistores : Para resistores e, usando a convenção usual de corrente de portadores positivos (corrente convencional).
+Fontes de força eletromotriz (FEM): As fontes de força eletromotriz são dispositivos capazes de trocar energia com os portadores de cargas que as atravessam. Uma fonte de FEM pode fornecer energia aos portadores e aí a chamamos gerador ou receber energia dos portadores, caso em que as chamamos receptor.
+Capacitores: Nos capacitores a ddp aparece por causa da carga elétrica armazenada no elemento.
+Indutores: Indutores são elementos complexos de circuito. Eles podem ser classificados em:
+Auto-Indutores- Quando apenas o fluxo magnético produzido pelo próprio indutor o atravessa.
+Transformador  ou Indutor Mútuo- Quando o fluxo magnético gerado em outros indutores também influencia o indutor em questão.
+
+
+== Leis elétricas ==
+Uma série de leis se aplicam aos circuitos elétricos. Entre elas:
+
+Leis de Kirchhoff:
+Lei das Correntes ou Lei dos Nós: A soma de todas as correntes que entram num nó é igual à soma de todas as correntes que saem do nó.
+Lei das Tensões ou Lei das Malhas: A soma de todas as tensões geradas menos a soma de todas as tensões consumidas numa malha é igual a zero.
+
+Lei de Ohm: A tensão entre as duas pontas de um resistor é igual ao produto da resistência e a corrente que flui através do mesmo.
+Teorema de Thévenin: Qualquer circuito elétrico formado por fontes de tensão, fontes de correntes e resistores com dois terminais possui um circuito equivalente formado por uma fonte de tensão em série com um resistor.
+Teorema de Norton: Qualquer circuito elétrico formado por fontes de tensão, fontes de correntes e resistores com dois terminais possui um circuito equivalente formado por uma fonte de corrente em paralelo com um resistor.
+Existe também um circuito simples,é composto de três elementos, um condutor ou rota (fio elétrico),uma fonte de energia (bateria),e um resistor elétrico (lâmpada), que é qualquer objeto que precise de eletricidade para funcionar.
+
+
+== Circuitos de corrente contínua ==
+
+Os elementos de circuitos são produzidos com um tamanho padrão para facilitar sua montagem. Uma forma rápida de montar circuitos é usar uma placa de teste. Para construir circuitos mais duradouros, pode-se usar uma placa de circuito (Protoboard), que é constituída de um material isolador com furos e com pistas paralelas de cobre em um dos lados; o contato entre diferentes componentes é feito inserindo os terminais em furos que estejam na mesma pista, tal como na placa de teste, mas é preciso soldar os terminais sobre o cobre. Outro método que permite construir circuitos mais compactos, são as placas de circuito impresso (PCB). Um PCB é semelhante a uma placa de circuito, mas as pistas de cobre e os furos são desenhados sob medida para cada circuito específico.
+Um circuito de corrente contínua, ou circuito c.c. (em inglês, Direct Current, d.c.), é um circuito em que todas as fontes de tensão têm força eletromotriz constante e todas as resistências são constantes. Caso se ligue condensadores no circuito, a corrente mudará em função do tempo (resposta transitória do circuito), mas passado algum tempo a carga e tensão nos condensadores atingirão os seus valores finais.
+
+
+=== Fontes de tensão ===
+As fontes de tensão CC são divididas em três categorias: baterias; geradores; e fontes de alimentação.
+
+Baterias
+A bateria (usa reações químicas) é considerada por muitos a fonte CC mais comum. A bateria é a combinação de duas ou mais células compatíveis; a célula é uma unidade que converte a energia química ou solar em energia elétrica. As células são classificadas como primárias ou secundárias. A célula primária não pode ser carregada, mas a secundária pode, pois as reações químicas que ocorrem no seu interior são reversíveis. Portanto é muito mais vantajoso usar a célula recarregável, que não necessita de substituições frequentes.
+
+Geradores
+O gerador CC converte a energia mecânica em energia elétrica. Sua construção e operação diferem muito da bateria, sua capacidade de potência e tensão também na maioria das vezes são maiores que a da bateria. A indução eletromagnética é a base do funcionamento dos geradores elétrico e cada gerador produz uma corrente alternada.
+Fontes de alimentação
+Uma fonte de tensão é constituída basicamente de quatro partes: o retificador, a parte transformadora, o  regulador de tensão e o filtro capacitivo. As fontes mais usadas em laboratórios com o intuito de se obter uma tensão de corrente contínua estável  são as que utilizam o processo de retificação e filtragem.
+Mesmo que ocorra variação na tensão, uma fonte de corrente ideal fornece uma corrente fixa a qualquer sistema eletroeletrônico.
+
+
+=== Diagramas de circuito ===
+Para poder estudar um circuito mais facilmente, convém representá-lo por um diagrama de circuito. Por exemplo, a figura abaixo mostra o diagrama de circuito de um divisor de voltagem. Os pontos A, B e C são os 3 terminais de um potenciómetro (lado direito da figura), que é formado por um arco de círculo de um material condutor, entre os terminais nos dois extremos, A e C, e um contato móvel, ligado ao terminal central B, que pode ser deslocado sobre o arco condutor, rodando o eixo do potenciómetro. Assim, entre A e C temos uma resistência constante, 
+  
+    
+      
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle R_{p}}
+  
+, e entre A e B temos umas resistência que pode ser modificada, entre 0 e 
+  
+    
+      
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle R_{p}}
+  
+, rodando o eixo.
+
+Entre os pontos A e C do potenciómetro foi ligada uma pilha com fem e e resistência interna r. As saídas do divisor de voltagem são os pontos A  e B onde foi ligada uma resistência R. Quando o contato móvel, B, do potenciómetro é deslocado entre A e C, a diferença de potencial na resistência R será a mesma que nos pontos A e B, que é diretamente proporcional à resistência do potenciómetro entre A e B. Assim, consegue-se obter em R uma diferença de potencial que pode ser ajustada entre 0 e um valor máximo.
+Outro exemplo de diagrama de circuito é a montagem usada para carregar um condensador e a seguir observar como diminui a diferença de potencial quando o condensador é descarregado através de um voltímetro. O diagrama do circuito é apresentado na figura abaixo.
+Como a pilha é ligada por alguns instantes, para carregar o condensador, e é logo desligada, foi desenhado um interruptor que no estado fechado corresponde ao caso em que a pilha está ligada, e no estado aberto representa o caso em que a pilha está desligada.
+
+O voltímetro foi representado no diagrama por meio da sua resistência interna 
+  
+    
+      
+        
+          R
+          
+            V
+          
+        
+      
+    
+    {\displaystyle R_{V}}
+  
+. Geralmente, admite-se que o voltímetro não interfere com o circuito, sendo representado apenas pelas setas com sinais positivo e negativo, que indicam os pontos onde foram ligados os terminais positivo e negativo do voltímetro. Neste caso a resistência do voltímetro sim é importante e, por isso, foi desenhada. Um voltímetro ideal teria uma resistência infinita, que não permitiria que o condensador descarrega-se, permanecendo a sua diferença de potencial constante. Num voltímetro real, a carga no condensador produz uma corrente  através do voltímetro, que faz com que a carga diminua e, consequentemente, a diferença de potencial decresça.
+
+
+=== Leis dos circuitos ===
+A análise de um circuito consiste em calcular a corrente ou diferença de potencial em cada resistência e a carga ou diferença de potencial em cada condensador. Com essas grandezas podemos também determinar a potência que está a ser dissipada nas resistências e a energia armazenada nos condensadores. Para analisar os circuitos é conveniente usar duas regras gerais designadas de leis de Kirchhoff.
+
+A primeira lei, a lei dos nós, ou lei das correntes, consiste em que em qualquer ponto de um circuito onde exista separação da corrente (nó), a diferença entre a soma das correntes que entram no ponto e a soma das correntes que saem é igual a zero. Por exemplo, no nó representado na figura ao lado, há uma corrente 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle I_{1}}
+  
+ a entrar no nó, e duas correntes 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{2}}
+  
+ e 
+  
+    
+      
+        
+          I
+          
+            3
+          
+        
+      
+    
+    {\displaystyle I_{3}}
+  
+ a sair.
+A lei das correntes implica:
+
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        −
+        
+          I
+          
+            2
+          
+        
+        −
+        
+          I
+          
+            3
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle I_{1}-I_{2}-I_{3}=0}
+  
+
+Essa lei será válida sempre que as correntes sejam estacionárias; nomeadamente, quando a densidade da nuvem de cargas de condução permaneça constante dentro do condutor, sem existir acumulação de cargas em nenhum ponto; nesse caso, toda a carga que entra por um condutor, por unidade de tempo, deverá sair por outros condutores.
+
+A segunda lei, designada de lei das malhas, ou lei das tensões, estabelece que a soma das diferenças de potencial, em qualquer caminho fechado (malha) num circuito, é sempre nula.
+Por exemplo, no circuito da figura , podemos identificar 3 caminhos fechados (malhas): ABCDA, BEFCB e ABEFCDA.
+Por cada uma dessas malhas existe uma equação associada, obtida pela lei das malhas, mas unicamente duas dessas equações serão independentes.
+No caso da malha ABCDA, a lei das malhas é:
+
+  
+    
+      
+        Δ
+        
+          V
+          
+            
+              A
+              B
+            
+          
+        
+        +
+        Δ
+        
+          V
+          
+            
+              B
+              C
+            
+          
+        
+        +
+        Δ
+        
+          V
+          
+            
+              C
+              D
+            
+          
+        
+        +
+        Δ
+        
+          V
+          
+            
+              D
+              A
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \Delta V_{\mathrm {AB} }+\Delta V_{\mathrm {BC} }+\Delta V_{\mathrm {CD} }+\Delta V_{\mathrm {DA} }=0}
+  
+
+É fácil conferir que o resultado é nulo, tendo em conta que
+
+  
+    
+      
+        Δ
+        
+          V
+          
+            
+              A
+              B
+            
+          
+        
+        =
+        
+          V
+          
+            
+              B
+            
+          
+        
+        −
+        
+          V
+          
+            
+              A
+            
+          
+        
+        ,
+        Δ
+        
+          V
+          
+            
+              B
+              C
+            
+          
+        
+        =
+        
+          V
+          
+            
+              C
+            
+          
+        
+        −
+        
+          V
+          
+            
+              B
+            
+          
+        
+        ,
+        Δ
+        
+          V
+          
+            
+              C
+              D
+            
+          
+        
+        =
+        
+          V
+          
+            
+              D
+            
+          
+        
+        −
+        
+          V
+          
+            
+              C
+            
+          
+        
+        ,
+        Δ
+        
+          V
+          
+            
+              D
+              A
+            
+          
+        
+        =
+        
+          V
+          
+            
+              A
+            
+          
+        
+        −
+        
+          V
+          
+            
+              D
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Delta V_{\mathrm {AB} }=V_{\mathrm {B} }-V_{\mathrm {A} },\Delta V_{\mathrm {BC} }=V_{\mathrm {C} }-V_{\mathrm {B} },\Delta V_{\mathrm {CD} }=V_{\mathrm {D} }-V_{\mathrm {C} },\Delta V_{\mathrm {DA} }=V_{\mathrm {A} }-V_{\mathrm {D} }.}
+  
+
+
+=== Método das malhas ===
+
+Nos circuitos com várias resistências foi sempre possível substituir as resistências por uma única resistência equivalente, permitindo assim calcular a corrente fornecida pela fonte e todas as outras correntes nas resistências.
+Nos casos em que existem várias fontes ou quando não é possível associar resistências, ou capacitores, em série e em paralelo até obter uma única resistência (ou capacitor) equivalente, será útil usar o método das malhas. Por exemplo, no circuito da figura ao lado nenhuma das resistências está nem em série nem em paralelo com nenhuma outra.
+Consequentemente, não é possível associar as resistências até obter uma única resistência equivalente.
+Usaremos esse circuito da figura à direita para mostrar o fundamento do método das malhas. Na resolução de problemas não será preciso realizar a mesma análise que vamos fazer a seguir, mas bastará com aplicar as regras enunciadas no fim da seção, para escrever a matriz do circuito.
+
+Começamos por identificar que existem 3 malhas no circuito e a cada malha atribuímos as correntes de malha 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle I_{1}}
+  
+ 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{2}}
+  
+ e 
+  
+    
+      
+        
+          I
+          
+            3
+          
+        
+      
+    
+    {\displaystyle I_{3}}
+  
+ , como se mostra na figura ao lado.
+Nessa figura, embora as malhas tenham sido desenhadas com forma retangular, continuam a ser equivalentes às malhas do circuito na figura acima.
+É conveniente escolher o mesmo sentido para todas as
+correntes de malha; no caso da figura abaixo, as três correntes foram definidas no sentido horário.
+Nas resistências que se encontram entre duas malhas vizinhas, a corrente será a soma
+algébrica das correntes nas duas malhas.
+Por exemplo, na figura ao lado a corrente que circula pela resistência de 
+  
+    
+      
+        5
+        Ω
+      
+    
+    {\displaystyle 5\Omega }
+  
+ entre os pontos A e C, será 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        −
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{1}-I_{2}}
+  
+, no sentido de A para C (ou 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+        −
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle I_{2}-I_{1}}
+  
+no sentido oposto).
+Com este método a regra dos nós é garantida em cada nó e basta aplicar a regra das malhas a cada uma das três malhas para calcular as três correntes.
+As diferenças de potencial nas várias partes do circuito da figura acima, em função das correntes de malha, são as seguintes (unidades SI):
+
+substituindo esses valores, as três equações das malhas serão:
+
+Agrupando os termos que dependem de cada uma das correntes, podemos escrever o sistema de forma matricial:
+
+O sistema matricial acima foi obtido calculando primeiro as diferenças de potencial nas secções do circuito e aplicando a regra das malhas. No entanto, observe que é possível escrever o sistema matricial imediatamente olhando para o circuito (figura de correntes de malhas) e usando as seguintes regras:
+
+Cada linha da matriz do circuito corresponde a uma das malhas.
+Na linha 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+o número na coluna 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+será positivo e igual à soma de todas as resistências que houver na malha 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+O número na linha 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+e coluna 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+(com 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+diferente de 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+será negativo e com valor absoluto igual à soma de todas as resistências que existirem no segmento de circuito que demarca a fronteira entre as malhas 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ e 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+Cada linha 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+na matriz com uma coluna no lado direito da equação acima é igual à soma algébrica de todas as 
+  
+    
+      
+        f
+        e
+        m
+      
+    
+    {\displaystyle fem}
+  
+ que houver na malha 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+essa soma algébrica, serão consideradas positivas todas as fontes em que o sentido arbitrado para a corrente passe do elétrodo negativo para o positivo (aumento de potencial) e negativas todas
+as fontes em que o sentido arbitrado para a corrente passe do elétrodo positivo para o negativo (diminuição de potencial).
+Assim, a matriz do circuito será sempre simétrica, com os elementos na diagonal positivos e todos os restantes elementos negativos. As 3 correntes de malha são a solução do sistema, que pode ser obtida usando algum dos métodos para resolver sistemas lineares de equações, por exemplo, a regra de Cramer:
+
+Neste caso, todas as correntes obtidas são positivas, o que indica que o sentido das correntes de malha coincide com os sentidos que arbitramos na figura corrente das malhas. Nos elementos do circuito que não estão entre duas malhas, a corrente real é igual à corrente da respectiva malha.
+Nomeadamente, a corrente que passa pela fonte é igual à corrente de malha 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        =
+        1
+        ,
+        473
+      
+    
+    {\displaystyle I_{1}=1,473}
+  
+ a corrente na resistência de 
+  
+    
+      
+        3
+        Ω
+      
+    
+    {\displaystyle 3\Omega }
+  
+ é igual a 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+        =
+        0
+        ,
+        804
+        m
+        A
+      
+    
+    {\displaystyle I_{2}=0,804mA}
+  
+ e a corrente na resistência de 
+  
+    
+      
+        4
+        Ω
+      
+    
+    {\displaystyle 4\Omega }
+  
+ é igual a 
+  
+    
+      
+        
+          I
+          
+            3
+          
+        
+        =
+        0
+        ,
+        647
+        m
+        A
+      
+    
+    {\displaystyle I_{3}=0,647mA}
+  
+.
+Nos elementos que estão na fronteira entre duas malhas será preciso combinar as correntes dessas duas malhas para obter a corrente real.
+Por exemplo, na resistência de 
+  
+    
+      
+        5
+        Ω
+      
+    
+    {\displaystyle 5\Omega }
+  
+ passa a corrente de malha 
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        =
+        1
+        ,
+        473
+        m
+        A
+      
+    
+    {\displaystyle I_{1}=1,473mA}
+  
+ para a direita e a corrente 
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+        =
+        0
+        ,
+        804
+        m
+        A
+      
+    
+    {\displaystyle I_{2}=0,804mA}
+  
+para a esquerda; portanto, a corrente nessa resistência será para a direita e com intensidade  
+  
+    
+      
+        I
+        =
+        1
+        ,
+        473
+        −
+        0
+        ,
+        804
+        =
+        0
+        ,
+        669
+        m
+        A
+      
+    
+    {\displaystyle I=1,473-0,804=0,669mA}
+  
+.
+
+
+== Circuitos de corrente e tensões alternadas senoidais ==
+A corrente alternada, ou CA (em inglês AC - alternating current) é uma corrente elétrica cuja magnitude e direção da corrente varia ciclicamente, ao contrário da corrente contínua cuja direção permanece constante e que possui pólos positivo e negativo definidos. A forma de onda usual em um circuito de potência CA é senoidal por ser a forma de transmissão de energia mais eficiente. Entretanto, em certas aplicações, diferentes formas de ondas são utilizadas tais como triangular ou ondas quadradas.
+Cada forma de onda é uma forma de onda alternada fornecida por geradores de sinais disponíveis comercialmente. O termo alternada indica apenas que o valor da tensão ou da corrente se alterna, ao longo do tempo o sinal mais importante é a forma de onda alternada senoidal, com esse tipo de sinal encontrado na grande maioria das aplicações, as frases abreviadas como tensão CA e corrente CA sempre se referem a esse tipo de forma de onda, outra razão para dar atenção à tensão alternada senoidal é que esse tipo de tensão é gerado nas usinas de energia elétrica em todo o mundo. Outras razões incluem seu uso em diversos sistemas elétricos, eletrônicos, de comunicação e industriais. Além disso, esta forma de onda tem diversas características que resultam em uma resposta exclusiva quando a aplicamos aos componentes elétricos básicos.
+Os diversos teoremas e métodos introduzidos para circuitos de corrente contínua também serão aplicados a circuitos de corrente alternada senoidal. Embora a aplicação de sinais senoidais aumente o nível de complexidade matemática para sua descrição muitos dos conceitos sobre corrente contínua poderão ser aplicados a circuitos CA ser geradas. As tensões alternadas senoidais podem ser geradas por diversas fontes, a mais comum é aquela que obtemos nas tomadas residenciais, que fornecem tensão alternada cuja origem é uma usina geradora, essa usinas são em geral alimentadas por quedas de água, óleo, gás ou fissão nuclear, em cada caso de um gerador de corrente alternada (também denominado alternador) é o componente mais importante no processo de conversão de energia.
+
+
+=== História ===
+
+Em 1845, quando ainda era um estudante, Gustav Kirchhoff contribuiu muito no campo dos circuitos elétricos, na espectroscopia, na emissão de radiação dos corpos negros e na teoria da elasticidade. É o autor de duas leis fundamentais da teoria clássica dos circuitos elétricos pois formulou as leis dos nós e das malhas Leis de Kirchhoff. Propôs a lei da emissão de radiação térmica em 1859, comprovando-a em 1861. Em 1854 transferiu-se para a Universidade de Heidelberg, onde colaborou em trabalhos sobre espectroscopia com Robert Bunsen, descobrindo juntamente com este os elementos césio e rubídio em 1861, estudando a composição química do Sol através do seu espectro.
+No fim da década de 1880 viveu-se nos Estados Unidos um período conhecido como a Guerra das Correntes. Nessa época já existia uma rede elétrica pública, usada principalmente para acender lâmpadas incandescentes e alimentar motores elétricos. A exploração dessa rede elétrica revertia grandes benefícios a Thomas A. Edison que tinha obtido várias patentes pela invenção da lâmpada e outros dispositivos para gerar corrente contínua. Outras pessoas tentaram entrar nesse novo negocio milionário com as suas inovações; George Westinghouse, quem já tinha tido sucesso comercializando as suas próprias patentes, contratou Nikola Tesla, um cientista brilhante, imigrante da Croácia. Tesla obteve uma patente pelo dispositivo na figura acima, para produzir e distribuir corrente alternada. A guerra das correntes acabaria por ser ganha pelo sistema de corrente alternada de Tesla e Westinghouse; uma das principais vantagens sobre o sistema de corrente contínua de Edison é a facilidade de poder aumentar ou diminuir a tensão por meio de transformadores.
+
+
+=== Circuito LC ===
+
+No circuito do lado esquerdo da figura abaixo, o interruptor 
+  
+    
+      
+        
+          
+            S
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathrm {S} _{1}}
+  
+ tem estado fechado durante muito tempo e o interruptor 
+  
+    
+      
+        
+          
+            S
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathrm {S} _{2}}
+  
+ aberto. Num instante que designamos 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  
+ abre-se o interruptor 
+  
+    
+      
+        
+          
+            S
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathrm {S} _{1}}
+  
+ e, simultaneamente, fecha-se o interruptor 
+  
+    
+      
+        
+          
+            S
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathrm {S} _{2}}
+  
+. Assim, para 
+  
+    
+      
+        t
+        ≥
+        0
+      
+    
+    {\displaystyle t\geq 0}
+  
+ o circuito equivalente é o que aparece no lado direito da figura. A impedância do condensador é 
+  
+    
+      
+        1
+        
+          /
+        
+        (
+        C
+        
+        s
+        )
+      
+    
+    {\displaystyle 1/(C\,s)}
+  
+ e a do indutor é 
+  
+    
+      
+        L
+        
+        s
+      
+    
+    {\displaystyle L\,s}
+  
+. A lei de Ohm generalizada, 
+  
+    
+      
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        =
+        Z
+        
+        
+          
+            
+              I
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {V}}=Z\,{\tilde {I}}}
+  
+deixa de ser válida para o indutor, porque no instante 
+  
+    
+      
+        >
+        t
+        =
+        0
+      
+    
+    {\displaystyle >t=0}
+  
+ a sua corrente não era nula.
+Lembrando que a lei de Ohm foi obtida transformando a expressão para os indutores:
+
+  
+    
+      
+        V
+        =
+        L
+        
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle V=L\,{\frac {dI}{dt}}}
+  
+
+vemos que, para os indutores, a forma mais geral da lei de Ohm seria:
+
+  
+    
+      
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        =
+        L
+        
+        
+          (
+          
+            s
+            
+            
+              
+                
+                  I
+                  ~
+                
+              
+            
+            −
+            
+              I
+              
+                0
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tilde {V}}=L\,\left(s\,{\tilde {I}}-I_{0}\right)}
+  
+
+Com o condensador não há problema, porque neste caso admitimos que a sua carga inicial é nula, assim que a transformada da sua tensão é 
+  
+    
+      
+        Z
+        
+        
+          
+            
+              I
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              I
+              ~
+            
+          
+        
+        
+          /
+        
+        (
+        C
+        
+        s
+        )
+      
+    
+    {\displaystyle Z\,{\tilde {I}}={\tilde {I}}/(C\,s)}
+  
+.
+Outra diferença com os circuitos estudados anteriormente é que, quando não há fontes, os condensadores e indutores deixam de ser elementos passivos que respondem às mudanças na fonte; neste caso em cada instante um dos elementos será passivo (perde energia) e o outro será ativo (absorve energia). Consequentemente, as tensões no condensador e o indutor serão iguais em valor absoluto, mas com sinais opostos e a equação do circuito será:
+
+  
+    
+      
+        L
+        
+        
+          (
+          
+            s
+            
+            
+              
+                
+                  I
+                  ~
+                
+              
+            
+            −
+            
+              I
+              
+                0
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                I
+                ~
+              
+            
+            
+              C
+              
+              s
+            
+          
+        
+        
+        ⇒
+        
+        
+          s
+          
+            2
+          
+        
+        
+        
+          
+            
+              I
+              ~
+            
+          
+        
+        −
+        s
+        
+        
+          I
+          
+            0
+          
+        
+        =
+        −
+        
+          
+            
+              
+                I
+                ~
+              
+            
+            
+              L
+              
+              C
+            
+          
+        
+      
+    
+    {\displaystyle L\,\left(s\,{\tilde {I}}-I_{0}\right)={\frac {\tilde {I}}{C\,s}}\qquad \Rightarrow \qquad s^{2}\,{\tilde {I}}-s\,I_{0}=-{\frac {\tilde {I}}{L\,C}}}
+  
+
+esta equação algébrica é a transformada da equação diferencial do circuito:
+
+  
+    
+      
+        
+          I
+          ″
+        
+        =
+        −
+        
+          
+            I
+            
+              L
+              
+              C
+            
+          
+        
+      
+    
+    {\displaystyle I''=-{\frac {I}{L\,C}}}
+  
+
+A equação diferencial mostrada acima é a equação de um oscilador harmónico simples.
+
+A matriz jacobiana dessa equação linear tem valores próprios (...)
+
+  
+    
+      
+        ±
+        
+          i
+        
+        
+        
+          
+            1
+            
+              /
+            
+            (
+            L
+            
+            C
+            )
+          
+        
+      
+    
+    {\displaystyle \pm \mathbf {i} \,{\sqrt {1/(L\,C)}}}
+  
+
+... imaginários e a solução da equação é:
+
+  
+    
+      
+        I
+        (
+        t
+        )
+        =
+        
+          I
+          
+            0
+          
+        
+        
+        cos
+        ⁡
+        (
+        ω
+        
+        t
+        )
+      
+    
+    {\displaystyle I(t)=I_{0}\,\cos(\omega \,t)}
+  
+
+em que 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+ é a frequência angular do circuito :
+
+  
+    
+      
+        ω
+        =
+        
+          
+            1
+            
+              L
+              
+              C
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={\frac {1}{\sqrt {L\,C}}}}
+  
+
+A carga no condensador, em função do tempo, será:
+
+  
+    
+      
+        Q
+        (
+        t
+        )
+        =
+        C
+        
+        Δ
+        V
+        =
+        −
+        C
+        
+        L
+        
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              I
+              
+                0
+              
+            
+            ω
+          
+        
+        
+        sin
+        ⁡
+        (
+        ω
+        
+        t
+        )
+      
+    
+    {\displaystyle Q(t)=C\,\Delta V=-C\,L\,{\frac {dI}{d_{t}}}={\frac {I_{0}}{\omega }}\,\sin(\omega \,t)}
+  
+
+Assim, a corrente e a carga oscilam com frequência 
+  
+    
+      
+        f
+        =
+        ω
+        
+          /
+        
+        (
+        2
+        
+        π
+        )
+      
+    
+    {\displaystyle f=\omega /(2\,\pi )}
+  
+, desfasadas de forma que quando uma delas for nula, a outra terá o seu valor absoluto máximo (figura ao lado).
+A corrente é designada corrente alternada e a carga é uma carga alternada. Em geral, uma função alternada é qualquer função periódica com valor médio igual a zero. Estes 3 exemplos são um caso particular em que a forma da função é como na função seno ou cosseno.
+
+
+=== Potência dissipada nos circuitos ===
+Em qualquer ponto num circuito de corrente alternada, a corrente é uma função sinusoidal. Em cada período de oscilação, a mudança de sinal da função sinusoidal indica que o sentido da corrente muda. O integral da função, em cada período é nulo. Isso quer dizer que a carga transferida é nula; durante metade do período há transporte de carga num sentido, mas no restante meio período a mesma carga é transportada no sentido inverso.
+Não existe transferência efetiva de carga nos circuitos de corrente alternada. As cargas de condução simplesmente oscilam à volta de uma posição de equilíbrio. Apesar de não existir transferência efetiva de cargas, existirá dissipação efetiva de energia, porque a oscilação das cargas está a ser contrariada pela resistência dos condutores e existe efeito Joule, independentemente do sentido da corrente.
+Em qualquer dispositivo passivo dentro de um circuito com uma fonte de tensão alternada, após uma possível resposta transitória inicial, a tensão e a corrente serão funções sinusoidais com a mesma frequência da fonte:
+
+  
+    
+      
+        V
+        (
+        t
+        )
+        =
+        
+          V
+          
+            máx
+          
+        
+        cos
+        ⁡
+        (
+        ω
+        
+        t
+        +
+        
+          φ
+          
+            V
+          
+        
+        )
+        
+        
+        I
+        (
+        t
+        )
+        =
+        
+          I
+          
+            máx
+          
+        
+        cos
+        ⁡
+        (
+        ω
+        
+        t
+        +
+        
+          φ
+          
+            I
+          
+        
+        )
+      
+    
+    {\displaystyle V(t)=V_{\text{máx}}\cos(\omega \,t+\varphi _{V})\qquad \qquad I(t)=I_{\text{máx}}\cos(\omega \,t+\varphi _{I})}
+  
+
+A potência instantânea 
+  
+    
+      
+        P
+        (
+        t
+        )
+      
+    
+    {\displaystyle P(t)}
+  
+, é a potência no dispositivo em qualquer instante t :
+
+  
+    
+      
+        P
+        (
+        t
+        )
+        =
+        V
+        (
+        t
+        )
+        
+        I
+        (
+        t
+        )
+        =
+        
+          V
+          
+            máx
+          
+        
+        
+        
+          I
+          
+            máx
+          
+        
+        
+        cos
+        ⁡
+        (
+        ω
+        
+        t
+        +
+        
+          φ
+          
+            V
+          
+        
+        )
+        
+        cos
+        ⁡
+        (
+        ω
+        
+        t
+        +
+        
+          φ
+          
+            I
+          
+        
+        )
+      
+    
+    {\displaystyle P(t)=V(t)\,I(t)=V_{\text{máx}}\,I_{\text{máx}}\,\cos(\omega \,t+\varphi _{V})\,\cos(\omega \,t+\varphi _{I})}
+  
+
+Usando uma relação trigonométrica para o produto de dois cossenos e o facto de que 
+  
+    
+      
+        (
+        
+          φ
+          
+            V
+          
+        
+        −
+        
+          φ
+          
+            I
+          
+        
+        )
+        =
+        
+          φ
+          
+            Z
+          
+        
+        )
+      
+    
+    {\displaystyle (\varphi _{V}-\varphi _{I})=\varphi _{Z})}
+  
+ (equação do circuito LC) , a expressão anterior é equivalente a:
+
+  
+    
+      
+        P
+        (
+        t
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+        
+          V
+          
+            máx
+          
+        
+        
+        
+          I
+          
+            máx
+          
+        
+        
+        
+          [
+          
+            cos
+            ⁡
+            (
+            2
+            
+            ω
+            
+            t
+            +
+            
+              φ
+              
+                V
+              
+            
+            +
+            
+              φ
+              
+                I
+              
+            
+            )
+            +
+            cos
+            ⁡
+            (
+            
+              φ
+              
+                Z
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle P(t)={\frac {1}{2}}\,V_{\text{máx}}\,I_{\text{máx}}\,\left[\cos(2\,\omega \,t+\varphi _{V}+\varphi _{I})+\cos(\varphi _{Z})\right]}
+  
+
+Observe que o primeiro cosseno dentro dos parêntesis retos acima é uma função senoidal, mas o segundo cosseno não é função sinusoidal mas sim uma função constante. Consequentemente, o resultado de ter multiplicado duas funções sinusoidais não é outra
+função sinusoidal, mas uma função sinusoidal (com o dobro da frequência) deslocada no
+eixo das ordenadas.
+A potência instantânea na equação anterior poderá ser positiva e negativa em alguns intervalos e nula em alguns instantes. Como 
+  
+    
+      
+        
+          φ
+          
+            Z
+          
+        
+      
+    
+    {\displaystyle \varphi _{Z}}
+  
+ está entre  
+  
+    
+      
+        −
+        π
+        
+          /
+        
+        2
+        e
+        π
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle -\pi /2e\pi /2}
+  
+ o deslocamento 
+  
+    
+      
+        cos
+        ⁡
+        (
+        
+          φ
+          
+            Z
+          
+        
+        )
+      
+    
+    {\displaystyle \cos(\varphi _{Z})}
+  
+ estará entre 0 e 1. Se a reatância for nula (dispositivo resistivo), 
+  
+    
+      
+        
+          φ
+          
+            Z
+          
+        
+        =
+        0
+        ,
+        cos
+        ⁡
+        (
+        
+          φ
+          
+            Z
+          
+        
+        )
+        =
+        1
+      
+    
+    {\displaystyle \varphi _{Z}=0,\cos(\varphi _{Z})=1}
+  
+e, portanto, a potência instantânea será sempre positiva, indicando que o dispositivo está sempre a dissipar energia. Se a resistência for nula (dispositivo reativo), 
+  
+    
+      
+        
+          φ
+          
+            Z
+          
+        
+        =
+        ±
+        π
+        
+          /
+        
+        2
+        ,
+        cos
+        ⁡
+        (
+        
+          φ
+          
+            Z
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \varphi _{Z}=\pm \pi /2,\cos(\varphi _{Z})=0}
+  
+ , e, portanto, os intervalos em que a potência instantânea é positiva (dissipação de energia) são do mesmo comprimento que os intervalos em que é negativa (fornecimento de energia) e a potência média será nula. No caso geral, 
+  
+    
+      
+        0
+        <
+        cos
+        ⁡
+        (
+        
+          φ
+          
+            Z
+          
+        
+        )
+        <
+        1
+      
+    
+    {\displaystyle 0<\cos(\varphi _{Z})<1}
+  
+ e os intervalos em que há dissipação de energia são mais compridos que os intervalos em que há fornecimento de energia.
+O valor médio da potência, 
+  
+    
+      
+        
+          
+            
+              P
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {P}}}
+  
+, calcula-se integrando a função usando uma relação trigonométrica para o produto de dois cossenos, durante um período e dividindo pelo período. O integral do primeiro termo, durante um período, é nulo, enquanto o valor médio do termo constante será igual a si próprio.
+Consequentemente, a potência média é igual a:
+
+  
+    
+      
+        
+          
+            
+              P
+              ¯
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+        
+          V
+          
+            máx
+          
+        
+        
+        
+          I
+          
+            máx
+          
+        
+        
+        cos
+        ⁡
+        
+          φ
+          
+            Z
+          
+        
+      
+    
+    {\displaystyle {\bar {P}}={\frac {1}{2}}\,V_{\text{máx}}\,I_{\text{máx}}\,\cos \varphi _{Z}}
+  
+
+e será sempre positiva ou nula, indicando que, em média o dispositivo passivo não pode
+fornecer energia. O termo 
+  
+    
+      
+        cos
+        ⁡
+        
+          φ
+          
+            Z
+          
+        
+      
+    
+    {\displaystyle \cos \varphi _{Z}}
+  
+ que estará entre 0 e 1, designa-se de fator de potência.
+É também habitual definir a tensão eficaz e a corrente eficaz:
+
+  
+    
+      
+        
+          V
+          
+            e
+            f
+          
+        
+        =
+        
+          
+            
+              V
+              
+                máx
+              
+            
+            
+              2
+            
+          
+        
+        
+        
+          I
+          
+            e
+            f
+          
+        
+        =
+        
+          
+            
+              I
+              
+                máx
+              
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle V_{ef}={\frac {V_{\text{máx}}}{\sqrt {2}}}\qquad I_{ef}={\frac {I_{\text{máx}}}{\sqrt {2}}}}
+  
+
+Assim, a potência média também pode ser calculada com a expressão: 
+  
+    
+      
+        
+          
+            
+              P
+              ¯
+            
+          
+        
+        =
+        
+          V
+          
+            
+              e
+              f
+            
+          
+        
+        
+        
+          I
+          
+            
+              e
+              f
+            
+          
+        
+        
+        cos
+        ⁡
+        
+          φ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\bar {P}}=V_{\mathrm {ef} }\,I_{\mathrm {ef} }\,\cos \varphi _{z}}
+  
+. A tensão máxima de 325 V usada na União Europeia corresponde a uma tensão eficaz de 230 V. No continente americano usa-se tensão máxima de 170 V, a 60 Hz, que corresponde a uma tensão eficaz de 120 V.
+
+
+=== Ressonância ===
+
+A reatância equivalente num circuito varia com a frequência. Se o circuito inclui condensadores e indutores, a reatância será uma função da frequência. Quando a reatância for elevada, o módulo da impedância será elevado e o fator de potência baixo. Isso implica corrente máxima e potência média muito baixas. Nas frequências em que a reatância for menor, o módulo da impedância será menor e a potência dissipada maior. Em alguns casos (indutores em série com condensadores) poderá existir uma frequência intermédia, para a qual a reatância equivalente é nula. Nesse caso o módulo da impedância será mínimo, o fator de potência será máximo 
+  
+    
+      
+        cos
+        ⁡
+        φ
+        =
+        1
+      
+    
+    {\displaystyle \cos \varphi =1}
+  
+ e as fases da tensão e da corrente serão iguais (fasores na mesma direção e sentido). Quando isso acontece, diz-se que a tensão de entrada está em ressonância com o circuito. A frequência para a qual a reatância é nula é um valor característico do circuito, designado de frequência de ressonância.
+Exemplo: Calculando a frequência de ressonância do circuito e a potência média máxima, temos: Com a resistência em  
+  
+    
+      
+        M
+        Ω
+      
+    
+    {\displaystyle M\Omega }
+  
+ e a capacidade em 
+  
+    
+      
+        p
+        F
+      
+    
+    {\displaystyle pF}
+  
+ convém usar s para a unidade de tempo e, portanto, MHz para a frequência e H para a indutância.
+A impedância total do circuito será a soma das 3 impedâncias:
+
+  
+    
+      
+        Z
+        =
+        3
+        +
+        
+          i
+        
+        
+        8
+        
+        ω
+        −
+        
+          
+            i
+            
+              2
+              Ω
+            
+          
+        
+        =
+        3
+        +
+        
+          i
+        
+        
+          
+            (
+          
+        
+        8
+        
+        Ω
+        −
+        
+          
+            1
+            
+              2
+              
+              ω
+            
+          
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle Z=3+\mathbf {i} \,8\,\omega -{\frac {i}{2\Omega }}=3+\mathbf {i} {\Bigg (}8\,\Omega -{\frac {1}{2\,\omega }}{\Bigg )}}
+  
+
+  
+    
+      
+        8
+        ω
+        −
+        
+          
+            1
+            
+              2
+              
+              ω
+            
+          
+        
+        =
+        0
+        
+        ⇒
+        
+        ω
+        =
+        
+          
+            1
+            4
+          
+        
+        
+        ⇒
+        
+        f
+        =
+        
+          
+            ω
+            
+              2
+              π
+            
+          
+        
+        =
+        0
+        ,
+        0398
+      
+    
+    {\displaystyle 8\omega -{\frac {1}{2\,\omega }}=0\qquad \Rightarrow \qquad \omega ={\frac {1}{4}}\qquad \Rightarrow \qquad f={\frac {\omega }{2\pi }}=0,0398}
+  
+
+No sistema de unidades que estamos a usar, a frequência de ressonância é 
+  
+    
+      
+        =
+        0
+        ,
+        0398
+        M
+        H
+        z
+        =
+        39
+        ,
+        8
+        k
+        H
+        z
+      
+    
+    {\displaystyle =0,0398MHz=39,8kHz}
+  
+. Se a fonte tivesse essa frequência, teríamos 
+  
+    
+      
+        Z
+        =
+        3
+        M
+        ω
+      
+    
+    {\displaystyle Z=3M\omega }
+  
+ , corrente máxima 
+  
+    
+      
+        
+          I
+          
+            máx
+          
+        
+        =
+        
+          V
+          
+            máx
+          
+        
+        
+          /
+        
+        3
+        μ
+        A
+      
+    
+    {\displaystyle I_{\text{máx}}=V_{\text{máx}}/3\mu A}
+  
+ e potência média máxima 
+  
+    
+      
+        
+          
+            
+              P
+              ¯
+            
+          
+        
+        =
+        
+          V
+          
+            máx
+          
+        
+        
+        
+          I
+          
+            máx
+          
+        
+        
+          /
+        
+        2
+        =
+        
+          V
+          
+            máx
+          
+          
+            2
+          
+        
+        
+          /
+        
+        6
+      
+    
+    {\displaystyle {\bar {P}}=V_{\text{máx}}\,I_{\text{máx}}/2=V_{\text{máx}}^{2}/6}
+  
+ 
+  
+    
+      
+        
+          
+            (
+          
+        
+      
+    
+    {\displaystyle {\big (}}
+  
+
+  
+    
+      
+        μ
+        W
+      
+    
+    {\displaystyle \mu W}
+  
+, se 
+  
+    
+      
+        
+          V
+          
+            máx
+          
+        
+      
+    
+    {\displaystyle V_{\text{máx}}}
+  
+ estiver em volts
+  
+    
+      
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle {\big )}}
+  
+.
+No circuito do exemplo anterior, a tensão de entrada carrega e descarrega o condensador. Inicialmente, a carga no condensador oscila com a frequência de oscilação da tensão na fonte; mas quando a carga no condensador for elevada, a diferença de potencial do condensador poderá contrariar a tensão da fonte, impedindo a entrada de mais carga.
+A situação é semelhante a uma massa pendurada de uma mola elástica, na qual atua outra força externa que tenta manter a massa oscilando para cima e para baixo. Se a força externa não oscilar com a mesma frequência própria de oscilação da mola elástica, haveria momentos em que a força externa está a tentar fazer subir a massa, enquanto a mola elástica empurra em sentido oposto.
+No caso do circuito, se a fonte não existisse mas o condensador tivesse uma carga inicial, começaria a descarregar, produzindo uma corrente. No momento em que o condensador descarrega completamente, o indutor faz com que a corrente persista por alguns instantes, recarregando o condensador com cargas de sinais opostos à carga inicial. O ciclo repete-se, com uma frequência própria do circuito. No entanto, a resistência faz com que em cada ciclo a carga do condensador seja menor, até acabar por desaparecer (equilíbrio estável). Existe ressonância quando a fonte oscilar com a mesma frequência própria do circuito.
+Se quando a frequência da fonte fosse a frequência de ressonância a resistência fosse nula,
+
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  
+ seria nula, e aparentemente 
+  
+    
+      
+        
+          I
+          
+            máx
+          
+        
+        =
+        
+          V
+          
+            máx
+          
+        
+        
+          /
+        
+        Z
+      
+    
+    {\displaystyle I_{\text{máx}}=V_{\text{máx}}/Z}
+  
+ seria infinita.
+No entanto, a corrente não aumenta instantaneamente até esse valor, mas aumenta gradualmente com as oscilações da carga no condensador. Quando essa carga máxima se tornar muito elevada, ocorrerá a ruptura do dielétrico no condensador ou a corrente elevada acabará por queimar o indutor.
+
+
+== Processamento de sinais ==
+Uma aplicação importante dos circuitos elétricos é no processamento de sinais. Os sinais a serem processados são tensões elétricas variáveis em função do tempo. Essas tensões podem ser produzidas, por exemplo, num microfone ou em diversos tipos de transdutores que são usados para medir pressões, temperaturas e outras propriedades físicas. O sinal elétrico produzido pelo transdutor constitui uma fonte de tensão ou corrente variável no circuito elétrico usado para o seu processamento.
+Neste seção designaremos por (sinal) qualquer grandeza que varie em função do tempo em alguma parte de um circuito. Por exemplo, uma tensão 
+  
+    
+      
+        V
+        (
+        t
+        )
+      
+    
+    {\displaystyle V(t)}
+  
+, uma corrente 
+  
+    
+      
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle I(t)}
+  
+ ou a carga 
+  
+    
+      
+        Q
+        (
+        t
+        )
+      
+    
+    {\displaystyle Q(t)}
+  
+ num capacitor .
+Usando um til para designar as respectivas transformada de Laplace, nomeadamente, 
+  
+    
+      
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        (
+        s
+        )
+      
+    
+    {\displaystyle {\tilde {V}}(s)}
+  
+, 
+  
+    
+      
+        
+          
+            
+              I
+              ~
+            
+          
+        
+        (
+        s
+        )
+      
+    
+    {\displaystyle {\tilde {I}}(s)}
+  
+ e 
+  
+    
+      
+        
+          
+            
+              Q
+              ~
+            
+          
+        
+        (
+        s
+        )
+      
+    
+    {\displaystyle {\tilde {Q}}(s)}
+  
+.
+Quando for claro que estamos a referir-nos a um sinal, por vezes escreveremos apenas 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ ou 
+  
+    
+      
+        
+          
+            
+              V
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {V}}}
+  
+, ficando implícito que são funções que dependem do tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ e da frequência 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+.
+
+
+=== Circuito RC ===
+
+A figura ao lado mostra o diagrama de circuito para um capacitor, com carga inicial 
+  
+    
+      
+        
+          Q
+          
+            0
+          
+        
+      
+    
+    {\displaystyle Q_{0}}
+  
+, que é descarregado ligando-o a uma resistência 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+. Esse circuito é designado de circuito RC. O instante 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  
+ em que o capacitor é ligado à resistência corresponde ao instante em que é fechado o interruptor no diagrama de circuito da figura baixo. Quando o capacitor começa a descarregar, a corrente nele será igual à taxa de diminuição da sua carga, 
+  
+    
+      
+        −
+        d
+        Q
+        
+          /
+        
+        d
+        t
+      
+    
+    {\displaystyle -dQ/dt}
+  
+.
+Em qualquer instante 
+  
+    
+      
+        t
+        ≥
+        0
+      
+    
+    {\displaystyle t\geq 0}
+  
+, a corrente e a diferença de potencial no
+condensador serão iguais à corrente 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ e a diferença de potencial
+
+  
+    
+      
+        I
+        
+        R
+      
+    
+    {\displaystyle I\,R}
+  
+ na resistência:
+
+  
+    
+      
+        −
+        
+          
+            
+              d
+              Q
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        I
+        
+        
+        
+          
+            Q
+            C
+          
+        
+        =
+        I
+        
+        R
+      
+    
+    {\displaystyle -{\frac {dQ}{dt}}=I\qquad \qquad {\frac {Q}{C}}=I\,R}
+  
+
+Combinando as duas equações anteriores obtemos uma equação diferencial para a carga em função do tempo:
+
+  
+    
+      
+        
+          
+            
+              d
+              Q
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            Q
+            
+              R
+              
+              C
+            
+          
+        
+        
+        (
+        t
+        ≥
+        0
+        )
+      
+    
+    {\displaystyle {\frac {dQ}{dt}}=-{\frac {Q}{R\,C}}\qquad (t\geq 0)}
+  
+
+Calculando a transformada de Laplace nos dois lados da equação obtemos:
+
+  
+    
+      
+        s
+        
+        
+          
+            
+              Q
+              ~
+            
+          
+        
+        −
+        
+          Q
+          
+            0
+          
+        
+        =
+        −
+        
+          
+            
+              
+                Q
+                ~
+              
+            
+            
+              R
+              
+              C
+            
+          
+        
+      
+    
+    {\displaystyle s\,{\tilde {Q}}-Q_{0}=-{\frac {\tilde {Q}}{R\,C}}}
+  
+
+e, portanto,
+
+  
+    
+      
+        
+          
+            
+              Q
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              Q
+              
+                0
+              
+            
+            
+              s
+              +
+              1
+              
+                /
+              
+              (
+              R
+              
+              C
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {Q}}={\frac {Q_{0}}{s+1/(R\,C)}}}
+  
+
+A transformada inversa dessa expressão dá a carga em função do tempo:
+
+  
+    
+      
+        Q
+        (
+        t
+        )
+        =
+        
+          Q
+          
+            0
+          
+        
+        
+        
+          
+            e
+          
+          
+            −
+            t
+            
+              /
+            
+            (
+            R
+            C
+            )
+          
+        
+      
+    
+    {\displaystyle Q(t)=Q_{0}\,\mathrm {e} ^{-t/(RC)}}
+  
+
+Assim, a carga no capacitor decresce de forma exponencial. A corrente obtém-se dividindo a carga por 
+  
+    
+      
+        
+          R
+          
+          C
+        
+      
+    
+    {\displaystyle \scriptstyle R\,C}
+  
+ e, portanto, também decresce de forma exponencial.
+Os gráficos da carga e da corrente, em função do tempo, são apresentados na figura ao lado.
+A constante 
+  
+    
+      
+        
+          t
+          
+            C
+          
+        
+        =
+        R
+        
+        C
+      
+    
+    {\displaystyle t_{C}=R\,C}
+  
+, com unidades de tempo, designa-se de constante de tempo.
+É o tempo que demoraria a descarregar o capacitor se a corrente mantivesse o seu valor inicial 
+  
+    
+      
+        
+          Q
+          
+            0
+          
+        
+        
+          /
+        
+        
+          t
+          
+            C
+          
+        
+      
+    
+    {\displaystyle Q_{0}/t_{C}}
+  
+.
+A constante de tempo 
+  
+    
+      
+        
+          t
+          
+            C
+          
+        
+      
+    
+    {\displaystyle t_{C}}
+  
+é também igual ao intervalo de tempo em que a carga, e a corrente, diminuem até 
+  
+    
+      
+        1
+        
+          /
+        
+        e
+      
+    
+    {\displaystyle 1/e}
+  
+ vezes os seus valores iniciais; nomeadamente, o tempo que demoram em diminuir até 37% dos valores iniciais.
+Quanto maior for a constante de tempo, mais lentamente decrescerão a carga e a corrente no capacitor.
+
+
+== Ver também ==
+Circuito eletrônico
+Frequência de ressonância
+Circuito RLC
+Circuito RC
+Circuito RL
+Circuito LC
+Teorema da superposição
+Transformação Y-Δ
+Teorema de Millman
+Multímetro
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Basic Concepts of Electricity» 
+«Circuitos II» 
+«Circuitos Elétricos, Métodos de Análise e Introdução à Síntese» (PDF)

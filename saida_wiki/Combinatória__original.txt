@@ -1,0 +1,938 @@
+A combinatória é um ramo da matemática que estuda coleções finitas de elementos que satisfazem critérios específicos determinados e se preocupa, em particular, com a "contagem" de elementos nessas coleções (combinatória enumerativa), com decidir se certo objeto "ótimo" existe (combinatória extremal) e com estruturas "algébricas" que esses objetos possam ter (combinatória algébrica).
+O assunto ganhou notoriedade após a publicação de Análise Combinatória por Percy Alexander MacMahon em 1915. Um dos destacados combinatorialistas foi Gian-Carlo Rota, que ajudou a formalizar o assunto a partir da década de 1960. E, o engenhoso Paul Erdős trabalhou principalmente em problemas extremais. O estudo de como contar os objetos é algumas vezes considerado separadamente como um campo da enumeração.
+Um exemplo de problema combinatório é o seguinte: Quantas ordenações é possível fazer com um baralho de 52 cartas?
+O número é igual a 52! (ou seja, "cinquenta e dois fatorial"), que é o produto de todos os números naturais de 1 até 52. Pode parecer surpreendente o quão enorme é esse número, cerca de 8,065817517094 × 1067. Comparando este número com alguns outros números grandes, ele é maior que o quadrado do Número de Avogadro, 6,022 × 1023, quantidade equivalente a um mol.
+
+
+== Princípios aditivo e multiplicativo ==
+
+Princípio aditivo: Dados os conjuntos 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A_{1},A_{2},...,A_{n}}
+  
+, dois a dois disjuntos, em que 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+  
+ tem exatamente 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+  
+ elementos, então o número de elementos da união 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ∪
+        
+          A
+          
+            2
+          
+        
+        ∪
+        
+          A
+          
+            3
+          
+        
+        ⋯
+        ∪
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A_{1}\cup A_{2}\cup A_{3}\cdots \cup A_{n}}
+  
+ é dado por 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            3
+          
+        
+        +
+        .
+        .
+        .
+        +
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{1}+a_{2}+a_{3}+...+a_{n}}
+  
+.
+Princípio multiplicativo: Se um evento 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+  
+ pode ocorrer de 
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+      
+    
+    {\displaystyle m_{i}}
+  
+ maneiras diferentes, então o número de maneiras de ocorrer os eventos 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        
+          A
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A_{1},A_{2},...,A_{n}}
+  
+ de forma sucessiva é dado por 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        .
+        
+          m
+          
+            2
+          
+        
+        .
+        .
+        .
+        
+          m
+          
+            n
+          
+        
+      
+    
+    {\displaystyle m_{1}.m_{2}...m_{n}}
+  
+.
+
+
+== Permutações simples ==
+
+Definimos permutações simples como sendo o número de maneiras de arrumar n elementos em n posições em que cada maneira se diferencia pela ordem em que os elementos aparecem. Aplicando o princípio multiplicativo obtemos a seguinte equação para permutações simples:
+
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        =
+        n
+        ⋅
+        (
+        n
+        −
+        1
+        )
+        ⋅
+        (
+        n
+        −
+        2
+        )
+        .
+        .
+        .2
+        ⋅
+        1
+        =
+        n
+        !
+      
+    
+    {\displaystyle P_{n}=n\cdot (n-1)\cdot (n-2)...2\cdot 1=n!}
+  
+
+
+== Arranjos ==
+Em arranjos, a ordem dos objetos é importante.
+
+
+=== Arranjo com repetição ===
+
+O arranjo com repetição é usado quando a ordem dos elementos importa e cada elemento pode ser contado mais de uma vez.
+
+  
+    
+      
+        A
+        
+          R
+          
+            n
+          
+          
+            r
+          
+        
+        =
+        
+          n
+          
+            r
+          
+        
+      
+    
+    {\displaystyle AR_{n}^{r}=n^{r}}
+  
+
+Em que 
+  
+    
+      
+        n
+        
+        
+      
+    
+    {\displaystyle n\,\!}
+  
+ é o total de elementos e 
+  
+    
+      
+        r
+        
+        
+      
+    
+    {\displaystyle r\,\!}
+  
+ o número de elementos escolhidos.
+
+
+=== Arranjos sem repetição ===
+Arranjo simples de 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ elementos tomados 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ a 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+, onde 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+  
+ e 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ é um número natural, é qualquer ordenação de 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ elementos entre os 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ elementos, em que cada maneira de tomar os elementos se diferenciam pela ordem e natureza dos elementos.
+A fórmula para cálculo de arranjo simples é dada por:
+
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            r
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              
+                (
+                
+                  n
+                  −
+                  r
+                
+                )
+              
+              !
+            
+          
+        
+      
+    
+    {\displaystyle A_{n}^{r}={\frac {n!}{\left(n-r\right)!}}}
+  
+
+Em que 
+  
+    
+      
+        n
+        
+        
+      
+    
+    {\displaystyle n\,\!}
+  
+ é o total de elementos, e 
+  
+    
+      
+        r
+        
+        
+      
+    
+    {\displaystyle r\,\!}
+  
+ é o número de elementos escolhidos.
+
+
+== Combinação ==
+Na combinação, a ordem em que os elementos são tomados não é importante.
+
+
+=== Combinação simples ===
+
+Quando a ordem não importa, mas cada elemento pode ser contado apenas uma vez, o número de combinações é o coeficiente binomial:
+
+  
+    
+      
+        
+          C
+          
+            r
+          
+          
+            n
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              n
+              r
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              r
+              !
+              ⋅
+              
+                (
+                
+                  n
+                  −
+                  r
+                
+                )
+              
+              !
+            
+          
+        
+      
+    
+    {\displaystyle C_{r}^{n}={n \choose r}={\frac {n!}{r!\cdot \left(n-r\right)!}}}
+  
+
+Em que 
+  
+    
+      
+        n
+        
+        
+      
+    
+    {\displaystyle n\,\!}
+  
+ é o total de elementos e 
+  
+    
+      
+        r
+        
+        
+      
+    
+    {\displaystyle r\,\!}
+  
+ o número de elementos escolhidos.
+
+
+=== Combinação com repetição ===
+
+Quando a ordem não importa, mas cada objeto pode ser escolhido mais de uma vez, o número de combinações é:
+
+  
+    
+      
+        C
+        
+          R
+          
+            n
+          
+          
+            r
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              
+                n
+                +
+                r
+                −
+                1
+              
+              
+                r
+              
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+              n
+              +
+              r
+              −
+              1
+              )
+              !
+            
+            
+              r
+              !
+              (
+              n
+              −
+              1
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle CR_{n}^{r}={{n+r-1} \choose {r}}={{(n+r-1)!} \over {r!(n-1)!}}}
+  
+
+Em que 
+  
+    
+      
+        n
+        
+        
+      
+    
+    {\displaystyle n\,\!}
+  
+ é o total de elementos e 
+  
+    
+      
+        r
+        
+        
+      
+    
+    {\displaystyle r\,\!}
+  
+ o número de elementos escolhidos.
+
+
+== Funções enumerativas ==
+Calcular o número de maneiras que certos arranjos podem ser formados é o princípio da combinatória.
+Considerando S um conjunto com n elementos. As combinações de k elementos de S são subconjuntos de S tendo k elementos (onde a ordem em que são listados os elementos não é relevante). Permutações de k elementos do conjunto S são sequências de k diferentes elementos de S (onde duas subsequências são consideradas diferentes se contêm o mesmo elemento, mas em ordens diferentes). Fórmulas para o número de permutações e combinações são bem conhecidas e importantes para a combinatória.
+De modo geral, dada uma coleção infinita de finitos conjuntos {Si} cujo índice tipicamente recorre aos números naturais, combinatória enumerativa estuda as diversas formas de descrever uma função enumerativa, f(n), que conte o número de elementos em Sn para qualquer n. Ainda que contar o número de elementos seja um problema onipresente na matemática, em um problema combinatório os elementos Si geralmente terão uma descrição combinatorial relativamente simples, e pouca estrutura adicional.
+As funções mais simples são, deste modo, fórmulas fechadas, que podem ser expressas como uma composição de funções elementares tais como fatoriais, potências, etc. Como foi dito anteriormente, o número de ordenações distintas possíveis de um maço de baralho de n cartas é f(n) = n!.
+Este método nem sempre pode ser totalmente satisfatória (ou prática) para qualquer problema combinatório. Por exemplo, considerando que f(n) seja o número de subconjuntos distintos formados a partir dos inteiros no intervalo [1,n] que não contenha dois números inteiros consecutivos; assim, com n = 4, teremos {}, {1}, {2}, {3}, {4}, {1,3}, {1,4}, {2,4}, logo f(4) = 8. Verifica-se que f(n) resulta no chamado número de Fibonacci de ordem n+2, cuja expressão em uma fórmula fechada é:
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        
+          
+            
+              ϕ
+              
+                n
+                +
+                2
+              
+            
+            
+              5
+            
+          
+        
+        −
+        
+          
+            
+              (
+              1
+              −
+              ϕ
+              
+                )
+                
+                  n
+                  +
+                  2
+                
+              
+            
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle f(n)={\frac {\phi ^{n+2}}{\sqrt {5}}}-{\frac {(1-\phi )^{n+2}}{\sqrt {5}}}}
+  
+
+onde φ = (1 + √5) / 2, é a razão áurea. Porém, dado que estamos olhando para um conjunto de inteiros, a presença de √5 no resultado deve ser considerado como "antiestética" do ponto de vista combinatório. De modo alternativo, f(n) pode ser expressa como a repetição
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        f
+        (
+        n
+        −
+        1
+        )
+        +
+        f
+        (
+        n
+        −
+        2
+        )
+      
+    
+    {\displaystyle f(n)=f(n-1)+f(n-2)}
+  
+
+que pode ser mais satisfatória (do ponto de vista puramente combinatório), visto que isto mostra mais claramente porque o resultado é como ele é.
+Outro método é encontrar uma fórmula assintótica:
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        ∼
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle f(n)\sim g(n)}
+  
+
+Em que 
+  
+    
+      
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle g(n)}
+  
+ é uma função "familiar", e onde 
+  
+    
+      
+        f
+        (
+        n
+        )
+      
+    
+    {\displaystyle f(n)}
+  
+ se aproxima a 
+  
+    
+      
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle g(n)}
+  
+ como 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ tende ao infinito. Em alguns casos uma simples função assintótica pode ser preferível do que uma terrível e complicada fórmula fechada que não proporciona nenhum critério de comportamento de objetos contados. No exemplo abaixo, uma fórmula assintótica seria:
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        ∼
+        
+          
+            
+              ϕ
+              
+                n
+                +
+                2
+              
+            
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle f(n)\sim {\frac {\phi ^{n+2}}{\sqrt {5}}}}
+  
+
+quando 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ é muito grande.
+Finalmente, e mais prático, 
+  
+    
+      
+        f
+        (
+        n
+        )
+      
+    
+    {\displaystyle f(n)}
+  
+ pode ser expressa por uma série de potências formal, chamada função geratriz, que pode ser tanto a função geratriz ordinária
+
+  
+    
+      
+        ∑
+        f
+        (
+        n
+        )
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum f(n)x^{n}}
+  
+
+como uma função geratriz exponencial
+
+  
+    
+      
+        ∑
+        f
+        (
+        n
+        )
+        
+          
+            
+              x
+              
+                n
+              
+            
+            
+              n
+              !
+            
+          
+        
+      
+    
+    {\displaystyle \sum f(n){\frac {x^{n}}{n!}}}
+  
+
+Uma vez determinada, a função geratriz permite extrair todas as formas anteriores de expressar f(n). Na demais, as várias operações naturais com funções geratrizes como a adição, multiplicação, diferenciação, etc., tem um significado combinatório; e isso permite estender resultados de um problema combinatório com a finalidade de resolver outros.
+
+
+== Programa de teste ==
+O programa abaixo, escrito na linguagem Java, demonstra as tabelas de teste para uma formação de Arranjo e Combinação para um conjunto de 4 elementos, {a, b, c, d}, em pares.
+
+
+== Resultados ==
+Algumas configurações muito sutis podem ser desenvolvidas e alguns teoremas surpreendentes podem ser provados. Um exemplo de tais teoremas se deve a Frank P. Ramsey:
+Suponha que 6 pessoas encontrem-se em uma festa. Cada par qualquer conhece-se ou não se conhece. Em todo caso, sempre se pode encontrar 3 dessas 6 pessoas que se conhecem entre si, ou qualquer uma que não conheça os outros dois.
+A demonstração disso é uma curta prova por contradição: suponha que há 3 pessoas que cumprem o que afirma o teorema. Considerando uma pessoa qualquer das 6 que está na festa, chamada de pessoa A: das 5 pessoas restantes, há pelo menos três que ou conhecem A (e A os conhece) ou não a conhecem. Sem perda da generalidade, assuma que três pessoas conheçam A. Então, entre essas três pessoas deve haver pelo menos duas que se conhecem (de contrário, teríamos 3 pessoas que não se conheceriam entre si). Com isso, essas pessoas e A se conhecem entre si. (Este é um caso especial do teorema de Ramsey.)
+Pode-se conseguir demonstração alternativa mediante contagem dupla: contam-se o número de triplos ordenados de pessoas (A, B, C) onde as pessoas A e B se conhecem, mas B não conhece C. Suponhamos que a pessoa K conhece k dos outros 5. Então a pessoa B é exatamente k(5-k) triplos - A deve ser uma das k pessoas que ele conhece. C deve ser uma das (5-k) pessoas que ele não conhece). Portanto, é a pessoa B de 0*5=0, 1*4=4 ou 2*3=6 triplos. Como há 6 pessoas, e cada uma é o B de no máximo 6 triplos, há no máximo 36 triplos.
+Agora considere um triplo das pessoas onde exatamente duas pessoas se conhecem. Está claro que nós podemos formar com elas dois triplos distintos: atribuindo C à que é desconhecida e colocando as outras no lugar de A e B. Da mesma forma se exatamente 2 pares se conhecem, também se pode organizar em um triplo de duas formas distintas: deixe A ser a pessoa que conhece os outros, e ainda B e C (em alguma ordem) que são duas que não se conhecem. Então, há 36/2=18 triplos, no máximo, onde exatamente qualquer 1 par, ou exatamente 2 pares, que se conhecem. Como há 20 triplos, deve haver no máximo 2 triplos quaisquer que ou conhecem todos ou não se conhecem entre si.
+A ideia de achar ordem em configurações aleatórias dá origem à teoria de Ramsey. Essencialmente esta teoria diz que qualquer configuração suficientemente grande conterá, pelo menos, um caso de qualquer outro tipo de configuração. Deve-se notar que as possibilidades combinatórias costumam gerar números grandes, por exemplo, o maior número que foi usado (seriamente) pela matemática, o número de Graham, aparece na solução de um problema da teoria de Ramsey.
+
+
+== Bibliografia ==
+FRANCO, Tertuliano. Princípios de combinatória e probabilidade. Rio de Janeiro: IMPA, 2020. 436 p. (Coleção Matemática Universitária, vol. 40). ISBN 978-65-990528-6-6.
+GRAHAM, R. L.; GROETSCHEL, M.; LOVÁSZ, L.  (eds.). Handbook of Combinatorics, Volumes 1 and 2. MIT Press, 1996. ISBN 0-262-07169-X
+STANLEY, Richard P. Enumerative Combinatorics, Volumes 1 and 2. Cambridge University Press, 1997 and 1999, ISBN 0-521-55309-1N
+Análise Combinatória
+
+
+== Ver também ==
+
+Princípios combinatórios
+Regra da soma
+Regra do produto
+Princípio da inclusão-exclusão
+Número sequencial combinatório
+
+
+== Ligações externas ==
+"Material de Combinatória"do projeto PICME no IME-USP

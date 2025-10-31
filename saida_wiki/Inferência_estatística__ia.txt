@@ -1,0 +1,37 @@
+Inferência estatística é um ramo da estatística que visa fazer afirmações sobre uma população com base em dados de uma amostra, assumindo que a população é maior que a amostra. Tais afirmações são acompanhadas de medidas de precisão. O processo envolve a coleta de dados empíricos (amostras) e informações da literatura. As principais abordagens são a inferência frequencista (ou clássica) e a inferência bayesiana.
+
+A inferência estatística se distingue da estatística descritiva, que se concentra na apresentação de dados sem a influência de modelos de decisão. A análise estatística frequentemente evolui da descrição para a inferência, dependendo do modelo utilizado pelo analista.
+
+A inferência estatística faz proposições sobre uma população, utilizando dados amostrais. Diante de uma hipótese sobre uma população, o processo envolve a seleção de um modelo estatístico para o processo de geração de dados e a dedução de proposições a partir desse modelo.
+
+A modelagem estatística é frequentemente considerada a parte mais crítica da análise na inferência estatística.
+
+As conclusões da inferência estatística são proposições estatísticas, que podem assumir diversas formas, como:
+
+*   **Estimativa por ponto:** Um valor que aproxima um parâmetro de interesse.
+*   **Estimativa por intervalo:** Um intervalo de confiança (ou estimativa por conjunto) construído de forma que, em amostragens repetidas, contenha o verdadeiro valor do parâmetro com uma determinada probabilidade.
+*   **Intervalo de credibilidade:** Um conjunto de valores que contém uma certa porcentagem de crença posterior.
+*   **Rejeição de hipótese.**
+*   **Agrupamento ou classificação de dados em grupos.**
+
+Qualquer inferência estatística requer suposições. Um modelo estatístico é um conjunto de suposições sobre a geração dos dados observados. Descrições de modelos estatísticos geralmente enfatizam o papel das quantidades populacionais de interesse. A estatística descritiva é tipicamente usada como um passo preliminar para inferências mais formais.
+
+Estatísticos distinguem três níveis de suposições de modelagem:
+
+*   **Paramétrico completo:** As distribuições de probabilidade que descrevem o processo de geração de dados são completamente descritas por uma família de distribuições de probabilidade envolvendo um número finito de parâmetros desconhecidos.
+*   **Não paramétrico:** As suposições sobre o processo de geração de dados são menores que nas estatísticas paramétricas.
+*   **Semi paramétrico:** Este termo implica suposições entre abordagens completas e não paramétricas.
+
+Inferências calibradas corretamente geralmente exigem que as suposições estejam corretas. Suposições incorretas podem invalidar a inferência estatística.
+
+Devido à dificuldade em especificar distribuições exatas de amostras estatísticas, foram desenvolvidos vários métodos para aproximá-las.
+
+Com amostras finitas, os resultados de aproximação medem o quanto uma distribuição limite se aproxima de uma distribuição de amostragem. Com amostras indefinidamente grandes, resultados limite como o teorema central do limite descrevem a distribuição limite da amostragem estatística, se ela existir.
+
+Para um dado conjunto de dados que foi produzido por um desenho de randomização, a distribuição de randomização de uma estatística (baixa a hipótese nula) é definida pela avaliação do teste estatístico de todos os planos que poderiam ser gerados pelo desenho de randomização. Em inferência frequencista, a randomização permite que as inferências sejam baseadas nas distribuições de randomização ao invés de um modelo subjetivo.
+
+A randomização objetiva permite procedimentos propriamente indutivos. Muitos estatísticos preferem análise baseados na randomização dos dados que foram gerados por procedimentos de randomização bem definidos.
+
+É prática padrão se referir ao modelo estatístico, frequentemente um modelo linear, quando se analisa os dados de experimentos randômicos. No entanto, o esquema de randomização guia as escolhas de um modelo estatístico. Resultados seriamente enganosos podem ser obtidos ao analisar dados de experimentos randômicos enquanto ignorando o protocolo do experimento.
+
+Diferentes escolas de inferência estatística se estabeleceram. Estas escolas, ou "paradigmas", não são mutuamente excludentes, e métodos que funcionam bem sob um paradigma com frequência tem interpretações atraentes sob outros paradigmas. Os paradigmas clássico (ou frequencista), bayesiano e baseado no AIC são alguns deles.

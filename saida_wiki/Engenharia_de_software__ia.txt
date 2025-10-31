@@ -1,0 +1,11 @@
+Engenharia de software é uma área interdisciplinar que abrange princípios da engenharia, ciência da computação e gestão, aplicada ao desenvolvimento, operação e manutenção de sistemas de software. O objetivo é produzir software de forma sistemática, econômica, confiável e eficiente.
+
+A área surgiu na década de 1960 em resposta à crescente complexidade e aos desafios associados ao desenvolvimento de software.  Envolve a aplicação de teorias, métodos e ferramentas para o processo de software, que compreende atividades como especificação, projeto, construção, teste, implantação e manutenção.  Utiliza modelos abstratos para especificar, projetar, implementar, validar e manter sistemas de software.
+
+Os princípios fundamentais da engenharia de software incluem rigor e formalidade, separação de interesses, modularidade (alta coesão e baixo acoplamento), abstração, antecipação a mudanças, generalidade e incrementação.
+
+As áreas de conhecimento associadas à engenharia de software abrangem requisitos, projeto, construção, teste, manutenção, configuração, gestão de projetos, processos, ferramentas, métodos e qualidade do software.
+
+O processo de software é o conjunto de atividades, práticas e produtos utilizados para desenvolver e manter software. Modelos de processo de software, como cascata, iterativo, espiral e ágil, fornecem estruturas para organizar e gerenciar essas atividades.
+
+Modelos de maturidade, como o CMMI, são usados para avaliar e melhorar a qualidade dos processos de software em uma organização.

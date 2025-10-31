@@ -1,0 +1,19 @@
+A geometria analítica, também conhecida como geometria de coordenadas ou geometria cartesiana, é o estudo da geometria através de um sistema de coordenadas e dos princípios da álgebra e da análise. Diferentemente da geometria euclidiana, que parte de noções geométricas primitivas e utiliza o raciocínio dedutivo, a geometria analítica emprega métodos algébricos para representar e resolver problemas geométricos, estabelecendo uma correspondência entre equações algébricas e curvas geométricas. Essa correspondência permite a reformulação de problemas geométricos em termos algébricos e vice-versa, possibilitando a utilização de métodos de uma área para solucionar problemas na outra. É amplamente utilizada na física e na engenharia, e é fundamental para áreas modernas da geometria, como a geometria algébrica, diferencial, discreta e computacional.
+
+O sistema de coordenadas cartesianas é comumente empregado para manipular equações em planos, retas, curvas e círculos, geralmente em duas dimensões, mas também em três ou mais. A essência da geometria analítica reside na definição e representação numérica de formas geométricas, e na extração de informações numéricas dessa representação.
+
+Menecmo, matemático grego, utilizou métodos que se assemelham ao uso de coordenadas. Apolônio de Perga abordou problemas em "De Sectione Determinata" de forma que pode ser considerada uma "geometria analítica unidimensional", e desenvolveu um método para o estudo das propriedades das cônicas em "Cônicas". No entanto, a matemática de Apolônio difere da geometria analítica moderna em concepção e finalidade, especialmente na ausência da noção de equação.
+
+Na Idade Média, os tratados algébricos árabes utilizavam a geometria para justificar manipulações algébricas, em um papel inverso ao da geometria analítica, onde a álgebra é utilizada para obter resultados geométricos.
+
+No final do século XVI, François Viète introduziu uma notação algébrica sistemática, mas sua matemática estava ligada ao princípio da homogeneidade, que restringia operações de soma e subtração a termos semelhantes. René Descartes rompeu com esse princípio. Descartes e Pierre de Fermat são creditados por estabelecer a geometria analítica na década de 1630, embora seguindo abordagens distintas. Fermat seguia as práticas algébricas de Viète, enquanto Descartes desenvolveu um estilo próprio. Descartes manipulava equações para estudar curvas geometricamente definidas e enfatizou a necessidade de considerar curvas algébricas em geral. Fermat, por sua vez, enfatizou que qualquer relação entre as coordenadas x e y determina uma curva, revisando os argumentos de Apolônio em termos algébricos.
+
+O ponto central da geometria analítica é a sua capacidade de permitir que problemas geométricos sejam interpretados algebricamente, e que manipulações algébricas possam conduzir a resultados geométricos.
+
+Na geometria analítica, um sistema de coordenadas é atribuído ao plano, onde cada ponto possui um par de coordenadas reais. O espaço euclidiano acomoda sistemas onde cada ponto é definido por três coordenadas.
+
+O sistema de coordenadas mais comum é o plano cartesiano, onde cada ponto recebe uma coordenada x (posição horizontal) e uma coordenada y (posição vertical), escritas como um par ordenado (x, y). Este sistema pode ser estendido para geometria tridimensional, com cada ponto no espaço euclidiano representado por um trio ordenado (x, y, z).
+
+A distância entre dois pontos A(x₁, y₁) e B(x₂, y₂) no plano cartesiano é dada pela fórmula d(A, B) = √((x₂ - x₁)² + (y₂ - y₁)²).
+
+Outros sistemas de coordenadas incluem coordenadas polares, cilíndricas e esféricas, cada um com suas próprias aplicações e vantagens dependendo do problema geométrico em questão.

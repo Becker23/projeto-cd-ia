@@ -1,0 +1,230 @@
+Aerodinâmica, do grego antigo ἀήρ aer (ar) + δυναμική (dinâmica), é o estudo do movimento do ar, particularmente sua interação com um objeto sólido, como uma asa de avião. A aerodinâmica é um subcampo da mecânica dos fluidos. O termo aerodinâmica é frequentemente usado de forma sinônima com a dinâmica do gás, a diferença é que a "dinâmica do gás" se aplica ao estudo do movimento de todos os gases e não se limita ao ar. O estudo formal da aerodinâmica começou no sentido moderno no século XVIII, embora observações de conceitos fundamentais como o arrasto aerodinâmico haviam sido estudados muito mais cedo. A maioria dos primeiros esforços na aerodinâmica foram direcionados para o vôo mais pesado do que o ar, que foi demonstrado pela primeira vez por Otto Lilienthal em 1891. Desde então, o uso da aerodinâmica por meio de análises matemáticas, aproximações empíricas, experimentação em túnel de vento e simulações de computador formaram uma base racional para o desenvolvimento de voos de objetos mais pesados do que o ar e uma série de outras tecnologias. O trabalho recente em aerodinâmica se concentra em questões relacionadas ao fluxo compressível, turbulência e camada limite e tem se tornado cada vez mais computacional. 
+
+
+== Histórico ==
+A aerodinâmica moderna só remonta ao século XVII, mas as forças aerodinâmicas foram aproveitadas pelos humanos durante milhares de anos em veleiros e moinhos de vento e imagens e histórias de voo aparecem ao longo da história registrada [3], como a lenda da Grécia antiga de Ícaro e Dédalo. Conceitos fundamentais de continuidade , arrasto e gradientes de pressão aparecem no trabalho de Aristóteles e Arquimedes . [5] 
+Em 1726, Sir Isaac Newton tornou-se a primeira pessoa a desenvolver uma teoria da resistência do ar, [6] fazendo dele um dos primeiros aerodinâmicos. O matemático suíço Daniel Bernoulli seguiu em 1738 com Hydrodynamica em que descreveu uma relação fundamental entre pressão, densidade e velocidade de fluxo para o fluxo incompressível hoje conhecido como o princípio de Bernoulli , que fornece um método para calcular o elevador aerodinâmico. [7] Em 1757, Leonhard Euler publicou as equações Euler mais gerais que poderiam ser aplicadas tanto a fluxos compressíveis quanto incompressíveis. As equações de Euler foram estendidas para incorporar os efeitos da viscosidade na primeira metade do século XIX, resultando nas equações de Navier-Stokes .[8] [9] As equações de Navier-Stokes são as equações governantes mais gerais do fluxo de fluidos e são difíceis de resolver para o fluxo em torno de tudo, exceto as formulas mais simples, como: 
+Em 1799, Sir George Cayley tornou-se a primeira pessoa a identificar as quatro forças aerodinâmicas do voo ( peso , elevação , resistência aerodinâmica e impulso ), bem como as relações entre eles, [10] [11] e, nesse sentido, delineou o caminho para alcançar um voo mais pesado do que o ar para o próximo século. Em 1871, Francis Herbert Wenham construiu o primeiro túnel de vento , permitindo medidas precisas de forças aerodinâmicas. As teorias de arrasto foram desenvolvidas por Jean le Rond d'Alembert , [12] Gustav Kirchhoff , [13] e Lord Rayleigh. [14] Em 1889, Charles Renard, engenheiro aeronauta francês, tornou-se a primeira pessoa a prever razoavelmente o poder necessário para o voo sustentado. [15] Otto Lilienthal, a primeira pessoa a se tornar bem sucedida com voos de planador, também foi a primeira a propor linhas   aéreas curvas e finas que produziriam alta elevação e baixo arrastar. Com base nesses desenvolvimentos, bem como na pesquisa realizada em seu próprio túnel de vento, os irmãos Wright voaram no primeiro avião motorizado em 17 de dezembro de 1903. 
+
+Durante os primeiros voos, Frederick W. Lanchester , [16] Martin Wilhelm Kutta e Nikolai Zhukovsky criaram teorias independentes que ligavam a circulação de um fluxo de fluido para levantar. Kutta e Zhukovsky passaram a desenvolver uma teoria bidimensional de asas. Expandindo o trabalho de Lanchester, Ludwig Prandtl é creditado com o desenvolvimento da matemática [17] por trás de linhas de linha fina e linhas de elevação, bem como trabalhar com camadas de fronteira. 
+À medida que a velocidade da aeronave aumentava, os designers começaram a encontrar desafios associados à compressibilidade do ar a velocidades próximas ou superiores à velocidade do som. As diferenças nos fluxos de ar sob tais condições causam problemas no controle da aeronave, aumento do arraso devido a ondas de choque e a ameaça de falha estrutural por flutter aeroelástico. A proporção da velocidade do fluxo para a velocidade do som foi denominada Número de Mach após Ernst Mach, que foi um dos primeiros a investigar as propriedades do fluxo supersônico. William John Macquorn Rankine e Pierre Henri Hugoniot desenvolveu de forma independente a teoria das propriedades de fluxo antes e depois de uma onda de choque, enquanto Jakob Ackeret liderava o trabalho inicial de cálculo do elevador e arrastamento de linhas aéreas supersônicas. [18] Theodore von Kármán e Hugh Latimer Dryden introduziram o termo transônico para descrever as velocidades de fluxo em torno de Mach 1, onde o arrasto aumenta rapidamente. Esse rápido aumento de arrasto levou os aerodinâmicos e os aviadores a discordar sobre se o voo supersônico era viável até que a barreira do som fosse quebrada pela primeira vez em 1947 usando o avião Bell X-1 . 
+No momento em que a barreira do som estava quebrada, a compreensão dos aerodinâmicos do fluxo supersónico e do fluxo supersônico amadureceu. A Guerra Fria levou o projeto de uma linha em constante evolução de aeronaves de alto desempenho. A dinâmica de fluidos computacional começou como um esforço para resolver propriedades de fluxo em torno de objetos complexos e cresceu rapidamente até o ponto em que aeronaves inteiras podem ser projetadas usando software de computador, com testes de túnel de vento seguidos de testes de voo para confirmar as previsões do computador. Compreensão de supersônicos e hipersônicos. A aerodinâmica amadureceu desde a década de 1960, e os objetivos dos aerodinâmicos se deslocaram do comportamento do fluxo de fluidos da engenharia de um veículo, de modo que interage de forma pediculada com o fluxo de fluido. O design de aeronaves para condições supersônicas e hipersônicas, bem como o desejo de melhorar a eficiência aerodinâmica dos atuais sistemas de aeronave e propulsão, continua motivando novas pesquisas em aerodinâmica, enquanto o trabalho continua a ser feito em problemas importantes na teoria aerodinâmica básica relacionada à turbulência do fluxo e a existência e singularidade de soluções analíticas para as equações de Navier-Stokes.
+
+
+== Decolagem e aterrissagem ==
+Durante a decolagem da aeronave, existem forças que estão atuando sobre ela.
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ - Tração da hélice
+
+  
+    
+      
+        W
+        =
+        m
+        ∗
+        g
+      
+    
+    {\displaystyle W=m*g}
+  
+ (Peso da aeronave= massa * gravidade) - A unidade de medida para o peso é a força, que no Sistema internacional de Unidades (SI) é o Newton.
+
+  
+    
+      
+        R
+        =
+        μ
+        ∗
+        N
+      
+    
+    {\displaystyle R=\mu *N}
+  
+ (Força de atrito = letra mi * Normal)
+
+  
+    
+      
+        F
+        s
+        =
+        F
+        a
+        =
+        C
+        l
+        ∗
+        
+          (
+          
+            
+              ρ
+              2
+            
+          
+          )
+        
+        ∗
+        A
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Fs=Fa=Cl*\left({\frac {\rho }{2}}\right)*AV^{2}}
+  
+ (Força de sustentação = força de arrasto= coeficiente de sustentação ou arrasto * (densidade do ar/2 ) * área da asa (m²) *  (velocidade de voo²))
+Se tratando de aerodinâmica, a magnitude desta força depende de todas as partes do avião, mais a quantidade de combustível, mais toda a carga (pessoas, bagagens, etc.). O peso é gerado por todo o avião. Mas nós podemos simplesmente imaginá-la como se atuasse num único ponto, chamado centro de gravidade, neste caso é onde se concentram todas as foças do avião. Em voo, o avião gira sobre o centro de gravidade, e o sentido da força do peso dirige-se sempre para o centro da terra. Durante um voo, o peso do avião muda constantemente à medida que o avião consome combustível. A distribuição do peso e do centro de gravidade pode também mudar, e por isso o piloto deve constantemente ajustar os controles, ou transferir o combustível entre os depósitos, para manter o avião equilibrado.
+
+
+=== Sustentação ===
+
+Para fazer um avião voar, deve ser gerada uma força para compensar o peso. Esta força é chamada sustentação e é gerada pelo movimento do avião através do ar.
+A sustentação é uma força aerodinâmica ("aero" significa ar, e " dinâmica" significa movimento). A sustentação é perpendicular (em ângulo reto) à direção do escoamento incidente (vento). O escoamento incidente e o sentido/direção do voo não são necessariamente os mesmos, sobretudo em manobras. Tal como acontece com o peso, cada parte do avião contribui para uma única força de sustentação, mas a maior parte da sustentação do avião é gerada pelas asas. A sustentação do avião funciona como se atuasse num único ponto, chamado centro de pressão. O centro de pressão é definido tal como o centro de gravidade, mas usando a distribuição da pressão em torno de toda a aeronave, em lugar da distribuição do peso. No centro de pressão atuam somente forças. Além do centro de pressão, outro ponto no aerofólio é de grande importância no projeto de uma aeronave: o centro aerodinâmico. Neste, além das forças, surge um momento chamado Momento de Arfagem. O coeficiente de momento de arfagem não varia quando variamos o ângulo de ataque. O coeficiente de momento é um coeficiente adimensional que qualifica e quantifica se, para certo aerofólio, há um momento picante ou cabrante sobre o engaste da asa. Este momento é fundamental, por exemplo, na determinação das cargas aerodinâmicas para definição da estrutura e para o projeto de sistemas de controle, como o profundor.
+
+
+== Conceitos fundamentais ==
+Compreender o movimento do ar em torno de um objeto (geralmente chamado de campo de fluxo) permite o cálculo de forças e momentos que atuam sobre o objeto. Em muitos problemas aerodinâmicos, as forças de interesse são as forças fundamentais do voo: elevação, arrasto, impulso ( I= Δp, Δp = FΔt , logo temos que Δp (variação de momento),Δt (variação de tempo)) e sustentação. 
+Destes, levantar e arrastar são forças aerodinâmicas, ou seja, forças devido ao fluxo de ar sobre um corpo sólido. O cálculo dessas quantidades é muitas vezes baseado no pressuposto de que o campo de fluxo se comporta como um continuum. Os campos de fluxo continuo são caracterizados por propriedades como velocidade do fluxo, pressão, densidade e temperatura, que podem ser funções de posição e tempo. Essas propriedades podem ser medidas direta ou indiretamente em experimentos aerodinâmicos ou calculadas a partir das equações para conservação de massa, momentum e energia nos fluxos de ar. A densidade, a velocidade do fluxo e uma propriedade adicional, a viscosidade, são usadas para classificar os campos de fluxo. 
+
+
+== Classificação de fluxo ==
+
+A velocidade do fluxo é usada para classificar os fluxos de acordo com o regime de velocidade. Os fluxos substanciais são campos de fluxo em que o campo de velocidade do ar está sempre abaixo da velocidade local do som. Os fluxos transônicos incluem ambas as regiões de fluxo subsônico e regiões em que a velocidade de fluxo local é maior que a velocidade local do som. Os fluxos supersônicos são definidos como fluxos em que a velocidade do fluxo é maior do que a velocidade do som em todos os lugares. Uma quarta classificação, fluxo hipersônico, refere-se a fluxos onde a velocidade de fluxo é muito maior do que a velocidade do som. Os aerodinâmicos discordam da definição precisa do fluxo hipersônico. 
+O fluxo compressível explica a densidade variável dentro do fluxo. Os fluxos substanciais são muitas vezes idealizados como incompressíveis, ou seja, a densidade é assumida como constante. Os fluxos transônicos e supersônicos são compressíveis e os cálculos que negligenciam as mudanças de densidade nesses campos de fluxo produzirão resultados imprecisos. 
+A viscosidade está associada às forças de fricção em um fluxo. Em alguns campos de fluxo, os efeitos viscosos são muito pequenos, e as soluções aproximadas podem negligenciar os efeitos viscosos com segurança. Essas aproximações são chamadas fluxos invisentes. Os fluxos para os quais a viscosidade não é negligenciada são chamados de fluxos viscosos. Finalmente, os problemas aerodinâmicos também podem ser classificados pelo ambiente de fluxo. A aerodinâmica externa é o estudo do fluxo em torno de objetos sólidos de várias formas (por exemplo, em torno de uma asa de avião), enquanto a aerodinâmica interna é o estudo do fluxo através de passagens dentro de objetos sólidos (por exemplo, através de um motor a jato).
+
+
+=== Suposição contínua ===
+Ao contrário dos líquidos e sólidos, os gases são compostos de moléculas discretas que ocupam apenas uma pequena fração do volume preenchido pelo gás. Em um nível molecular, os campos de fluxo são constituídos pelas colisões de várias moléculas individuais de gás entre si e com superfícies sólidas. No entanto, na maioria das aplicações de aerodinâmica, a natureza molecular discreta dos gases é ignorada, e o campo de fluxo é assumido como se comportando como um continuum . Esta suposição permite que as propriedades do fluido, como a densidade e a velocidade do fluxo, sejam definidas em todos os lugares dentro do fluxo. 
+A validade da suposição contínua depende da densidade do gás e da aplicação em questão. Para que a suposição do continuum seja válida, o caminho livre médio. O comprimento deve ser muito menor do que a escala de comprimento do aplicativo em questão. Por exemplo, muitas aplicações de aerodinâmica lidam com aeronaves que voam em condições atmosféricas, onde o comprimento médio do caminho livre está na ordem dos micrômetros e onde o corpo é uma ordem de grandeza maior. Nesses casos, a escala de comprimento da aeronave varia de alguns metros até algumas dezenas de metros, o que é muito maior do que o comprimento médio do caminho livre. Para tais aplicações, a suposição do continuum é razoável. A suposição de continuidade é menos válida para fluxos de extrema densidade, como os encontrados por veículos em altitudes muito altas (por exemplo, 300 000 pés / 90 km) [5] ou satélites em órbita terrestre baixa. Nesses casos, a mecânica estatística é um método mais preciso para resolver o problema do que a aerodinâmica contínua. O número Knudsen pode ser usado para orientar a escolha entre mecânica estatística e a formulação contínua de aerodinâmica. 
+
+
+== Leis de conservação ==
+A suposição de um contínuo fluido permite resolver problemas na aerodinâmica usando leis de conservação de dinâmica de fluidos . 
+Considerando os artigos estudados, entendemos que as leis de conservação atuam de forma que o resultado da soma das forças iniciais devem ser iguais ao resultado da soma das forças finais atuando sobre o sistema. 
+São utilizados três princípios de conservação:
+
+Conservação da massa: na dinâmica dos fluidos, a formulação matemática deste princípio é conhecida como equação de continuidade em massa , que exige que a massa não seja criada nem destruída dentro de um fluxo de interesse.
+Conservação do impulso: na dinâmica dos fluidos, a formulação matemática deste princípio pode ser considerada uma aplicação da Segunda Lei de Newton . O impulso dentro de um fluxo só é alterado pelo trabalho realizado no sistema por forças externas, que podem incluir ambas as forças de superfície , como forças viscosa ( fricção ) e forças do corpo , como peso . O princípio de conservação do impulso pode ser expresso como uma equação vetorial ou separado em um conjunto de três equações escalares (componentes x, y, z). Na sua forma mais completa, as equações de conservação do impulso são conhecidas como as equações de Navier-Stokes. As equações de Navier-Stokes não possuem solução analítica conhecida e são resolvidas na aerodinâmica moderna usando técnicas computacionais. Devido ao custo computacional da resolução destas equações complexas, as expressões simplificadas de conservação de momentum podem ser apropriadas para aplicações específicas. As equações de Euler são um conjunto de equações de conservação de impulso que negligenciam as forças viscosas e podem ser usadas nos casos em que o efeito das forças viscosas seja pequeno. Além disso, a equação de Bernoulli é uma solução para a equação de conservação do impulso de um fluxo invisível que negligencia a gravidade.
+Conservação de energia: a equação de conservação de energia afirma que a energia não é criada nem destruída dentro de um fluxo, e que qualquer adição ou subtração de energia a um volume no fluxo é causada pelo fluxo de fluido, pela transferência de calor ou pelo trabalho e fora da região de interesse.  Logo, temos que considerar muitos fatores quando calculamos a lei de gases ideias. A lei de gás ideal ou outra tal equação de estado é frequentemente usada em conjunto com essas equações para formar um sistema determinado que permite a solução para as variáveis desconhecidas.
+
+
+== Sucursais de aerodinâmica ==
+Os problemas aerodinâmicos são classificados pelo ambiente de fluxo ou propriedades do fluxo, incluindo velocidade do fluxo , compressibilidade e viscosidade. A aerodinâmica externa é o estudo do fluxo em torno de objetos sólidos de várias formas. Avaliar a sustentação e o arrasto em um avião ou as ondas de choque que se formam na frente do nariz de um foguete são exemplos de aerodinâmica externa. A aerodinâmica interna é o estudo do fluxo através de passagens em objetos sólidos. Por exemplo, a aerodinâmica interna engloba o estudo do fluxo de ar através de um motor a jato ou através de um tubo de ar condicionado . 
+Problemas aerodinâmicos também podem ser classificados de acordo com a velocidade de fluxo inferior ou superior à velocidade do som. Um problema é chamado de subsônico se todas as velocidades do problema forem menores do que a velocidade do som, transônico se as velocidades abaixo e acima da velocidade do som estiverem presentes (normalmente quando a velocidade característica é aproximadamente a velocidade do som), supersônico quando o a velocidade característica do fluxo é maior do que a velocidade do som e hipersônica quando a velocidade do fluxo é muito maior do que a velocidade do som. Os aerodinâmicos discordam da definição precisa do fluxo hipersônico; uma definição áspera considera que os fluxos com números de Mach acima de 5 são hipersônicos.[5] 
+A influência da viscosidade no fluxo determina uma terceira classificação. Alguns problemas podem encontrar apenas efeitos viscoseis muito pequenos, caso em que a viscosidade pode ser considerada insignificante. As aproximações a esses problemas são chamadas de fluxos invisíveis . Os fluxos para os quais a viscosidade não pode ser negligenciada são chamados de fluxos viscosos.
+
+
+== Aerodinâmica incompressível ==
+ 
+Um fluxo incompressível é um fluxo em que a densidade é constante no tempo e no espaço. Embora todos os fluidos reais sejam compressíveis, um fluxo é frequentemente aproximado como incompressível se o efeito das mudanças de densidade causar apenas pequenas mudanças nos resultados calculados. Isto é mais provável que seja verdade quando as velocidades de fluxo são significativamente menores do que a velocidade do som. Os efeitos da compressibilidade são mais significativos a velocidades próximas ou superiores à velocidade do som. O número Mach é usado para avaliar se a incompressibilidade pode ser assumida, caso contrário, os efeitos da compressibilidade devem ser incluídos. 
+
+
+=== Fluxo substancial ===
+A aerodinâmica subsônica (ou de baixa velocidade) descreve o movimento do fluido em fluxos que são muito inferiores à velocidade do som em todo o fluxo. Existem vários ramos de fluxo subsônico, mas surge um caso especial quando o fluxo é invisível , incompressível e irrotacional. Este caso é chamado de fluxo potencial e permite que as equações diferenciais que descrevem o fluxo sejam uma versão simplificada das equações da dinâmica dos fluidos, disponibilizando assim ao aerodinamicista uma gama de soluções rápidas e fáceis. [19] 
+Ao resolver um problema subsônico, uma decisão a ser feita pelo aerodinâmico é a de incorporar os efeitos da compressibilidade. Compressibilidade é uma descrição da quantidade de mudança de densidade no fluxo. Quando os efeitos da compressibilidade na solução são pequenos, a suposição de que a densidade é constante pode ser feita. O problema é então um problema de aerodinâmica de baixa velocidade incompressível. Quando a densidade pode variar, o fluxo é chamado compressível. No ar, os efeitos de compressibilidade geralmente são ignorados quando o número de Mach no fluxo não excede 0,3 (cerca de 335 pés (102 m) por segundo ou 368 km (368 km) por hora a 60 ° F (16 ° C)). Acima do Mach 0.3, o fluxo problemático deve ser descrito usando aerodinâmica compressível. 
+
+
+== Aerodinâmica compressível ==
+ 
+De acordo com a teoria da aerodinâmica, um fluxo é considerado compressível se a densidade muda ao longo de uma linha aerodinâmica. Isso significa que - ao contrário do fluxo incompressível - mudanças na densidade são consideradas. Em geral, este é o caso em que o número de Mach em parte ou todo o fluxo excede 0,3. O valor de Mach 0.3 é bastante arbitrário, mas é usado porque o gás flui com um número de Mach abaixo desse valor demonstra mudanças de densidade inferior a 5%. Além disso, essa alteração de densidade máxima de 5% ocorre no ponto de estagnação (o ponto no objeto onde a velocidade do fluxo é zero), enquanto a densidade muda em torno do resto do objeto será significativamente menor. Os fluxos transônicos, supersônicos e hipersônicos são todos fluxos compressíveis. 
+
+
+=== Fluxo transônico ===
+
+O termo transônico refere-se a uma gama de velocidades de fluxo logo abaixo e acima da velocidade do som (geralmente tomada como Mach 0.8-1.2). É definido como o intervalo de velocidades entre o número crítico de Mach, quando algumas partes do fluxo de ar sobre uma aeronave se tornam supersônicas e uma velocidade maior, geralmente perto de Mach 1.2 , quando todo o fluxo de ar é supersônico. Entre essas velocidades, parte do fluxo de ar é supersônico, enquanto que um pouco do fluxo de ar não é supersônico. 
+
+
+=== Círculo supersônico ===
+
+Os problemas aerodinâmicos supersônicos são aqueles que envolvem velocidades de fluxo superiores à velocidade do som. Calcular o elevador no Concorde durante a velocidade de cruzeiro pode ser um exemplo de um problema aerodinâmico supersônico. 
+O fluxo supersônico se comporta de forma muito diferente do fluxo subsônico. Os fluidos reagem às diferenças de pressão; As mudanças de pressão são como um fluido é "dito" para responder ao seu ambiente. Portanto, como o som é de fato uma diferença de pressão infinitesimal propagando através de um fluido, a velocidade do som nesse fluido pode ser considerada a velocidade mais rápida que a "informação" pode viajar no fluxo.
+Esta diferença manifesta-se, obviamente, no caso de um fluido atingindo um objeto. Na frente desse objeto, o fluido aumenta a pressão de estagnação, como o impacto com o objeto traz o fluido em movimento para descansar. No fluido que viaja a velocidade subsônica, esse distúrbio de pressão pode se propagar a montante, alterando o padrão de fluxo à frente do objeto e dando a impressão de que o fluido "conhece" o objeto está aparecendo ajustando seu movimento e fluindo em torno dele. Em um fluxo supersônico no entanto, o distúrbio de pressão não pode se propagar a montante. Assim, quando o fluido finalmente atinge o objeto, ele o atinge e o fluido é forçado a mudar suas propriedades - temperatura , densidade , pressão e número de Mach - de uma forma extremamente violenta e irreversível chamada onda de choque. A presença de ondas de choque, juntamente com os efeitos de compressibilidade dos fluídos de alta velocidade do fluxo (ver número Reynolds ), é a diferença central entre os regimes de aerodinâmica supersônica e subsônica. 
+
+
+=== Fluxo Hipersônico ===
+
+Na aerodinâmica, as velocidades hipersônicas são velocidades altamente supersônicas. Na década de 1970, o termo geralmente se referia a velocidades de Mach 5 (5 vezes a velocidade do som) e acima. O regime hipersônico é um subconjunto do regime supersônico. O fluxo hipersônico é caracterizado pelo fluxo de alta temperatura por trás de uma onda de choque, interação viscosa e dissociação química do gás. 
+
+
+== Terminologia associada ==
+Os regimes de fluxo incompressíveis e compressíveis produzem muitos fenômenos associados, como camadas de limite e turbulência.
+
+
+=== Camadas de limite ===
+
+O conceito de uma camada de limite é importante em muitos problemas na aerodinâmica. A viscosidade e a fricção do fluido no ar são aproximadas como sendo significativas somente nesta camada fina. Essa suposição torna a descrição dessa aerodinâmica muito mais tratável matematicamente. 
+
+
+=== Turbulência ===
+
+Na aerodinâmica, a turbulência é caracterizada por mudanças de propriedade caóticas no fluxo. Estes incluem baixa difusão do momento, alta convecção momentânea e rápida variação da pressão e da velocidade do fluxo no espaço e no tempo. O fluxo que não é turbulento é chamado de fluxo laminar.
+
+
+== Aerodinâmica em outros campos ==
+
+A aerodinâmica é importante em várias aplicações diferentes da engenharia aeroespacial. É um fator significativo em qualquer tipo de design de veículo, incluindo automóveis . É importante na previsão de forças e momentos que atuam nos velejadores. É usado no projeto de componentes mecânicos, como cabeças de disco rígido. Os engenheiros estruturais também usam aerodinâmica, e particularmente aeroelástica , para calcular cargas de vento no projeto de grandes edifícios e pontes . A aerodinâmica urbana busca ajudar os urbanistas e os designers melhoram o conforto em espaços ao ar livre, criam microclimas urbanos e reduzem os efeitos da poluição urbana. O campo da aerodinâmica ambiental descreve as formas em que a circulação atmosférica e a mecânica de voo afetam os ecossistemas. A aerodinâmica das passagens internas é importante em aquecimento / ventilação , tubulação de gás e em motores automotivos, onde padrões de fluxo detalhados afetam fortemente o desempenho do motor. Pessoas que utilizam o design da turbina eólica usam aerodinâmica. Algumas equações aerodinâmicas são usadas como parte da previsão numérica do tempo. 
+
+
+== Ver também ==
+Aeronáutica
+Aerostática 
+Aerodinâmica automotiva
+Aviação
+Hidrodinâmica
+Princípio de Bernoulli
+Voo de insetos
+
+
+=== - Fluxos ===
+Fluxos hipersônicos
+Fluxos supersônicos
+Fluxos transônicos
+Dinâmica dos fluidos
+Asa de insetos - como os insetos voam
+Lista de tópicos de engenharia aeroespacial
+Lista de tópicos de engenharia
+Equações de Navier -Stokes
+Design de cone de nariz
+Barreira do som
+Efeito solo
+Fluidodinâmica computacional
+
+
+== Referências ==
+
+ 2.      ↑ "Wind Power's Beginnings (1000 BC – 1300 AD) Illustrated History of Wind Power Development". Telosnet.com.
+ 3.      ↑ Berliner, Don (1997). Aviation: Reaching for the Sky. The Oliver Press, Inc. p. 128. ISBN 1-881508-33-1.
+ 4.      ↑ Ovid; Gregory, H. (2001). The Metamorphoses. Signet Classics. ISBN 0-451-52793-3. OCLC 45393471.
+ 5.      1 2 3 Anderson, John David (1997). A History of Aerodynamics and its Impact on Flying Machines. New York, NY: Cambridge University Press. ISBN 0-521-45435-2.
+ 6.      ↑ Newton, I. (1726). Philosophiae Naturalis Principia Mathematica, Book II.
+ 7.      ↑ "Hydrodynamica". Britannica Online Encyclopedia. Retrieved 2008-10-30.
+ 8.      ↑ Navier, C. L. M. H. (1827). "Memoire sur les lois du mouvement des fluides". Mémoires de l'Académie des Sciences. 6: 389–440.
+ 9.      ↑ Stokes, G. (1845). "On the Theories of the Internal Friction of Fluids in Motion". Transactions of the Cambridge Philosophical Society. 8: 287–305.
+ 10.  ↑ "U.S Centennial of Flight Commission – Sir George Cayley". Archived from the original on 20 September 2008. Retrieved 2008-09-10. Sir George Cayley, born in 1773, is sometimes called the Father of Aviation. A pioneer in his field, he was the first to identify the four aerodynamic forces of flight – weight, lift, drag, and thrust and their relationship. He was also the first to build a successful human-carrying glider. Cayley described many of the concepts and elements of the modern airplane and was the first to understand and explain in engineering terms the concepts of lift and thrust.
+ 11.  ↑ Cayley, George. "On Aerial Navigation" Part 1 Archived 2013-05-11 at the Wayback Machine., Part 2 Archived 2013-05-11 at the Wayback Machine., Part 3 Archived 2013-05-11 at the Wayback Machine. Nicholson's Journal of Natural Philosophy, 1809–1810. (Via NASA). Raw text. Retrieved: 30 May 2010.
+12.  ↑ d'Alembert, J. (1752). Essai d'une nouvelle theorie de la resistance des fluides.
+ 13.  ↑ Kirchhoff, G. (1869). "Zur Theorie freier Flussigkeitsstrahlen". Journal für die reine und angewandte Mathematik. 70: 289–298.
+ 14.  ↑ Rayleigh, Lord (1876). "On the Resistance of Fluids". Philosophical Magazine. 2 (13): 430–441. doi:10.1080/14786447608639132.
+ 15.  ↑ Renard, C. (1889). "Nouvelles experiences sur la resistance de l'air". L'Aéronaute. 22: 73–81.
+ 16.  ↑ Lanchester, F. W. (1907). Aerodynamics.
+ 17.  ↑ Prandtl, L. (1919). Tragflügeltheorie. Göttinger Nachrichten, mathematischphysikalische Klasse, 451–477.
+ 18.  ↑ Ackeret, J. (1925). "Luftkrafte auf Flugel, die mit der grosserer als Schallgeschwindigkeit bewegt werden". Zeitschrift für Flugtechnik und Motorluftschiffahrt. 16: 72–74.
+ 19.  ↑ Katz, Joseph (1991). Low-speed aerodynamics: From wing theory to panel methods. McGraw-Hill series in aeronautical and aerospace engineering. New York: McGraw-Hill. ISBN 0-07-050446-6. OCLC 21593499. 
+
+
+== Leitura adicional ==

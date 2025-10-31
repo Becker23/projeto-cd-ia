@@ -1,0 +1,15 @@
+Genética é um ramo da biologia que se dedica ao estudo dos genes, da variação genética e da hereditariedade, compreendida como a forma pela qual características biológicas são transmitidas entre gerações de organismos. O termo foi utilizado pela primeira vez por William Bateson em 1908.
+
+Desde a pré-história, práticas de domesticação e cruzamento seletivo em animais e plantas indicam o uso empírico de princípios genéticos. Atualmente, a genética investiga as funções e interações dos genes, cuja informação é geralmente armazenada em cromossomos através da estrutura do DNA. Em alguns vírus, o genoma é constituído por RNA.
+
+Os genes codificam informações para a síntese de proteínas, embora existam genes não codificantes, como precursores de microRNAs ou RNAs estruturais. Proteínas atuam como enzimas ou estruturas, influenciando o fenótipo. A relação entre um gene e uma proteína é complexa, com um único gene podendo gerar múltiplos produtos dependendo da regulação da transcrição e do processamento do mRNA.
+
+Em 1866, Gregor Mendel estabeleceu padrões de hereditariedade em ervilhas, aplicando estatística ao estudo da genética. Mendel introduziu o conceito de alelo como unidade fundamental da hereditariedade. Seu trabalho, redescoberto no início do século XX, estabeleceu a base para a genética moderna. Em 1953, James Watson e Francis Crick elucidaram a estrutura do DNA, revelando a base física da informação genética. Na década de 1960, Marshall Nirenberg decifrou como a informação genética é codificada nas sequências de nucleotídeos do DNA.
+
+A genética clássica emprega técnicas anteriores à biologia molecular. A genética molecular estuda a estrutura e função dos genes em nível molecular, utilizando métodos da genética clássica e da biologia molecular. A sistemática molecular aplica a informação molecular para determinar a classificação científica dos organismos. Epigenética estuda características hereditárias não associadas a mudanças na sequência do DNA.
+
+Genética populacional, genética quantitativa e ecologia genética analisam populações de organismos, focando em diferentes aspectos sob influência das forças evolutivas. A genômica estuda padrões genéticos em larga escala no genoma, dependendo de genomas sequenciados e ferramentas bioinformáticas.
+
+Células haploides possuem um conjunto de cromossomos (n), enquanto células diploides possuem dois conjuntos (2n). Gametas são haploides, enquanto neurônios e outras células somáticas são diploides.
+
+A genética possui aplicações em diversas áreas, como engenharia genética, aprimoramento animal e vegetal, controle de pragas e medicina. A engenharia genética modifica o DNA de organismos para utilidades práticas.

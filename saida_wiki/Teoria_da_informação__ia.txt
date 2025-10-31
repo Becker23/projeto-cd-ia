@@ -1,0 +1,11 @@
+A teoria da informação é um campo da matemática que estuda a quantificação, o armazenamento e a comunicação da informação. Desenvolvida por Claude E. Shannon em 1948, a teoria busca estabelecer limites fundamentais para o processamento de sinais e as operações de comunicação. O trabalho seminal de Shannon, "A Mathematical Theory of Communication", introduziu conceitos que permitiram analisar e otimizar sistemas de compressão de dados e transmissão de informações.
+
+A entropia é uma medida central na teoria da informação, quantificando a incerteza associada a uma variável aleatória ou processo aleatório. Uma fonte com maior número de resultados igualmente prováveis tem maior entropia. Outras medidas importantes incluem a informação mútua, a informação condicional e a capacidade de um canal de comunicação.
+
+Aplicações práticas da teoria da informação incluem algoritmos de compressão de dados sem perdas (como ZIP) e com perdas (como MP3 e JPEG).
+
+A teoria da informação se situa na interseção da matemática, estatística, ciência da computação, física, neurobiologia e engenharia elétrica. Ela tem impacto em áreas como a comunicação espacial, o estudo de buracos negros e teorias da consciência, como a Teoria da Integração da Informação.
+
+No contexto da teoria da informação, "informação" se refere à redução da incerteza em um sistema. Um conteúdo informativo é avaliado pela sua capacidade de diminuir a indeterminação preexistente.
+
+Precursores da teoria da informação incluem Harry Nyquist e Ralph Hartley, cujos trabalhos na década de 1920 quantificaram a relação entre velocidade de transmissão e o número de níveis de tensão, e a capacidade de distinguir sequências de símbolos, respectivamente. Alan Turing também aplicou conceitos relacionados à análise estatística para decifrar a máquina Enigma durante a Segunda Guerra Mundial. A teoria também se fundamenta em conceitos da termodinâmica desenvolvidos por Ludwig Boltzmann e J. Willard Gibbs.

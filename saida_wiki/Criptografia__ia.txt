@@ -1,0 +1,31 @@
+A criptografia, também chamada de criptologia, é o estudo e a prática de técnicas para comunicação segura em ambientes adversários. Ela envolve a criação e análise de protocolos que previnem o acesso não autorizado a mensagens privadas. A criptografia moderna integra matemática, ciência da computação, segurança da informação, engenharia elétrica, processamento digital de sinais e física. Conceitos como confidencialidade, integridade, autenticação e não repúdio são fundamentais para a área. As aplicações incluem comércio eletrônico, cartões de pagamento, moedas digitais, senhas de computador e comunicações militares.
+
+Historicamente, a criptografia era sinônimo de cifragem, que transforma textos legíveis (textos simples) em textos ininteligíveis (textos cifrados). A decifragem reverte esse processo. A literatura criptográfica usa frequentemente os nomes "Alice" (ou "A") para o remetente, "Bob" (ou "B") para o destinatário, e "Eve" (ou "E") para o adversário. Com o desenvolvimento de máquinas de cifrar de rotor e computadores, os métodos criptográficos se tornaram mais complexos.
+
+A criptografia contemporânea se baseia na teoria matemática e na ciência da computação. Algoritmos criptográficos são projetados com base em suposições de dificuldade computacional, tornando-os desafiadores de quebrar na prática. Sistemas bem projetados são considerados "computacionalmente seguros". Avanços teóricos e tecnológicos exigem reavaliações e adaptações contínuas. Esquemas teoricamente seguros, como a cifra de uso único (OTP), são mais difíceis de usar do que os esquemas computacionalmente seguros.
+
+O avanço da tecnologia criptográfica levanta questões legais, com alguns governos classificando-a como arma e restringindo seu uso e exportação. Em algumas jurisdições, a lei permite que investigadores obriguem a divulgação de chaves de criptografia. A criptografia também é relevante na gestão de direitos digitais e disputas de direitos autorais.
+
+O termo "criptografia" surgiu no século XIX. Até os tempos modernos, o termo se referia quase exclusivamente à "cifragem", que é o processo de conversão de informações comuns em uma forma ininteligível. A decifragem é o inverso, em outras palavras, mover-se do texto cifrado ininteligível de volta para o texto simples. Uma cifra é um par de algoritmos que realizam a cifragem e a decifragem reversa. A operação detalhada de uma cifra é controlada tanto pelo algoritmo quanto, em cada instância, por uma "chave".
+
+Existem dois tipos principais de criptossistemas: simétricos e assimétricos. Em sistemas simétricos, a mesma chave secreta cifra e decifra uma mensagem. Os sistemas assimétricos usam uma "chave pública" para cifrar uma mensagem e uma "chave privada" relacionada para a decifrar.
+
+O termo "código" é frequentemente usado para significar qualquer método de cifragem ou ocultação de significado. No entanto, na criptografia, código tem um significado mais específico: a substituição de uma unidade de texto simples por uma palavra de código.
+
+Criptoanálise é o estudo de métodos para obter o significado de informações cifradas sem acesso à chave.
+
+Alguns usam os termos "criptografia" e "criptologia" alternadamente, enquanto outros usam "criptografia" para se referir especificamente ao uso e à prática de técnicas criptográficas e "criptologia" para se referir ao estudo combinado de criptografia e criptoanálise. A RFC 2828 informa que a esteganografia às vezes é incluída na criptologia.
+
+O estudo das características das línguas que têm alguma aplicação em criptografia ou criptologia é chamado de criptolinguística. A criptolinguística é especialmente usada em aplicações de inteligência militar para decifrar comunicações estrangeiras.
+
+Antes da era moderna, a criptografia focava na confidencialidade da mensagem. Nas últimas décadas, o campo se expandiu para incluir técnicas de verificação de integridade de mensagens, autenticação de identidade de remetente/destinatário, assinaturas digitais, provas interativas e computação segura.
+
+Os principais tipos de cifras clássicas são cifras de transposição e cifras de substituição. Uma cifra de substituição inicial foi a cifra de César, na qual cada letra no texto simples era substituída por uma letra com um número fixo de posições mais abaixo no alfabeto. O primeiro uso conhecido da criptografia é algum texto cifrado esculpido em pedra no Egito (c. 1900 a.E.C.).
+
+Diz-se que os gregos dos tempos clássicos conheciam cifras. A esteganografia também foi desenvolvida pela primeira vez nos tempos antigos.
+
+Na Índia, o Kama Sutra de Vātsyāyana, de 2000 anos, fala de dois tipos diferentes de cifras.
+
+Na Pérsia Sassânida, havia duas escritas secretas.
+
+David Kahn observa que a criptologia moderna se originou entre os árabes. Al-Khalil (717–786) escreveu o Livro de Mensagens Criptográficas, que contém o primeiro uso de permutações e combinações.

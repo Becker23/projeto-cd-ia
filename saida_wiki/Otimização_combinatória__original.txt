@@ -1,0 +1,45 @@
+A Otimização Combinatória é um ramo da ciência da computação e da matemática aplicada que estuda problemas de otimização em conjuntos finitos.
+Em um problema de otimização temos uma função objetivo e um conjunto de restrições, ambos relacionados às variáveis de decisão. Os valores possíveis às variáveis de decisão são delimitados pelas restrições impostas sobre essas variáveis, formando um conjunto discreto (finito ou não) de soluções factíveis a um problema. O problema pode ser de minimização ou de maximização da função objetivo. A resposta para o problema de otimização, ou seja, o ótimo global, será o menor (ou maior) valor possível para a função objetivo para o qual o valor atribuído às variáveis não viole nenhuma restrição. Em alguns casos, chegamos a valores cuja alteração discreta não conduz a resultados melhores, mas que não são também o óptimo global - a essas soluções chamamos de ótimo local.
+Há muitas classificações possíveis para o problema de otimização, e algumas delas apresentarão métodos exatos e eficientes de resolução. Outras levarão à necessidade de métodos não-exatos (heurísticas), uma vez que sua formulação e/ou resolução exatas levariam a uma complexidade intratável.
+Como técnicas de soluções exatas - em especial com algoritmo polinomial para alguns problemas - temos, por exemplo:
+
+Algoritmos de grafos (ver Teoria dos grafos)
+Algoritmos gulosos
+Algoritmo simplex
+Branch e bound
+Programação dinâmica
+Relaxação lagrangeana
+Programação com restrições
+Algumas das técnicas de obtenção de soluções aproximadas:
+
+Algoritmos genéticos
+Busca tabu
+Algoritmo da colônia de formigas
+Greedy Randomized Adaptive Search Procedures (GRASP)
+Redes neurais
+Simulated annealing (arrefecimento simulado)
+Entre as classificações possíveis, encontram-se:
+1) Quanto à relação entre as variáveis de decisão na função objetivo e nas restrições:
+
+Programação linear
+Programação não linear
+2) Quanto ao valor que podem assumir as variáveis:
+
+Programação real (nome não-utilizado, apenas posto aqui para diferenciação)
+Programação inteira
+Programação 0-1 (variáveis inteiras, com apenas dois valores possíveis)
+Programação mista (algumas variáveis reais e outras inteiras)
+3) Quanto à natureza da função objetivo:
+
+Função convexa - Ótimo local é global (mais simples)
+Função côncava - Ótimo local não necessariamente Global (mais complicado de resolver)
+
+
+== Alguns Problemas de Otimização Combinatória ==
+Problema do caixeiro viajante
+Problema de Roteamento de Veículos
+
+
+== Ver também ==
+Investigação Operacional
+Lista de algoritmos

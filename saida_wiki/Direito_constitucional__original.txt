@@ -1,0 +1,87 @@
+Direito constitucional é um ramo do Direito público interno que se ocupa do estudo  da Constituição, que pode ser vista não apenas como um conjunto de normas, mas também como um fenômeno social e, num sentido mais abrangente, o modo de organização de uma sociedade.
+
+
+== História ==
+Considera-se a Magna Carta o documento que esboçou o que posteriormente seria chamado de Constituição. Foi assinada pelo Príncipe João Sem Terra  face à pressão dos barões da Inglaterra medieval, e apesar da notícia histórica de que os únicos que se beneficiaram com tal direito foram os barões ingleses, o documento não perde a posição de elemento central na história do constitucionalismo ocidental. 
+A partir da moderna doutrina constitucionalista, a interpretação dada à Magna Carta sofre um processo de mutação denominado mutação constitucional, onde novos personagens ocupam as posições ocupadas originalmente pelos participantes daquele contrato feudal, de maneira que as prerrogativas e direitos que foram concedidos aos barões passam a ser devidos aos cidadãos, e os deveres e limitações impostos ao Príncipe João passam a limitar o poder do Estado.
+Contudo, foi a partir das "Revoluções Liberais" (Revolução Francesa, Revolução Americana e Revolução Industrial) que surgiu o ideário constitucional, no qual seria necessário, para evitar abusos dos soberanos em relação aos súditos, que existisse um documento onde se fixasse a estrutura do Estado, e a consequente limitação dos poderes do Estado em relação ao povo.
+Com o passar do tempo, em especial com as teorias elaboradas por Hans Kelsen, grande jurista da Escola Austríaca da primeira metade do século XX, passou-se a considerar a Constituição não como apenas uma lei limitadora e organizativa, mas como o próprio fundamento de validade de todas as leis de um Estado. Tal teoria era chamada de Teoria Pura do Direito.
+Mais tarde, outros pensadores como Ferdinand Lassalle, Konrad Hesse, Robert Alexy Juan Bautista Alberdi e Ronald Dworkin contribuíram sobremaneira para definir a real função da Constituição. Esta norma, superior a todas, não teria apenas a função de garantir a existência e limites do Estado. Ao contrário, ao invés de apenas ter um caráter negativo em relação ao exercício dos direitos das pessoas, a Lei Maior deve prever os Direitos Fundamentais inerentes a cada pessoa, e prever modos de garantir a eficácia dos mesmos, de modo que o Estado não apenas se negue a prejudicar as pessoas, mas sim cumpra aquela que é sua função essencial: a promoção da dignidade da pessoa humana.
+
+
+== Definição de Constituição ==
+Definição sociológica
+
+Ferdinand Lassalle, no livro "O que é uma Constituição Política", argumenta que desde tempos antigos os países tinham constituições não escritas "todos os países possuem, possuíram sempre, em todos os momentos de sua história, uma constituição real e verdadeira. A diferença é que agora se verifica - e isto deve ser realçado porque tem muita importância - não são as Constituições reais e efetivas, mas sim  as Constituições escritas nas folhas de papel". Há, contudo, divergência, pois "a ideia moderna de constitucionalismo nos remete ao ideal burguês de separação de poderes, repartição de competências, organização da sociedade e uma garantia de direitos individuais". 
+De todo modo, o constitucionalismo, teoria que deu ensejo à elaboração do que é formalmente chamado de Constituição, surgiu a partir das teorias de limitação do poder. As teses iluministas e do pensamento que também deu base à Revolução Francesa de 1789 também contribuíram para a sua formação e consolidação.
+
+Definição jurídica
+Em segundo lugar, pode-se falar num sentido jurídico. Tal sentido é defendido por Hans Kelsen que atribuí à Constituição a função de fundamento de validade das outras normas que dela decorrem.
+Segundo Kelsen, uma norma sempre terá o fundamento de validade numa norma anterior, designada como norma superior. A "Constituição seria o fundamento de validade de todo ordenamento infraconstitucional", ou seja, uma norma de hierarquia inferior buscando seu suporte de validade na norma imediatamente superior até chegar à Constituição". 
+Dessa forma,  Kelsen "atribuiu à Constituição um sentido jurídico de lei hierarquicamente superior em relação às demais normas, não importando o conteúdo, mas simplesmente a forma como é escalonada. Desse modo o fundamento da Constituição não está na sociologia, nem na política, mas sim no direito".
+Uma constituição não se apresenta  necessariamente na forma escrita. De fato, a falta de um documento constitucional específico é algo comum nos países onde as leis seguidas pela população tem sua origem em costumes sociais que prevaleceram no passado, ou seja, nesses países o Direito foi construído a partir dos costumes de uma sociedade, inclusive no que se refere à Constituição, que não está em um documento específico. Trata-se do Direito Consuetudinário, do qual um exemplo é o sistema anglo-saxão, existente na Inglaterra e nos Estados Unidos, onde é mais conhecido pelo nome "Common Law" (literalmente "Direito Comum").
+Isso não impede a existência de leis escritas que tenham hierarquia constitucional, sendo que é possível verificar esse tipo de normas escritas em países, por exemplo, como a Inglaterra, onde existe a Lei de Habeas Corpus ("Habeas Corpus Act"), de 1679, além da Magna Carta, de 1215.
+No entanto, a maioria das constituições que existem no mundo contemporâneo adota a forma escrita, tendo sido criadas e aprovadas por uma Assembleia Constituinte, onde se decide acerca da forma de Estado (federação ou Estado unitário), além de definir a forma de governo (República, Monarquia, Oligarquia, etc), o regime político (democracia, oligarquia, etc), o sistema de governo (parlamentarismo, presidencialismo, etc), e quais os direitos fundamentais dos cidadãos e nacionais. Quanto à organização estrutural dos temas, a Constituição é geralmente composta de um preâmbulo, de uma parte dogmática, e de disposições transitórias.
+
+
+== Normas constitucionais ==
+As normas constitucionais podem ser divididas em normas materialmente constitucionais ou normas formalmente constitucionais. As primeiras seriam aquelas que tratam de um sistema de reconhecimento dos direitos fundamentais, da participação do cidadão na política; da limitação dos poderes e da organização do Estado. Já as formalmente constitucionais seriam normas que não são tipicamente discutidas em direito constitucional, mas foram assim definidas pelo poder constituinte originário.
+Há ainda que se ressaltar as normas constitucionais que são cláusulas pétreas. Dispõe a Constituição brasileira de 1988 no art. 60, §4º que: "Não será objeto de deliberação a proposta de emenda tendente a abolir: I - a forma federativa de Estado; II - o voto direto, secreto, universal e periódico; III - a separação dos Poderes; IV - os direitos e garantias individuais".
+Além disso, as normas constitucionais podem versar sobre direitos fundamentais. Nesse caso, elas não podem sofrer retrocesso. Trata-se da chamada "vedação ao retrocesso social" das matérias de direitos fundamentais e de direitos humanos.
+No Brasil, as normas constitucionais originárias não podem ser declaradas inconstitucionais, pois o parâmetro para avaliar se algo é ou não constitucional são estas normas criadas pelo poder constituinte originário. Com efeito, rejeitou-se a tese de Otto Bachof chamada de "tese das normas constitucionais inconstitucionais" que considerava possível avaliar as normas constitucionais originárias, separando-as em um núcleo fundamental e as demais normas, de modo a declarar a inconstitucionalidade destas em face daquelas. Já as normas constitucionais criadas pela reforma constitucional podem ser declaradas inconstitucionais.
+
+
+== Sentidos de Constituição ==
+A Constituição possui quatro sentidos básicos: o sentido sociológico, o sentido jurídico, o sentido político e o sentido ideal.
+O sentido sociológico é defendido por Ferdinand Lassalle. Segundo ele, "as teorias jurídicas estão limitadas a descrever exteriormente como surgem as Constituições e o que estão aptas a produzir de efeito, pois existem forças sociais que regem e estabelecem de fato como é a realidade e a interferência destes fatores na sociedade, ou seja, que determinadas parcelas da sociedade, geralmente organizadas, exercem tamanho poder sobre o todo social e sobre suas  decisões, que chegam ao ponto de determinar o conteúdo das normas jurídicas e, por consequência, em um Estado de Direito, a atuação das instituições políticas". Dessa forma, "haveria uma Constituição real ou efetiva, a qual corresponde a soma dos fatores reais de poder que regem uma determinada nação e, por outro lado uma Constituição escrita, isto é, um ato meramente formal e transcrito". À vista disso, "de nada serve o que se escreve em uma folha de papel se não se ajusta à realidade, aos fatores reais e efetivos do poder".
+Em terceiro lugar, há o sentido político de Constituição. "O sentido político da Constituição nasce da vontade política, não se confundindo com o documento que a representa, sendo situações distintas, pois a vontade de formação social é antecedente a comunidade política (...) a Constituição teria caráter de documento formal, solene, contendo conjunto de normas jurídicas, que trata da organização primordial de um Estado, dá sentido ao seu funcionamento, estabelece os direitos individuais e fundamentais coletivos e individuais, além de estabelecer garantias a estes direitos. (...) Este entendimento tem por base a doutrina de Carl Schmitt, o qual indica a ausência de preocupação de saber onde as Constituições buscam sua energia, como ocorre na concepção sociológica, mas sim o porquê valem as Constituições, tratando-se a Constituição como a decisão política fundamental do Estado".
+Por fim, o jurista português Canotilho fala em um "sentido ideal de Constituição", defendendo que uma Constituição deveria consagrar: "um sistema de garantia da liberdade no sentido do reconhecimento dos direitos individuais e da participação do cidadão; a divisão de poderes, no sentido de garantia orgânica contra os abusos dos poderes estaduais; e a necessidade que a mesma fosse escrita".
+
+
+== Constituição inglesa ==
+Os ingleses não possuem uma constituição escrita como o Brasil. "O Direito Constitucional inglês vincula-se historicamente ao desenvolvimento de tradições normativas na Inglaterra, no País de Gales e na Irlanda do Norte".
+Embora alguns considerem a Magna Carta o documento que esboçou o que posteriormente seria chamado de Constituição, tendo em vista sua verve de limitar o poder do Rei, os benefícios não socorreram toda a população inglesa. Uma leitura completamente formulada desta Carta traduz que as prerrogativas e direitos que foram concedidos aos barões passam a ser devidos aos cidadãos, e os deveres e limitações impostos ao Príncipe João passam a limitar o poder do Estado.
+Tal estrutura depende do Parlamentarismo adotado na Inglaterra. "Em linhas gerais, o constitucionalismo inglês presenciou o triunfo do Parlamento e a transição de Estado estamental para Estado democrático e liberal. Cromwell não conseguiu se fazer sucedido por seu filho Ricardo, por fraqueza e temeridade desse último. Além disso, ao que consta, Ricardo Cromwell era um celerado. Os Stuart retornaram ao poder e os ingleses conheceram o período da Restauração. Cromwell teria sido desenterrado e seu corpo pendurado numa forca. Ao término da era da Restauração aprovou-se o Habeas Corpus Act, que determinava que não se podia prender sem mandado judicial, que o acusado deveria ser apresentado aos tribunais em 30 dias, que o réu não poderia ser enviado para prisão localizada fora do território do Reino. Proibia-se também que o acusado fosse julgado duas vezes pelo mesmo crime, a double jeopardy, como o instituto será conhecido pelo Direito norte-americano e subsequentemente aplicado em vários modelos constitucionais do mundo. Em 1689, a Revolução Gloriosa testemunhou o triunfo do parlamentarismo. Jaime II fez um acordo, deixando o trono vago, fugindo para a França. Guilherme de Orange, casado com Maria, filha de Jaime II, começou a exercer reinado marcado por governo parlamentar com bases oligárquicas, com assentamento em princípios liberais, calcados na Declaração de Direitos de 1689. Adotou-se o roteiro político de John Locke, síntese do contratualismo iluminista".
+Dizer que a Constituição inglesa não possui um documento escrito não significa que ela não possua diversos documentos que fazem parte do que é consuetudinariamente a Constituição. Dessa forma, são fontes do Direito Constitucional inglês "a margem dos costumes e dos referenciais históricos aqui alavancados, (...) a Petição de Direitos (1628), a Declaração de Direitos (1689), o Ato de União, com a Escócia (1707) e com a Irlanda (1800), além do Estatuto de Westminster (1931)".
+
+
+== Constituição brasileira ==
+
+A Constituição Federal atualmente em vigor no Brasil foi promulgada em 5 de outubro de 1988. Até março de 2023 contava com 132 Emendas Constitucionais aprovadas pelo Congresso Nacional do Brasil.
+
+a repartição de competências; 
+os três poderes; 
+a fiscalização contábil, orçamentária, patrimonial e operacional; 
+o processo legislativo; a reforma e a mutação constitucional; 
+as funções essenciais à justiça; 
+as finanças públicas 
+e o regime de precatórios.
+
+
+== Constituição portuguesa ==
+
+A atual Constituição Portuguesa entrou em vigor dia 25 de abril de 1976 tendo sofrido sucessivas revisões, realizadas pela Assembleia da República em 1982, 1989, 1992, 1997, 2001 , 2004 e 2005.
+
+
+== Constituição angolana ==
+A constituição angolana actualmente em vigor, é a terceira desde que a República de Angola é um Estado independente. A primeira constituição foi a Constituição de 1975, a segunda a de 1992, e a terceira, que é a actual, foi aprovada após ter sido revista na sequência do acordão do tribunal constitucional, aos 3 de Fevereiro de 2010, e promulgada aos 5 de Fevereiro do mesmo ano. A actual constituição não possui qualquer emenda, ou outra espécie de revisão. E estima-se que em 2012 serão realizadas as primeiras eleições a luz desta constituição.
+
+
+== Constituição de Timor-Leste ==
+
+O texto oficial da constituição está redigido em duas versões linguísticas, em cada um dos idiomas oficiais do país, tétum e português, e redigido em 170 artigos.
+
+
+== Ver também ==
+Tribunal constitucional de Portugal
+Direito público
+Direito do Estado
+Supremo Tribunal Federal do Brasil
+
+
+== Referências ==
+
+
+== Bibliografia ==
+André Ramos Tavares, Curso de direito constitucional. SP: Editora: Saraiva, 2007 (Brasil).
+Giorgio Berti, Interpretazione costituzionale, Cedam, Padova, 1989.

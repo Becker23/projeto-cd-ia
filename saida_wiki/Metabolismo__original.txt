@@ -1,0 +1,241 @@
+Metabolismo (do grego metabolismos, μεταβολισμός, que significa "mudança", troca) é o conjunto de transformações que as substâncias químicas sofrem no interior dos organismos vivos. A expressão metabolismo celular é usada em referência ao conjunto de todas as reações químicas que ocorrem nas células. Estas reações são responsáveis pelos processos de síntese e degradação dos nutrientes na célula e constituem a base da vida, permitindo o crescimento e reprodução das células, mantendo as suas estruturas e adequando respostas aos seus ambientes.
+As reações químicas do metabolismo estão organizadas em vias metabólicas, que são sequências de reações em que o produto de uma reação é utilizado como reagente na reação seguinte. Diferentes enzimas catalisam diferentes passos de vias metabólicas, agindo de forma concertada de modo a não interromper o fluxo nessas vias. As enzimas são vitais para o metabolismo porque permitem a realização de reações desejáveis mas termodinamicamente desfavoráveis, ao acoplá-las a reações mais favoráveis. As enzimas regulam as vias metabólicas em resposta a mudanças no ambiente celular ou a sinais de outras células.
+O metabolismo é normalmente dividido em dois grupos: anabolismo e catabolismo. Reações anabólicas, ou reações de síntese, são reações químicas que produzem nova matéria orgânica nos seres vivos. Sintetizam-se novos compostos (moléculas mais complexas) a partir de moléculas simples (com consumo de energia sob a forma de ATP). Reações catabólicas, ou reações de decomposição/degradação, são reações químicas que produzem grandes quantidades de energia (ATP) a partir da decomposição ou degradação de moléculas mais complexas (matéria orgânica). Quando o catabolismo supera em atividade o anabolismo, o organismo perde massa, o que acontece em períodos de jejum ou doença; mas se o anabolismo superar o catabolismo, o organismo cresce ou ganha massa. Se ambos os processos estão em equilíbrio, o organismo encontra-se em equilíbrio dinâmico ou homeostase. O metabolismo é fundamentalmente estudado pela Bioquímica, usando muitas vezes também técnicas ligadas à Biologia Molecular e à Genética.
+
+
+== Características gerais ==
+O metabolismo de um organismo determina quais substâncias são nutricionais e quais são tóxicas. Por exemplo, alguns procariontes utilizam ácido sulfídrico como nutriente; este gás é no entanto venenoso para animais. A taxa metabólica basal de um organismo é a medida da quantidade de energia consumida por todas essas reações químicas que o corpo precisa para funcionar.
+Uma característica do metabolismo é a semelhança de vias metabólicas básicas entre espécies muito diferentes. Por exemplo, o conjunto de intermediários reacionais encontrados no ciclo dos ácidos tricarboxílicos é encontrado de forma universal, em células tão diferentes como a bactéria Escherichia coli ou o elefante. Esta estrutura metabólica semelhante está provavelmente associada à grande eficiência dessas vias e na sua antiguidade na história da evolução.
+
+
+== História ==
+
+A história do estudo científico do metabolismo estende-se por quatro séculos, tendo evoluído da observação de organismos animais inteiros até ao estudo de reações metabólicas individuais na Bioquímica moderna. As primeiras experiências conduzidas de forma controlada foram publicadas por Santorio Santorio em 1614 no seu livro Ars de statica medecina. Neste, Santorio descreveu como determinou o seu próprio peso antes e depois de comer, beber, dormir, trabalhar, ter relações sexuais, jejuar e excretar. Ele descobriu que a maior parte da comida ingerida era perdida no que ele chamou de "perspiração insensível".
+Nestes estudos iniciais, os mecanismos destes processos metabólicos não eram conhecidos; pensava-se que o tecido vivo era animado por uma "força vital".
+No século XIX, enquanto estudava a fermentação do açúcar a álcool por leveduras, Louis Pasteur concluiu que a fermentação era catalisada por substâncias dentro das células de levedura, a que ele chamou de "fermentos". Pasteur escreveu que "a fermentação alcoólica é um acto correlacionado com a vida e organização das células de levedura, não com a morte ou putrefação das células." Esta descoberta, junto com a publicação da síntese química da ureia por Friedrich Wöhler em 1828, provou que os compostos orgânicos e as reações químicas existentes nas células partilham o mesmo princípio que qualquer outra área da Química.
+A descoberta das enzimas no início do século XX, por Eduard Buchner, separou o estudo das reações químicas do metabolismo do estudo biológico das células, marcando o início da Bioquímica como ciência independente. A quantidade de conhecimento bioquímico cresceu rapidamente durante o início do século XX. Um dos bioquímicos mais prolíficos dessa época foi Hans Krebs, que fez diversas contribuições no estudo do metabolismo. Ele descobriu o ciclo da ureia e, mais tarde, junto com Hans Kornberg, o ciclo dos ácidos tricarboxílicos (também conhecido por esta razão como ciclo de Krebs) e o ciclo do glioxilato.
+A investigação bioquímica moderna tem sido ajudada com a invenção e desenvolvimento de diversas técnicas, como a cromatografia, a difração de raios X, a espectroscopia de ressonância magnética nuclear, a marcação isotópica, a microscopia electrónica e simulações de dinâmica molecular. Estas técnicas permitiram a descoberta e análise detalhada de diversas moléculas e vias metabólicas nas células.
+
+
+== Substâncias bioquímicas relevantes ==
+
+A maioria das estruturas que compõem os seres vivos é fabricada a partir de três classes básicas de moléculas: aminoácidos, glícidos e lípidos. Como estas moléculas são vitais, o metabolismo concentra-se na fabricação destas, na construção de células e tecidos ou na sua degradação para uso como fonte de energia. Muitos compostos bioquímicos podem ser ligados entre si formando polímeros, como o ADN e as proteínas. Estas macromoléculas são parte essencial de todos os organismos vivos.
+Alguns dos polímeros mais comuns estão listados abaixo:
+
+
+=== Aminoácidos e proteínas ===
+As proteínas são compostas por aminoácidos dispostos numa cadeia linear e ligados entre si por ligações peptídicas. Muitas proteínas são as enzimas que catalisam as reações químicas no metabolismo. Outras proteínas têm funções estruturais ou mecânicas, como o sistema de armação celular usado para manter a forma da célula, o citoesqueleto.
+As proteínas têm também papéis importantes na sinalização celular, resposta imunitária, adesão celular, transporte activo através de membranas e no ciclo celular.
+
+
+=== Lípidos ===
+Os lípidos são o grupo mais diversificado de compostos bioquímicos. Constituem grande parte das membranas biológicas, tais como a membrana celular; além desta função estrutural, também servem como fonte de energia. Os lípidos são normalmente definidos como moléculas biológicas hidrofóbicas ou anfipáticas solúveis em solventes orgânicos como o benzeno ou o clorofórmio.
+As gorduras são um grande grupo de compostos que inclui os ácidos gordos e o glicerol; uma molécula de glicerol ligada a três ácidos gordos por uma ligação éster é um triacilglicerol. Existem diversas variações desta estrutura básica, incluindo a presença de estruturas como a esfingosina em esfingolípidos e grupos hidrofílicos como o fosfato nos fosfolípidos.
+Os esteroides, como o colesterol, são outro grupo significativo de lípidos sintetizados em células.
+
+
+=== Glícidos ===
+Os glícidos são aldeídos ou cetonas contendo diversos grupos funcionais hidroxilo. Os glícidos simples podem existir numa forma linear ou numa forma cíclica. São as moléculas biológicas mais abundantes e possuem funções muito diversificadas, como o armazenamento e transporte de energia (sob a forma de amido e glicogénio) e construção de elementos estruturais (como a celulose em plantas e a quitina em animais).
+
+Os glícidos mais simples são os monossacarídeos, que incluem a galactose, a frutose e a glicose. Os monossacarídeos podem formar polímeros designados polissacarídeos de formas muito diversas.
+
+
+=== Ácidos nucleicos ===
+Os polímeros ADN e ARN são longas cadeias de nucleótidos. Estas macromoléculas são essenciais no armazenamento e uso da informação genética, através dos processos de transcrição e síntese proteica. Esta informação é protegida por mecanismos de reparação do ADN e propagada através da replicação do ADN. Alguns vírus têm um genoma constituído por ARN (por exemplo, o HIV), e usam transcrição reversa para sintetizar ADN a partir desse ARN.
+O ARN de ribozimas (como o spliceossoma e ribossomas) apresenta actividade enzimática tal como as enzimas proteicas, pois pode catalisar reações químicas.
+Os nucleósidos são sintetizados a partir da ligação de uma base azotada a uma ribose. Estas bases são anéis heterocíclicos contendo azoto, classificados como purinas ou pirimidinas. Os nucleótidos também atuam como coenzimas em reações de transferência de grupos químicos.
+
+
+=== Coenzimas ===
+
+O metabolismo envolve um vasto conjunto de reações químicas, mas a maioria cai dentro de alguns tipos básicos de transferências de grupos funcionais. Esta química comum permite às células usarem um conjunto relativamente pequeno de intermediários metabólicos no transporte de grupos químicos de uma reação para a seguinte. Estes intermediários de transferência de grupos são as coenzimas. Cada classe de reação de transferência de grupos corresponde a uma determinada coenzima, servindo de substrato para um conjunto de enzimas que a produz e que a consome. Assim, as coenzimas são continuamente produzidas, consumidas e então recicladas.
+A coenzima mais central é o trifosfato de adenosina (ATP), a moeda de troca energética universal das células. O ATP é utilizado para transferir energia química entre diferentes reações químicas. Existe uma pequena quantidade de ATP permanentemente presente nas células, mas como é constantemente regenerado, o corpo humano é capaz de utilizar o seu peso em ATP por dia. O ATP age como uma ponte entre catabolismo e anabolismo, tendo as reações catabólicas como produtoras de ATP e as anabólicas como consumidoras. Também serve como um transportador de grupos fosfato em reações de fosforilação.
+As vitaminas são compostos orgânicos necessários em pequenas quantidades e que não podem ser sintetizados pelas células. Na nutrição humana, a maioria das vitaminas funciona como coenzimas após sofrerem uma modificação química; por exemplo, todas as vitaminas hidrossolúveis são fosforiladas ou ligadas a nucleótidos para a sua utilização intracelular. O dinucleótido de nicotinamida-adenina (NADH), um derivado da vitamina B3 (niacina), é uma coenzima importante que age como aceitador de hidrogénio. Centenas de diferentes tipos de desidrogenases retiram electrões dos seus substratos e reduzem NAD+ a NADH. Esta forma reduzida da coenzima é então substrato para redutases celulares que necessitem de reduzir os seus substratos. O dinucleótido de nicotinamida-adenina existe também sob uma forma fosfatada, NADPH. O par redox NAD+/NADH é mais importante no catabolismo, enquanto que o par NADP+/NADPH é mais usado no anabolismo.
+
+
+== Minerais e cofactores ==
+
+Cerca de 99% da massa dos mamíferos é constituída pelos elementos carbono, azoto, hidrogénio, oxigénio, cálcio, magnésio, sódio, potássio, cloro e enxofre. Destes, são considerados "inorgânicos" os metais, o enxofre e o cloro. Enquanto que alguns dos elementos inorgânicos são abundantes em sistemas vivos (como o sódio e o potássio), outros encontram-se em quantidades vestigiais. Os compostos orgânicos (proteínas, lípidos, glícidos) contêm a maioria do carbono e azoto; a maioria do oxigénio e hidrogénio encontra-se sob a forma de água.
+Os elementos inorgânicos mais abundantes atuam como electrólitos. Os iões mais importantes são o sódio, potássio, cálcio, magnésio, cloreto, fosfato e o ião orgânico bicarbonato. A existência de gradientes iónicos através de membranas celulares mantém a pressão osmótica e o pH. Os iões são também vitais para nervos e músculos, pois os potenciais de ação usados nestes tecidos são produzidos através da troca de electrólitos entre o fluido extracelular e o citoplasma. Os electrólitos entram e saem das células através de proteínas transmembranares denominadas canais iónicos. Por exemplo, a contração muscular depende do movimento de cálcio, sódio e potássio através de canais iónicos na membrana celular e túbulos-T.
+Os metais de transição são normalmente elementos vestigiais em organismos, sendo o zinco e o ferro os mais abundantes. Estes metais são usados  por algumas proteínas como cofactores e são essenciais para a actividade de metaloenzimas como a catalase e proteínas de transporte de dioxigénio como a hemoglobina. Tais metais atuam como cofatores quer estando ligados diretamente à cadeia polipeptídica, quer estejam integrados em moléculas orgânicas complexas que por sua vez se encontram ligadas à cadeia polipeptídica. Os cofatores sofrem modificações durante a catálise enzimática mas voltam sempre ao seu estado inicial no fim de um ciclo catalítico. Os metais de transição são absorvidos pelos organismos usando transportadores específicos e ligam-se a proteínas de armazenamento como a ferritina e a metalotioneína quando não é necessária a sua disponibilidade para intervir no metabolismo.
+
+
+== Catabolismo ==
+
+O catabolismo é o conjunto das reações metabólicas que libertam energia. Tais reações incluem a degradação e oxidação de moléculas encontradas em alimentos, assim como reações que captam a energia luminosa da luz solar. As reações catabólicas providenciam energia e componentes necessários às reações anabólicas. A natureza exata destas reações catabólicas difere de organismo para organismo: organismos organotróficos usam moléculas orgânicas como fonte de energia, enquanto litotróficos usam substratos inorgânicos e fototróficos captam energia solar, transformando-a em energia química.
+Todas estas diferentes formas de metabolismo dependem de reações redox que envolvem a transferência de electrões de moléculas doadoras reduzidas, como moléculas orgânicas, água, amoníaco, ácido sulfídrico ou os iões ferrosos (Fe2+), para moléculas aceitadoras, como o dioxigénio (O2), o nitrato (NO3−) ou o sulfato (SO42-). Em animais, estas reações envolvem a degradação de moléculas orgânicas complexas a moléculas mais simples, como dióxido de carbono (CO2) e água (H2O). Em organismos fotossintéticos, como as plantas e cianobactérias, estas reações de transferência electrónica não libertam energia, sendo antes utilizadas como forma de armazenar energia absorvida da luz solar.
+O conjunto de reações catabólicas mais comum em animais pode ser separado em três etapas diferentes. Na primeira etapa, moléculas orgânicas complexas como as proteínas, polissacarídeos ou lípidos são degradados nos seus componentes fora das células. Na etapa seguinte, estas moléculas de menor tamanho são importadas pelas células e convertidas a moléculas menores, normalmente o acetil-CoA, num processo que liberta energia. Na última etapa, o grupo acetilo do acetil-CoA é oxidado a água e dióxido de carbono, libertando energia que é armazenada através da redução da coenzima dinucleótido de nicotinamida-adenina, NAD+, a NADH.
+
+
+=== Digestão ===
+
+Macromoléculas como o amido ou as proteínas não podem ser rapidamente assimilados pelas células, tendo de ser degradados nos seus componentes de menor tamanho antes de poderem ser utilizados no metabolismo celular. A digestão destes polímeros é feita por diversas classes de enzimas. Estas enzimas digestivas incluem as proteases, que digerem proteínas a aminoácidos, e glicosídeo hidrolases, que digerem polissacarídeos a monossacarídeos.
+Os microorganismos excretam enzimas digestivas para o ambiente ao seu redor, enquanto que os animais segregam estas enzimas em células especializadas do sistema digestivo. Os aminoácidos ou açúcares libertados por estas enzimas extracelulares são então assimiladas pelas células através de proteínas específicas usando transporte activo.
+
+
+=== Energia de compostos orgânicos ===
+O catabolismo de glícidos consiste na degradação de glícidos complexos em unidades de menor tamanho. Os glícidos são normalmente assimilados pelas células após a sua digestão a monossacarídeos. Após entrada na célula, a principal via de degradação é a glicólise, em que açúcares como a glucose e a frutose são convertidos a piruvato, com formação em simultâneo de ATP. O piruvato é um intermediário de diversas vias metabólicas, mas a maioria é convertida a acetil-CoA, que entra no ciclo dos ácidos tricarboxílicos (ciclo de Krebs). Embora haja mais alguma formação de ATP neste ciclo, o produto principal deste é o NADH, resultante da redução do NAD+ quando o acetil-CoA é oxidado. Esta oxidação liberta dióxido de carbono (CO2). Uma via alternativa de degradação da glicose é a Via das pentoses-fosfato, que reduz a coenzima NADPH e produz pentoses como a ribose, o açúcar componente dos ácidos nucleicos.
+As gorduras são catabolizadas por hidrólise a ácidos gordos livres e glicerol. O glicerol entra na glicólise e os ácidos gordos são degradados por beta-oxidação a acetil-CoA, que entra então no ciclo dos ácidos tricarboxílicos. Devido à sua grande proporção de grupos metileno e pelo facto de os glícidos possuírem mais oxigénio nas suas estruturas químicas, os ácidos gordos libertam mais energia que os glícidos quando oxidados.
+Os aminoácidos são utilizados na síntese de proteínas e outras biomoléculas, ou oxidados a ureia e dióxido de carbono para obtenção de energia. A via de oxidação começa com a remoção do grupo amina por uma transaminase, deixando um esqueleto de carbono sob a forma de um cetoácido; o grupo amina é então metabolizado no ciclo da ureia. Vários cetoácidos obtidos através da desaminação de aminoácidos são também intermediários no ciclo dos ácidos tricarboxílicos: por exemplo, a desaminação do glutamato forma α-cetoglutarato. Os aminoácidos glucogénicos também podem ser convertidos a glicose, através da gluconeogénese.
+
+
+=== Fosforilação oxidativa ===
+
+Na fosforilação oxidativa, os electrões obtidos na oxidação de moléculas em diversas vias metabólicas, como por exemplo o ciclo dos ácidos tricarboxílicos, são transferidos para o dioxigénio, e a energia libertada é usada na produção de ATP. Em eucariontes, este processo é feito por uma série de proteínas, a cadeia de transporte eletrónico, que se encontram nas membranas mitocondriais. Em procariontes, estas proteínas encontram-se na membrana celular interna. Estas proteínas utilizam a energia obtida da oxidação de NADH para transportar protões através da membrana.
+O transporte de protões para o exterior da mitocôndria cria uma diferença de concentração de protões entre os dois compartimentos, criando um gradiente electroquímico. A presença deste gradiente força os protões a regressarem ao interior da mitocôndria através da ATP sintase. O fluxo de protões provoca a rotação da subunidade inferior da ATP sintase, o que causa a fosforilação de difosfato de adenosina (ADP) a trifosfato de adenosina (ATP).
+
+
+=== Energia de compostos inorgânicos ===
+A quimiolitotrofia é um tipo de metabolismo encontrado em procariontes, em que a energia é obtida a partir da oxidação de compostos inorgânicos. Estes organismos podem usar hidrogénio, compostos reduzidos de enxofre (como sulfuretos, ácido sulfídrico e tiossulfato), óxidos de ferro (II), ou amoníaco como fontes de agentes redutores, ganhando energia a partir da oxidação destes compostos com aceitadores de electrões como o oxigénio ou o nitrito. Estes processos microbiológicos são importantes em ciclos biogeoquímicos como a acetogénese, a nitrificação e a desnitrificação e são de importância crítica para a fertilidade do solo.
+
+
+=== Energia luminosa ===
+A energia da luz solar é captada por plantas, cianobactérias, alguns tipos de bactérias e de protistas. Este processo está frequentemente associado à fixação de dióxido de carbono em compostos orgânicos, que é um processo integrante da fotossíntese. Os sistemas de captura de energia e de fixação de carbono podem trabalhar separadamente em procariontes, como acontece com as bactérias púrpura e as bactérias verdes sulfurosas. Estas bactérias usam a luz solar como fonte de energia mas alternam o seu metabolismo entre a fixação de carbono e a fermentação de compostos orgânicos.
+A captação de energia solar é um processo semelhante à fosforilação oxidativa, pois ambos os processos envolvem o armazenamento de energia sob a forma de um gradiente de protões, que leva à síntese de ATP. No caso da fotossíntese, os electrões necessários para o funcionamento da cadeia de transporte electrónico provêm de proteínas colectoras de luz denominadas centros reacionais fotossintéticos. Estas estruturas dividem-se em dois tipos dependendo do pigmento fotossintético presente; a maioria das bactéria fotossintéticas possui apenas um tipo de centro, enquanto as plantas e as cianobactérias possuem dois.
+Em plantas, o fotossistema II usa energia luminosa para remover electrões da água, libertando oxigénio no processo. Os electrões movem-se então para o complexo do citocromo b6f, que usa a sua energia para transportar protões através das membranas dos tilacoides nos cloroplastos. Estes protões regressam ao interior dos tilacoides através da ATP sintase, num processo semelhante ao descrito nas mitocôndrias. Estes electrões podem então entrar no fotossistema I e ser utilizados na redução de NADP+, no ciclo de Calvin ou reciclados para gerar ainda mais ATP.
+
+
+== Anabolismo ==
+
+O anabolismo é o conjunto de reações metabólicas de síntese em que a energia libertada pelo catabolismo é utilizada para construir moléculas complexas. Em geral, as moléculas complexas que constituem estruturas celulares são construídas passo a passo a partir de precursores mais simples. O anabolismo divide-se em três etapas fundamentais:
+
+a síntese de precursores como aminoácidos, monossacarídeos, isoprenoides e nucleótidos,
+a activação destes precursores a formas reactivas usando energia proveniente do ATP
+e finalmente a construção de moléculas complexas, tais como proteínas, polissacarídeos, lípidos e ácidos nucleicos, a partir destes precursores activados.
+Os organismos diferem entre si na quantidade de diferentes moléculas que conseguem sintetizar. Os seres autotróficos, como as plantas, podem construir moléculas complexas (polissacarídeos e proteínas) a partir de moléculas muito simples como o dióxido de carbono e a água. Os seres heterotróficos necessitam de fontes alimentares para providenciar monossacarídeos e aminoácidos, para poder produzir macromoléculas. Os organismos podem ainda ser classificados segundo a fonte primária da sua energia: fotoautotróficos e foto-heterotróficos obtém energia a partir da luz solar, enquanto que organismos quimioautotróficos e quimio-heterotróficos obtêm energia a partir de reações de oxidação.
+
+
+=== Fixação de carbono ===
+
+A fotossíntese é o processo em que ocorre síntese de glicose a partir da luz solar, dióxido de carbono e água, havendo produção de oxigénio. Este processo utiliza ATP e NADPH produzido pelos centros reacionais fotossintéticos para converter CO2 em glicerol-3-fosfato, que pode ser então convertido a glicose. Esta reação de fixação de carbono é catalisada pela enzima RuBisCO e é parte integrante do ciclo de Calvin. Ocorrem três tipos de fotossíntese em plantas: fixação de carbono em plantas C3, fixação de carbono em plantas C4 e fotossíntese CAM. Estes tipos de fotossíntese diferem na via que o CO2 toma até ao ciclo de Calvin: as plantas C3 fixam o CO2 directamente, enquanto que as C4 e CAM incorporam-no noutros compostos de forma a adaptar a condições de alta luminosidade e dessecação. Algas e plantas aquáticas usam microcompartimentos subcelulares chamados pirenoides.
+Os mecanismos de fixação de carbono em procariontes fotossintéticos são mais diversificados. O CO2 pode ser fixado através do ciclo de Calvin, de um ciclo dos ácidos tricarboxílicos inverso ou através da carboxilação do acetil-CoA. Procariontes quimioautotróficos também utilizam o ciclo de Calvin para a fixação de carbono mas a energia usada nas reações provém de compostos inorgânicos.
+
+
+=== Glícidos ===
+No anabolismo de glícidos, ácidos orgânicos simples podem ser convertidos a monossacarídeos como a glicose, sendo então usados para sintetizar polissacarídeos como o amido. A produção de glicose a partir de compostos como o piruvato, o lactato, o glicerol, o glicerol-3-fosfato e aminoácidos é chamada gluconeogénese. Na gluconeogénese, o piruvato é convertido a glicose-6-fosfato usando diversos intermediários, muitos deles comuns à glicólise. No entanto, esta via não se resume a uma inversão da glicólise, pois diversos passos são catalisados por enzimas não-glicolíticas. Este é um aspecto importante pois permite a regulação separada da formação e da degradação da glicose, evitando que ambas as vias funcionem em simultâneo num ciclo fútil.
+Embora a gordura seja um modo comum de armazenamento de energia, em vertebrados, como os humanos, os ácidos gordos não podem ser convertidos a glicose através da gluconeogénese, pois estes organismos são incapazes de transformar acetil-CoA em piruvato. Por essa razão, após um longo jejum os vertebrados necessitam de produzir corpos cetónicos a partir de ácidos gordos para substituir a glicose em falta em tecidos e órgãos que não conseguem metabolizar ácidos gordos, como o cérebro. Noutros organismos, como plantas e bactérias, este problema metabólico é ultrapassado utilizando o ciclo do glioxilato, que evita o passo de descarboxilação no ciclo dos ácidos tricarboxílicos e permite a transformação de acetil-CoA a oxaloacetato, que pode ser então utilizado na produção de glicose.
+Os polissacarídeos e os glicanos são sintetizados através da adição sequencial de monossacarídeos, catalisada por glicosiltransferases, de um doador de açúcar fosforilado como o difosfato de uridina glicose (UDP-glicose) para um grupo hidroxilo aceitador no polissacarídeo nascente. Como qualquer um dos grupos hidroxilo da estrutura do substrato podem ser aceitadores, os polissacarídeos podem ter estruturas lineares ou ramificadas.
+Os polissacarídeos podem desempenhar funções estruturais ou metabólicas, podendo também ser transferidos para lípidos e proteínas pelas enzimas oligossacariltransferases.
+
+
+=== Ácidos gordos, isoprenoides e esteroides ===
+
+Os ácidos gordos são sintetizados pelas sintases de ácido gordo, que polimerizam e reduzem unidades de acetil-CoA. As cadeias acilo dos ácidos gordos são aumentadas através de um ciclo de reações que adicionam o grupo acilo, reduzem-no à forma álcool, desidratam este a um grupo alceno, sendo este finalmente reduzido a um grupo alcano. As enzimas envolvidas na biossíntese de ácidos gordos encontram-se divididas em dois grupos: em animais e fungos todas estas reações são catalisadas por uma proteína multifuncional (tipo I), enquanto que em plantas e bactérias diferentes enzimas catalisam as diversas reações (tipo II).
+Os terpenos e os isoprenoides são uma classe de lípidos, que inclui os carotenoides, sendo a maior classe de produtos naturais vegetais. Estes compostos são sintetizados através da montagem e modificação de unidades de isopreno doadas pelas moléculas precursoras pirofosfato de isopentenilo e pirofosfato de dimetilalilo. Estes precursores podem ser obtidos de diferentes formas. Em animais e arqueas, a via do mevalonato produz estes compostos a partir do acetil-CoA, enquanto que plantas e bactérias existe uma via alternativa (do não-mevalonato) que utiliza piruvato e 3-fosfato de gliceraldeído como substratos.
+Uma reação importante que utiliza estes doadores de isopreno é a síntese de esteroides. Nesta, as unidades de isopreno são unidas formando esqualeno; este é então convertido a lanosterol. O lanosterol pode ser então convertido a outros esteroides, como o colesterol e o ergosterol.
+
+
+=== Proteínas ===
+Diferentes organismos possuem diferentes capacidades de sintetizar os vinte aminoácidos mais comuns. A maioria das bactérias e plantas conseguem sintetizar todos os vinte aminoácidos; os mamíferos conseguem sintetizar apenas dez, denominados não-essenciais por esta razão. Assim, os aminoácidos essenciais têm de ser obtidos através da alimentação. Todos os aminoácidos são sintetizados a partir de intermediários da glicólise, do ciclo dos ácidos tricarboxílicos ou da via das pentoses-fosfato; o azoto não existente nestes intermediários é fornecido pelo glutamato ou pela glutamina. A síntese dos aminoácidos depende da formação do alfa-cetoácido apropriado, que sofre então transaminação para formar um aminoácido.
+Os aminoácidos são utilizados na síntese de proteínas, ao serem ligados entre si por ligações peptídicas numa cadeia linear. Os aminoácidos podem ser ligados num número de combinações quase infinito, fazendo com que cada proteína tenha uma sequência única de aminoácidos, denominada estrutura primária. As proteínas são sintetizadas a partir de aminoácidos ativados através de uma ligação éster a uma molécula de ARN de transferência (ARNt ou tRNA). Estes aminoácidos ativados, os aminoacil-tRNA, são sintetizados pela aminoacil-tRNA sintetase, numa reação dependente da presença de ATP. Os ribossomas atuam então no aminoacil-tRNA, agregando-o à cadeia polipeptídica nascente, segundo a informação dada pelo ARN mensageiro.
+
+
+=== Síntese de nucleótidos ===
+Os nucleótidos são sintetizados a partir de aminoácidos, dióxido de carbono e ácido fórmico em vias metabólicas que necessitam de grandes quantidades de energia. As purinas são sintetizadas a partir de nucleósidos (bases ligadas à ribose). Tanto a adenina como a guanina são sintetizadas a partir do monofosfato de inosina, que por sua vez é sintetizado usando átomos provenientes dos aminoácidos glicina, glutamina e aspartato, assim como de formato transferido pela coenzima tetra-hidrofolato. As pirimidinas são sintetizadas a partir da base orotato, formada a partir da glutamina e do aspartato.
+
+
+== Metabolismo redox e de xenobióticos ==
+Todos os organismos são constantemente expostos a compostos que não podem ser utilizados no metabolismo normal e que são potencialmente tóxicos se se acumularem nas células. Tais compostos são designados xenobióticos. Os xenobióticos, incluindo substâncias como drogas sintéticas, venenos e antibióticos, são desintoxicados usando um conjunto de enzimas específicas. Em humanos, estas enzimas incluem as citocromo P450 oxidases, as UDP-glucuronosiltransferases e as glutationo-S-transferases.
+Este sistema de enzimas atua em três fases. Na fase I, o xenobiótico é oxidado; na fase II, existe conjugação de grupos hidrofílicos no xenobiótico oxidado, de modo a torná-lo mais hidrossolúvel; na fase III reação esta que acontece graças a existência da Proteína-G, o xenobiótico modificado é expulso das células, podendo sofrer mais algum metabolismo em organismos multicelulares antes da sua excreção. Estas reações são bastante importantes em termos ecológicos, nomeadamente na biodegradação microbiana de agentes poluentes e biorremediação de terras contaminadas e derrames de combustíveis.
+Muitas destas reações microbianas são idênticas às existentes em organismos multicelulares. No entanto, e graças à sua enorme diversidade, os microorganismos conseguem desintoxicar uma variedade superior de xenobióticos que os organismos multicelulares, conseguindo inclusivamente degradar agentes poluentes orgânicos persistentes, como compostos organoclorados.
+Um problema relacionado com o dos xenobióticos prende-se com a existência de stress oxidativo em organismos aeróbios. Os processos associados à vida em aerobiose, como a fosforilação oxidativa e a formação de ligações dissulfureto em proteínas, produzem espécies reactivas de oxigénio, como o peróxido de hidrogénio. Estas espécies danosas são removidas por antioxidantes, como a glutationa, e enzimas, como a catalase e outras peroxidases.
+
+
+== Termodinâmica de sistemas vivos ==
+Os sistemas vivos têm de obedecer às leis da termodinâmica. A grande complexidade dos organismos aparentemente contradiz a segunda lei da termodinâmica, que enuncia que a entropia de um sistema fechado tende a aumentar; no entanto, os sistemas vivos são sistemas abertos que trocam energia e massa com o seu exterior. Assim, os organismos não se encontram em equilíbrio termodinâmico, sendo antes sistemas dissipativos, pois mantêm a sua ordem ao aumentar a entropia do seu ambiente. O metabolismo celular faz a ponte entre o processo espontâneo de catabolismo e o processo não espontâneo de anabolismo para obter este efeito. Em termos termodinâmicos, o metabolismo mantém a ordem ao criar desordem.
+
+
+== Metabolismo e a temperatura ==
+Em fungos, bactérias, plantas ou animais de sangue quente ou frio, vários processos interagem com a temperatura interna e externa aos organismos. As plantas e leveduras parecem ter um termostato biológico simples. Na planta Arabidopsis thaliana, uma única proteína (a histona H2A) desempenha o papel em variações de temperatura inferiores a 1 °C. Esta proteína altera o enrolamento do DNA, controlando assim o acesso a determinadas moléculas de DNA, ou inibindo a ativação de genes. Este efeito de "bio-termostato" parece ser comum na natureza. Entender esses mecanismos também pode ajudar a compreender melhor alguns dos efeitos da mudança do clima.
+
+
+== Regulação e controle ==
+
+O ambiente da maioria dos organismos encontra-se em constante mudança, sendo necessária uma apertada regulação das reações metabólicas de modo a manter um conjunto de condições mais ou menos constante nas células, chamado homeostase. A regulação metabólica permite aos organismos dar resposta a estímulos do exterior, permitindo a interação com o seu ambiente. Existem dois conceitos relacionados que são importantes para a compreensão da forma como são reguladas vias metabólicas: em primeiro lugar, a regulação de uma enzima numa via refere-se ao aumento ou diminuição da sua actividade enzimática em resposta a estímulos; o segundo conceito é o controlo exercido por esta enzima na velocidade total da via por sofrer variações na sua actividade enzimática, ou seja, o controlo do fluxo da via metabólica. Por exemplo, uma enzima pode sofrer grandes alterações na sua actividade (ou seja, ser muito regulada) mas se estas mudanças não tiverem um efeito significativo no fluxo da via metabólica, então esta enzima não está envolvida no controlo da via.
+
+Existem diversos níveis de regulação metabólica. Na regulação intrínseca, a via metabólica regula-se a si própria em resposta a mudanças nos níveis de substratos ou produtos; por exemplo, uma diminuição na quantidade de produto pode aumentar o fluxo da via para compensar essa diminuição. Este tipo de regulação envolve frequentemente o uso de regulação alostérica das diversas enzimas que participam na via metabólica. O controlo extrínseco corresponde à mudança do metabolismo de uma célula num organismo multicelular em resposta a sinais de outras células. Estes sinais são normalmente moléculas mensageiras solúveis, como hormonas e factores de crescimento, e são detectados por receptores específicos na superfície das células. Tais sinais são então transmitidos para o interior da célula por sistemas de mensageiros secundários que envolvem frequentemente a fosforilação de proteínas.
+A regulação do metabolismo da glicose pela insulina é um exemplo bem conhecido de controlo extrínseco. A insulina é produzida em resposta a um aumento da glicemia. A ligação da hormona a receptores de insulina na superfície de células activa uma cascata de cinases que provoca a absorção de glicose pelas células e a sua conversão a moléculas de armazenamento, como o glicogénio e os ácidos gordos. O metabolismo do glicogénio é controlado pela actividade da glicogénio fosforilase, a enzima que hidrolisa o glicogénio, e pela glicogénio sintase, a enzima que o sintetiza. Estas enzimas são reguladas de forma recíproca, em que a fosforilação activa a fosforilase e inibe a sintase. A insulina provoca a síntese de glicogénio ao activar fosfatases, produzindo um decréscimo na fosforilação destas enzimas.
+
+
+== Evolução ==
+
+As vias metabólicas descritas acima são comuns aos três domínios da vida (Eukarya, Archaea e Bacteria), considerando-se por isso que estavam também presentes no mais recente antecessor comum aos três domínios. Este antecessor era procariótico e provavelmente metanogénico, possuindo um extenso metabolismo de lípidos, aminoácidos, nucleótidos e glícidos. A preservação destas vias durante a evolução que se seguiu poderá ter resultado de serem uma solução optimizada para os seus problemas metabólicos específicos: ocorre a produção de metabolitos de forma eficiente e com um número mínimo de passos reacionais.
+Diversos são os modelos propostos para a descrição da evolução de novas vias metabólicas, incluindo a adição sequencial de enzimas a curtas vias ancestrais, a duplicação e posterior divergência evolutiva de vias metabólicas inteiras e a inclusão de enzimas preexistentes numa nova via reacional. Não é clara a importância relativa destes mecanismos, mas diversos estudos genómicos sugerem que as enzimas de uma dada via metabólica possuem um antecessor comum. Esta ancestralidade comum implica que diversas vias terão evoluído passo a passo, com a criação de novas funções a partir de passos reacionais preexistentes. Existe também a possibilidade de que partes do metabolismo existam como "módulos" que podem ser reutilizados em diferentes vias e que desempenham funções semelhantes em diferentes moléculas.
+A evolução de organismos pode levar também à perda de vias metabólicas. Por exemplo, em alguns parasitas, processos metabólicos que não são essenciais à sua sobrevivência são perdidos; o parasita absorve então aminoácidos, nucleótidos e glícidos do seu hospedeiro. Organismos endossimbióticos apresentam também capacidades metabólicas similarmente reduzidas.
+
+
+== Métodos de estudo ==
+
+O metabolismo é classicamente estudado usando uma aproximação reducionista, focando uma via metabólica isoladamente. A marcação isotópica de precursores é de grande utilidade em estudos com organismos inteiros, tecidos ou células, pois permite seguir o percurso dessas moléculas até serem transformadas no produto final, analisando intermediários e produtos marcados radioativamente. As enzimas que catalisam estas reações podem ser purificadas e analisadas do ponto de vista da sua actividade enzimática, medindo parâmetros cinéticos e respostas a inibidores. Outro tipo de investigação consiste na identificação de metabolitos numa célula ou tecido; o conjunto de metabolitos é por vezes designado metaboloma. De uma forma geral, este tipo de estudos é adequado para alcançar uma visão geral de uma via metabólica simples, mas é limitado quando aplicado a sistemas mais complexos, como o funcionamento de uma célula inteira.
+É possível ter uma ideia da complexidade da rede metabólica existente nas células, que possuem tipicamente milhares de enzimas, analisando a figura ao lado, que representa apenas 43 proteínas e 40 metabolitos. A sequenciação de genomas mostra que poderão existir até 45000 genes (que corresponderão a tantos outros polipéptidos). É, no entanto, possível usar esta informação genómica para reconstruir redes completas de reações bioquímicas e produzir modelos matemáticos holísticos que expliquem e prevejam o seu comportamento. Tais modelos são particularmente úteis quando usados na integração de dados obtidos através de métodos laboratoriais de análise de expressão genética, como o uso de proteómica e microarrays.
+Uma relevante aplicação tecnológica desta informação é a engenharia metabólica, em que organismos como leveduras, plantas ou bactérias são geneticamente modificados de modo a serem úteis em aplicações biotecnológicas, como a produção de medicamentos (por exemplo, antibióticos) ou reagentes químicos (como o propan-1,3-diol ou o ácido xiquímico).
+Finalmente, compreender os efeitos do metabolismo no projeto racional de novas fármacos ainda é um desafio considerável. No entanto, estudos recentes baseados em metodologias teóricas tem possibilitado prever possíveis efeitos metabólicos no planejamento racional de novos fármacos.
+
+
+== Ver também ==
+Regulação do ciclo do ácido cítrico
+Regulação alostérica
+Biofísica
+Fermentação
+Calorimetria
+Ciclos da natureza
+NC-IUBMB
+Pool metabólico
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Nível introdutório
+
+Rose, S. and Mileusnic, R., The Chemistry of Life. (Penguin Press Science, 1999), ISBN 0-14-027273-9
+Schneider, E. D. and Sagan, D., Into the Cool: Energy Flow, Thermodynamics, and Life. (University Of Chicago Press, 2005), ISBN 0-226-73936-8
+Lane, N., Oxygen: The Molecule that Made the World. (Oxford University Press, USA, 2004), ISBN 0-19-860783-0
+Nível avançado
+
+Price, N. and Stevens, L., Fundamentals of Enzymology: Cell and Molecular Biology of Catalytic Proteins. (Oxford University Press, 1999), ISBN 0-19-850229-X
+Berg, J. Tymoczko, J. and Stryer, L., Biochemistry. (W. H. Freeman and Company, 2002), ISBN 0-7167-4955-6
+Cox, M. and Nelson, D. L., Lehninger Principles of Biochemistry. (Palgrave Macmillan, 2004), ISBN 0-7167-4339-6
+Brock, T. D. Madigan, M. T. Martinko, J. and Parker J., Brock's Biology of Microorganisms. (Benjamin Cummings, 2002), ISBN 0-13-066271-2
+Da Silva, J.J.R.F. and Williams, R. J. P., The Biological Chemistry of the Elements: The Inorganic Chemistry of Life. (Clarendon Press, 1991), ISBN 0-19-855598-9
+Nicholls, D. G. and Ferguson, S. J., Bioenergetics. (Academic Press Inc., 2002), ISBN 0-12-518121-3
+
+
+== Ligações externas ==
+
+Informação geral
+
+«Esquema interactivo das principais vias metabólicas» 
+Metabolismo, respiração celular e fotossíntese
+A bioquímica do metabolismo
+Ferramentas educativas interactivas
+Metabolismo microbiano
+Representações gráficas das principais vias metabólicas
+Química para biólogos
+Notas sobre bioquímica
+Guia de biologia molecular
+Artigo sobre metabolismo na Encyclopœdia Britannica
+Calcule sua taxa metabólica (equação de Harris-Benedict)
+Glossários e dicionários
+
+Glossário de termos bioquímicos
+Glossário de termos bioquímicos
+Dicionário de biologia online
+Metabolismo humano
+
+Tópicos em bioquímica moderna
+THE Medical Biochemistry Page
+Bases de dados
+
+Esquema de vias metabólicas
+Base de dados KEGG PATHWAY
+Mapa das vias metabólicas IUBMB-Nicholson
+Reactome
+Vias metabólicas
+
+Guia da glicólise
+O ciclo do azoto e fixação do azoto
+Guia da fotossíntese
+O que é a fotossíntese? Coleção de artigos e outros recursos
+O metabolismo das plantas

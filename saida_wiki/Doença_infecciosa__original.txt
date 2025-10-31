@@ -1,0 +1,56 @@
+Na Medicina, uma doença infecciosa, doença infeciosa ou doença transmissível é uma doença ou distúrbio de funções orgânicas, causada por um agente infeccioso ou as suas toxinas através da transmissão desse agente ou seus produtos, do reservatório de uma pessoa ou animal infectado indiretamente, por meio de hospedeiro intermediário vegetal ou animal, por meio de um vetor, ou através do meio ambiente inanimado.
+Essencialmente é qualquer doença causada por um agente patogênico (como priões, vírus, rickettsias, bactérias, fungos e também parasitas), em contraste com causas externas ou físicas (por exemplo: acidentes queimadura, intoxicação por substâncias químicas. Observa também que sabe-se cada vez mais sobre o papel dos agentes infecciosos como causadores de doenças anteriormente consideradas como não infecciosas,  a exemplo do Helicobacter pylori como causador da úlcera péptica, tida como psicossomáticas, e vírus tais como, o papilomavírus humano e o herpesvírus (HHV8) associados à doenças neoplásicas como o câncer de colo uterino e o sarcoma de Kaposi, respectivamente.
+
+
+== Infecção ==
+
+A infecção é a penetração e desenvolvimento de um agente infeccioso (ver exemplos) no organismo do homem ou animal. Benenson o.c. ressalta que infeccção não é sinônimo de doença infecciosa sobretudo pelo possibilidade se ser inaparente, ou seja existe a presença de infecção num hospedeiro sem o aparecimento de sinais ou sintomas clínicos, sendo detectada apenas por métodos de laboratório. 
+Observe-se porém que a infeção inaparente ou subclínica não corresponde à fase pré clínica da história natural da doença. O período de incubação é o tempo compreendido entre a deposição do patógeno sobre o hospedeiro e o aparecimento do sintoma, o  sintoma, nesse contexto, refere-se à exteriorização da doença observável a olho nu. Em epidemiologia, a importância do período de incubação deve-se ao fato de a quantificação da doença basear-se, via de regra, em sintomas visíveis ou casos clínicos definidos, comprovados ou suspeitos.
+
+
+== Patogenicidade ==
+
+A patogenicidade é capacidade que um agente infeccioso tem de produzir a doença num hospedeiro susceptível. Esta capacidade depende tanto do poder invasivo ou virulência deste agente como da resistência e susceptibilidade do hospedeiro. O grau de patogenicidade ou virulência deve ser distinguido da capacidade invasiva do agente, sua capacidade de espalhar-se e disseminar-se no corpo, a exemplo do Clostridium tetani altamente patogênico, graças a sua endotoxina mas com limitada capacidade invasiva na pele integra (os esporos do tétano são introduzidos no corpo através de ferimentos)
+Alguns autores consideram a letalidade como expressão da virulência, esta corresponde portanto à magnitude ou grau da patologia enquanto a patogenicidade é a capacidade de um agente infeccioso produzir a doença num hospedeiro susceptível.  Pier na 15ª edição do "Harrison: Medicina Interna" define a virulência como a medida da capacidade de um microrganismo causar a doença em função dos fatores patogênicos microbianos no processo que compreende alguns estágios desde: o encontro com o micróbio; a entrada no hospedeiro; crescimento microbiano após a entrada; evasão das defesas inatas do hospedeiro; invasão tecidual e tropismo; lesão tecidual; e transmissão para novos hospedeiros. Ainda segundo Pier o.c. a doença é um fenômeno complexo resultante de invasão e destruição tecidual, elaboração de toxinas e respostas do hospedeiro. A resposta do hospedeiro envolve a resposta inflamatória do organismo bem como sua imunidade natural e adquirida.
+
+
+== Exemplos ==
+
+Exemplos de doenças infecciosas e seus agentes infectantes:
+
+Malária:  Protozoários do género Plasmodium
+Dengue: Vírus, arbovírus da família Flaviviridae
+Fasceíte necrotizante: Bactéria do gênero Staphylococcus
+Poliomielite: Vírus Enterovirus da família Picornaviridae
+Caxumba: Vírus do gênero Paramixovírus
+Tétano: Bactéria de gênero Clostridium
+Tuberculose: Bactéria do gênero Mycobacterium
+AIDS (HIV): Vírus: do gênero Lentivirus
+Catapora: Vírus do gênero Varicela-zoster
+Ebola: Vírus do gênero Ebolavirus
+Doenças infecciosas e parasitárias no CID-10 Rev.
+
+
+== Ver também ==
+
+Epidemiologia
+Parasitologia
+Quarentena
+Febre
+Antibioticoterapia
+Vigilância epidemiológica
+
+
+== Referências ==
+
+
+== Bibliografia adicional ==
+H. Krauss, A. Weber, M. Appel, B. Enders, A. v. Graevenitz, H. D. Isenberg, H. G. Schiefer, W. Slenczka, H. Zahner: Zoonoses. Infectious Diseases Transmissible from Animals to Humans. 3rd Edition, 456 pages. ASM Press. American Society for Microbiology, Washington DC., USA. 2003. ISBN 1-55581-236-8
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Dept. de  Vigilância Epidemiológica. Doenças infecciosas e parasitárias : guia de bolso. Brasília : Ministério da Saúde, 2010 PDF
+
+
+== Ligações externas ==
+«Zoonoses» 
+CDC - Centros para el Control y la Prevención de Enfermedades
+Centro Nacional de Epidemiologia - CENEPI
+Virulence - Taylor & Francis Journal (Online)

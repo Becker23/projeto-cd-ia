@@ -1,0 +1,151 @@
+Bioinformática é um campo interdisciplinar que corresponde à aplicação das técnicas da informática, no sentido de análise da informação, nas áreas de estudo da biologia. Como um campo interdisciplinar da ciência, a bioinformática combina a biologia, ciência da computação, estatística, matemática e engenharia para analisar, interpretar e processar dados biológicos.
+A bioinformática vem sendo utilizada para análises in silico de questões biológicas utilizando técnicas de matemática e estatística.
+Alguns especialistas brasileiros da área acreditam que a bioinformática, como se entende tradicionalmente no meio acadêmico e não pela análise da palavra, é circunscrita à biologia molecular, às vezes ainda mais especificamente restrita à Genômica. Outros acadêmicos, por outro lado, advogam a noção mais abrangente do termo para algo na direção da definição envolvendo informação biológica de modo geral.
+Buscando tratar os dados, é necessário desenvolver programas para, por exemplo: identificar genes, prever a configuração tridimensional de proteínas, identificar inibidores de enzimas, organizar e relacionar informação biológica, simular células, agrupar proteínas homólogas, montar árvores filogenéticas, comparar múltiplas comunidades microbianas por construção de bibliotecas metagenômicas e analisar experimentos de expressão gênica, entre outras inúmeras aplicações. De uma maneira menos formal, a bioinformática também tenta entender os princípios organizacionais de sequências de ácidos nucleicos e proteínas.
+Uma das maiores conquistas da bioinformática foi o mapeamento completo do genoma humano.
+A bioinformática tornou-se uma parte muito importante de muitas áreas da biologia molecular. Em biologia molecular experimental,  técnicas de bioinformática, tais como imagem e processamento de sinais, permitiram a extração de resultados úteis a partir de grandes quantidades de dados brutos. No campo da genética e genômica, ela auxilia no sequenciamento e anotações de genomas e suas mutações observadas. Ela também desempenha um papel importante na análise da expressão e regulação de genes e proteínas.
+As ferramentas de bioinformática auxiliam na comparação de dados genéticos e genômicos e, mais geralmente, na compreensão dos aspectos evolutivos da biologia ao nível molecular. A um nível mais integrativo, ela ajuda a analisar e catalogar as vias biológicas e redes, que são uma parte importante da biologia sistêmica. Em biologia estrutural, a bioinformática auxilia na simulação e modelagem de DNA, RNA e proteínas, bem como interações biomoleculares.
+
+
+== História ==
+O termo bioinformática foi originalmente usado pelos biológos Paulien Hogeweg e Ben Hesper no começo dos anos 1970 para definir o estudo de processos informacionais nos sistemas bióticos, sendo ela uma ciência interdisciplinar, envolvendo matemática, tecnologia computacional e biologia molecular.
+Três fatores importantes facilitaram a emergência da bioinformática:
+
+primeiramente, uma crescente coleção de sequências de aminoácidos, fornecendo tanto dados quanto uma coleção de problemas fascinantes que não poderiam ser resolvidos sem a capacidade de processamento dos computadores;
+a ideia que se tornava central na biologia molecular de que as macromoléculas carregavam informações, fornecendo uma importante ligação conceitual entre a biologia molecular e a ciência da computação, muito embora a relevância desta teoria tenha sido questionada;
+o início da acessibilidade para biólogos a computadores após a segunda guerra mundial.
+Podemos desenhar a árvore da história da bioinformática começando em 1951 com Fred Sanger sequenciando o aminoácido da insulina, dois anos depois, em 1953, James D. Watson e Francis Crick descrevem a estrutura em dupla hélice do DNA, Francis Crick novamente contribui com o Dogma Central da Biologia Molecular, onde ele ilustra os mecanismos de transmissão e expressão da hereditariedade e propõe que o DNA é transcrito em RNA mensageiro e que este é traduzido em proteína, elemento que por fim efetua a ação celular. Francis já compartilhava estas informações em 1956, porém somente em 1970 este conhecimento é compilado e distribuído oficialmente. Em 1961, Marshall W. Nirenberg e Heinrich J. Matthaei realizam o experimento de Nirenberg e Matthaei, onde se decifrou o código genético usando homopolímeros de ácidos nucleicos para traduzir aminoácidos específicos. Paul Berg juntamente com Robert H. Symons e David A. Jackson realizaram a primeira recombinação de uma molécula de DNA em 1972. Em 1973, um ano após o feito de Paul Berg, Stanley N. Cohen, Annie C. Y. Chang, Herbert W. Boyer, e Robert B. Helling realizam a primeira recombinação em um organismo, uma Escherichia coli que teve seu DNA recombinado in vitro.
+Em 1977, F. Sanger, S. Nicklen e A. R. Coulson mapearam o vírus ϕX174, que se torna então o primeiro genoma completamente mapeado. Emerge então um consenso de que era necessário um banco internacional de ácidos nucleicos, e em 1979, em um encontro realizado pela National Science Foundation na Universidade Rockefeller, é emitida uma chamada para a criação dessa base de dados. Nos dois anos seguintes, foram realizadas uma série de oficinas para definir o projeto que culminou em 1982 com o início oficial do GenBank.
+No ano de 1990, o National Institutes of Health (NIH) e o Department of Energy (DOE) se juntam a parceiros de todo o globo para iniciar o Projeto Genoma Humano, (HGP, do inglês Human Genome Project). Em 1995, ocorre o mapeamento da primeira bactéria, a Haemophilus influenzae Rd, com todos os seus 1.830.137 bases de pares de nucleotídeos sendo demonstrados no trabalho conjunto de diversos pesquisadores. Com a ajuda internacional e o rápido avanço tecnológico, o HGP anuncia em 2003, dois anos antes do previsto, o mapeamento completo do genoma humano.
+
+
+== Objetivos ==
+Um dos atuais objetivos da bioinformática é ajudar biólogos a recolher e processar dados de genomas para estudar funções de proteínas. Outro papel importante é o de ajudar pesquisadores e companhias farmacêuticas a realizarem estudos detalhados nas estruturas das proteínas a fim de facilitar o desenvolvimento de novas drogas. Tarefas típicas realizadas em bioinformática incluem: deduzir a forma e a função de uma proteína a partir de uma dada sequência de aminoácidos; encontrar todos os genes e proteínas em um determinado genoma; e determinar áreas na estrutura da proteína onde as moléculas da droga podem ser anexadas. Subdisciplinas importantes na bioinformática e biologia computacional incluem:
+
+Desenvolvimento e implementação de programas computacionais que permitem o acesso eficiente para uso e gestão de vários tipos de informação.
+Desenvolvimento de novos algoritmos e medidas estatísticas que avaliam as relações entre os membros de grandes conjuntos de dados. Por exemplo, existem métodos para localizar um gene dentro de uma sequência para prever a estrutura e / ou função da proteína, e a agrupar sequências de proteínas em famílias de sequências relacionadas.
+O objetivo primário da bioinformática é incrementar e interpretar processos biológicos. O que a diferencia das outras abordagens de interpretação de dados biológicos é seu foco no desenvolvimento e aplicação de técnicas computacionais intensivas para atingir esse objetivo.Exemplos: reconhecimento de padrões, mineração de dados e algoritmos de aprendizado de máquina.
+A maioria das pesquisas feitas no campo incluem alinhamento de sequências, descoberta de genes, montagem de genomas, desenho de drogas, descoberta de drogas, alinhamento de estruturas de proteínas, predição de estrutura protéica, predição de expressão gênica e interações proteína-proteína.
+Atividades comuns em bioinformática incluem mapeamento e análise de DNA e sequências de proteínas, alinhando DNA e sequências de proteínas para compará-los, e criação e visualização de modelos 3-D de estruturas de proteínas.
+
+
+=== Relação com outros campos ===
+A bioinformática é um campo da ciência que é similar, porém distinto de computação biológica e biologia computacional. Computação biológica utiliza bioengenharia e biologia para formar computadores biológicos, enquanto que a bioinformática utiliza a computação para a melhor compreensão da biologia. Bioinformática e biologia computacional têm objetivos e abordagens similares, mas se diferem em escala: bioinformática organiza e analisa dados biológicos, enquanto que a biologia computacional monta modelos teóricos de sistemas biológicos, assim como biologia matemática faz com modelos matemáticos.
+Analisar dados biológicos para produzir informações significativas envolve escrita e execução de programas que usam algoritmos de teoria de grafos, inteligência artificial, mineração de dados, processamento de imagens e simulação computacional. Os algoritmos, por sua vez dependem de fundamentos teóricos, tais como matemática discreta, teoria de controle, teoria de sistemas, teoria da informação e estatística.
+
+
+== Análise de sequências ==
+
+Artigos principais: alinhamento de sequências e banco de dados de sequências
+Desde que o Phage Φ-X174 foi sequenciado em 1977, as sequências de DNA de milhares de organismos vêm sendo decodificados e armazenados em bancos de dados. Essas informações de sequenciamentos são analisadas para determinar genes que codificam proteínas, sequências regulatórias, motivos estruturais e sequências repetitivas.
+Uma comparação de genes dentro de uma espécie ou entre diferentes espécies pode mostrar similaridades entre funções das proteínas, ou até relações entre espécies (uso da sistemática molecular para construir árvores filogenéticas). Com a quantidade crescente de dados, há muito tempo se tornou impraticável analisar sequências de DNA manualmente. Para um genoma grande como o genoma humano, pode-se demorar vários dias de tempo de CPU em grande memória, computadores com múltiplos processadores para montar os fragmentos, e o conjunto resultante geralmente inúmeras lacunas que devem ser preenchidas depois. O sequenciamento shotgun é o método de escolha para praticamente todos os genomas sequenciados de hoje, e os algoritmos de montagem de genoma é uma área crítica de pesquisa em bioinformática.
+Outro aspecto da bioinformática na análise de sequências é a anotação. Isto envolve descoberta computacional de genes para procurar genes codificadores de proteínas, e outras sequências funcionais dentro de um genoma. Nem todos os nucleotídeos dentro de um genoma fazem parte dos genes. Dentro dos genomas de organismos superiores, grandes partes do DNA não serve qualquer propósito óbvio.
+
+
+=== Sequenciamento de DNA ===
+Artigo principal: sequenciamento de DNA
+Antes que as sequências possam ser analisadas, precisam ser obtidas.Sequenciamento de DNA ainda é um problema não-trivial, pois os dados brutos pode ser ruidosos ou afligidos por sinais fracos. Foram desenvolvidos algoritmos de base para as várias abordagens experimentais para sequenciamento de DNA.
+
+
+=== Montagem de sequências ===
+Artigo principal: montagem de sequências
+A maioria das técnicas de sequenciamento de DNA produzem pequenos fragmentos de sequências que precisam ser montados para se obter sequências de genes ou genomas completos. Essa técnica é chamada de sequenciamento shotgun (que foi utilizado, por exemplo, pelo Instituto de Pesquisa Genômica (TIGR) para sequenciar o primeiro genoma bacteriano, Haemophilus influenzae)[17].
+
+
+=== Anotação genômica ===
+Artigo principal: predição de genes
+No contexto da genômica, anotação é o processo de marcação dos genes e outras características biológicas em uma sequência de DNA. Esse processo teve que ser automatizado pois a maioria dos genomas são grandes demais para serem anotados a mão. A anotação se tornou possível pelo fato de os genes terem regiões reconhecíveis de inicialização e parada, embora a sequência exata encontrada nessas regiões possa variar entre os genes.
+
+
+=== Biologia evolutiva computacional ===
+Informações adicionais: Filogenética computacional
+Biologia evolutiva é o estudo da origem e descendência de espécies, assim como suas mudanças ao longo do tempo. A informática tem ajudado os biólogos evolucionários possibilitando aos pesquisadores:
+
+Rastrear a evolução de um grande número de organismos mensurando mudanças em seu DNA, e não através da taxonomia física ou das observações fisiológicas isoladamente,
+Mais recentemente, comparar genomas inteiros, fato que permitiu o estudo de mais eventos evolutivos complexos, como duplicação de genes, transferência horizontal de genes, e predição de fatores importantes na especiação bacteriana,
+Montar modelos de genética populacional computacionais complexos para predizer o resultado do sistema ao longo do tempo[18]
+Acompanhar e partilhar informações sobre um número cada vez maior de espécies e organismos
+Trabalhos futuros tentam reconstruir a agora mais complexa árvore da vida.
+A área de pesquisa dentro da ciência da computação que utiliza algoritmos genéticos as vezes é confundida com biologia evolutiva computacional, mas essas duas áreas não necessariamente são relacionadas.
+
+
+=== Genômica comparativa ===
+O núcleo da análise genômica comparativa é o estabelecimento da correspondência entre genes ou outras características genômicas em diferentes organismos. São esses mapas intergenômicos que permitem rastrear os processos evolutivos responsáveis pela divergência de dois genomas. Uma multidão de eventos evolutivos agindo em vários níveis organizacionais formam a evolução do genoma. No nível mais baixo, as mutações pontuais afetam nucleotídeos individuais. Em um nível mais elevado, grandes segmentos cromossômicos sofrem duplicação, transferência lateral, inversão, transposição, deleção e inserção.[19]
+Em última análise, genomas inteiros estão envolvidos em processos de hibridização, poliploidização e endossimbiose, muitas vezes levando à rápida especiação. A complexidade da evolução do genoma apresenta muitos desafios emocionantes para os desenvolvedores de modelos matemáticos e algoritmos, que recorrem a um espectro de algoritmos, técnicas de matemática e estatística, que vão desde a exata, heurística, parâmetro fixo e algoritmos de aproximação para problemas baseados em modelos de parcimônia até algoritmos de Markov Chain Monte Carlo para análise Bayesiana de problemas com base em modelos probabilísticos.
+Muitos destes estudos baseiam-se na detecção de homologia e na computação de famílias de proteínas.[20]
+
+
+=== Genética das doenças ===
+Com o advento da próxima geração de sequenciamento, dados de sequência suficientes para mapear os genes de doenças complexas como diabetes,[22] infertilidade, [23]  câncer de mama [24] ou doença de Alzheimer[25]  estão sendo obtidos. Os estudos de associação do genoma inteiro são uma aproximação útil para identificar as mutações responsáveis por tais doenças complexas. Através desses estudos, foram identificadas milhares de variantes de DNA que estão associadas a doenças e traços semelhantes. 
+Além disso, a possibilidade de genes serem usados no prognóstico, diagnóstico ou tratamento é uma das aplicações mais essenciais. Muitos estudos estão discutindo as maneiras promissoras de escolher os genes a serem usados e os problemas e armadilhas de usar genes para prever a presença de doença ou prognóstico.
+
+
+=== Análise de mutações no câncer ===
+No câncer, os genomas das células afetadas são organizados de forma complexa ou até mesmo imprevisível. Esforços de sequência maciça são usados para identificar mutações pontuais previamente desconhecidas em uma variedade de genes em câncer. Os bioinformatas continuam a produzir sistemas automatizados especializados para gerenciar o grande volume de dados de sequência produzidos e criam novos algoritmos e softwares para comparar os resultados de sequenciamento com a crescente coleção de sequências de genomas humanos e polimorfismos da linha germinal. Utilizam-se novas tecnologias de detecção física, tais como microarrays de oligonucleotídeos para identificar ganhos e perdas cromossômicas (chamadas hibridização genômica comparativa) e arranjos de polimorfismo de nucleotídeo único (SNPs) para detectar mutações pontuais conhecidas.
+Estes métodos de detecção medem simultaneamente várias centenas de milhares de sítios ao longo do genoma e, quando utilizados em alto rendimento para medir milhares de amostras, geram terabytes de dados por experiência. Mais uma vez, as quantidades maciças e os novos tipos de dados geram novas oportunidades para os bioinformatas.
+Com os avanços que essa tecnologia de sequenciamento da próxima geração está fornecendo para o campo da Bioinformática, a genômica do câncer poderá mudar drasticamente. Esses novos métodos e softwares permitem aos bioinformatas sequenciar muitos genomas de câncer de forma rápida e acessível. Isto poderia criar um processo mais flexível para a classificação de tipos de câncer através da análise de mutações no genoma do condutor de câncer. Além disso, o rastreamento dos pacientes enquanto a doença progride pode ser possível no futuro com a sequência de amostras de câncer.
+
+
+== Expressão de genes e proteínas ==
+
+
+=== Análise de expressão gênica ===
+A expressão de vários genes pode ser determinada mensurando os níveis de mRNA com múltiplas técnicas, incluindo microarrays, marcação de sequência de cDNA expressos (EST), análise em série do sequenciamento de expressão gênica (SAGE), sequenciamento de assinaturas massivamente paralelas (MPSS), RNA-SEq, também conhecido como "Sequenciamento shotgun do transcriptoma completo (WTSS)", ou várias aplicações em hibridizações in-situ multiplexadas.
+Todas essas técnicas são extremamente propensas à ruídos e / ou sujeitas a viés na medição biológica, e uma importante área de pesquisa em biologia computacional envolve o desenvolvimento de ferramentas estatísticas para separar o sinal do ruído em estudos de expressão gênica de alto rendimento.[30]Tais estudos são frequentemente utilizados para determinar os genes implicados num distúrbio: pode comparar-se os dados de microarray de célular epiteliais cancerosas a dados de células não cancerosas para determinar os transcritos que são regulados para cima e regulados para baixo numa determinada população de células cancerosas.
+
+
+=== Análise de expressão proteica ===
+Os microarrays de proteína e espectrometria de massa de alta produtividade (HT) podem fornecer um snapshot das proteínas presentes em uma amostra biológica. A bioinformática está diretamente envolvida em dar sentido aos dados de microarrays de proteínas e de espectrometria de massas (MS); a primeira abordagem enfrenta problemas semelhantes aos microarrays direcionados para o mRNA, o último envolve o problema de combinar grandes quantidades de dados de massa contra as massas previstas a partir de bases de dados de sequências de proteínas e a análise estatística complicada de amostras onde múltiplos, mas incompletos peptídeos de cada proteína são detectados. As técnicas de bioinformática foram aplicadas para explorar várias etapas neste processo.
+
+
+=== Análise da regulação ===
+A regulação é a orquestração complexa de eventos pelos quais um sinal, potencialmente um sinal extracelular tal como um hormônio, conduz eventualmente a um aumento ou diminuição na atividade de uma ou mais proteínas.
+Por exemplo, a expressão gênica pode ser regulada por elementos próximos no genoma. A análise de promotor envolve a identificação e estudo de motivos de sequência no DNA envolvendo a região codificante de um gene. Estes motivos influenciam a extensão em que essa região é transcrita em mRNA. Elementos enhancer afastados do promotor também podem regular a expressão de genes, através de interações de loop tridimensional. Estas interações podem ser determinadas pela análise bioinformática de experimentos de captura de conformação cromossômica.
+Os dados de expressão podem ser usados para inferir a regulação de genes: um pode comparar dados de microarrays de uma grande variedade de estados de um organismo para formar hipóteses sobre os genes envolvidos em cada estado. Em um organismo unicelular, pode-se comparar os estádios do ciclo celular, juntamente com várias condições de estresse (choque térmico, fome, etc.), então pode-se aplicar algoritmos de clustering a esses dados de expressão para determinar quais genes são co-expressos.
+Por exemplo, as regiões upstream (promotoras) dos genes co-expressos podem ser pesquisadas para elementos reguladores super representados. Exemplos de algoritmos de clustering aplicados em agrupamento de genes são k-means, mapas auto-organizados (SOMs), agrupamento hierárquico e métodos de agrupamento por consenso.
+
+
+== Análise da organização celular ==
+Várias abordagens foram desenvolvidas para analisar a localização de organelas, genes, proteínas e outros componentes dentro das células, isso é relevante porque a localização desses componentes afeta os eventos dentro de uma célula e, portanto, nos ajuda a prever o comportamento dos sistemas biológicos. Uma categoria do gene ontology, compartimento celular, foi concebida para capturar a localização subcelular em muitas bases de dados biológicas.
+
+
+=== Microscopia e análise de imagens ===
+As imagens microscópicas permitem localizar organelas e moléculas, também pode ajudar-nos a distinguir entre células normais e anormais, ex. em câncer.
+
+
+=== Localização de proteínas ===
+A localização de proteínas nos ajuda a avaliar o papel de uma proteína. Por exemplo, se uma proteína é encontrada no núcleo, ela pode estar envolvida na regulação gênica ou splicing. Em contraste, se uma proteína é encontrada nas mitocôndrias, ela pode estar envolvida na respiração ou em outros processos metabólicos. A localização das proteínas é, portanto, um importante componente da predição da função das proteínas.
+
+
+== Bioinformática Estrutural ==
+
+A bioinformática estrutural pode ser entendida com uma área da bioinformática responsável pelo estudo de moléculas que possuem estruturas, como por exemplo, DNA, RNA, proteínas e outros compostos menores. Um dos grandes desafios dessa área é compreender como essas moléculas interagem, as suas funções e observar suas estruturas. Algumas técnicas utilizadas são o alinhamento e comparação de sequências. Atualmente uma das grandes aplicações da bioinformática estrutural é o desenvolvimento de novos fármacos, que tem crescido devido ao grande investimento de grandes empresas.
+Uma das ideias chave em bioinformática é a noção de homologia. No ramo da genômica em bioinformática, a homologia é utilizada para predizer a função de um gene:se a sequência do gene A, cuja função é conhecida, é homóloga a sequência do gene B, cuja função é desconhecida, pode-se inferir que o gene B pode compartilhar das funções do gene A.
+No ramo estrutural da bioinformática, a homologia é utilizada para determinar quais partes de uma proteína são importantes na formação da estrutura e interação com outras proteínas. Atualmente, esta continua a ser a única maneira de prever estruturas de proteínas de forma confiável.
+Um exemplo disto é a homologia similar entre a hemoglobina em seres humanos e a hemoglobina em leguminosas (leghemoglobin). Ambas  têm o mesmo propósito, que é o transporte de oxigênio no organismo. Embora ambas estas proteínas apresentem sequências de aminoácidos completamente diferentes, as suas estruturas de proteínas são praticamente idênticas, que reflete nas suas funções idênticas.
+
+
+== Bioinformática no Brasil ==
+Em novembro de 1999, introduziu-se a bioinformática no Brasil, por meio do do sequenciamento completo do DNA da bactéria Xylella fastidiosa, patógeno que causava prejuízos à cultura de cítricos. A dupla João Meidanis e João Carlos Setúbal utilizou softwares de sequenciamento genético com base na internet. 
+Uma década depois do projeto de inovações tecnológicas, a dupla de pioneiros, que na época coordenava o Laboratório de Bioinformática (LBI) do Instituto de Computação da Universidade Estadual de Campinas (Unicamp), ganhou o prêmio Distinguished Innovators, cujo objetivo é reconhecer a contribuição de indivíduos e organizações a fim trazer benefícios econômicos e sociais a seus países.
+
+
+== Veja também ==
+Arquivo Europeu de Nucleotídeos
+
+
+== Referências ==
+
+
+== Ver também ==
+Projeto Genoma Humano
+Biologia Sistêmica
+Redes Funcionais
+Laboratórios de Bioinformática do Brasil
+Folding@Home
+
+
+== Ligações externas ==
+Informática Biomédica- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - Universidade de São Paulo.
+Programa de pós-graduação em bioinformática
+Programa de pós-graduação em bioinformática UFMG

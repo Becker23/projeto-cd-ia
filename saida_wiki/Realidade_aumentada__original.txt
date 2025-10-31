@@ -1,0 +1,258 @@
+Designa-se Realidade Aumentada (RA ou AR) a integração de elementos ou informações virtuais a visualizações do mundo real através de uma câmera e com o uso de sensores de movimento como giroscópio e acelerômetro. O uso mais popular da realidade aumentada é o entretenimento através dos filtros para fotos em aplicativos móveis de redes sociais e jogos como o Pokémon GO. A realidade aumentada é utilizada de muitas formas nas áreas do ensino, design de produtos, ações de marketing, em treinamento e suporte em plantas industriais, entre outros. O uso de vídeos transmitidos ao vivo digitalmente processados e "ampliados" pela adição de gráficos criados pelo computador também podem ser considerados como um tipo de realidade aumentada. Um usuário da RA pode utilizar óculos translúcidos ou câmeras acopladas a um dispositivo computacional, e através destes, poderá ver o mundo real bem como imagens geradas por computador projetadas no mundo. 
+É uma experiência interativa de um mundo real, onde objetos que residem no mundo real são “acentuados” por informação perceptiva criada por computadores, incluindo visual, auditiva, háptica, somatossensorial e olfatória. Pode ser construtiva (agrega ao ambiente natural) ou destrutiva (que mascara o ambiente natural). A realidade aumentada altera o mundo real do usuário, enquanto a  substitui completamente o mundo real do expectador. Realidade aumentada é relacionada a dois termos muito usados, realidade mista, e realidade mediada por computadores.
+O valor primal da realidade aumentada é que ela traz componentes do mundo digital dentro da percepção da pessoa do mundo real, e não o faz apenas dispondo visualmente as informações, mas sim através da integração de sensações imersivas que são percebidas como partes naturais de um ambiente. Os primeiros sistemas funcionais de realidade aumentada que usavam experiências imersivas de [[realidade mista]] para os usuários foram inventadas no começo dos anos noventa, começando com o sistema Virtual Fixtures, desenvolvido no laboratório Armstrong da força aérea em 1992.
+
+Os primeiros experimentos comerciais de realidade aumentada foram usados largamente no entretenimento e na industria dos games, mesmo que agora outras indústrias estejam agora se interessando pelas possibilidades da realidade aumentada, por exemplo no partilhamento de experiências, educação, manutenção de dados e organizando reuniões. A realidade aumentada também está transformando o mundo da educação, onde o conteúdo pode ser escaneado ou visualizando uma imagem com a câmera do seu celular. 
+A RA é usada para otimizar ambientes naturais ou situações e oferecer experiências perceptivamente ricas. Com a ajuda de tecnologias de realidade aumentada avançadas (como por exemplo, adicionar visão computadorizada e reconhecimento de objetos) a informação sobre o mundo real ao nosso redor se torna interativa e digitalmente manipulável. A informação sobre o ambiente e seus objetos está sobrepondo a visão do mundo real. Essa informação pode ser virtual ou real, por exemplo, ver outra informação real que está no alinhamento certo onde ela deveria estar no espaço. 
+Tem potencial para colher e compartilhar conhecimento tátil. Técnicas de aumentar a realidade são tipicamente utilizadas em tempo real, utilizando elementos do ambientes. Informação perceptiva é muitas vezes combinada com informações complementares, como placares em uma live de esportes. Isso combina as qualidades de realidade aumentada e “heads-up display” (hud).
+
+
+== Definição ==
+Azuma define a realidade aumentada como um sistema que:
+
+Combina elementos virtuais com o ambiente real;
+É interativa e tem processamento em tempo real;
+É concebida em três dimensões.
+
+
+== Tecnologia ==
+
+
+=== Hardware ===
+Os componentes de hardware para a realidade aumentada são: processador, display, sensores, de dispositivos de entrada. Dispositivos móveis de computação modernos como smartphones, computadores e tablets contém elementos que geralmente incluem uma câmera e sensores MEMS como acelerômetro, GPS, e compasso de estado solido, fazendo deles possíveis plataformas AR.
+
+
+=== Display ===
+Várias tecnologias são usadas no render de realidade aumentada, incluindo sistemas de projeção ótica, monitores, aparelhos de mão, e dispositivos com tela, usados no corpo humano. Um “head-mounted display” (HMD) é um display utilizado na testa, algo como uma faixa ou capacete. HMDs colocam imagens tanto do mundo físico quanto de objetos virtuais sobre o campo de visão do usuário. HMDs modernos geralmente dispõem de sensores de monitoramento dos seis graus de liberdade, o que permite que o sistema alinhe informação virtual com o mundo físico, e ajustar de acordo com o movimento de cabeça do usuário. As HMDs podem ofertar ao usuários experiências colaborativas e móveis. Fornecedores como a uSens e a Gestigon incluem controle de gestos para a imersão virtual completa. Em janeiro de 2015, a Merta lançou um projeto pela Horizons Ventures, Tim Draper, Alexis Ohanian, BOE Optoelectronics e Garry Tan. Em 17 de fevereiro de 2016 a meta anunciou o seu produto de segunda geração no TED, o Meta 2. O Meta 2 head mounted display headstet usa uma coletânea sensorial para interações manuais e tracking de posições, campo de visão de 90 graus (diagonal) e uma resolução de 2560 x 1220 (20 pixels por grau), o que é considerado o maior campo de visão atualmente disponíveis.
+
+
+=== Óculos ===
+Os diplays de realidade aumentada podem ser produzidos semelhantes a óculos. Versões incluem câmeras para interceptar a visão de mundo real, e re-expor a sua versão aumentada nas lentes do display. Mas também há dispositivos onde a realidade aumentada é projetada ou refletida através das lentes dos óculos.
+
+
+=== HUD ===
+Um head-up display HUD é um display transparente que apresenta dados sem requerer que os usuários olhem para um ponto fixo. Uma tecnologia precursora a realidade aumentada, os display HUD, foram primariamente desenvolvidos para os pilotos nos anos 50, projetando informações simples de voo para sua linha de visão, para que eles não tivessem que olhar para baixo para operar os aviões. A realidade aumentada próxima ao olho pode ser usada como um HUD portátil, já que eles podem mostrar dados, informações e imagens enquanto o usuário vê o mundo real. Várias definições da realidade aumentada definem esta como a sobreposição de informações. Isso é basicamente o que um HUD faz, entretanto, falando praticamente, a realidade aumentada é esperada a incluir o registro e o rastreio entre as percepções, informações, dados, imagens, e parte do mundo real, fazendo a sobreposição destas.
+O CrowdOptic, um app já existente pra smartfones, aplica algorítimos e técnicas de triangulação para criar um metadado fotográfico incluindo posição no gps, direção na bússola, e uma janela de tempo para chegar a esse lugar para certos objetos. Ele pode ser utilizado para usuários de google glass para saber onde olhar para um certo período do tempo.
+
+Um número de óculos inteligentes tem sido lançados para a realidade aumentada. Devido ao controle sobrecarregados, os óculos inteligentes são primariamente desenvolvidas para a micro interação como ler uma mensagem de texto, mas ainda distante de outras aplicações muito mais bem lapidadas dentro da realidade aumentada
+Em janeiro de 2015 a Microsoft introduziu o Hololens no mercado, uma unidade de óculos independente. O pesquisador Brian Blau, Diretor de pesquisa da tecnologia do consumidor e mercado na Gartner, disse que “Dentro dos HMDs que eu já utilizei nas duas ultimas décadas, as Hololens foram as melhores em sua classe". As primeiras impressões e opiniões foram que estes eram um equipamento superior ao google, e que conseguia fazer varias coisas de forma correta, coisas que o Google Glass, não conseguiu.
+
+
+=== Lentes de contato ===
+As lentes de contato com realidade aumentada estão em desenvolvimento. Estas lentes de contato biônicas podem conter elementos de display inclusos nas lentes, como circularidade integrada, LEDs e uma antena para comunicação wireless. O primeiro display de lentes de contato foi reportado em 1999, então 11 anos depois, em 2010, 2011. Outra versão das lentes de contato, em desenvolvimento para os militares americanos é projetado para que os soldados possam focar em informações próximas ao olho nas lentes e imagens reais do mundo ao mesmo tempo.
+O filme futurista sight mostra uma lente de contato com realidade aumentada.
+Muitos cientistas tem trabalhado em lentes de contato capazes de várias características tecnológicas. A samsung vem trabalhando em uma versão da lente de contato também. Essa lente, quando produzida, deverá ter uma câmera embutida na própria lente. Esse design intende a ter o seu controle das piscadas na sua interface por conta das gravações. A intenção também é estar lincada com o seu smartphone, para você poder rever a sua gravação, e controlar ela separadamente. Quando possível, a lente teria uma câmera ou sensor dentro dela que poderia ser qualquer coisa, desde um censor de luz a um sensor de temperatura.
+Na realidade aumentada, a distinção é feita entre dois modos distintos de rastreio, conhecida como “riscado” e “sem risco”. Riscado são sugestões visuais que engatilham o display de informações virtuais. Um pedaço de papel com certas geometrias distintas podem ser usadas. A câmera reconhece a geometria por identificar pontos específicos no desenho. Também chamada tracking instantâneo, não usa o marcador. Ao invés, o usuário posiciona o objeto na visão da câmera, preferencialmente num plano horizontal, ele utiliza sensores em celulares para detectar automaticamente o ambiente do mundo real. como as localizações das paredes e pontos de intersecção.
+
+
+=== Display virtual de retina ===
+O virtual retinal display (VRD) é um display pessoal que está sob desenvolvimento na universidade de Washington, no laboratório de tecnologia de interface humana, sob direção do Dr. Thomas A. Furness III. Com essa tecnologia, um display é escaneado diretamente na retina do expectador. Isso resulta em imagens claras com revoluções rápidas e alto contraste. O expectador vê o que parece um display convencional flutuando no espaço.
+Vários testes foram realizados de modo a analisar a segurança do VRD. Em um teste, pacientes com perda parcial da visão foram selecionados para ver imagens usando a tecnologia tendo tanto degeneração (uma doença que degenera a retina) ou ceratocones. No grupo de degeneração macular, 5 de 8 dos testados preferiram as imagens VRD aos CRT ou Imagens de papel, e pensaram eles estava melhor e mais brilhantes, e podiam ver igual ou melhor em níveis de resolução. Os pacientes do ceratocone conseguiram todos resolver linhas menores usando o VDR contra eles mesmo. Eles disseram ainda que as imagens eram mais fáceis de ver e mais nítidas. Como resultado de vários testes, o display virtual de retina é considerado tecnologia segura. 
+O VRD cria imagens que podem ser vistas em luz do dia e luz ambiente. Ele é considerado como o candidato preferido para usar como display cirúrgico devido a sua combinação de alta resolução e alto contraste e brilho. Testes adicionais mostram potencial para VRD para ser usado como tecnologia de display para pacientes com baixa visão.
+
+Eyetap
+O eyetap (também conhecido como o óculos da segunda geração) captura raios de luz que iria de outra forma passar através do centro das lentes para o olho do usuário, e substitui com visão sintética controlada por computador para cara raio de luz real.
+A quarta geração de óculos (Laser EyeTap) é muito similar ao VRD (por exemplo, ele usa um laser controlado por computador como fonte de luz) exceto que ele também tem sua profundidade infinita de foco e causa o olho a funcionar como tanto uma câmera e um display no alinhamento exato com a ressíntese dos raios de luz entrando no olho.
+
+Portáteis
+Um display portátil utiliza um display pequeno que cabe na mão do usuário. Todos os projetos até hoje de realidade aumentada portátil optam por transparência. Inicialmente eles utilizavam markers fiduciais, e depois unidades de GPS e sensores MEMS como as bússolas digitais e o acelerômetro/giroscópio. Hoje os SLAM rastreadores sem marca, como o PTAM estão começando a cair em uso.
+Displays portáteis de realidade aumentada prometem ser o primeiro sucesso comercial da realidade aumentada. As vantagens principais da RA são a natureza portátil de displays portáteis. As desvantagens são as restrições físicas do usuário tendo que segurar o dispositivo portátil na sua frente o tempo todo, além do efeito de distorção do ângulo amplo de câmeras de celular quando comparados a nossa vista. Alguns jogos como o Pokemon Go e o Ingress utilizam uma interface ILM, onde o usuário pode interagir com localidades geolocalizadas em um mapa estilizado.
+
+Espacial
+A realidade aumentada espacial (SAR) usa objetos e cenas sem o uso de displays como monitores ou outros. Ele faz uso de projetores digitais para mostrar informação gráfica em objetos físicos. A diferença do SAR é que o display é separado dos usuários do sistema. Por que os displays não são associados com cada usuário, o SAR cria uma escala natural de grupos de usuários, assim permitindo a colaboração entre usuários.
+Exemplos incluem lâmpadas de sombreamento, projetores moveis, mesas virtuais, e projetores inteligentes. Projetando a imagem em objetos neutros, permitindo que a melhore a aparência de materiais de uma unidade simples: Um projetor, uma câmera, e o sensor. O 
+
+Rastreamento
+Aparelhos mobile com sistemas modernos de realidade aumentada usam um ou mais das seguintes tecnologias: câmeras digitais e/ou sensores óticos, acelerômetros, GPS, giroscópios, bussolas, RFID. Essas tecnologias oferecem vário níveis de precisão. A mais importante é a posição e orientação da cabeça do usuário. Rastreando as mãos do usuário ou equipamento portátil pode informar uma técnica de informação.
+
+Networking
+Aplicações de realidade aumentada de celulares estão ganhando popularidade devido a larga adoção do mobile e dos equipamentos utilizáveis. Entretanto eles muitas vezes contam com algorítimos precisos com latência extrema. Para compensar a falta de processamento, o carregamento por fora por uma maquina distante. A computação de offloading introduz novas aplicações. Mesmo que haja uma variedade de protocolos de transporte multimídia em tempo real, há uma necessidade por um suporte de infraestrutura de rede também.
+
+Computador
+O computador analisa o visual e os outros dados para sintetizar e posicionar os argumentos. Computadores são os responsáveis pelos gráficos que vão com a realidade aumentada tem que enfrentar uma mudança drástica na nossa perspectiva do mundo real. De acordo com a revista Time, em 15 a 20 anos está previsto que a realidade aumentada e a realidade virtual vão ser o uso primário para as interações com computadores.
+
+
+== Cronologia ==
+Descrever a história da Realidade Aumentada é também descrever a jornada e os “acréscimos” do homem ao mundo no qual ele vive.
+
+1957-1962: Morton Heilig, um cinematógrafo cria e patentia um simulador chamado sensorama com visuais sons, vibração e cheiro
+1968: Ivan Sutherland inventa a HMD e a posiciona como uma janela para o mundo virtual
+1975: Myron Krueger cria o [[Videoplace]] para permitir o usuário para interagir com o virtual
+1980 A pesquisa pelo Gavan Lintern da universidade de Illinois é o primeiro trabalho publicado a mostrar valor para o HUD
+1980 [[Steve Mann]] cria o primeiro computador utilitário que continha overlays de texto e gráfico
+1981 Dan Reitan mapeia as imagens se orientando pelo espaço e utilizou para transmitir ao vivo na televisão
+1984: No filme o [[exterminador do futuro]], o exterminador usa um HUD
+1987 Douglas George e Robert Morris criam um protótipo funcional de um telescópio astronômico baseando-se no sistema HUD.
+1989: Jaron Lanier inventa o termo “Realidade Virtual” e cria o primeiro comercial em torno de mundos virtuais.
+1990: Tom Caudell cria o termo “Realidade Ampliada”, enquanto estava na Boeing, ajudando trabalhadores a montar cabos em aeronaves.
+1990: o termo realidade aumentada é atribuído para Thomas P Caudell, um pesquisador da Boeing.
+1992: Louis Rosenberg desenvolveu um dos primeiros sistemas RA funcionais, o Virtual Fixtures
+1993: Steven Feiner, Blair MacIntyre and Doree Seligmann apresentam um protótipos de RA, o KARMA.
+1993: Mike Abernathy reporta o primeiro uso da realidade aumentada identificando lixo no espaço
+1993: Uma muito bem citada versão do artigo é publicada na Communications of the ACM
+1993: Loral WDL, com patrocínio da STRICOM fizeram a primeira demonstração combinando o AR nos veículos e simuladores.
+1994: Julie Marin cria a sua primeira realidade aumentada na produção teatral, “dançando no ciberespaço”.
+1995: S Ravela introduz um sistema usando câmeras de monóculos para rastrear objetos
+1997: MTecna pensa num sistema a Imersão Ambiente  onde o jogador poderia aproveitar o ambiente real e misturá-lo ao universo de efeitos dos jogos, inserindo por exemplo uma batalha em meio a edifícios e ruas utilizando um óculos translúcidos ou câmera e uma tv, a ideia de um video game portátil com câmeras começou a ser desenvolvida a partir desta ideia anos mais tarde, devido apenas a limites tecnológicos.
+1998: A RA espacial introduzido na universidade da carolina do norte
+1999: Frank Delgado e Mike Abernathy criaram um software para aviação de mapa em vídeo.
+1999: O laboratório de pesquisa naval começa um programa de pesquisa chamado o campo de batalha (BARS)
+1999: Hirokazu Kato criou Artoolkit no Hit Lab, onde o RA se desenvolveu ainda mais.
+2000: Bruce H Thomas desenvolve ArbQuake]], o primeiro jogo AR outdoor.
+2001: Nasa X38 voou usando o software Landform.
+2004: O capacete outdoor RA demonstrado por Trimble Navigation
+2004: Herbert Zeman criou o VeinViewer e recebeu prêmio da Revista Time Magazine
+2006: Kasuo Miyake desenvolve o primeiro estudo de RA no diagnóstico e tratamento médico (Varizes - VeinViewer)
+2008: Wikitude, o guia AR de viagens, lançado com o android G1
+2009: Artoolkit foi incluido no adobe flash
+2012: Lançamento do Lyteshot, uma plataforma de jogos AR que usa smart glasses
+2013: Meta anuncia o kit do desenvolvedor do eta 1
+2013: Google anuncia um teste open beta do seu google glass
+2014: A Mahei cria a primeira geração de brinquedos RA
+2015: A Microsoft anuncia o Windows holográfico e as hololens
+2016: A Niantic cria o Pokémon Go. Jogo de Realidade Aumentada que já faturou $7 bilhões de dólares desde seu lançamento. 
+2017: Magic Leap anuncia o uso da tecnologia Digital Lightfield no Magic Leap One Headset.
+2021: O desenvolvedor de realidade aumentada Jeferson Araujo, utilizando a tecnologia Skin Segmentation, do Facebook Reality Labs, desenvolve um efeito de realidade aumentada onde pôde-se testar tatuagens em tempo real no corpo todo. 
+
+
+== As aplicações do RA ==
+A realidade aumentada tem sido explorada para muitas aplicações. Desde os anos 70 e o começo dos 80, Steve Mann tinha desenvolvido tecnologias de uso diário. Os exemplos incluem o Eyetap, um ajudante de visão que administra simultaneamente a melhora e suas sobreposições. Mas isso pode ser usado em várias áreas, como por exemplo: Na literatura, arqueologia, arquitetura, arte virtual, comercio, educação, gestão de emergências, resgates, interação social, vídeo games, design industrial, área médica, imersão espacial, treino de voo, militarismo, navegação, lives, espaços de trabalho, turismo, tradução simultânea, música, e vendas.
+
+
+== RA como uma tecnologia de transformação ==
+Para muitos daqueles interessados em Realidade Ampliada, uma das suas mais importantes características é a maneira a qual faz possível a transformação do foco de interação. O sistema de interação já não é uma localização precisa, mas sim o ambiente como um todo; interação não mais é uma simples troca “face-monitor”, agora se dissolve no espaço e objetos em volta. Utilizar um sistema de informação não é mais exclusivamente um ato consciente e intencional.
+
+
+== Design na Realidade aumentada ==
+Software e algorítimos
+Uma medida fundamental dos sistemas RA é como realisticamente eles integram “melhorias” com o mundo real. O software tem que derivar coordenadas do mundo real, independente da câmera, Esse projeto se chama registro de imagens, e usa métodos diferentes de visão computadorizada, Geralmente esses dois métodos consistem em duas partes, o primeiro estágio é detectar pontos de interesse, marcos fiduciais ou fluxo ótico nas imagens de câmera.
+
+Desenvolvimento
+A implementação da realidade aumentada em produtos para o consumidor requere considerar que o projeto das aplicações e as restrições da plataforma de tecnologia. Já que a tecnologia de realidade aumentada conta coma a imersão do usuário, e a interação entre o usuário e o sistema, o design pode facilitar a adoção da virtualidade.
+
+Design de contexto
+O design de contexto foca nos arredores do usuário, o contexto espacial e a acessibilidade que pode ser importante quando usando o sistema RA. Cenários podem ser:
+
+Publico, onde o usuário usa seu corpo todo para interagir com o software
+Pessoal, onde o usuário usa o smartphone em um espaço publico
+Intima quando o usuário está no desktop e não está em movimento
+Privada, quando o usuário usa um dispositivo “vestível”.
+Por avaliar cada cenário, possíveis perigos podem ser evitados para melhorar a imersão do usuário. Designers de UX tem que definir a jornada por cenários físicos e definir  as jornadas. Você pode também alterar a luminosidade, o áudio, etc.
+
+Design de interação
+O design de interação na realidade aumentada se centra na interação do usuário com o produto final para melhorar a experiencia do usuário em geral e seu contentamento. O design é feito nesse caso para evitar alienar ou confundir o usuário por organizar a informação apresentada, Já que a interação do usuário, os designers devem fazer os controles do sistema mais fáceis para entender e acessar.
+
+Design visual
+O design visual em geral é a aparição do desenvolvimento da aplicação que engaja com o usuário. Para melhorar a experiencia, desenvolvedores podem usar artefatos visuais para informar o usuário quais elementos da experiencia do usuário e como interagir com eles. Podem fazer a interação parecer mais natural
+É importante que os objetos sejam factuais, se pareçam reais, portanto tenham texturas, tenham sombra e profundidade, e possam interagir com luz e sombra e animações, desse jeito não quebram a experiência do usuário.
+
+
+== RA em ambientes amplos e abertos ==
+Uma nova e maior área das atuais pesquisas gira em torno da Realidade Ampliada fora de ambientes fechados. GPS e sensores de orientação permitem sistemas de computação levarem a RA para ambientes mais amplos e abertos. 
+Os primeiros sistemas foram desenvolvidos por Steven Feiner na Universidade de Colúmbia (Sistema MARS), e Bruce H. Thomas e Wayne Piekarski na Universidade da Austrália do Sul (Sistema ARQuake e Tinmith).
+Trimble Navigation, um provedor de equipamento e soluções de posicionamento avançados, vem pesquisando a RA em ambientes abertos em colaboração o Human Interface Technology Laboratory.
+Atualmente a BMW utiliza óculos dotados de acelerômetros de 2 eixos e Softwares em RA para manutenção de seus automóveis, com isso os mecânicos conseguem vislumbrar a manutenção e as ferramentas a serem utilizadas em cada etapa da manutenção.
+A Apple também investiu no ramo do AR, focando na utilização do mesmo em jogos mobile, diferenciando a tecnologia como AR+, que foi momentaneamente exclusiva para seus dispositivos móveis. Um dos primeiros programas a utilizar este recurso foi um jogo denominado Pokémon GO. Este recurso permite que o usuário tenha uma imersão maior ao jogo, interagindo com o espaço real a sua volta.
+
+
+== Realidade Aumentada Móvel ==
+A RA móvel é uma combinação da RA com tecnologia móvel da computação em aparelhos celulares dotados de conexão online. Quando a câmera do aparelho celular é direcionada a um objeto com logos ou formas reconhecidos por RA, tais elementos são substituídos por gráficos 3D enquanto todo o resto do mundo real permanece igual. Existem diversos exemplos do uso da RA móvel na simulação virtual de produtos. Em especial, o mais notável deles é o de experimentação virtual de maquiagem. 
+São proponentes da pesquisa dessa tecnologia a Universidade de Canterbury e o Georgia Institute of Technology.
+
+
+== Computação Ubíqua ==
+A RA tem claras conexões com a Computação Ubíqua (Ubiquitous Computing - Ubicomp) e os domínios dos “computadores trajáveis” (acessórios corporais). Mark Weiser determinou que a “virtualidade incorporada”, o termo original utilizado por ele antes que cunhasse o conceito de Ubicomp, tentava expressar o exato oposto para o conceito de realidade virtual (Mark Weiser's personal communication, Boston, March 1993). A distinção mais notável a ser feita entre a RA e a Ubicomp é que esta não foca no desaparecimento da interação consciente e intencional com um sistema de informação tanto quanto a RA foca. Sistemas de Ubicomp, tais como dispositivos difusos da computação, geralmente mantém a noção da interação explícita e intencional, a qual geralmente se embaraça num típico trabalho da RA como o de Ronald Azuma. A teoria da Inteligência Humanística (IH), entretanto, também questiona esta noção semiótica do significador e significado.
+Em particular, a IH é a inteligência que se origina do ser humano em um ciclo de retroalimentação de um processo computacional no qual o homem se encontra entrelaçado, e não necessariamente requer um pensamento consciente ou esforço. Desta maneira, a Inteligência Humanística, que nasce da realidade mediada por computadores trajáveis, tem muito a ver com a Realidade Aumentada.
+
+
+== Pesquisadores notáveis ==
+Steven Feiner é tido como um pioneiro das pesquisas em RA e autor do primeiro artigo sobre o tema.
+Bruce H. Thomas é atualmente o diretor do Wearable Computer Laboratory na Universidade da Austrália do Sul, membro do time Hxl e participa no Human Interaction Technology Laboratory. Ele é o inventor do primeiro jogo de RA em ambientes amplos e abertos, conhecido como ARQuake. Suas pesquisas atuais estão no incluem os campos dos “computadores trajáveis”, interfaces de usuário, RA, realidade virtual, Trabalho Cooperativo Suportado por Computadores e interfaces expostas sobre superfícies, tais como mesas.
+Wayne Piekarski foi o inventor do Sistema Tinmith.
+Ivan Sutherland inventou o primeiro HMD na universidade de harvard
+Steve Mann formulou um conceito anterior da realidade mediada nos anos 70, usando câmeras, processadores e displays para ajudar as pessoas ver melhor
+Louis Rosenberg desenvolveu um dos primeiros sistemas RA chamado de Virtual Fixtures quando trabalhava na força aérea americana em 1991.
+Mike Abernathy foi pioneiros em um dos primeiros experimentos de realidade aumentada que deram certo, usando um mapa de dados em 1995. Ele e seu colega receberam um premio da defesa nacional em 2004
+Steven Feiner, professor da universidade da colúmbia, é autor do protótipo do RA do papel.
+Tracy McSheery, do PhaseSpace, desenvolvedor de um campo grande de lentes RA, usadas no Meta 2 e outros.
+S. Ravela, B. Draper, J. Lim and A. Hanson desenvolveram RA com e em marker.
+Francisco Frank Delgado é engenheiro da nasa e administrador de projetos de interface humana e desenvolvimento
+Bruce H Thomas e Wayne Piekarski desenvolveram o Tinmithem 1998, desenvolveram o pioneiro MARS.
+Mark Bilinghurst é diretor do laboratório HIT da nova zelandia, Tem mais de 250 publicações sobre o assunto..
+Herbert Zeman foi o inventor do VeinViewer. O VeinViewer filma a pele em infravermelho, processa a imagem e projeta sobre a pele a imagem vas veias que estão no subcutâneo. O aparelho foi criado para ajudar o acesso venoso em pacientes com veias difíceis de serem visualizadas como pacientes com sobrepeso, em tratamento quimioterápico ou pediátricos.
+Reinhold Behringer fez um papel importante no registro para imagens de realidade aumentada
+Dieter Schmalstieg e Daniel Wagner desenvolveu um sistema marker de rastreamento para celulares e PDAS em 2009.
+
+
+== Exemplos ==
+A tecnologia de realidade aumentada tem sido utilizada com grande sucesso na experimentação virtual de produtos do dia a dia, e a simulação de maquiagem é provavelmente o mais notável. Por exemplo, marcas como Lancome, NYX, Urban Decay e Yves Saint Laurent em parceria com a L'Oreal, utilizam de realidade aumentada para demonstração do resultado final da maquiagem.  Um dos usos mais promissores da realidade aumentada é a simulação realista de produtos de maquiagem, aplicada em qualquer face em tempo real. 
+Outros exemplos comuns da RA vistos hoje em dia são a linha amarela de “first down” vista nas transmissões de futebol americano, e o rastro colorido que indica a localização e direção do puck (duende) em transmissões de jogos de hóquei. Os elementos do mundo real são o campo de futebol e os jogadores, e o elementos virtual é a linha amarela, a qual é desenhada sobre a imagem em tempo real através do uso de computadores. De maneira similar, campos de rugby e cricket marcados com os logos de seus patrocinadores auxiliados por RA.
+Um outro tipo de aplicação da RA utiliza projetores e telas para inserir objetos em um ambiente real, aperfeiçoando exibições em museus, por exemplo. Referente aos museus e exposições de arte, a tecnologia de Realidade Aumentada também está sendo usada por artistas independentes para expor suas obras em famosos Museus como o MoMA. Para os visitantes sem o aplicativo necessário, o Museu se encontra em total normalidade, mas para visitantes com o aplicativo AR (de código aberto), as obras expostas em mundo real viram simples pontos de referência para as verdadeiras obras expostas em Realidade Aumentada.  
+Muitos dos jogos de tiro em primeira pessoa simulam a visão de um determinado sujeito através de sistema de RA. Nestes casos, a Realidade Aumentada pode ser utilizada para dar direções visuais para um determinado local, marcar a direção ou distância de um outro sujeito que não está no campo de visão, dar informações sobre equipamentos, tais como a munição restante numa arma, e exibir uma incontável quantidade de imagens baseadas no foco dos game designers. 
+A realidade aumentada ficou mais perto do público quando passou a ser veiculada em peças publicitárias. O principal atrativo de Realidade Aumentada neste setor publicitário reside na capacidade das marcas chamarem a atenção do consumidor de uma forma divertida. A marca de calçados Nike utilizou pela primeira vez a tecnologia para o lançamento do tênis de corrida Nike Free 5.0, com uma animação holográfica em 3D. A RA cria engajamento e permite a visualização do produto antes de comprar. 
+Partindo desta lógica, o Facebook também adotou desta tecnologia este ano. No Feed de Notícias, caso o usuário se interesse por um produto de determinada marca, dentro do próprio Facebook, o usuário poderá "colocar" o produto no próprio rosto para ver se combina. A primeira experiência está sendo feita nos Estados Unidos com a marca Michael Kors. 
+Entre as montadoras, a Mini foi a pioneira a usar essa tecnologia. Em uma peça em uma revista alemã havia um símbolo que direcionado para a webcam projeta um modelo do Mini-Cooper em 3D na tela. Este símbolo pode ser impresso  e visualizado no site da Mini.
+No Brasil, a Chevrolet lançou um hotsite para a nova campanha do Vectra GT , onde o visitante pode dirigir um modelo do automóvel através dos movimentos da revista, na qual veio impresso um volante e uma chamada para o site. Seguindo o mesmo princípio do anuncio do Mini, o anúncio é direcionado para a webcam, o aplicativo no hotsite reconhece o QR code e o carro será direcionado para esquerda e direita, como se a revista fosse o volante.
+
+
+== Problemas de privacidade ==
+O conceito da RA moderna depende da habilidade do aparelho de gravar e analisar o ambiente em tempo real. Por conta disso, podem haver alguns problemas de privacidade dependendo da capacidade do aparelho de gravar o tempo todo. Depende das leis de copyright e de direito de imagem de cada país ou união.
+
+
+== Aplicações ==
+
+
+=== Atuais ===
+Mapeamento superficial de veias subcutâneas. A imagem de veias que geralmente são invisíveis ao olho nu são capturadas por câmera infravermelha, processada por um computador e projetada sobre a pele em luz verde. Desenvolvido inicialmente para facilitar punções venosas nos membros superiores (coleta de sangue, quimioterapia, neonatologia e acesso venoso) mas também usado no tratamento de vasinhos (telangiectasias) para localizar e tratar veias alimentadoras. 
+Apoio a tarefas complexas em cirurgias, montagem e manutenção: inserindo informações adicionais no campo de visão, como tabelas, legendas informativas ou instruções durante um procedimento; visualizando objetos “escondidos”, como um Raio-X virtual, baseado em tomografia ou imagens oriundas de ultra-som em tempo real.
+Dispositivos de navegação: em construções, como na manutenção de plantas industriais; em ambientes abertos, como em operações militares ou em desastres; em carros ou aeronaves, através de visores dotados de RA integrados ao capacete do usuário.
+Serviços militares ou de emergência, como sistemas trajáveis, instruções, mapas e informações de inimigos ou feridos.
+Prospecção em hidrologia, ecologia ou geologia, mostrando informações específicas sobre o terreno ou mapas tridimensionais.
+Visitação aprimorada, legendas ou textos históricos referentes a objetos ou locais vistos, ruínas ou paisagens reconstruídas (dados que, se combinados a uma conexão à Internet sem fio, proporcionam uma vasta quantidade de informações).
+Simulação, tal como de voo ou de mergulho.
+Colaboração de times distribuídos (à distância); conferências com participantes reais e virtuais; trabalho conjunto em modelos 3D simulados.
+Entretenimento e educação: Livro infanti] com Realidade Aumentada que junta livro impresso com aplicativo.
+Objetos virtuais em museus e exibições;
+Atrações temáticas em parques, como por exemplo, o Cadbury World;
+Jogos, tais como Ingress, ARQuake, The Eye of Judgment, AR.On e Pokémon GO.
+
+
+=== Futuras ===
+Expansão de telas de computador para um ambiente real: janelas de programas e ícones se tornam dispositivos virtuais num espaço real e podem ser operados por gestos ou pelo olho. Um mostrador pessoal (como óculos), poderia simular diversos monitores convencionais de computador ou janelas de aplicação ao redor do usuário concomitantemente.
+Dispositivos virtuais de todos os tipos: substituição das telas e monitores tradicionais, painéis de controle, e aplicações completamente novas (algo impossível em um hardware “real”), como objetos 3D que alteram suas formas e aparências de forma interativa baseados na tarefa ou necessidade atual do usuário.
+Aplicações de media aprimoradas, como telas virtuais pseudo-holográficas, cinema surround virtual, “holodecks” (como em Star Trek), permitindo imagens criadas por computadores interagir com sujeitos reais e plateias.
+Conferências virtuais.
+Substituição de telas de navegação em carros e aparelhos celulares: discagem através do movimento dos olhos, inserção de informação diretamente no ambiente, como linhas guia diretamente na pista bem como aprimoramentos como vistas em Raio-X.
+Plantas virtuais, papéis de parede, vistas panorâmicas, decorações, trabalhos artísticos e iluminação, melhorando a vida cotidiana. Por exemplo, uma janela virtual poderia ser disposta em uma parede comum, mostrando a tomada de uma câmera situada no exterior da construção.
+Com uma entrada de sistemas de RA no mercado de massas, poderemos ver janelas virtuais, posters, sinais de trânsito, decorações natalinas, torres de publicidade e muito mais. Tais elementos devem ser completamente interativos, mesmo à distância, como por um “apontar dos olhos”, por exemplo.
+Dispositivos e aparelhos virtuais se tornam possíveis. Qualquer aparelho físico produzido para auxiliar em tarefas orientadas por dados (como relógios, computadores e aparelhos de som, outdoors eletrônicos), poderiam ser alteradas por dispositivos virtuais que não custariam nada para serem produzidos exceto pelo custo de produção do software. Um relógio de parede virtual ou uma lista de coisas a serem feitas no seu dia “projetada” na cabeceira da sua cama são simples exemplos.
+Alimentação de grupos específicos de RA “inseríveis”, como um gerente num site de construção que poderia criar e alocar instruções específicas incluindo diagramas de localização no site. Os trabalhadores poderiam ter acesso a estas “alimentações de dados” de elementos de RA enquanto trabalham. Outro exemplo poderia ser patrocinadores, num evento público, inserindo dados de orientação e informação orientados por RA.
+Em Agosto de 2018, Rede Globo e Magic Leap firmaram parceria para a criação de novos formatos de conteúdo.
+
+
+=== Específicas ===
+VeinViewer, um sistema de RA para mapear veias subcutâneas. Usado para tratar veias nutrícias sob telangiectasias (vasinhos) nos membros inferiores (pernas e coxas). A combinação do VeinViewer com laser transdérmico permite evitar de cirurgia de pequenas varizes.
+LifeClipper, um sistema de RA que se pode vestir.
+AR.On, uma plataforma de RA que permitir que exibir vídeos e animações em 3D sobre imagens em revistas, jornais, convites e embalagens de produtos.
+Characteroke, uma espécie de traje portátil de RA para exibição de informações, por meio do qual o pescoço e cabeça estão ocultados por um fino painel ativo.
+MARISIL, um telefone centrado em interface do usuário baseado em RA.
+CyberCode, um sistema de etiquetagem virtual no qual objetos no mundo real são reconhecidos por um computador.
+
+
+== Ver também ==
+Câmera digital
+Head-up display
+Óculos inteligente
+Video mapping
+Realidade virtual
+
+
+== Referências ==
+
+
+== Ligações externa ==
+
+Página de RA Brasileira
+Página de discussão sobre Computação Gráfica, RV, RA
+Página do EZFlar, código open source para RA e gerador de RA online
+Página de uma ferramenta open source para RA

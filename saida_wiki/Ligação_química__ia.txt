@@ -1,0 +1,21 @@
+Ligações químicas são interações entre átomos que resultam na formação de moléculas ou agregados atômicos. Essas interações são responsáveis pela diversidade de substâncias encontradas na natureza, que são formadas a partir de uma centena de elementos químicos.
+
+As ligações químicas podem ocorrer por meio da transferência de elétrons entre átomos, resultando em íons com cargas opostas que se atraem electrostaticamente, formando uma ligação iônica. Um exemplo é o cloreto de sódio (NaCl). Compostos iônicos conduzem eletricidade quando em estado líquido ou dissolvidos em água, mas não no estado sólido. Geralmente, apresentam altos pontos de fusão e ebulição.
+
+Outro tipo de ligação é a ligação covalente, onde os átomos compartilham elétrons. A água (H2O) é um exemplo. Apenas as estruturas onde todos os átomos estão conectados exclusivamente por ligações covalentes são denominadas moléculas.
+
+A ligação metálica ocorre em metais, onde os elétrons das camadas mais externas dos átomos se desprendem, formando uma "nuvem" de elétrons que se movem livremente entre os íons metálicos, mantendo-os unidos.
+
+A regra do octeto, que estabelece que muitos elementos atingem estabilidade eletrônica ao possuírem oito elétrons na camada de valência, é uma aproximação útil, mas possui exceções, como o hidrogênio, que se estabiliza com dois elétrons.
+
+Na ligação iônica, metais tendem a perder elétrons (devido à baixa energia de ionização), formando cátions, enquanto não-metais tendem a ganhar elétrons (devido à alta afinidade eletrônica), formando ânions. A atração eletrostática entre os íons resulta na formação de um retículo cristalino, uma estrutura sólida com forma geométrica definida.
+
+Compostos iônicos são geralmente sólidos em condições ambientes, possuem altos pontos de fusão e ebulição, e conduzem eletricidade quando dissolvidos em água ou fundidos.
+
+Na ligação covalente, os átomos compartilham elétrons para atingir a estabilidade eletrônica. O compartilhamento de elétrons pode originar diferentes substâncias simples, um fenômeno conhecido como alotropia. A formação de uma ligação covalente diminui a energia potencial do sistema, pois os elétrons passam a ser atraídos pelos núcleos de ambos os átomos.
+
+Compostos moleculares podem ser encontrados nos três estados físicos, apresentam pontos de fusão e ebulição geralmente menores que os compostos iônicos e, quando puros, não conduzem eletricidade.
+
+A ligação covalente coordenada ocorre quando um átomo compartilha um par de elétrons já presentes em sua camada de valência com outro átomo que necessita desses elétrons para completar seu octeto.
+
+Na ligação metálica, os átomos de metais compartilham seus elétrons de valência, formando uma "nuvem eletrônica" que permite a condução de eletricidade.

@@ -1,0 +1,65 @@
+Carboidratos (também grafado como carbo-hidratos), glicídios, glícidos, glucídios, glúcides ou hidratos de carbono, são compostos de função mista do tipo poliálcool-aldeído ou poliálcool-cetona e outros compostos que, por hidrólise, dão poliálcoois-aldeídos e/ou poliálcoois-cetonas. São as biomoléculas mais abundantes na natureza, constituídas principalmente por carbono, hidrogênio e oxigênio, podendo apresentar nitrogênio, fósforo ou enxofre na sua composição.
+Conforme o tamanho, os carboidratos podem ser classificados em monossacarídeos, oligossacarídeos e polissacarídeos.
+
+
+== Estrutura ==
+Os carboidratos são compostos orgânicos constituídos por carbono, hidrogênio e oxigênio, que geralmente seguem a fórmula empírica [C(H2O)]n, sendo n ≤ 7. A proporção entre os átomos de carbono, hidrogênio e oxigênio é de 1:2:1. Contudo, alguns carboidratos não se ajustam a esta regra geral, como a fucose, por exemplo, cuja fórmula molecular é C6H12O5. Outros autores utilizam a fórmula empírica [Cx(H2O)y].. Podem ser poliidroxialdeídos ou poliidroxicetonas, isto é, possuem um grupo que pode ser aldeído ou cetona, respectivamente, e várias hidroxilas, geralmente uma em cada átomo de carbono que não faz parte do aldeído ou grupo funcional cetona. Além de carbono, hidrogênio e oxigênio, alguns carboidratos apresentam nitrogênio, fósforo ou enxofre em sua composição. Quando compostos por aldeídos são chamados de aldose, quando compostos por cetona são chamados de cetose.
+
+
+== Classificação ==
+
+
+=== Monossacarídeos ===
+
+Os monossacarídeos, também conhecidos como oses, são carboidratos com reduzido número de átomos de carbono em sua molécula. O "n" da fórmula geral (CnH2nOn) pode variar de 3 a 7 (trioses, tetroses, pentoses, hexoses e heptoses), sendo os mais importantes as pentoses e as hexoses (C6H12O6). São relativamente pequenos, solúveis em água e não sofrem hidrólise. Devido à alta polaridade, os monossacarídeos são sólidos cristalinos em temperatura ambiente, e assim como os oligossacarídeos, são solúveis em água. São insolúveis em solventes não polares. Embora sejam comumente representados na forma de cadeia linear, as aldoses com quatro carbonos e todos os monossacarídeos com mais de cinco carbonos apresentam-se predominantemente em estruturas cíclicas quando em solução aquosas. A nomenclatura na cadeia cíclica dá-se de acordo com a posição da hidroxila (OH). Na glicose, por exemplo,se a OH que está ligada ao carbono um estiver abaixo do plano do anel irá se chamar de α-glicose, já se estiver acima do plano do anel irá s chamar β-glicose Com exceção da Di-hidroxicetona, todos os monossacarídeos apresentam pelo menos um carbono assimétrico, provocando a apresentação de formas isoméricas opticamente ativas.
+
+
+=== Oligossacarídeos ===
+
+Os oligossacarídeos são carboidratos resultantes da união de duas a dez moléculas de monossacarídeos. A ligação entre os monossacarídeos ocorre por meio de ligação glicosídica, formada pela perda de uma molécula de água. O grupo mais importante dos oligossacarídeos são os dissacarídeos, formados pela união de apenas dois monossacarídeos. Quando são constituídos por três moléculas de monossacarídeos, recebem o nome de trissacarídeos.
+Os oligossacarídeos são solúveis em água, mas como não são carboidratos simples como os monossacarídeos, necessitam ser quebrados na digestão para que sejam aproveitados pelos organismos como fonte de energia.
+
+
+=== Polissacarídeos ===
+
+Os polissacarídeos são carboidratos grandes, às vezes ramificados, formados pela união de mais de dez monossacarídeos ligados em cadeia, constituindo, assim, um polímero de monossacarídeos, geralmente de hexoses. São insolúveis em água e portanto, não alteram o equilíbrio osmótico das células. Os polissacarídeos possuem duas funções biológicas principais, como forma armazenadora de combustível e como elementos estruturais.
+
+Observação: existem outros tipos de polissacarídeos denominados heteropolissacarídeos que originam, por hidrólise, vários tipos diferentes de monossacarídeos. Como por exemplo o ácido hialurônico, condroitinsulfato e a heparina.
+
+
+=== Osídeos ===
+Carboidratos que ao contrário dos monossacarídeos se hidrolisam. São divididos em holosídeos e heterosídeos.
+
+
+=== Holosídeos e heterosídeos ===
+
+
+==== Holosídeos ====
+São os oligossacarídeos e polissacarídeos que, por hidrólise, produzem somente monossacarídeos. Tipo de açúcar encontrado nas plantas e vegetais.
+Rafinose + 2h2O → glicose + frutose + galactose
+Celulose + n H2O → n glicose.
+
+
+==== Heterosídeos ====
+São glicídios que sofrem hidrólise, produzindo oses (hidratos de carbono simples) e outros compostos.
+
+
+== Derivados de carboidratos ==
+Amidalina — Ácido glicônico — Ácido glicurônico — Ácido sacárico — Sorbitol — Trinitrato de celulose — Piroxilina — Acetato de celulose
+
+
+== Função ==
+Energética: constituem a primeira e principal substância a ser convertida em energia calorífica nas células, sob a forma de ATP. Nas plantas, o carboidrato é armazenado como amido nos amiloplastos; nos animais, é armazenado no fígado e nos músculos como glicogênio. É o principal combustível utilizado pelas células no processo respiratório a partir do qual se obtém energia para ser gasta no trabalho celular.
+Estrutural: determinados carboidratos proporcionam rigidez, consistência e elasticidade a algumas células. A pectina, a hemicelulose e a celulose compõem a parede celular dos vegetais. A quitina forma o exoesqueleto dos artrópodes. Os ácidos nucléicos apresentam carboidratos, como a ribose e a desoxirribose, em sua estrutura. Entram na constituição de determinadas estruturas celulares funcionando como reforço ou como elemento de revestimento.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«A estrutura química dos hidratos de carbono, com modelos interactivos (MDL Chime)» 
+«Mapa conceitual de carboidratos» (PDF)

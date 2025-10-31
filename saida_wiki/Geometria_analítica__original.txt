@@ -1,0 +1,1275 @@
+Na matemática clássica, a geometria analítica, também chamada geometria de coordenadas e de geometria cartesiana, é o estudo da geometria por meio de um sistema de coordenadas e dos princípios da álgebra e da análise. Contrasta com a abordagem sintética da geometria euclidiana, em que certas noções geométricas são consideradas primitivas, e é utilizado o raciocínio dedutivo a partir de axiomas e teoremas para obter proposições verdadeiras.
+É um campo matemático no qual são utilizados métodos e símbolos algébricos para representar e resolver problemas geométricos. Sua importância está presente no fato de que estabelece uma correspondência entre equações algébricas e curvas geométricas. Tal correspondência torna possível a reavaliação de problemas na geometria como problemas equivalentes em álgebra, e vice-versa; os métodos de um âmbito podem ser utilizados para solucionar problemas no outro. A geometria analítica é muito utilizada na física e na engenharia e é o fundamento das áreas mais modernas da geometria, incluindo geometria algébrica, diferencial, discreta e computacional.
+Em geral, o sistema de coordenadas cartesianas é usado para manipular equações em planos, retas, curvas e círculos, geralmente em duas dimensões, mas, por vezes, também em três ou mais. A geometria analítica ensinada nos livros escolares pode ser explicada de uma forma mais simples: diz respeito à definição e representação de formas geométricas de modo numérico e à extração de informação numérica dessa representação. O resultado numérico também pode, no entanto, ser um vector ou uma forma. O fato de que a álgebra dos números reais pode ser empregada para produzir resultados sobre o contínuo linear da geometria baseia-se no axioma de Cantor-Dedekind.
+
+
+== História ==
+
+
+=== Grécia Antiga ===
+O matemático grego Menecmo resolveu problemas e provou teoremas através de um método que se assemelhava fortemente com o uso de coordenadas; tanto que alguns estudiosos já chegaram a afirmar que a geometria analítica fora introduzida por este.
+Apolônio de Perga, em De Sectione Determinata, lidava com os problemas de um modo que pode ser considerado como uma "geometria analítica unidimensional"; com a finalidade de descobrir a posição de pontos em uma reta por meio de dadas razões em relação aos outros pontos, pré-determinados pelo enunciado. Além disso, em Cônicas, Apolônio desenvolveu um método para o estudo das propriedades das cônicas. Por muito tempo, considerou-se que esse seu trabalho seria uma antecipação do trabalho de Descartes em cerca de 1800 anos, mas os historiadores da matemática atuais não adotam mais essa leitura, pois a matemática praticada nos seus tratados tinha concepções e finalidades muito distintas dos matemáticos da modernidade. Por exemplo, a noção de equação é fundamental para a geometria analítica, porém ela não é pertinente para Apolônio. Ainda assim, alguns matemáticos do século XVII como Leibniz se apropriariam dos seus termos nos estudos em geometria analítica. Por exemplo, a utilização de linhas de referências, diâmetro e tangente é fundamentalmente análogo às utilizações modernas de um sistema de coordenadas, em que as distâncias medidas ao longo do diâmetro, a partir do ponto de tangência, são as abscissas e os segmentos paralelos à tangente e interceptados entre os eixos e a curva são as ordenadas. É importante ressaltar que nem Apolônio nem os muitos matemáticos até ao século XVIII não consideravam magnitudes negativas. Os números negativos só se tornariam uma prática comum na geometria analítica a partir da segunda metade do século XVIII.
+
+
+=== Islã Medieval ===
+Em todos os tratados algébricos da Idade Média, como os Al-Khwarizmi no século IX ou de Omar Khayyám no século XI, a geometria é sempre apresentada para justificar as manipulações algébricas. A geometria aqui tem um papel de legitimar os resultados da álgebra, que é exatamente o inverso do que acontece na matemática de hoje. A geometria analítica é caracterizada pela possibilidade de obter resultados geométricos a partir da álgebra. Nesse sentido, para a álgebra árabe jamais exerce essa função. A geometria seria a única a providenciar novos resultados algébricos, nunca o caminho contrário. Portanto, não faz sentido para a história da matemática afirmar que a os matemáticos medievais trabalhassem de alguma maneira com geometria analítica.
+
+
+=== Europa Moderna ===
+
+No fim do século XVI, o matemático francês François Viète adotou uma notação algébrica sistemática que utiliza letras para representar quantidades numéricas conhecidas e desconhecidas, e desenvolveu eficientes métodos gerais para trabalhar com expressões algébricas e solucionar equações de mesma natureza. No entanto, a matemática de Viète estava associada ao princípio da homogeneidade. O princípio da homogeneidade consistia em fazer operações de soma ou subtração somente com termos semelhantes, ou seja, variáveis lineares (de primeira ordem) correspondiam a comprimentos, quadráticas (de segunda ordem) a áreas, cúbicas (terceira ordem) a volumes, etc., assim não se fazia sentido somar uma variável linear com uma quadrática, pois eram de naturezas distintas -- a grosso modo seria tentar somar um comprimento com uma superfície, o que não faz sentido tampouco para nós (comentário do editor). Quando conveniente, os algebristas interpretavam as variáveis lineares como variáveis quadráticas assumindo que pudesse se tratar de áreas de retângulos, como por exemplo, 
+  
+    
+      
+        5
+        x
+      
+    
+    {\displaystyle 5x}
+  
+ poderia ser visto como um segmento de comprimento 
+  
+    
+      
+        x
+        +
+        x
+        +
+        x
+        +
+        x
+        +
+        x
+      
+    
+    {\displaystyle x+x+x+x+x}
+  
+ como um retângulo de lados 
+  
+    
+      
+        5
+      
+    
+    {\displaystyle 5}
+  
+ e 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+. Assim, isso significa que eles não buscavam romper com essa regra, e sim buscar que seu sistema continue respeitando o princípio da homogeneidade. Era um pressuposto tão enraizado nas práticas matemáticas que não era uma questão para os matemáticos romperem com esse princípio até  René Descartes, 46 anos depois da publicação de Viète, In artem analyticem isagoge.
+Os franceses Descartes e Pierre de Fermat, são creditados por estabelecer a geometria analítica na década de 1630, mas seguindo linhas bastante diferentes. Não é possível afirmar que ambos chegaram aos mesmos resultados de forma independe, pois, apesar de não haver qualquer ligação direta entre os dois matemáticos até as publicações de seus trabalhos, ambos estavam inseridos em uma mesma rede de circulação de cartas e pessoas. Portanto, essa suposta coincidência de termos dois matemáticos obtendo resultados análogos, ela na verdade nos comprova que existe uma prática comum compartilhada entre eles que os norteou, em especial, os problemas de lugar geométrico que estavam em alta com as traduções e edições comentadas dos tratados gregos da Antiguidade. Contudo, existem diferenças importantes entre os tratamentos desses dois matemáticos.
+Enquanto Fermat foi um seguidor das práticas algébricas de Viète, apropriando-se de sua notação e de muito de sua abordagem, Descartes desenvolveu um estilo diferente com notações e métodos próprios. Descartes manipulou equações para estudar curvas geometricamente definidas, e acentuou a necessidade de considerar curvas algébricas em geral — gráficos de equações polinomiais de todas as ordens. Ele demonstrou seu método em um problema clássico: encontrar todos os pontos P, de modo que, o produto das distâncias de P a certas linhas sejam iguais ao produto das distâncias em relação a outras linhas.
+O progresso significante deste âmbito deu-se através de seus métodos em um ensaio intitulado A Geometria (La Geometrie), o terceiro e último ensaio, todos publicados em 1637 anexados ao Discurso do método , cujo título completo é Discurso do método para bem conduzir à razão e procurar a verdade nas ciências mais a ótica, os meteoros e a geometria que são os ensaios deste método. Esse trabalho, produzido originalmente em francês, e seus princípios filosóficos, ganhou rapidamente grande repercussão na Europa, ainda que não num primeiro momento. Inicialmente, a publicação não foi bem recebida pela comunidade científica, principalmente devido às falhas argumentativas e equações complicadas. Apenas depois de ter sido traduzida para o Latim em 1649 por van Schooten junta à adição de comentários do tradutor, a obra de Descartes obteve reconhecimento e admiração.
+Fermat enfatizou que qualquer relação entre as coordenadas x e y determina uma curva. Utilizando tal ideia, ele revisou os argumentos de Apolônio em termos algébricos e o ressignificou. Além disso, indicou que qualquer equação quadrática entre x e y pode ser representada na forma padrão de uma das seções cônicas.
+Embora não tenha sido publicado durante seu tempo em vida, um impresso do manuscrito de Ad locos planos et solidos isagoge circulava em Paris em 1637, previamente à publicação do Discurso de Descartes. Escrito de forma clara e bem recebido, o documento também configurou a base da geometria analítica. A principal diferença entre as abordagens de ambos, quanto a este estudo, se encontra no ponto de vista: Fermat sempre iniciava com uma equação algébrica e então descrevia a curva geométrica que a satisfazia, enquanto Descartes partia das curvas geométricas e produzia suas respectivas equações; como sendo estas, uma de várias propriedades da curva. Como consequência deste tratamento, Descartes tinha de lidar com equações mais complicadas e, portanto, teve de criar métodos para trabalhar com equações polinomiais de ordens elevadas.
+O ponto fundamental que caracteriza a geometria analítica e a justifica aqui como uma prática inovadora para a época é que ela permite que problemas geométricos possam ser interpretados algebricamente e que as manipulações algébricas possam por sua vez permitir encontrar resultados geométricos. Essa via de mão dupla entre álgebra e geometria é rapidamente adotada com bastante entusiasmo na Europa Continental ainda no século XVII.
+
+
+== Coordenadas ==
+
+Na geometria analítica, ao plano é dado um sistema de coordenadas, no qual, cada ponto possui um par coordenadas reais. Semelhantemente, um espaço euclidiano acomoda sistemas onde cada ponto é definido por três coordenadas. Existe uma variedade de sistemas utilizados atualmente, porém os mais comuns são:
+
+
+=== Coordenadas cartesianas ===
+O sistema de coordenadas mais utilizado é o plano cartesiano, onde cada ponto recebe uma coordenada x, que representa a posição horizontal, e uma coordenada y, representando sua posição vertical. Estas são geralmente escritas em um par ordenado (x, y).
+Este sistema também pode ser empregado em geometria tridimensional, no qual, cada ponto no espaço euclidiano é representado por um trio ordenado de coordenadas (x, y, z).
+
+
+=== Fórmula da distância entre dois pontos no plano cartesiano ===
+
+A distância entre dois pontos, A e B, quaisquer no plano, sendo A 
+  
+    
+      
+        
+          (
+          
+            
+              x
+              
+                1
+              
+            
+            ,
+            
+              y
+              
+                1
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(x_{1},y_{1}\right)}
+  
+  e  B 
+  
+    
+      
+        
+          (
+          
+            
+              x
+              
+                2
+              
+            
+            ,
+            
+              y
+              
+                2
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left(x_{2},y_{2}\right),}
+  
+ é dada por:
+
+  
+    
+      
+        
+          d
+          
+            A
+            ,
+            B
+          
+        
+        =
+      
+    
+    {\displaystyle d_{A,B}=}
+  
+
+  
+    
+      
+        
+          
+            
+              (
+              
+                x
+                
+                  2
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              
+                )
+                
+                  2
+                
+              
+              +
+              (
+              
+                y
+                
+                  2
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{2}]{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}}.}
+  
+
+
+=== Coordenadas polares ===
+No sistema de coordenadas polares, cada ponto no plano é representado pelo raio r, em relação à origem, e pelo ângulo θ, em relação à horizontal (grau zero).
+
+
+=== Coordenadas cilíndricas ===
+Nas coordenadas cilíndricas, cada ponto no espaço é definido por: uma altura z; por um raio r, em relação ao eixo-z; por ângulo θ, em relação à sua projeção no plano-xy.
+
+
+=== Coordenadas esféricas ===
+Em um sistema de coordenadas esféricas, o ponto é representado por uma distância ρ em relação à origem, um ângulo θ com respeito à projeção no plano-xy, e um ângulo φ, que esta distância determina em relação ao eixo-z. Na física, os nomes dos ângulos são geralmente invertidos.
+
+
+== Curvas e equações ==
+Na geometria analítica, qualquer equação envolvendo coordenadas descreve um subconjunto do plano, isto é, o conjunto de soluções para a dada equação, ou o lugar geométrico (locus). Por exemplo, a equação y = x corresponde ao conjunto de todos os pontos no plano cuja coordenada-x é igual à coordenada-y. Estes pontos formam uma linha, portanto, dizemos que y = x representa a equação desta linha. No geral, equações lineares envolvendo x e y descrevem retas, equações quadráticas especificam seções cônicas, e equações mais complicadas resultam em figuras mais complexas.
+
+Normalmente, uma única equação corresponde à uma curva no plano. Este não é sempre o caso: a equação trivial x = x determina o plano inteiro, e a equação x² + y² = 0 determina apenas o ponto (0, 0). Em três dimensões, uma única equação gera, usualmente, uma superfície, e uma curva deve ser especificada como a intersecção entre duas superfícies, ou como um sistema de equações paramétricas.
+
+
+=== Linhas e planos ===
+Linhas no plano cartesiano podem ser descritas algebricamente através de equações lineares. Em duas dimensões, a equação para linhas não-verticais é, na maioria das vezes, dada na forma reduzida:
+
+  
+    
+      
+        y
+        =
+        m
+        x
+        +
+        n
+        ,
+      
+    
+    {\displaystyle y=mx+n,}
+  
+
+onde:
+
+m é o coeficiente angular da reta;
+n é o ponto de intersecção da reta com o eixo-y;
+x é a variável independente da função y = f(x).
+Com respeito às equações que definem retas, estas também podem ser encontradas em outras configurações algébricas. Como, por exemplo:
+
+
+==== Equação Geral ====
+Toda reta pode ser apresentada com uma equação do tipo
+
+  
+    
+      
+        A
+        x
+        +
+        B
+        y
+        +
+        C
+        =
+        0
+        ,
+      
+    
+    {\displaystyle Ax+By+C=0,}
+  
+
+com 
+  
+    
+      
+        A
+        ≠
+        0
+      
+    
+    {\displaystyle A\neq 0}
+  
+ ou 
+  
+    
+      
+        B
+        ≠
+        0.
+      
+    
+    {\displaystyle B\neq 0.}
+  
+
+
+==== Equação Paramétrica ====
+Uma reta passando pelos pontos distintos 
+  
+    
+      
+        A
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle A=(x_{1},y_{1})}
+  
+ e 
+  
+    
+      
+        B
+        =
+        (
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle B=(x_{2},y_{2})}
+  
+ pode ser apresentada pelas equações paramétricas
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  x
+                  =
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  +
+                  m
+                  t
+                
+              
+              
+                
+                  y
+                  =
+                  
+                    y
+                    
+                      1
+                    
+                  
+                  +
+                  n
+                  t
+                
+              
+            
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\begin{cases}x=x_{1}+mt\\y=y_{1}+nt\end{cases}},}
+  
+
+onde, 
+  
+    
+      
+        m
+        =
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m=x_{2}-x_{1}}
+  
+   e   
+  
+    
+      
+        n
+        =
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle n=y_{2}-y_{1}.}
+  
+
+
+==== Equação Matricial ====
+É possível fazer um paralelo básico, porém fundamental, entre geometria analítica e a álgebra linear através da transformação de suas equações lineares reduzidas e representá-las em matrizes. Dados dois pontos distintos 
+  
+    
+      
+        A
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle A=(x_{1},y_{1})}
+  
+ e 
+  
+    
+      
+        B
+        =
+        (
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle B=(x_{2},y_{2}),}
+  
+ uma equação da reta que passa por esses dois pontos é:
+
+  
+    
+      
+        y
+        −
+        
+          y
+          
+            1
+          
+        
+        =
+        m
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              (
+              
+                y
+                
+                  2
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              )
+            
+            
+              (
+              
+                x
+                
+                  2
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              )
+            
+          
+        
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle y-y_{1}=m(x-x_{1})={\frac {\Delta y}{\Delta x}}(x-x_{1})={\frac {(y_{2}-y_{1})}{(x_{2}-x_{1})}}(x-x_{1}).}
+  
+
+Exercendo um trabalho algébrico, obtemos:
+
+  
+    
+      
+        (
+        y
+        −
+        
+          y
+          
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        =
+        (
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        )
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (y-y_{1})(x_{2}-x_{1})=(y_{2}-y_{1})(x-x_{1})}
+  
+
+  
+    
+      
+        y
+        
+          x
+          
+            2
+          
+        
+        −
+        y
+        
+          x
+          
+            1
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            1
+          
+        
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          y
+          
+            2
+          
+        
+        x
+        −
+        
+          y
+          
+            2
+          
+        
+        
+          x
+          
+            1
+          
+        
+        −
+        
+          y
+          
+            1
+          
+        
+        x
+        +
+        
+          y
+          
+            1
+          
+        
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle yx_{2}-yx_{1}-y_{1}x_{2}+y_{1}x_{1}=y_{2}x-y_{2}x_{1}-y_{1}x+y_{1}x_{1}}
+  
+
+  
+    
+      
+        (
+        y
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            1
+          
+        
+        x
+        +
+        
+          y
+          
+            2
+          
+        
+        
+          x
+          
+            1
+          
+        
+        )
+        −
+        (
+        y
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          y
+          
+            1
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle (yx_{2}+y_{1}x+y_{2}x_{1})-(yx_{1}+y_{1}x_{2}+y_{2}x)=0}
+  
+
+Após alcançarmos tal relação de igualdade, podemos perceber uma forte semelhança com o algoritmo necessário para calcular o determinante de uma matriz. De modo a simplificar esta definição, a matriz 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ que caracteriza a equação da reta é:
+
+  
+    
+      
+        P
+        =
+        
+          |
+          
+            
+              
+                
+                  x
+                
+                
+                  y
+                
+                
+                  1
+                
+              
+              
+                
+                  
+                    
+                      x
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    
+                      y
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  1
+                
+              
+              
+                
+                  
+                    
+                      x
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                      y
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  1
+                
+              
+            
+          
+          |
+        
+        ,
+      
+    
+    {\displaystyle P=\left|{\begin{matrix}x&y&1\\{x}_{1}&{y}_{1}&1\\{x}_{2}&{y}_{2}&1\end{matrix}}\right|,}
+  
+ se e somente se, 
+  
+    
+      
+        d
+        e
+        t
+        (
+        P
+        )
+        =
+        0.
+      
+    
+    {\displaystyle det(P)=0.}
+  
+
+
+=== Equação do plano ===
+De forma análoga ao modo como as retas, em um espaço bidimensional, são descritas utilizando uma configuração ponto-ângulo para suas equações, planos situados em espaços tridimensionais possuem uma definição natural que utiliza um ponto no plano e um vetor ortogonal a este (o vetor normal) para indicar sua "inclinação".
+Nomeadamente, seja 
+  
+    
+      
+        
+          
+            r
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} _{0}}
+  
+ o vetor posição de algum ponto 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        =
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        ,
+        
+          z
+          
+            0
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle P_{0}=(x_{0},y_{0},z_{0}),}
+  
+ e seja 
+  
+    
+      
+        
+          n
+        
+        =
+        (
+        a
+        ,
+        b
+        ,
+        c
+        )
+      
+    
+    {\displaystyle \mathbf {n} =(a,b,c)}
+  
+ um vetor não-nulo. O plano determinado pelo ponto e vetor consiste destes pontos 
+  
+    
+      
+        P
+        ,
+      
+    
+    {\displaystyle P,}
+  
+ com vetor posição 
+  
+    
+      
+        
+          r
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {r} ,}
+  
+ de modo que o vetor traçado de 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ a 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle P_{0}}
+  
+ seja perpendicular a 
+  
+    
+      
+        
+          n
+        
+        .
+      
+    
+    {\displaystyle \mathbf {n} .}
+  
+ Dois vetores são perpendiculares se e somente se o produto escalar entre eles é zero. Logo, o plano desejado pode ser detalhado como o conjunto de todos os pontos 
+  
+    
+      
+        
+          r
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {r} ,}
+  
+ tais que 
+  
+    
+      
+        
+          n
+        
+        ⋅
+        (
+        
+          r
+        
+        −
+        
+          
+            r
+            
+              0
+            
+          
+        
+        )
+        =
+        0.
+      
+    
+    {\displaystyle \mathbf {n} \cdot (\mathbf {r} -\mathbf {r_{0}} )=0.}
+  
+ (Vale atentar ao fato de que o ponto se refere ao produto escalar, e não à multiplicação escalar).
+Expandindo o produto, a expressão se torna:
+
+  
+    
+      
+        a
+        (
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        )
+        +
+        b
+        (
+        y
+        −
+        
+          y
+          
+            0
+          
+        
+        )
+        +
+        c
+        (
+        z
+        −
+        
+          z
+          
+            0
+          
+        
+        )
+        =
+        0
+        ,
+      
+    
+    {\displaystyle a(x-x_{0})+b(y-y_{0})+c(z-z_{0})=0,}
+  
+ que é o perfil ponto-normal da equação de um plano.
+
+
+==== Equação de reta no espaço tridimensional ====
+Em três dimensões, retas não podem ser descritas por uma única equação linear, portanto, são frequentemente retratadas por equações paramétricas:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  x
+                  =
+                  
+                    x
+                    
+                      0
+                    
+                  
+                  +
+                  a
+                  t
+                
+              
+              
+                
+                  y
+                  =
+                  
+                    y
+                    
+                      0
+                    
+                  
+                  +
+                  b
+                  t
+                
+              
+              
+                
+                  z
+                  =
+                  
+                    z
+                    
+                      0
+                    
+                  
+                  +
+                  c
+                  t
+                
+              
+            
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\begin{cases}x=x_{0}+at\\y=y_{0}+bt\\z=z_{0}+ct\end{cases}},}
+  
+  onde:
+
+x, y e z são, todos, funções de uma variável independente t, que alterna através dos números reais;
+(x0, y0, z0) é um ponto qualquer na reta;
+a, b e c estão relacionados ao coeficiente angular da reta, de modo que o vetor (a, b, c) seja paralelo à esta.
+
+
+== Temas ==
+Os temas importantes de geometria analítica incluem:
+
+Espaço vectorial
+Definição do plano
+Problemas de distância
+O produto escalar para obter o ângulo entre dois vectores
+O produto vectorial para obter um vector perpendicular a dois vectores conhecidos (e também o seu volume espacial)
+Problemas de intersecção
+Muitos destes problemas envolvem álgebra linear.
+
+
+== Geometria analítica moderna ==
+A geometria analítica, no contexto da geometria algébrica, é também o nome da teoria das variedades complexas e dos espaços analíticos mais gerais. Está ligada à geometria algébrica, especialmente pelo trabalho de Jean-Pierre Serre.
+
+
+== Ver também ==
+Cicloide
+Elipse
+Hipérbole
+Parábola
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Boulos, Paulo; Camargo, Ivan de (2005). Geometria Analítica. Um Tratamento Vetorial 3 ed. São Paulo: Prentice Hall. ISBN 9788587918918  
+Lima, Elon Lages (2008). Geometria analítica e álgebra linear 2 ed. Rio de Janeiro: IMPA. ISBN 9788524401855 
+Venturi, Jacir J. Álgebra Vetorial e Geometria Analítica (PDF) 8 ed. Curitiba: [s.n.] ISBN 85.85132-48-5 
+Sebastiani, Marcos (2004). Introdução à Geometria Analítica Complexa. Rio de Janeiro: IMPA. ISBN 85-244-0218-0 
+ROQUE, Tatiana (2012).  História da matemática: uma visão crítica, desfazendo mitos e lendas. Rio de Janeiro: Zahar Editora. ISBN 9788537808887
+Pogorelov, A. V. (1984). Analytical Geometry (em inglês). [S.l.]: Mir Pub 
+J. Santos, Fabiano; Silvimar F. Ferreira (2009). Geometria Analítica. [S.l.]: Bookmann  
+
+
+== Ligações externas ==
+«Analytic Geometry» (PDF) (em inglês). : Capítulo sobre geometria analítica de um livro de cálculo disponível no site da Whitman College

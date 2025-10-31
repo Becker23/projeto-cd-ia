@@ -1,0 +1,1612 @@
+O cálculo infinitesimal, também conhecido como cálculo diferencial e integral ou simplesmente cálculo, é um ramo importante da matemática, desenvolvido a partir da Álgebra e da Geometria, que se dedica ao estudo de taxas de variação de grandezas (como a inclinação de uma reta) e a acumulação de quantidades (como a área debaixo de uma curva ou o volume de um sólido). Onde há movimento ou crescimento em que forças variáveis agem produzindo aceleração, o cálculo é a matemática a ser empregada. Foi criado como uma ferramenta auxiliar em várias áreas das ciências exatas. Desenvolvido simultaneamente por Gottfried Wilhelm Leibniz (1646-1716) e por Isaac Newton (1643-1727), em trabalhos independentes.
+
+O cálculo tem inicialmente três "operações-base", ou seja, possui áreas iniciais como o cálculo de limites, o cálculo de derivadas de funções e a integral de diferenciais. Com o advento do Teorema Fundamental do Cálculo, estabeleceu-se uma conexão entre os dois ramos do cálculo: o Cálculo Diferencial e o Cálculo Integral. O cálculo diferencial surgiu do problema da tangente, enquanto o cálculo integral surgiu de um problema aparentemente não relacionado, o problema da área.
+O professor de Isaac Newton em Cambridge, Isaac Barrow, descobriu que esses dois problemas estão de fato estritamente relacionados, ao perceber que a derivação e a integração são processos inversos. Foram Leibniz e Newton que exploraram essa relação e a utilizaram para transformar o cálculo em um método matemático sistemático. Particularmente ambos viram que o Teorema Fundamental os capacitou a calcular áreas e integrais muito mais facilmente, sem que fosse necessário calculá-las como limites de soma (método descrito pelo matemático Riemann, pupilo de Gauss). A integral indefinida também pode ser chamada de antiderivada, uma vez que é um processo que inverte a derivada de funções. Já a integral definida, inicialmente definida como Soma de Riemann, estabelece limites de integração, ou seja, é um processo estabelecido entre dois intervalos bem definidos, daí o nome integral definida.
+O cálculo diferencial e o cálculo integral auxiliam em vários conceitos e definições na matemática, química, física clássica, física moderna e economia. O estudante de cálculo deve ter um conhecimento em certas áreas da matemática, como funções (modular, exponencial, logarítmica, par, ímpar, afim e segundo grau, por exemplo), trigonometria, polinômios, geometria plana, espacial e analítica, pois são a base do cálculo.
+
+
+== História ==
+A história do cálculo encaixa-se em vários períodos distintos, de forma notável nas eras antiga, medieval e moderna.
+
+
+=== Antiguidade ===
+
+Na Antiguidade, foram introduzidas algumas ideias do cálculo integral, embora não tenha havido um desenvolvimento dessas ideias de forma rigorosa e sistemática. A função básica do cálculo integral, a de calcular volumes e áreas, pode ser remontada ao Papiro Egípcio de Moscou (1850 a.C.), no qual um egípcio trabalhou o volume de um frustum piramidal. O cálculo integral também pode ser utilizado para rastreamento e gravação do movimento do sol, da lua e dos planetas. Os antigos astrônomos babilônios  (1800-1600 a.C.) empregaram métodos geométricos sofisticados que prenunciam o desenvolvimento do cálculo para prever as posições dos corpos celestes. Eudoxo de Cnido, ou Eudoxus, (408-355 a.C.) usou o método da exaustão para calcular áreas e volumes. Arquimedes (287-212 a.C.) levou essa ideia além, inventando a heurística, que se aproxima do cálculo integral. O método da exaustão foi redescoberto na China por Liu Hui no século III, que o usou para encontrar a área do círculo. O método também foi usado por Zu Chongzhi século V, para achar o volume de uma esfera.
+
+
+=== Idade Média ===
+Na Idade Média, o matemático indiano Aryabhata usou a noção infinitesimal em 499 d.C. expressando-a em um problema de astronomia na forma de uma equação diferencial básica. Essa equação levou Bhāskara II no século XII a desenvolver uma derivada prematura representando uma mudança infinitesimal, e ele desenvolveu também o que seria uma forma primitiva do "Teorema de Rolle".
+No século XII, o matemático persa Sharaf al-Din al-Tusi descobriu a derivada de polinômios cúbicos, um resultado importante no cálculo diferencial. No século XIV, Madhava de Sangamagrama, juntamente com outros matemáticos-astrônomos da Escola Kerala de Astronomia e Matemática, descreveu casos especiais da Série de Taylor, que no texto são tratadas como Yuktibhasa.
+
+
+=== Idade Moderna ===
+
+Na Idade Moderna, descobertas independentes no cálculo foram feitas no início do século XVII no Japão por matemáticos como Seki Kowa, que expandiu o método de exaustão. Na Europa, a segunda metade do século XVII foi uma época de grandes inovações. O Cálculo abriu novas oportunidades na física-matemática de resolver problemas muito antigos que até então não haviam sido solucionados. Muitos matemáticos contribuíram para essas descobertas, notavelmente John Wallis e Isaac Barrow. James Gregory proveu um caso especial do segundo teorema fundamental do cálculo em 1668.
+Coube a Gottfried Wilhelm Leibniz e a Isaac Newton recolher essas ideias e juntá-las em um corpo teórico que viria a constituir o cálculo. A ambos é atribuída a simultânea e independente invenção do cálculo. Leibnitz foi originalmente acusado de plagiar os trabalhos não publicados de Isaac Newton; hoje, porém, é considerado o inventor do cálculo, juntamente com Newton. Historicamente Newton foi o primeiro a aplicar o cálculo à física ao passo que Leibniz desenvolveu a notação utilizada até os dias de hoje, a notação de Leibniz. O argumento histórico para conferir aos dois a invenção do cálculo é que ambos chegaram de maneiras distintas ao teorema fundamental do cálculo.
+
+Quando Newton e Leibniz publicaram seus resultados, houve uma grande controvérsia de qual matemático (e portanto que país: Inglaterra ou Alemanha) merecia o crédito. Newton derivou seus resultados primeiro, mas Leibniz publicou primeiro. Newton argumentou que Leibniz roubou ideias de seus escritos não publicados, que Newton à época compartilhara com alguns poucos membros da Sociedade Real. Esta controvérsia dividiu os matemáticos ingleses dos matemáticos alemães por muitos anos. Um exame cuidadoso dos escritos de Leibniz e Newton mostra que ambos chegaram a seus resultados independentemente, com Leibniz iniciando com integração e Newton com diferenciação. Nos dias de hoje tem-se que Newton e Leibniz descobriram o cálculo independentemente. Leibniz, porém, foi quem deu o nome cálculo à nova disciplina, Newton a chamara de "A ciência dos fluxos".
+Desde o tempo de Leibniz e Newton, muitos matemáticos contribuíram para o contínuo desenvolvimento do cálculo.
+
+
+=== Idade contemporânea ===
+
+Na Idade Contemporânea, já no século XIX, o cálculo foi abordado de uma forma muito mais rigorosa. Foi também durante este período que ideias do cálculo foram generalizadas ao espaço euclidiano e ao plano complexo. Lebesgue mais tarde generalizou a noção de integral. Sobressaíram matemáticos como Cauchy, Riemann, Weierstrass e Maria Gaetana Agnesi. Esta foi autora da primeira obra a unir as ideias de Isaac Newton e Gottfried Wilhelm Leibniz; escreveu também um dos primeiros livros sobre cálculo diferencial e integral. É dela também a autoria da chamada "curva de Agnesi".
+
+
+== Princípios ==
+
+
+=== Limites e Infinitesimais ===
+
+O cálculo é comumente utilizado pela manipulação de quantidades muito pequenas. Historicamente, o primeiro método de utilizá-lo era pelas infinitesimais. Estes objetos podem ser tratados como números que são, de alguma forma, "infinitamente pequenos". Na linha numérica, isso seria locais onde não é zero, mas possui "zero" de distância de zero. Nenhum número diferente de zero é um infinitesimal, porque sua distância de zero é positiva. Qualquer múltiplo de um infinitesimal continua sendo um infinitesimal. Em outras palavras, infinitesimais não satisfazem a propriedade arquimediana. Deste ponto de vista, o cálculo é uma coleção de técnicas para manipular infinitesimais. Tal pensamento foi ignorado no século XIX porque era muito difícil ter a noção precisa de uma infinitesimal. Entretanto, o conceito foi reutilizado no século XX com a introdução da análise não padronizada, a qual propiciou fundamentos sólidos para a manipulação de infinitesimais.
+No século XIX, infinitesimais foram substituídos pelos limites. Limites descrevem o valor de uma função em um certo ponto 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+ a partir de valores da função em pontos próximos de 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+. Um exemplo tradicional de interesse é o caso em que 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+ é um número irracional, como 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  
+ ou 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+, podendo ter seu valor decimal aproximado por números racionais próximos. Outro caso é quando, ao tentar avaliar uma função 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ em 
+  
+    
+      
+        x
+        =
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x=x_{0}}
+  
+, obtém-se uma divisão por zero, que é indefinida. Eles capturam o comportamento numérico em baixa escala, como nas infinitesimais, mas utilizando números ordinários. Deste ponto de vista, calculo é uma coleção de técnicas para a manipulação de certos limites. As infinitesimais foram substituídas por números muito pequenos, e o comportamento infinitamente pequeno da função é encontrado pelo limite de números cada vez menores. Limites são fáceis de serem colocados em fundações rigorosas e, por esse motivo, são a abordagem padrão para o cálculo.
+
+
+=== Derivadas ===
+
+O cálculo diferencial é o estudo da definição, propriedade e aplicações da derivada ou deslocamento de um gráfico. O processo de encontrar a derivada é chamado "diferenciação". Em linguagem técnica, a derivada é um operador linear, o qual forma uma nova função a partir da função original, em que cada ponto da nova função é o deslocamento da função original.
+O conceito de derivada é fundamentalmente mais avançado do que os conceitos encontrados em álgebra. Nessa matéria, os estudantes aprendem sobre funções em que o número de entrada gera um número de saída. Por exemplo, se no dobro da função é inserido 3, então a saída é 6, enquanto se a função é quadrática, e é inserido 3, então a saída é 9. Mas na derivada, a entrada é uma função e a saída é outra função. Por exemplo, se na derivada é colocada uma função quadrada, então a saída é o dobro de uma função, porque o dobro da função fornece o deslocamento da função quadrática em qualquer ponto dado da função.
+Para entender a derivada, os estudantes precisam aprender a notação matemática. Na notação matemática, um símbolo comum para a derivada da função é um sinal de apóstrofo chamado "linha". Então a derivada de f é f ' (f linha). Isso em notação matemática seria escrito assim:
+
+  
+    
+      
+        
+          
+            
+              
+                f
+                (
+                x
+                )
+              
+              
+                
+                =
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  f
+                  ′
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                2
+                x
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}f(x)&=x^{2}\\f'(x)&=2x.\end{aligned}}}
+  
+ 
+Se a função de entrada é o tempo, então a derivada dessa função é a taxa em que a função é alterada.
+Se a função é linear, ou seja, o gráfico da função é uma linha reta, então a função pode ser escrita como y = m x + b, onde:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              
+                
+                  variação em 
+                
+              
+              y
+            
+            
+              
+                
+                  variação em 
+                
+              
+              x
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle m={{\mbox{variação em }}y \over {\mbox{variação em }}x}={\Delta y \over {\Delta x}}.}
+  
+ 
+Isto dá o valor exato para a variação da linha reta. Se a função não é uma linha reta, então a variação em y é dividida pela variação em x, e nós precisamos do cálculo para encontrar o valor exato em cada ponto da função. (Note-se que y e f(x) são duas notações diferentes para a mesma coisa: a saída da função). Uma linha entre dois pontos em uma curva é chamado de reta secante. A variação da reta secante pode ser expressada como:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              f
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              (
+              x
+              )
+            
+            
+              (
+              x
+              +
+              h
+              )
+              −
+              x
+            
+          
+        
+      
+    
+    {\displaystyle m={f(x+h)-f(x) \over {(x+h)-x}}}
+  
+
+onde as coordenadas do primeiro ponto é (x, f(x)) e h é a distância horizontal entre os dois pontos.
+Para determinar o deslocamento da curva, usam-se os limites:
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              (
+              x
+              )
+            
+            
+              h
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{h\to 0}{f(x+h)-f(x) \over {h}}}
+  
+
+Em um caso particular, nós encontramos o deslocamento da função quadrática no ponto em que a entrada é 3 e a saída é 9 (Ex.: 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)=x^{2},}
+  
+ então 
+  
+    
+      
+        f
+        (
+        3
+        )
+        =
+        9
+      
+    
+    {\displaystyle f(3)=9}
+  
+).
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  f
+                  ′
+                
+                (
+                3
+                )
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    h
+                    →
+                    0
+                  
+                
+                
+                  
+                    
+                      (
+                      3
+                      +
+                      h
+                      
+                        )
+                        
+                          2
+                        
+                      
+                      −
+                      9
+                    
+                    
+                      h
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    h
+                    →
+                    0
+                  
+                
+                
+                  
+                    
+                      9
+                      +
+                      6
+                      h
+                      +
+                      
+                        h
+                        
+                          2
+                        
+                      
+                      −
+                      9
+                    
+                    
+                      h
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    h
+                    →
+                    0
+                  
+                
+                
+                  
+                    
+                      6
+                      h
+                      +
+                      
+                        h
+                        
+                          2
+                        
+                      
+                    
+                    
+                      h
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    h
+                    →
+                    0
+                  
+                
+                
+                  
+                    
+                      h
+                      (
+                      6
+                      +
+                      h
+                      )
+                    
+                    
+                      h
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    h
+                    →
+                    0
+                  
+                
+                (
+                6
+                +
+                h
+                )
+              
+            
+            
+              
+              
+                
+                =
+                6
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}f'(3)&=\lim _{h\to 0}{(3+h)^{2}-9 \over {h}}\\&=\lim _{h\to 0}{9+6h+h^{2}-9 \over {h}}\\&=\lim _{h\to 0}{6h+h^{2} \over {h}}\\&=\lim _{h\to 0}{h(6+h) \over {h}}\\&=\lim _{h\to 0}(6+h)\\&=6\end{aligned}}}
+  
+
+O deslocamento da função quadrática no ponto (3, 9) é 6, isto é, ele cresce seis vezes mais rápido em y do que em x e está indo para a direita.
+
+
+=== Integrais ===
+
+O Cálculo Integral é o estudo das definições, propriedades, e aplicações de dois conceitos relacionados, as integrais indefinidas e as integrais definidas. O processo de encontrar o valor de uma integral é chamado integração. Em linguagem técnica, o calculo integral estuda dois operadores lineares relacionados.
+A integral indefinida é a antiderivada, o processo inverso da derivada. F é uma integral indefinida de f quando f é uma derivada de F. (O uso de letras maiúsculas e minúsculas para uma função e sua integral indefinida é comum em cálculo.)
+A integral definida insere uma função e extrai um número, o qual fornece a área entre o gráfico da função e o eixo do x. A definição técnica da integral definida é o limite da soma das áreas dos retângulos, chamada Soma de Riemann.
+Um exemplo motivacional é a distância (D) viajada em um determinado tempo (t).
+
+  
+    
+      
+        
+          D
+        
+        =
+        
+          V
+        
+        ⋅
+        
+          t
+        
+      
+    
+    {\displaystyle \mathrm {D} =\mathrm {V} \cdot \mathrm {t} }
+  
+
+Se a velocidade (V) é constante, somente multiplicação é necessária, mas se a velocidade varia, então precisamos de um método mais poderoso para encontrar a distância. Um método é a aproximação da distância viajada pela divisão do tempo em muito mais intervalos de tempo, e então multiplicando o tempo em cada intervalo por uma das velocidades naquele intervalo, e então fazer uma Soma de Riemann das distâncias aproximadas viajadas em cada intervalo. A ideia básica é que se somente um pequeno tempo passar, então a velocidade vai permanecer praticamente a mesma. Entretanto, uma Soma de Riemann somente da uma aproximação da distância viajada. Nós precisamos pegar o limite de todas as Somas de Riemann para encontrar a distância viajada exata.
+
+Se f(x) no diagrama da esquerda representa a velocidade variando de acordo com o tempo, a distância viajada entre os tempos representados por a e b é a área da região escura s.
+Para aproximar a área, um método intuitivo seria dividir em distâncias entre a e b em um número de segmentos iguais, a distância de cada segmento representado pelo símbolo ?x. Para cada segmento menor, nós podemos escolher um valor da função f(x).  Chame o valor h.  Então a área do retângulo com a base ?x e altura h dá a distância (tempo ?x multiplicado pela velocidade h) viajado naquele segmento.   Associado com cada segmento é o valor médio da função sobre ela, f(x)=h. A soma de todos os retângulos dados é uma aproximação da área entre o eixo e a curva, o qual é uma aproximação da distância total viajada. Um valor menor para ?x nos dará mais retângulos e, na maioria dos casos uma melhor aproximação, mas para uma resposta exata nós precisamos fazer o limite em ?x tender a zero.
+O símbolo da integração é 
+  
+    
+      
+        
+          ∫
+          
+            
+          
+          
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \int _{\,}^{\,},}
+  
+ um S alongado (que significa "soma"). A integral definida é escrita da forma:
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx}
+  
+
+e lida como "a integral de a até b de f-de-x em relação a x."
+A integral indefinida, ou antiderivada, é escrita da forma:
+
+  
+    
+      
+        ∫
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle \int f(x)\,dx.}
+  
+ 
+Desde que a derivada da função 
+  
+    
+      
+        y
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        C
+      
+    
+    {\displaystyle y=x^{2}+C}
+  
+ é 
+  
+    
+      
+        
+          y
+          ′
+        
+        =
+        2
+        x
+      
+    
+    {\displaystyle y'=2x}
+  
+ (onde C é qualquer constante), então:
+
+  
+    
+      
+        ∫
+        2
+        x
+        
+        d
+        x
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        C
+        .
+      
+    
+    {\displaystyle \int 2x\,dx=x^{2}+C.}
+  
+
+
+== Conceitos básicos ==
+
+
+=== Função, domínio e imagem ===
+Seja um conjunto de pontos A, cujos membros são os números em 
+  
+    
+      
+        
+          R
+        
+        ⇒
+        {
+        −
+        ∞
+        ,
+        …
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+        ,
+        …
+        ,
+        +
+        ∞
+        }
+        ,
+      
+    
+    {\displaystyle \mathbb {R} \Rightarrow \{-\infty ,\dots ,x_{1},x_{2},x_{3},\dots ,+\infty \},}
+  
+ então tomamos 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ e denominamo-la variável independente, visto que, arbitrariamente, lhe podemos atribuir qualquer valor em 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+ e portanto dizemos que:
+A é o domínio da variável 
+  
+    
+      
+        x
+        .
+      
+    
+    {\displaystyle x.}
+  
+
+Da mesma forma, admitamos um conjunto de pontos B, cujos membros são números que são obtidos única e exclusivamente por um conjunto de regras matemáticas 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+, quando números arbitrários em A lhe são transferidos; visto que há um único valor assumido para cada valor arbitrário transferido a 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+, dizemos que:
+B é função de A.
+Sendo B obtido através das regras de 
+  
+    
+      
+        f
+        :
+      
+    
+    {\displaystyle f:}
+  
+ 
+A é domínio da função 
+  
+    
+      
+        f
+        .
+      
+    
+    {\displaystyle f.}
+  
+ 
+Da mesma forma, como B é restrito aos valores definidos por A e às regras definidas por 
+  
+    
+      
+        f
+        ,
+      
+    
+    {\displaystyle f,}
+  
+ os seus elementos espelham estas condições, portanto, podemos dizer que:
+B é imagem da função 
+  
+    
+      
+        f
+        .
+      
+    
+    {\displaystyle f.}
+  
+ 
+
+
+=== Extensões de domínios ===
+Observe-se a expressão: 
+  
+    
+      
+        
+          
+            12
+            −
+            x
+          
+        
+      
+    
+    {\displaystyle {\sqrt {12-x}}}
+  
+ Nota-se que, assim que são atribuídos valores a 
+  
+    
+      
+        x
+        >
+        12
+        ,
+      
+    
+    {\displaystyle x>12,}
+  
+ ela assumirá valores inválidos, ou seja, de raízes quadradas de números negativos. Para sanar este problema, pode-se atribuir uma faixa de valores válidos para o domínio de 
+  
+    
+      
+        x
+        ,
+      
+    
+    {\displaystyle x,}
+  
+ o que resultará em:
+
+  
+    
+      
+        
+          
+            12
+            −
+            x
+          
+        
+        ,
+        x
+        ≤
+        12
+      
+    
+    {\displaystyle {\sqrt {12-x}},x\leq 12}
+  
+
+Assim, tem-se um domínio restrito a valores iguais ou menores que 12. Portanto, incluindo-o, este extremo ao qual pertence o valor 12 é chamado de extremo fechado.
+Tem-se uma situação semelhante, porém com uma sutil diferença, quando for necessário fazer: 
+  
+    
+      
+        log
+        ⁡
+        
+          x
+        
+      
+    
+    {\displaystyle \log {x}}
+  
+. Neste caso, é preciso restringir o valor 0 e todos os números abaixo dele, desta forma:
+
+  
+    
+      
+        log
+        ⁡
+        
+          x
+        
+        ,
+        x
+        >
+        0
+      
+    
+    {\displaystyle \log {x},x>0}
+  
+
+Pode-se atribuir apenas valores maiores que 0, uma vez que este valor não pertence ao conjunto de números que podem ser atribuídos à variável, o que se denomina de extremo aberto.
+
+
+=== Notações ===
+O conjunto de números B 
+  
+    
+      
+        {
+        −
+        ∞
+        ,
+        …
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        ,
+        
+          y
+          
+            3
+          
+        
+        ,
+        …
+        ,
+        +
+        ∞
+        }
+      
+    
+    {\displaystyle \{-\infty ,\dots ,y_{1},y_{2},y_{3},\dots ,+\infty \}}
+  
+ dos quais 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+      
+    
+    {\displaystyle y_{n}}
+  
+ dependem do conjunto A 
+  
+    
+      
+        {
+        −
+        ∞
+        ,
+        …
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+        ,
+        …
+        ,
+        ∞
+        }
+      
+    
+    {\displaystyle \{-\infty ,\dots ,x_{1},x_{2},x_{3},\dots ,\infty \}}
+  
+ de onde se obtém 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{n},}
+  
+ e se estabelece o par de números 
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        ,
+        
+          y
+          
+            n
+          
+        
+        }
+        ,
+      
+    
+    {\displaystyle \{x_{n},y_{n}\},}
+  
+ ou simplesmente:
+
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle (x,y)}
+  
+
+Este é chamado de  par ordenado.
+Sendo também 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ a representação dos valores de 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        ,
+      
+    
+    {\displaystyle (x,y),}
+  
+ então pode-se afirmar que:
+
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle y=f(x)}
+  
+
+Sendo 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ o valor de 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+, quando definido pelas operações em 
+  
+    
+      
+        f
+        .
+      
+    
+    {\displaystyle f.}
+  
+ 
+Faixas de valores que delimitam os domínios podem ser representados com desigualdades, como nos exemplos abaixo:
+
+  
+    
+      
+        −
+        2
+        <
+        x
+        <
+        4
+        ;
+        −
+        12
+        ≤
+        x
+        <
+        8
+      
+    
+    {\displaystyle -2<x<4;-12\leq x<8}
+  
+
+Porém, os extremos podem ser colocados em um par entre delimitadores de forma que, para os extremos fechados usa-se os delimitadores [ ou ]. Para os extremos abertos usa-se ( ou ), habilitando a identificar os extremos mais claramente. Assim, pode-se identificar os domínios do exemplo acima desta forma:
+
+  
+    
+      
+        (
+        −
+        2
+        ,
+        4
+        )
+        ;
+        [
+        −
+        12
+        ,
+        8
+        )
+      
+    
+    {\displaystyle (-2,4);[-12,8)}
+  
+
+Também é comum usar colchetes invertidos para extremos abertos:
+
+  
+    
+      
+        ]
+        −
+        2
+        ,
+        4
+        [
+        ;
+        [
+        −
+        12
+        ,
+        8
+        [
+      
+    
+    {\displaystyle ]-2,4[;[-12,8[}
+  
+
+
+=== Operações com funções ===
+Considere-se duas funções f e g; admitindo que as duas são, intuitivamente, expressões que se traduzem em valores, pode-se dizer que:
+
+  
+    
+      
+        (
+        f
+        +
+        g
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        +
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f+g)(x)=f(x)+g(x)}
+  
+
+  
+    
+      
+        (
+        f
+        −
+        g
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        −
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f-g)(x)=f(x)-g(x)}
+  
+
+  
+    
+      
+        (
+        f
+        ⋅
+        g
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        ⋅
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f\cdot g)(x)=f(x)\cdot g(x)}
+  
+
+  
+    
+      
+        (
+        f
+        :
+        g
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        :
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f:g)(x)=f(x):g(x)}
+  
+
+Sendo D(f) o domínio da função f e D(g) o domínio da função g, o domínio da função resultante das operações acima é sempre:
+
+  
+    
+      
+        D
+        (
+        f
+        )
+        ∩
+        D
+        (
+        g
+        )
+      
+    
+    {\displaystyle D(f)\cap D(g)}
+  
+
+
+=== Teorema Fundamental do Cálculo ===
+
+O teorema fundamental do cálculo afirma que a diferenciação e a integração são operações inversas. Mais precisamente, o teorema conecta os valores de antiderivadas ao valor de integrais definidas. Por ser usualmente mais fácil computar uma antiderivada do que aplicar a definição de uma integral definida, o teorema fundamental do cálculo provê uma forma prática de computar integrais definidas. Pode também ser interpretado como uma afirmação precisa do fato que a diferenciação é o inverso da integração.
+É afirmado pelo teorema fundamental do cálculo que: Se uma função f é contínua no intervalo [a, b] e se F é uma função cuja derivada é f no intervalo (a, b), então
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx=F(b)-F(a).}
+  
+
+Além disso, para cada x no intervalo (a, b) temos que
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle {\frac {d}{dx}}\int _{a}^{x}f(t)\,dt=f(x).}
+  
+
+E, seu Corolário pode ser transcrito da seguinte forma:
+Considere-se f uma função contínua de valores reais definida em um intervalo fechado [a, b]. Se F é uma função tal que
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          F
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)=F'(x)}
+  
+ para todo x em [a, b]
+então
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        d
+        t
+        +
+        F
+        (
+        a
+        )
+      
+    
+    {\displaystyle F(x)=\int _{a}^{x}f(t)dt+F(a)}
+  
+
+e
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        d
+        t
+        .
+      
+    
+    {\displaystyle f(x)={\frac {d}{dx}}\int _{a}^{x}f(t)dt.}
+  
+ 
+Essa descoberta, realizada por Newton e Leibniz, que se basearam nos resultados de um trabalho anterior de Isaac Barrow, exerceu um papel chave na massiva proliferação de resultados analíticos que se seguiram após seus trabalhos ficarem conhecidos. O Teorema fundamental do cálculo provê um método algébrico de computar muitas integrais definidas sem executar processos limite—simplesmente por encontrar fórmula para antiderivadas.
+
+
+== Aplicações ==
+O cálculo é usado em todos os ramos das ciências físicas, na ciência da computação, estatística, engenharia, economia, medicina e em outras áreas sempre que um problema possa ser modelado matematicamente e uma solução ótima é desejada, ele é um estudo mais profundo de funções.
+A Física faz uso intensivo do cálculo. Todos os conceitos na mecânica clássica são inter-relacionados pelo cálculo. A massa de um objeto de densidade conhecida, o momento de inércia dos objetos, assim como a energia total de um objeto dentro de um sistema fechado podem ser encontrados usando o cálculo. Nos sub-campos da eletricidade e magnetismo, o cálculo pode ser usado para encontrar o fluxo total de campos eletromagnéticos. Um exemplo mais histórico do uso do cálculo na física é a segunda lei de Newton que usa a expressão "taxa de variação" que se refere à derivada: A taxa de variação do momento de um corpo é igual à força resultante que age sobre o corpo e na mesma direção. Até a expressão comum da segunda lei de Newton como Força = Massa × Aceleração envolve o cálculo diferencial porque a aceleração pode ser expressada como a derivada da velocidade. A teoria do Eletromagnetismo de Maxwell e a teoria da relatividade geral de Einstein também são expressas na linguagem do cálculo diferencial. A química também usa o cálculo para determinar as variações na velocidade das reações e no decaimento radioativo.
+O cálculo pode ser usado em conjunto com outras disciplinas matemáticas. Por exemplo, ele pode ser usado com a álgebra linear para encontrar a reta que melhor representa um conjunto de pontos em um domínio.
+Na esfera da medicina, o cálculo pode ser usado para encontrar o ângulo ótimo na ramificação dos vasos sanguíneos para maximizar a circulação, e até mesmo determinar o tamanho máximo de moléculas que são capazes de atravessar a membrana plasmática em uma determinada situação, normal ou induzida, em células.
+Na geometria analítica, o estudo dos gráficos de funções, o cálculo é usado para encontrar pontos máximos e mínimos, a inclinação, concavidade e pontos de inflexão.Na Engenharia civil é usado para encontrar o momento fletor máximo de uma viga num ponto qualquer.
+Na Economia o cálculo permite a determinação do lucro máximo fornecendo uma fórmula para calcular facilmente tanto o custo marginal quanto a renda marginal.
+O cálculo pode ser usado para encontrar soluções aproximadas de equações, em métodos como o método de Newton, iteração de ponto fixo e aproximação linear. Por exemplo, naves espaciais usam uma variação do método de Euler para aproximar trajetórias curvas em ambientes de queda livre.
+Avanços recentes no cálculo ampliam sua utilidade em campos modernos, como aprendizado de máquina e mecânica quântica, onde auxilia na otimização de algoritmos e modelagem de sistemas quânticos. Além disso, no setor financeiro, o cálculo é fundamental em modelos de precificação de opções e estratégias de gestão de risco, demonstrando sua ampla aplicação além da mecânica clássica.
+
+
+== Ver também ==
+Tabela de derivadas
+Tábua de integrais
+Régua de cálculo
+Série
+Cálculo com polinômios
+Geometria diferencial
+Cálculo com múltiplas variáveis
+Análise não padronizada
+Pré-cálculo (educação matemática)
+Integral produto
+Cálculo estocástico
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+=== Cálculo básicoMedeiros, Valeria Zuma (2005). Thomsom Pioneira, 1ª edição. Pré-Cálculo ISBN 8522104506 ===
+Coelho, Flavio Ulhoa (2005). Saraiva, 1ª edição. Curso Básico de Cálculo ISBN 8502051202
+Mendelson, Elliot (2007). Bookman Companhia Editora, 2ª edição. Introdução ao Cálculo ISBN 8560031537
+Guidorizzi, Hamilton; LTC; 5ª edição, 2001; 4 vols. ISBN 8521612591
+Piskounov, Nikolai Semenovich; Edições Lopes da Silva; 12ª edição, 2002; 2 vols.
+Goldstein, Larry J./Schneider, David I. (2007); Hemus; 1ª edição, volume único. Cálculo e suas Aplicações ISBN 8528905330
+Stewart, James (2002). Thomsom Pioneira, 5ª edição, 2 vols. Cálculo ISBN 8522106606
+Thomas, George B. (2012). Cálculo Volume 1. São Paulo: Pearson Education do Brasil. ISBN 9788581430867 
+Anton, Howard A. (2007). Bookman Companhia Editora, 8ª edição, 2 vols. Cálculo ISBN 8560031804
+Barboni, Ayrton/Paulette, Walter (2007). LTC, 1ª edição. Fundamentos da Matemática: Cálculo e Análise ISBN 8521615469
+Ayres Jr., Frank/Mendelson, Elliot (2006), Bookman Companhia Editora, 4ª edição. Cálculo, col. Schaum ISBN 856003109X
+Bradley, Gerald L./Hoffman, Laurence D. (2008). LTC, 9ª edição. Cálculo:Um Curso Moderno e suas Aplicações ISBN 8521616023
+Lopes, Hélio/Malta, Iaci/Pesco, Sinesio (2002). Loyola, 1ª edição, 2 vols. Cálculo a uma Variável ISBN 8515024403
+Hughes-Hallett, Deborah (2005). LTC, 2ª edição. Cálculo Aplicado ISBN 8521613970
+Larson, Ron/Edwards, Brruce (2005). LTC, 6ª edição Cálculo com Aplicações ISBN 8521614330
+Avila, Geraldo (2003). LTC, 7ª edição, 3 vols. Cálculo das Funções de uma Variável ISBN 8521613709
+Hallett, Hughes (2004). LTC, 7ª edição. Cálculo de uma Variável ISBN 8521613903
+Salas/Hille/Etgen (2005). LTC, 9ª edição, 2 vols. Cálculo ISBN 8521614594
+Apostol, Tom (2004). Editora Reverté, 2ª edição. Cálculo, Vol. 1. ISBN 8429150153
+Courant, R./John, F. Springer (1998) Introduction to Calculus and Analysis, Vol. 1. ISBN 354065058X
+Spivak, M. Publish or Perish (2008) Calculus. ISBN 0914098918
+
+
+=== Cálculo avançadoWrede, Robert C./Spiegel, Murray R. (2003). Bookman Companhia Editora, 2ª edição Cálculo Avançado ISBN 8536303476 ===
+Hellmeister, Ana Catarina Pontone, organizadora. EDUSP, 2ª edição (2006) Cálculo Integral Avançado ISBN 8531403707
+Bortolossi, Humberto Jose (2002). Loyola, 1ª edição Cálculo a Várias Variáveis: Uma Introdução à Teoria da Otimização ISBN 851502442X
+Spivak, Michael (2003). Ciência Moderna, 1ª edição Cálculo em Variedades ISBN 8573932252
+
+
+=== Livros on-line ===
+
+«Differential and Integral Calculus vol 1 - Richard Courant» (em inglês). , cujos direitos autorais expiraram. 
+«Differential and Integral Calculus vol 2 - Richard Courant» (em inglês). , cujos direitos autorais expiraram. 
+«MATHEMATICA NO ENSINO DE CÁLCULO: Uma Abordagem Computacional pelo prof. Inder Jeet Taneja da UFSC» 
+https://web.archive.org/web/20160510021043/http://www.uff.br/webmat/Calc1_LivroOnLine/
+«Cálculo Diferencial a Várias Variáveis:Uma Introdução à Teoria de Otimização» 
+«CÁLCULO DIFERENCIAL E INTEGRAL NA RETA - Notas de Aula pelo prof. Plácido Z. Táboas do ICMC-USP de São Carlos» 
+«Exercícios de Cálculo Diferencial e Integral de Funções Definidas em Rn» (PDF) 
+«Análise Matemática III». , entrada nº 12, ou «Análise Matemática III». , se preferir link directo para este livro do prof. António Caetano da «Universidade de Aveiro». .   
+
+
+=== Ligações externas ===
+«Curso de cálculo on-line da USP» 
+Integral Dupla e Integral Tripla - Mudança de Variável
+«Kit de sobrevivência em Cálculo" do departamento de Matemática da UEM» 
+«Materiais de aula do IMECC-UNICAMP» 
+«Cálculo com o Mathematica» 🔗 
+«Cálculo Infinitesimal: o que é isso?» 
+«Material para Cálculo I pelos professores Fernando Guerra e Inder Jeet Taneja da UFSC»  [ligação inativa]

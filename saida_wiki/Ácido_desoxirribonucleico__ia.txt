@@ -1,0 +1,17 @@
+O ácido desoxirribonucleico (ADN), ou DNA (sigla em inglês), é um polímero composto por duas cadeias polinucleotídicas que se enrolam para formar uma dupla hélice. Ele carrega as instruções genéticas para o desenvolvimento, funcionamento, crescimento e reprodução de organismos conhecidos e muitos vírus. O ADN e o ácido ribonucleico (ARN) são ácidos nucleicos, macromoléculas essenciais para a vida.
+
+O ADN armazena informações necessárias para a construção de proteínas e ARN, transmitindo características hereditárias. Segmentos de ADN contendo informação genética são denominados genes. A estrutura da molécula de ADN foi inicialmente investigada por Rosalind Franklin, e posteriormente James Watson, Francis Crick e Maurice Wilkins propuseram o modelo da dupla hélice.
+
+Quimicamente, o ADN é um polímero de nucleotídeos, com uma cadeia principal formada por moléculas de açúcares (desoxirribose) e fosfato ligados por ligações fosfodiéster. A sequência de bases nitrogenadas (adenina, citosina, guanina e timina) ao longo da molécula constitui a informação genética, decifrada pelo código genético para especificar a sequência de aminoácidos nas proteínas. O ARN mensageiro (mRNA) copia parte da cadeia de ADN em um processo chamado transcrição, e essa informação é traduzida em proteínas pela tradução.
+
+Dentro da célula, o ADN organiza-se em cromossomas durante a metáfase. Antes da divisão celular, os cromossomas são duplicados por replicação. Em eucariotos, o ADN está localizado no núcleo; em procariontes, disperso no citoplasma. Nos cromossomas, o ADN é compactado e organizado por proteínas da cromatina, como as histonas.
+
+A largura da cadeia de ADN é de 2,2 a 2,4 nanômetros, com um nucleotídeo com cerca de 0,33 nanômetros de comprimento. Em organismos vivos, o ADN consiste em duas cadeias associadas em dupla hélice. A cadeia principal é formada por resíduos de fosfato e açúcar (2-desoxirribose), unidos por ligações fosfodiéster, dando à cadeia uma direção. As cadeias são antiparalelas, com terminações assimétricas designadas 5' e 3'.
+
+As bases nitrogenadas ligam-se entre as duas cadeias por pontes de hidrogênio: adenina (A) com timina (T), e citosina (C) com guanina (G). A sequência de bases é complementar.
+
+A dupla hélice forma sulcos maiores e menores. Uma sequência de ADN é chamada de "senso" se possuir a mesma sequência do ARNm. A cadeia oposta é denominada "antissenso" e serve de molde para a síntese de ARN.
+
+O ADN pode ser torcido em superenrolamentos positivos ou negativos, influenciados pela ação da enzima topoisomerase.
+
+O ADN pode existir em várias conformações, incluindo as formas A, B e Z, sendo a forma B a mais comum em células.

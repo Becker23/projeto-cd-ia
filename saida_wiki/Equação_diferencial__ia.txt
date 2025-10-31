@@ -1,0 +1,12 @@
+Em matemática, uma equação diferencial é uma equação cuja solução procurada é uma função, e que relaciona essa função com suas derivadas. Dada uma variável independente *x* e uma função dependente *y*, uma equação diferencial envolve *x*, *y*, derivadas de *y* e, possivelmente, derivadas de *x*.
+
+As equações diferenciais podem ou não admitir solução, e, caso admitam, a solução pode ser única ou não. A ordem de uma equação diferencial é dada pela ordem da derivada de mais alta ordem presente na equação. A solução geral de uma equação diferencial de ordem *n* contém *n* constantes arbitrárias.
+
+Equações diferenciais são utilizadas para modelar fenômenos físicos em diversas áreas, como dinâmica de fluidos e mecânica celeste. O estudo de equações diferenciais constitui um campo extenso tanto na matemática pura quanto na aplicada, com aplicações em medicina, engenharia, química, biologia, economia e outras áreas do conhecimento. As soluções dessas equações são empregadas no projeto de estruturas como pontes, automóveis, aeronaves e circuitos elétricos.
+
+As equações diferenciais são classificadas principalmente em dois tipos:
+
+*   **Equações diferenciais ordinárias (EDOs):** Contêm funções de uma única variável e suas derivadas em relação a essa variável.
+*   **Equações diferenciais parciais (EDPs):** Contêm funções de múltiplas variáveis e suas derivadas parciais.
+
+Um exemplo de equação diferencial é a segunda lei de Newton, expressa como  ${\displaystyle {\vec {F}}=m{\vec {a}}}$, que pode ser reescrita como ${\displaystyle {\vec {F}}({\vec {r}},t)=m{\frac {d^{2}{\vec {r}}}{dt^{2}}}}$.
