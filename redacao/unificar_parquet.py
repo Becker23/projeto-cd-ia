@@ -42,7 +42,7 @@ dataset_unificado["classe"] = dataset_unificado["classe"].replace({
 output_path = os.path.join(caminho, "dataset_unificado.parquet")
 dataset_unificado.to_parquet(output_path, index=False)
 
-print("✅ Dataset unificado salvo como dataset_unificado.parquet")
-print("📊 Linhas totais:", len(dataset_unificado))
+print("Dataset unificado salvo como dataset_unificado.parquet")
+print("Linhas totais:", len(dataset_unificado))
 print(dataset_unificado["classe"].value_counts())
 print(dataset_unificado.head())
