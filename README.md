@@ -91,19 +91,22 @@ http://127.0.0.1:5000/
 
 ## 🛠️ Tecnologias Utilizadas
 
-Categoria	Ferramentas
-Linguagem	Python 3.x
-Backend Web	Flask
-Machine Learning	Scikit-learn
-Modelo Avançado	BERT (Transformers - HuggingFace)
-Manipulação de Dados	Pandas / NumPy
-Interface	HTML, CSS, JavaScript
+| Categoria            | Ferramentas                       |
+| -------------------- | --------------------------------- |
+| Linguagem            | Python 3.x                        |
+| Backend Web          | Flask                             |
+| Machine Learning     | Scikit-learn                      |
+| Modelo Avançado      | BERT (Transformers - HuggingFace) |
+| Manipulação de Dados | Pandas / NumPy                    |
+| Interface            | HTML, CSS, JavaScript             |
 
 ## 👤 Autores
 
 Carlos Augusto Freire Maia de Oliveira
 RA: 21.00781-0
+
 Cesar Augusto Bresciani Junior
 RA: 21.00478-0 
+
 ENZO LEONARDO SABATELLI DE MOURA
 RA: 21.01535-0
