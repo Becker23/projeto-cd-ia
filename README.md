@@ -89,7 +89,8 @@ python app.py
 Depois acesse:
 http://127.0.0.1:5000/
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
+
 Categoria	Ferramentas
 Linguagem	Python 3.x
 Backend Web	Flask
@@ -98,7 +99,8 @@ Modelo Avançado	BERT (Transformers - HuggingFace)
 Manipulação de Dados	Pandas / NumPy
 Interface	HTML, CSS, JavaScript
 
-👤 Autores
+## 👤 Autores
+
 Carlos Augusto Freire Maia de Oliveira
 RA: 21.00781-0
 Cesar Augusto Bresciani Junior
