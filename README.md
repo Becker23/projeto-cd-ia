@@ -79,30 +79,24 @@ _\_ia.txt → versão reescrita por IA
 
 ## 🖥️ Interface Web
 
-A aplicação web desenvolvida com **Flask** permite:
+A aplicação web permite:
 
 | Função                   | Descrição                                                         |
 | ------------------------ | ----------------------------------------------------------------- |
 | **Verificação de texto** | O usuário cola um texto e recebe diagnóstico + probabilidade      |
 | **Jogo "Humano x IA"**   | Mostra um trecho aleatório e o usuário tenta adivinhar sua origem |
 
-### Executando a aplicação
-
-python app.py
-
-Depois acesse:
-http://127.0.0.1:5000/
 
 ## 🛠️ Tecnologias Utilizadas
 
 | Categoria            | Ferramentas                       |
 | -------------------- | --------------------------------- |
 | Linguagem            | Python 3.x                        |
-| Backend Web          | Flask                             |
+| Backend Web          | Python com fast api               |
 | Machine Learning     | Scikit-learn                      |
 | Modelo Avançado      | BERT (Transformers - HuggingFace) |
 | Manipulação de Dados | Pandas / NumPy                    |
-| Interface            | HTML, CSS, JavaScript             |
+| Interface            | React, JavaScript                 |
 
 ## 👤 Autores
 
