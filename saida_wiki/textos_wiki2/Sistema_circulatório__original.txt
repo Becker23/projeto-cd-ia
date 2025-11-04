@@ -1,0 +1,127 @@
+O sistema circulatório é o conjunto de órgãos responsáveis pela distribuição de nutrientes para as células e coleta de suas excretas metabólicas para serem eliminadas por órgãos excretores. Os órgãos que fazem parte do sistema circulatório são:
+
+Coração: É um órgão que funciona como uma bomba propulsora que faz o sangue circular por todo o corpo. Localiza-se na cavidade torácica entre os pulmões, no espaço mediastínico. Apresenta-se com a sua parte maior, voltada mais à esquerda do plano mediano.
+Vasos sanguíneos: são as vias de transporte por onde o sangue circula. São divididos basicamente em artérias (vasos que saem do coração e conduzem o sangue para todo o corpo), veias (vasos que carregam sangue dos tecidos ao coração) e capilares (vasos sanguíneos microscópicos que se originam das ramificações das artérias e veias e tem como função irrigar as células).
+Sangue: material líquido que transporta os nutrientes e oxigenação para o corpo.
+Linfa: fluido produzido quando o sangue passa pelos capilares e vaza para os espaços entre as células.
+Vasos linfáticos: são as vias de transporte da linfa. Drenam a linfa do espaço entre as células (espaço intersticial) para as veias subclávias.
+Este sistema pode ser visto, estritamente, como uma rede de distribuição do sangue, mas alguns consideram que o sistema circulatório é composto pelo sistema cardiovascular, que transporta o sangue, e pelo sistema linfático, que distribui a linfa. Enquanto humanos, assim como outros vertebrados, apresentam sistemas cardiovasculares fechados (o que significa que o sangue nunca deixa a rede de artérias, veias e capilares, em situações fisiológicas), alguns grupos de invertebrados têm um sistema cardiovascular aberto. No filo animal mais primitivo o sistema cardiovascular é ausente. O sistema linfático, por outro lado, é um sistema aberto.
+Dois tipos de fluidos se movem através do sistema cardiovascular: sangue e linfa. O sangue, o coração e os vasos sanguíneos formam o sistema cardiovascular. A linfa, os linfonodos e os vasos linfáticos formam o sistema linfático. O sistema cardiovascular e o sistema linfático, coletivamente, dão origem ao sistema circulatório.
+
+
+== Funções ==
+O sistema circulatório é responsável por conduzir elementos essenciais para todos os tecidos do corpo: oxigênio para as células, hormônios (que são liberados pelas glândulas endócrinas) para os tecidos, condução de dióxido de carbono para sua eliminação nos pulmões, coleta de excretas metabólicos e celulares, entrega desses rejeitos nos órgãos excretores, como os rins. Além disso, apresenta importante papel no sistema imunológico  contra infecções, na termorregulação (acima da temperatura normal, efetua a vasodilatação dos vasos periféricos e, abaixo dela, produz vasoconstrição periférica). O transporte de nutrientes desde os locais de absorção até as células dos diferentes órgãos também é realizado por este sistema. De modo geral, o sistema circulatório mantém as células em condições adequadas para que consigam sobreviver e desempenhar suas funções individuais da melhor maneira, portanto permite a manutenção da homeostase.
+
+
+=== Ausência do sistema circulatório ===
+Certos animais invertebrados não apresentam sistema circulatório. Os nutrientes, gases e excretas são transportados por outras vias. A ausência de um sistema organizado de transporte só é suportada por animais de dimensões reduzidas, ou seja, com elevada relação S/V (superfície/volume corporais), o que é encontrado em poríferos, cnidários (ou celenterados), platelmintos, nematódeos (ou nematelmintos) e em alguns equinodermos.
+Poríferos apresentam difusão das substâncias de célula a célula. Nos cnidários, a distribuição dos nutrientes é feita diretamente pela cavidade gastrovascular. Animais como a planária (classe Tuberllaria), do filo dos platelmintos, apresentam um intestino ramificado que faz o transporte das substâncias para todas as células. Os nematódeos contam com o fluido de sua cavidade pseudocelomática para distribuir os nutrientes pelo corpo. Por fim, os equinodermos  podem apresentar um sistema circulatório muito reduzido ou ausente,sendo as substâncias distribuídas pelo organismo através do fluido celomático.[8]
+
+
+=== Sistema circulatório aberto (ou lacunar) ===
+Este tipo de sistema circulatório não apresenta capilares nem veias; um ou mais corações, com 2 ou 3 câmaras (aurículas e ventrículos), bombeiam o sangue (hemolinfa é um nome mais apropriado para esse caso, pois não há a presença de pigmento respiratório, como no sangue) por um vaso dorsal. O sangue então dirige-se para cavidades chamadas seios ou lacunas (que constituem a hemocele), localizadas na massa visceral ou manto, e retorna quando o coração relaxa, através de orifícios chamados ostíolos. Recebe o nome de sistema circulatório aberto, porque nem todo o trajeto do sangue é percorrido dentro de vasos. O sistema circulatório dos  artrópodes e da maioria dos moluscos, exceto os cefalópodes, é aberto. Os protocordados (urocordados e cefalocordados) também possuem circulação aberta.
+Os artrópodes, em geral, apresentam um coração tubular dorsal que impulsiona a hemolinfa para as artérias, seguindo para as cavidades (lacunas) da hemocele e retornando, posteriormente, para o coração. Pode haver a presença de um coração acessório em alguns insetos, que ajuda a impulsionar a hemolinfa para as asas e extremidades. Nos crustáceos, a hemolinfa apresenta pigmentos respiratórios, praticando, além da distribuição de nutrientes e o recolhimento de excretas metabólicos, o transporte de gases.
+O sistema circulatório dos moluscos apresenta um coração contrátil, constituído por músculos, que impulsiona o sangue para as artérias, que terminarão nas lacunas da hemocele, onde o sangue entra em contato com os tecidos do corpo. Dali o sangue é conduzido pelas veias de volta para o coração. O sangue dos moluscos contém pigmentos respiratórios e, portanto, além de transportar os nutrientes e os excretas, leva os gases da respiração. Os moluscos da classe Cephalopoda, como as lulas e os polvos, apresentam sistema circulatório fechado.
+Os urocordados, também conhecidos como tunicados, possuem, na base de sua faringe, um coração que bombeia o sangue para vasos sanguíneos, que terminam em lacunas. Existem vasos que se direcionam para as brânquias desses animais, onde ocorrem a trocas gasosas. Já os cefalocordados, como o anfioxo, contam com uma artéria ventral contrátil que impulsiona o sangue para os vasos das fendas branquiais, seguindo, depois, para a região dorsal para banhar os órgãos e os músculos. O sangue, então, passa a circular em lacunas, até ser conduzido pelas veias à artéria ventral.
+
+
+=== Sistema circulatório completo ===
+Um sistema circulatório diz-se completo quando o sangue venoso separa-se completamente do sangue arterial.
+
+
+=== Sistema circulatório fechado ===
+Um sistema circulatório é dito fechado quando o sangue circula sempre dentro de vasos sanguíneos. Este sistema é composto por um líquido que leva nutrientes às células e elimina seus resíduos. O líquido, bombeado pelo coração, pode ser incolor, chamado de hemolinfa (presente nos insetos) ou plasma (chamado sangue). Nos seres humanos, assim como nos outros vertebrados, o sangue está em sistema fechado formado pelo coração, artérias, arteríolas, capilares, vênulas e veias. A circulação fechada também é encontrada nos anelídeos e nos moluscos da classe Cephalopoda.
+
+
+=== Sistema circulatório fechado e com sangue completo ===
+O sistema circulatório é fechado e com sangue em todos os seres do subfilo dos vertebrados (dividido em sete classes, três classes de peixes, e as outras de anfíbios, répteis, aves e mamíferos), exceto nos ciclostomados (peixe-bruxa e lampreia) além dos anelídeos e cefalópodes, na qual o sangue nunca sai da rede de vasos sanguíneos composta por veias, artérias e capilares.
+No peixe, o sistema circulatório é simples; o sangue sai do coração, circula pelas brânquias (onde o sangue é oxigenado), pelos capilares do corpo, voltando para o coração no final do ciclo. Portanto, o coração do peixe é uma única bomba (composta de duas câmaras).
+Nos anfíbios e répteis, há sistema circulatório 'duplo'; o que quer dizer que há dois ciclos pelo qual o sangue passa, um no qual o sangue é oxigenado e outro no qual ele é distribuído pelo corpo. No entanto, nem sempre o coração é totalmente separado em duas bombas. Os anfíbios possuem um coração com três câmaras.
+Nas aves e mamíferos (que também apresentam sistema fechado duplo), o coração é claramente separado em duas bombas e é formado por quatro câmaras.
+
+
+== Sistema circulatório no ser humano ==
+O sistema circulatório humano é composto pelo sangue, condutores (veias e artérias) e coração. O coração é o órgão que bombeia o sangue.
+O sistema vascular é composto pelos  vasos sanguíneos: artérias, veias e capilares. As artérias são os vasos pelos quais o sangue sai do coração. Como a pressão do sangue no lado arterial é maior, comparando com as veias, resultando ser a parede das artérias mais espessa. As veias são os vasos que trazem o sangue para o coração; dentro delas há válvulas que impedem o refluxo do sangue. Os capilares são vasos microscópicos, com apenas uma camada de células e uma camada basal e que são responsáveis pelas trocas de gases e nutrientes entre o sangue e o meio interno.
+O sangue segue um caminho contínuo, passando duas vezes pelo coração antes de fazer um ciclo completo. Pode-se dividir, desta maneira, o sistema circulatório em dois segmentos: a circulação pulmonar e a circulação sistêmica.
+
+
+=== Circulação pulmonar ===
+
+A circulação pulmonar ou pequena circulação inicia-se no tronco da artéria pulmonar (que sai do ventrículo direito), seguindo pelos ramos das artérias pulmonares, arteríolas pulmonares, capilares pulmonares (que envoltam os alvéolos, possibilitando a hematose - troca de gases). Até aqui o sangue é venoso - rico em gás carbônico. A partir daqui o sangue é arterial - rico em oxigênio. Segue: vênulas pulmonares e veias pulmonares que desaguam no átrio esquerdo do coração.
+
+
+=== Circulação sistêmica ===
+
+A circulação sistêmica é a parte do sistema cardiovascular que transporta sangue oxigenado do coração para o resto do corpo, e retorna sangue pobre em oxigênio de volta para o coração. A circulação sistêmica é, em termos de distância, muito mais longa do que a circulação pulmonar, transportando sangue para todas as partes do corpo.
+
+
+=== Circulação coronária ===
+
+O sistema circulatório coronário fornece uma fonte de sangue para o coração. Como ela fornece o sangue oxigenado para o coração, é, por definição, uma parte do sistema circulatório sistêmico.
+
+
+=== Coração ===
+
+O coração bombeia o sangue oxigenado para o corpo e o sangue desoxigenado para os pulmões. No coração humano existe um aurícula e um ventrículo para cada circulação, e com ambos uma circulação sistêmica e pulmonar, havendo quatro câmaras no total: átrio esquerdo, ventrículo esquerdo, átrio direito e ventrículo direito. O átrio direito é a câmara superior do lado direito do coração. O sangue que retorna pelas veias cavas ao átrio direito que é venoso (pobre em oxigênio) e passa pela válvula tricúspide para o ventrículo direito para ser bombeado pela artéria pulmonar para os pulmões receberem re-oxigenação e remoção de dióxido de carbono. Volta ao coração através das veias pulmonares o átrio esquerdo recebe sangue recém-oxigenado dos pulmões, que é passado através da válvula bicúspide para o ventrículo esquerdo para ser bombeado através da aorta para os diferentes órgãos do corpo.
+
+
+==== Adaptações agudas e crônicas no sistema cardiovascular através do exercício físico ====
+O Exercício físico tira o corpo humano da homeostase aumentando a demanda energética. Os exercícios físicos se distinguem em exercícios dinâmicos (isotônicos) e estáticos (isométricos). Os exercícios dinâmicos são aqueles onde ocorre contração muscular e movimento articular, por exemplo, a dança. Já os exercícios estáticos são aqueles onde existe contração muscular, mas não há movimento articular.
+Cada tipo de exercício causa resposta diferente no organismo. Nos exercícios estáticos há um aumento na pressão arterial (força que o sangue exerce na parede das artérias), que se deve pela contração muscular mantida por exercícios isométricos, que ao serem realizados levam o músculo na sua contração a comprimir os vasos sanguíneos e consequentemente aumenta a frequência cardíaca e a resistência da frequência periférica. Nos exercícios dinâmicos, as contrações musculares são seguidas de movimentos articulares, o que não leva a obstrução de fluxo sanguíneo, mas durante o exercício ocorre aumento da frequência cardíaca, que é proporcional ao tamanho da massa muscular do exercitado (quanto maior a massa muscular, maior o aumento da frequência cardíaca) e menor o aumento da pressão arterial, que é uma consequência do não aumento da frequência periférica, aumento do débito cardíaco e volume sistólico, sendo que essas respostas variam de acordo com a intensidade do exercício.
+Além desses exercícios citados, existem os exercícios resistidos, por exemplo a musculação, que apesar de serem dinâmicos as respostas são parecidas com as dos exercícios estáticos, resultando no aumento da frequência cardíaca e pressão arterial.
+
+
+=== Sistema cardiovascular fechado ===
+Os sistemas cardiovasculares dos humanos são fechados, o que significa que o sangue nunca sai da rede de vasos sanguíneos. Em contraste, o oxigênio e os nutrientes se difundem através dos vasos e entram no fluido intersticial, que carrega oxigênio e nutrientes para as células alvo, e dióxido de carbono e restos na direção oposta.
+
+
+=== Outras definições ===
+Circulação visceral - É a parte da circulação sistêmica que supre os órgãos do sistema digestivo.
+Circulação portal hepática - O sangue venoso dos capilares do trato intestinal drena na veia portal, que invés de levar o sangue de volta ao coração, leva-o ao fígado. Isso permite que este órgão receba nutrientes que foram extraídos da comida pelo intestino. O fígado também neutraliza algumas toxinas recolhidas no intestino. O sangue segue do fígado às veias hepáticas e então para a veia cava inferior, e daí ao lado direito do coração, entrando no átrio direito e voltando para o início do ciclo, no ventrículo direito.
+Circulação fetal - O sistema circulatório do feto é diferente, já que o feto não usa pulmão, mas obtém nutrientes e oxigênio pelo cordão umbilical. Após o nascimento, o sistema circulatório fetal passa por diversas mudanças anatômicas, incluindo fechamento do duto arterioso e foramen ovale.
+Circulação coronária - É o conjunto das artérias, arteríolas, capilares, vênulas e veias próprias do coração. São considerados separadamente por sua importância médica e porque sua fisiologia (modo de funcionamento) apresenta aspectos particulares.
+
+
+== Mecanismos da circulação sanguínea ==
+
+
+=== Mecanismos gerais do sistema cardiovascular ===
+Pressão arterial (pelas arterias e vasos sanguíneos)
+Reserva venosa
+Débito cardíaco
+Ciclo cardíaco
+Reflexo cardiovascular
+Regulação da frequência cardíaca
+Homeostase
+
+
+== Técnicas de medida ==
+Eletrocardiograma
+Esfigmomanômetro
+Estetoscópio
+
+
+== Ver também ==
+Grande circulação
+Sangue
+Sistema linfático
+Doença cardiovascular
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Gartner, Leslie P; Hiatt, James L (2003). Tratado de histologia em cores 2 ed. Rio de Janeiro: Guanabara Koogan. 472 páginas. ISBN 8527708132  
+Guyton, Arthut C; Hall, John E (2006). Tratado de fisiologia médica 11 ed. Rio de Janeiro: Elsevier. 1264 páginas. ISBN 9788535216417  
+Thibodeau, Garry A; Patton, Kevin T (2002). Estrutura e funções do corpo humano 11 ed. Barueri: Manole. 528 páginas. ISBN 8520412599. Consultado em 8 de janeiro de 2012  
+
+
+== Ligações externas ==
+
+«Sistema cardiovascular» 
+«Sistema circulatório»

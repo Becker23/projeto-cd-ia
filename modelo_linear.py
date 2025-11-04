@@ -14,10 +14,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.svm import LinearSVC
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
-BASE_DIR = Path(__file__).parent.resolve() + r"/redacao"
+BASE_DIR = Path(__file__).parent.resolve()
 
-df = pd.read_parquet("dataset_unificado.parquet")
-
+df = pd.read_json("dataset_final.json")
 # ------------- Train/test split -------------
 if len(df) >= 4:
     X_train, X_test, y_train, y_test = train_test_split(
@@ -77,7 +76,7 @@ metrics = {
     "n_train": int(len(X_train)),
     "n_test": int(len(X_test)),
 }
-metrics_path = str(BASE_DIR / "metrics.json")
+metrics_path = str(BASE_DIR / "metrics_linear.json")
 with open(metrics_path, "w", encoding="utf-8") as f:
     json.dump(metrics, f, ensure_ascii=False, indent=2)
 

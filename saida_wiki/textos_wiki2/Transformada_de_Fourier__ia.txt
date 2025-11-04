@@ -1,0 +1,23 @@
+Em matemática, a transformada de Fourier é uma transformada integral que expressa uma função em termos de funções de base sinusoidal. Existem variações diretamente relacionadas desta transformada, adaptadas ao tipo de função a ser transformada. A transformada de Fourier decompõe uma função, frequentemente temporal (um sinal), em componentes de frequência, análogo à decomposição de um acorde musical nas amplitudes de suas notas constituintes. A transformada de Fourier de uma função é uma função de valor complexo da frequência, cujo valor absoluto representa a magnitude da frequência presente na função original e cujo argumento complexo representa o deslocamento de fase da base sinusoidal naquela frequência.
+
+A transformada de Fourier resulta em uma representação do domínio da frequência do sinal original. O termo "transformada de Fourier" refere-se tanto a esta representação no domínio da frequência quanto à operação matemática que associa a representação no domínio da frequência à função original. Embora frequentemente aplicada a funções temporais, o domínio original é convencionalmente referido como domínio do tempo. Para funções de interesse prático, existe a transformada inversa de Fourier, que reconstrói a função original no domínio temporal combinando as contribuições de todas as frequências.
+
+Operações lineares aplicadas em um dos domínios (tempo ou frequência) correspondem a operações relacionadas no outro domínio, que podem, em alguns casos, ser mais facilmente efetuadas. A diferenciação no domínio do tempo corresponde à multiplicação no domínio da frequência, simplificando a análise de equações diferenciais. A convolução no domínio temporal corresponde à multiplicação no domínio da frequência, o que permite expressar sistemas lineares invariantes no tempo (como filtros) como operações nas frequências. Após realizar a operação desejada, a transformação inversa é aplicada para retornar ao domínio do tempo. A análise harmônica estuda sistematicamente a relação entre os domínios do tempo e da frequência, incluindo os tipos de funções ou operações que são mais "simples" em um ou outro domínio, e possui ligações com diversas áreas da matemática moderna.
+
+Diversas notações representam a transformada de Fourier de uma função  f:ℝ→ℂ. Uma representação comum é:
+
+f̂(ω)≡F(ω)≡F{f(t)} = ∫₋∞⁺∞ f(t) e⁻ⁱωt dt (Transformada de Fourier do domínio do tempo)
+
+A função original pode ser recuperada pela transformada inversa:
+
+f(t)≡F⁻¹{F(ω)} = 1/(2π) ∫₋∞⁺∞ F(ω) eⁱωt dω (ω ≡ 2πf, frequência angular)
+
+Analogamente, para funções do espaço:
+
+f̂(κ)≡F(κ)≡F{f(x)} = ∫₋∞⁺∞ f(x) e⁻ⁱκx dx (Transformada de Fourier do domínio do espaço)
+
+Com a inversa:
+
+f(x)≡F⁻¹{F(κ)} = 1/(2π) ∫₋∞⁺∞ F(κ) eⁱκx dκ (κ ≡ 2π/λ, Vetor de onda)
+
+A capacidade de reconstruir f a partir de f̂ é garantida pelo teorema da inversão de Fourier, sujeito a certas condições de regularidade para f.

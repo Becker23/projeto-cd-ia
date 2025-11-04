@@ -1,0 +1,65 @@
+As células-tronco ou células estaminais, são células que permanecem indiferenciadas, ou seja, ainda não passaram pelo processo de diferenciação celular. Podemos definir célula estaminal como uma célula que, quando se divide, produz uma célula que retém esse caráter indiferenciado e uma segunda célula que pode sofrer diferenciação. Com isso, vemos que uma célula estaminal tem o potencial de se renovar a cada divisão enquanto também produz uma célula nova capaz de responder ao seu ambiente, diferenciando-se de maneira particular, (esse potencial nem sempre se verifica, algumas células-tronco dividem-se simetricamente de modo a que ambas as suas novas permanecem células estaminais). Algumas células-tronco adultas são capazes de se diferenciar em mais de um tipo celular, como as células-tronco mesenquimais e as células-tronco hematopoiéticas, enquanto outras são consideradas precursoras diretas das células do tecido em que são encontradas, como as células-tronco da pele ou as células-tronco gonadais.
+Uma célula estaminal tem uma extensa capacidade de proliferação, criando mais células estaminais (utilizada para manutenção de um devido organismo pois garante uma auto-renovação constante, como por exemplo as células sanguíneas), e criando descendentes celulares diferentes. As células estaminais são um conjunto embrionário de células que se mantêm mesmo em organismos adultos. Células-tronco embrionárias são aquelas encontradas no embrião com até 4 a 5 dias de idade e têm a capacidade de formar todos os tipos celulares de um organismo adulto. Uma característica fundamental das células-tronco embrionárias é que elas podem ser mantidas (no corpo ou numa placa de cultivo) indefinidamente. O fato de uma única célula-tronco ser capaz de formar quase qualquer tipo de célula abre espaço para o uso dessas células como forma de experimentação para curar doenças ou regenerar tecidos danificados, como ocorre no ramo da ciência chamado engenharia de tecidos.
+
+
+== Classificação Potencial ==
+
+
+=== As células estaminais podem ser de três tipos: ===
+Totipotentes: São células capazes de originar um organismo completo, totalmente funcional, já que possuem a capacidade de gerar todos os tipos de células e tecidos do corpo, incluindo os tecidos embrionários e os extra embrionários (como a placenta, por exemplo). As células estaminais totipotentes podem ser exemplificadas pelo zigoto e pelas primeiras células provenientes do zigoto, ou seja, são as células de um embrião recém-formado. Porém essas células possuem curta duração, desaparecendo poucos dias após a fertilização.
+Pluripotentes: Descendentes das células totipotentes, apesar de não poderem originar um indivíduo completo, pois não são capazes de gerar trofoblasto (células extra embrionárias), as células estaminais pluripotentes possuem a capacidade de gerar células dos três folhetos embrionários (ectoderme, mesoderme e endoderme), ou seja, são capazes de gerar qualquer tecido. Mesmo em menores quantidades, estas células estão presentes também no indivíduo adulto (por exemplo, se estão na medula óssea originam células de sangue, ossos, pele, entre outros). Possuem grande aplicações clínicas e comerciais, (ver para mais informação: Célula-tronco pluripotente induzida)
+Multipotentes: São células diferentes, possuem a capacidade de gerar um número limitado de células especializadas, as quais podem ser encontradas no corpo de um indivíduo adulto, e são capazes de originar células dos tecidos de que são provenientes, ou seja, as células estaminais multipotentes são designadas para originar células de acordo com o órgão de que se derivam (realizando regeneração tecidual). Assim, são tidas como as células que são capazes de gerar apenas células da mesma família. Com avanços de pesquisas na área de células estaminais, a existência desta categoria tem sido questionada, pois células antes classificadas como multipotentes acabaram por se relevar células estaminais pluripotentes (como por exemplo células neurais estaminais).
+
+
+== Uso terapêutico ==
+
+As células estaminais têm ainda a capacidade de se transformar, num processo também conhecido por diferenciação celular, em outros tecidos do corpo, como ossos, nervos, músculos e sangue. Devido a essa característica, as células estaminais são importantes, principalmente na aplicação terapêutica, sendo potencialmente úteis em terapias de combate a doenças cardiovasculares, neurodegenerativas, Diabetes mellitus tipo 1, acidentes vasculares cerebrais, doenças hematológicas, traumas na medula espinhal e nefropatias.
+O principal objetivo das pesquisas com células estaminais é usá-las para recuperar tecidos danificados por essas doenças e traumas.
+São encontradas em células embrionárias e em vários locais do corpo, como no cordão umbilical, na medula óssea, no sangue, no fígado, na placenta e no líquido amniótico, conforme descoberta de pesquisadores da Escola de Medicina da Universidade de Wake Forest, no estado norte-americano da Carolina do Norte, noticiada pela imprensa mundial nos primeiros dias de 2007.
+A terapia regenerativa com células-tronco encontrou uso na medicina veterinária. Em 2011, no Zoológico de Brasília (Brasil), uma fêmea de lobo-guará, vítima de atropelamento, recebeu tratamento com células-tronco. Este foi o primeiro registro do uso de células-tronco para curar lesões num animal selvagem.
+Há três possibilidades de extração das células-tronco. Podem ser adultas, mesenquimais ou embrionárias:
+
+Embrionárias – São encontradas no embrião humano no estado de blastocisto e são classificadas como pluripotentes, devido ao seu poder de diferenciação celular de outros tecidos e por possuírem alta capacidade de proliferação. São as células estaminais com a mais ampla capacidade de diferenciação, pois sua diferenciação leva a origem de todos os tipos de células diferenciadas de um tecido adulto.
+Adultas – São encontradas em diversos tecidos, como a medula óssea, sangue, fígado, cordão umbilical, placenta, e outros, essas participam da homeostasia tecidual, devido a renovação fisiológica ou em resposta a alguma lesão, por exemplo. Estudos recentes mostram que estas células estaminais têm uma limitação na sua capacidade de diferenciação, o que dá uma limitação, restrição na obtenção de tecidos a partir delas.
+Mesenquimais – Células-tronco mesenquimais (células multipotentes) são células do estroma e têm a capacidade de se diferenciar em diversos tecidos. Possuem uma certa plasticidade, e por conta desta plasticidade, essas células têm sido investigadas para reparar ou regenerar tecidos danificados como ósseo, cartilaginoso, hepático, cardíaco e neural. Células-tronco mesenquimais podem se diferenciar de acordo com o local em que são colocadas, ou seja, de acordo com a elasticidade da superfície destes locais ocorre sua diferenciação. Por exemplo, em uma matriz mais dura faz com que as células estaminais mesenquimais se diferenciam em células ósseas; já em uma matriz moderadamente elástica, do mesmo material, faz com que tornem-se células musculares. Essas células estaminais estão associadas a condições normais de crescimento e reparação do corpo humano. Além disso, essas células apresentam uma poderosa atividade imunossupressora, o que abre a possibilidade de sua aplicação clínica em doenças imuno-mediadas, como as autoimunes e também nas rejeições aos transplantes. Essas células podem ser obtidas de diversos tecidos do corpo, como medula óssea, cordão umbilical, tecido adiposo e sangue menstrual.
+Assim, conforme sua grande capacidade de replicação, os estudos em células estaminais são de grande interesse para aplicações médicas, como dito anteriormente, é possível utiliza-las para tratamento de doenças humanas bem como reparações de tecidos danificados.
+
+
+== Legislação sobre a sua utilização ==
+Segue-se uma lista das leis em vigor sobre a clonagem de células-tronco em alguns países:
+
+África do Sul - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica. É o único país africano com legislação a respeito.
+Alemanha - permite a pesquisa com linhagens de células-tronco existentes e sua importação, mas proíbe a destruição de embriões.
+Brasil - permite a utilização de células-tronco produzidas a partir de embriões humanos para fins de pesquisa e terapia, desde que sejam embriões inviáveis ou estejam congelados por mais de três anos. Em todos os casos, é necessário o consentimento dos doadores. A comercialização do material biológico é crime. Em 29 de maio de 2008 o Supremo Tribunal Federal confirmou que a lei em questão é constitucional, ratificando assim o posicionamento normativo dessa nação.
+China - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Coreia do Sul - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Estados Unidos - proíbe a aplicação de verbas do governo federal a qualquer pesquisa envolvendo embriões humanos (a exceção é feita para 19 linhagens de células-tronco  derivadas antes da aprovação da lei norte-americana). Entretanto, estados como a Califórnia permitem e patrocinam esse tipo de pesquisa (inclusive a clonagem terapêutica).
+França - não tem legislação específica, mas permite a pesquisa com linhagens existentes de células-tronco embrionárias e com embriões de descarte.
+Índia - proíbe a clonagem terapêutica, mas permite as outras pesquisas.
+Israel - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Itália - proíbe totalmente qualquer tipo de pesquisa com células-tronco embrionárias humanas e sua importação.
+Japão - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Reino Unido - tem uma das legislações mais liberais do mundo e permite a clonagem terapêutica.
+Rússia - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Singapura - permite todas as pesquisas com embriões, inclusive a clonagem terapêutica.
+Turquia - permite pesquisas e uso de embriões de descarte, todavia, proíbe a clonagem terapêutica das células-tronco.
+
+
+== Ver também ==
+Bioengenharia
+Célula-tronco embrionária
+Engenharia biológica
+Engenharia de tecidos
+Potência celular
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«International Society for Stem Cell Research» (em inglês) 
+Tratamentos com células-tronco
+«Célula-tronco» 
+«Texto sobre célula-tronco na biblioteca do Portal da Educação Pública» 
+«Reportagem sobre pesquisas feitas no Brasil com células-tronco para tratar diabetes do tipo 1» 
+«Instrução "Dignitas Personae" da Congregação para a Doutrina da Fé»

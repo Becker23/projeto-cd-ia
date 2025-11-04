@@ -1,0 +1,85 @@
+Reprodução, em biologia, refere-se à função através da qual os seres vivos produzem descendentes, dando continuidade à sua espécie.
+Todos os organismos/seres vivos resultam da reprodução a partir de organismos vivos preexistentes, ao contrário do postulado pela teoria da geração espontânea. Os métodos conhecidos de reprodução podem agrupar-se, genericamente, em dois tipos: reprodução assexuada e reprodução sexuada. No primeiro caso, um indivíduo reproduz-se sem que exista a necessidade de qualquer partilha de material genético entre organismos. A divisão de uma célula em duas é um exemplo comum, ainda que o processo não se limite a organismos unicelulares. A maior parte das plantas tem a capacidade de se reproduzir assexuadamente, tal como alguns animais (ainda que isso seja menos comum). Já a reprodução sexuada implica a partilha de material genético, geralmente providenciado por organismos da mesma espécie classificados geralmente de "macho" e "fêmea". Em várias espécies, fêmeas possuem estratégias para controlar a inseminação do óvulo. Algumas endurecem o caminho do esperma, enquanto outras espécies desenvolveram um sistema reprodutivo para ajudar o esperma para alcançar o seu objetivo, como no caso dos seres humanos.
+
+
+== Reprodução assexuada ==
+
+Reprodução assexual (ou assexuada) é um processo biológico através do qual um organismo produz uma cópia geneticamente igual a si próprio, sem que haja recombinação de material genético. Um exemplo simples consiste na clonagem, como no ato de inserir plantas em estacas, caso em que a reprodução é processada artificialmente, ainda que possa ocorrer naturalmente. De fato, muitas espécies de plantas têm esta capacidade, sem necessidade de intervenção humana, gerando estolhos que criam raízes, tornando-se, posteriormente, independentes da planta-mãe. Noutros casos, uma parte do talo ou do soma pode separar-se da planta-mãe e fixar-se noutro lugar, dando origem a uma nova planta. A este tipo de reprodução assexuada dá-se o nome de multiplicação vegetativa, como acontece, naturalmente, com o morangueiro. Note-se que, contudo, a maior parte destas plantas também se pode reproduzir sexuadamente, através de esporos ou de sementes.
+Muitos animais, ainda que se possam reproduzir também sexuadamente, como a hidra (da ordem Hydroidea), procedem à gemulação, formando gomos na sua superfície externa, que podem se desenvolver originando novos indivíduos. Não se deve confundir esta característica com a capacidade, presente em alguns animais, como os lagartos e os caranguejos, de regenerar partes do seu corpo, como um membro ou parte da cauda que se perderam por acidente. Nestes casos, não se trata de reprodução, já que não há a formação de novos organismos.
+Muitas espécies de animais, incluindo invertebrados (nomeadamente pulgas-d'água, afídeos, algumas abelhas e vespas parasitas) e vertebrados (como alguns répteis, peixes e, muito raramente, aves e tubarões) capazes de reprodução sexual também têm a capacidade de se reproduzir assexuadamente, nomeadamente através da partenogénese (do Grego παρθένος parthenos, "virgem", + γένεσις genesis, "criação") que consiste na formação e desenvolvimento de um embrião sem necessidade de fertilização dos óvulos por parte do macho. Algumas espermatófitas, em que a norma é a reprodução sexuada, podem igualmente produzir sementes sem que haja fertilização dos óvulos, através de um processo conhecido por apomixia.
+Nos organismos unicelulares, como as bactérias e as leveduras, a norma é a reprodução assexuada, através da fissão binária das células. Mas mesmo as bactérias têm necessidade de realizar a conjugação genética, que pode ser considerada uma forma de reprodução sexual ou para-sexual, a fim de renovar o seu material genético.
+Outras formas de reprodução assexuada incluem a esporogénese, no caso da formação de mitosporos (esporos resultantes da mitose) e a fragmentação clonal.
+A reprodução dos vírus também pode ser considerada como assexuada, já que estes tomam o controle do material genético de células hospedeiras para produzirem novos vírus.
+
+
+== Reprodução sexuada ==
+
+A reprodução sexual (ou sexuada) implica a combinação de material genético (normalmente o DNA) de dois seres distintos (os progenitores) através da conjugação de duas células haplóides (os gâmetas) por cariogamia.
+Esta definição engloba a "reprodução sexual" das bactérias, de muitos protistas e dos fungos, sem que haja a necessidade de definição de sexos. Também se chama este tipo de reprodução sexual indiferenciada.
+
+A maior parte dos organismos produzem dois tipos diferentes de gâmetas. Nestas espécies, ditas anisogâmicas, os dois sexos são designados como macho (que produz esperma ou microsporos) e fêmea (que produz óvulos ou megásporos). Nas espécies isogâmicas, os gâmetas são semelhantes ou idênticos na sua forma, podendo apresentar outras propriedades que os distingam, permitindo dar-lhes nomes diferentes. Por exemplo, na alga verde Chlamydomonas reinhardtii, existem os gâmetas arbitrariamente designados como "positivos" (+) e "negativos" (-). Alguns tipos de organismos, como os ciliados, têm mais de dois tipos de gâmetas.
+A maior parte dos animais (incluindo o ser humano) e das plantas reproduz-se sexuadamente. Estes organismos, ditos diplóides, apresentam dois alelos (variedade de genes) para cada traço genético. Os seus descendentes herdarão um alelo, para cada traço que irão exibir, de cada um dos seus progenitores. Existindo duas cópias de cada gene, só um expressar-se-á, permitindo que alelos com mutações possam ser "mascarados", constituindo uma vantagem que se acredita que poderá ter levado a uma maior capacidade adaptativa dos seres diplóides. Tal hipótese, contudo, tem sido criticada.
+Chama-se alogamia ao tipo de reprodução sexuada em que os dois gâmetas provêm de seres distintos. A autogamia, pelo contrário, ocorre em organismos hermafroditas que procedem à autofecundação, ou seja, à união dos gâmetas produzidos no mesmo organismo.
+Em última análise, a reprodução sexual radica na divisão celular, especialmente através dos mecanismos da mitose e meiose. No primeiro caso, o número de células resultantes é o dobro do das células originais. O número de cromossomas nas células resultantes será o mesmo que na célula de origem. Na meiose, porém, o número de células resultantes da divisão será o quádruplo do número de células original, formando-se células com metade do número de cromossomas da célula inicial.
+
+
+=== Reprodução sexual indiferenciada ===
+Nas bactérias e, em geral, em muitos seres unicelulares de sexo indiferenciado, duas células aparentemente iguais conjugam-se e combinam o seu material genético, continuando as duas células a viver independentemente.
+Em muitas espécies de fungos, geralmente haploides, as hifas de dois "indivíduos" conjugam-se para formar uma estrutura onde, em células especiais, se dá a conjugação dos núcleos e, posteriormente, a meiose, para produzir esporos novamente haploides que vão dar origem a novos "indivíduos". Noutros casos, são libertadas células sexuais iguais e móveis, os isogâmetas, que se conjugam.
+
+
+=== Reprodução sexual nos animais ===
+Nos animais, a reprodução envolve geralmente a união de dois seres de sexos diferentes, o macho e a fêmea. As células sexuais produzidas pelo macho e pela fêmea são designadas por gâmetas, e são produzidas em órgãos sexuais chamados gónadas. Os gâmetas masculinos, ou espermatozoides, fecundam o gâmeta feminino, ou óvulo, da fêmea, dando origem ao ovo, que se desenvolverá num embrião e, posteriormente, no novo filho.
+
+Em muitos casos, como nos mamíferos, aves e répteis, a fecundação é interna. Neste caso, o óvulo encontra-se dentro do corpo da fêmea. O macho tem que introduzir aí os espermatozoides, durante a cópula. Em muitos animais, o macho possui para esse fim um órgão copulador que, nos mamíferos, se chama pênis.
+Na maioria dos animais aquáticos, no entanto, a fertilização é externa: a fêmea liberta os óvulos na água (desova), onde o macho também liberta os espermatozoides.
+
+
+=== Reprodução sexual nas plantas ===
+As plantas (incluindo as algas) têm igualmente órgãos sexuais que produzem gâmetas, tal como acontece com os animais: o gâmeta feminino chama-se oosfera (mas também vulgarmente designado de óvulo) e é igualmente imóvel. O gâmeta masculino chama-se anterozóide. Nas plantas que produzem flores, as angiospermas, a gónada feminina chama-se ovário (tal como nos animais); e a masculina, antera. Noutros grupos de plantas, os nomes variam. Por exemplo, arquegónio nos musgos e megasporófilo nas coníferas.
+O anterozóide só se liberta do grão de pólen (ou da estrutura correspondente, por exemplo, o anterídeo dos musgos) num ambiente úmido, como o estigma das angiospérmicas ou o ovário aberto das gimnospérmicas.
+
+
+== Estratégias de reprodução ==
+Um dos problemas principais que os organismos vivos tiveram que resolver ao longo do processo evolutivo para tentarem "perpetuar" a espécie foi o da sobrevivência de um número suficiente de descendentes. Para além de eventuais situações de falta de alimentos e da predação, é necessário pensar que os recém-nascidos são geralmente muito mais sensíveis que os adultos às variações do meio ambiente, como a temperatura, ventos, correntes oceânicas, entre outros. As formas como os organismos resolveram esses problemas designam-se de estratégias reprodutivas. Em geral, os animais "concentraram" as suas atenções na protecção dos óvulos, dos embriões ou das crias. As plantas especializaram-se nas formas de disseminação dos produtos sexuais.
+
+
+=== Estratégias de reprodução dos animais ===
+
+Uma vez que são "descendentes" das bactérias e dos protistas, os animais começaram como ovíparos, ou seja, o zigoto, com maior ou menor protecção, é lançado no mundo, à sua sorte. Nos animais actuais, a maioria dos invertebrados e dos peixes são ovíparos.
+As estratégias para a sobrevivência desses zigotos — e dos embriões que deles resultam — incluem:
+
+a produção de um grande número de zigotos;
+o desenvolvimento de estados larvares bem adaptados ao meio ambiente; ou
+os cuidados parentais — um ou ambos os progenitores cuidam dos ovos até estes eclodirem; ou mesmo até as crias atingirem um tamanho que lhes permita sobreviver por si próprias — é o caso da maioria das aves e mamíferos e de alguns peixes.
+Uma outra forma de proteger os zigotos consiste em deixá-los desenvolverem-se dentro do corpo do mãe. Esta estratégia foi desenvolvida em duas fases:
+
+numa primeira fase, o ovo de facto recebe apenas a protecção física da mãe em relação ao meio ambiente; o ovo tem as suas próprias reservas nutritivas e o embrião desenvolve-se independentemente do metabolismo materno — ovoviviparidade.
+numa segunda fase, o corpo materno desenvolve um sistema, não só de protecção, mas também de alimentação do embrião (incluindo a passagem de anticorpos contra eventuais doenças), baseado no seu próprio metabolismo — viviparidade.
+Uma desvantagem destas últimas estratégias é que o número de zigotos não pode ser muito elevado e a mãe não pode repetir o processo com tanta frequência; por outro lado, os embriões têm maior probabilidade de sobreviverem, enquanto a mãe prossegue a sua vida.
+Chama-se a este tipo de desenvolvimento evolutivo seleção-K, enquanto que a estratégia de produzir um grande número de zigotos evoluiu segundo um processo de seleção-r.
+
+
+=== Estratégias de reprodução das plantas e em fungos ===
+Os fungos, os musgos, as algas e as plantas verdes têm algumas características comuns no que respeita à reprodução, o que justifica que todos fossem considerados como plantas por Lineu e pelos primeiros botânicos.
+Ao contrário dos animais, as plantas, em geral, têm uma grande capacidade de reprodução vegetativa, ou seja, assexual: as partes vegetativas, ou não-reprodutoras, podem facilmente produzir uma nova planta. Por exemplo, um pedaço de hifa de um fungo transportada na pata de um cão ou de uma mosca pode produzir outro "indivíduo" da mesma espécie noutro local. Um pedaço do talo de uma alga arrastada pelas correntes oceânicas pode produzir uma nova alga noutro local onde as condições sejam adequadas. As plantas verdes rastejantes muitas vezes lançam estolhos que produzem raízes e se podem tornar independentes da planta-mãe.
+No entanto, todas as plantas — tal como os animais — necessitam da reprodução sexuada para o processo evolutivo, ou seja, necessitam de "renovar" o seu material genético. Mas nas plantas, ao contrário dos animais, os órgãos reprodutores encontram-se em indivíduos diferentes dos órgãos vegetativos. A este processo chama-se alternância de gerações.
+Mas é na dispersão das várias estruturas que as plantas geram para se reproduzir que encontramos maiores especializações:
+
+As espermatófitas (plantas que produzem sementes) desenvolveram estratégias para a disseminação dos seus produtos sexuais a dois níveis:
+Pólen — os grãos de pólen são as estruturas que transportam os gâmetas masculinos e, para que estes possam fecundar os óvulos, têm formas de actuação diversificadas — diferentes tipos de polinização:
+Algumas espécies de plantas produzem sementes por autofecundação, ou seja, o anterozoide de uma flor pode fecundar com êxito o óvulo da mesma flor; nestas plantas, a flor pode abrir apenas depois da fecundação;
+A norma, entretanto, é a fecundação cruzada, em que o pólen duma flor deve fecundar o óvulo de outra; ou de preferência, de outra planta diferente da mesma espécie, a fim de assegurar a recombinação genética; para este fim, os grãos de pólen são geralmente muito pequenos e leves, podendo ser transportados pelo vento (polinização anemófila), pela água (nas plantas aquáticas — polinização hidrófila), ou por animais (polinização zoófila), quer involuntariamente, como fazem os colibris quando vão beber o néctar da flor, quer voluntariamente, como fazem as abelhas e outros insetos, que se alimentam de pólen (polinização entomófila). Nestes últimos casos, o néctar ou outras especializações da flor são desenvolvimentos evolutivos destinados ao sucesso da reprodução sexuada.
+Sementes — são as estruturas que resultam da fecundação e transportam o embrião que, em condições ambientais favoráveis, irão dar origem a plantas iguais. Para isso, as plantas desenvolveram durante o processo evolutivo várias estratégias, muitas das quais actuam ao mesmo tempo:
+Vida latente — os embriões das plantas podem ficar muito tempo sem se desenvolverem, enquanto as condições apropriadas de temperatura e humidade não surgem;
+Pericarpo lenhoso
+Dispersão das sementes
+Os outros grupos de plantas, incluindo as samambaias, os fungos, os musgos e as algas, disseminam-se por esporos, que são células haplóides com uma parede celular extremamente resistente, produzidas por meiose em órgãos especiais, chamados esporângios.
+
+
+== Ver também ==
+Gametogénese
+Reprodução e gravidez na ficção especulativa
+
+
+== Referências ==

@@ -1,0 +1,11 @@
+O mercado financeiro é o ambiente onde ocorrem transações de compra e venda de ativos financeiros, como valores mobiliários, mercadorias e divisas. Ele facilita a alocação de recursos, a transferência de risco e o comércio internacional. Os mercados financeiros podem ser gerais, com diversos produtos, ou especializados, focados em um único tipo de ativo.
+
+Historicamente, economistas como Milton Friedman e Friedrich Hayek defendiam o papel do mercado financeiro no crescimento econômico. Em matemática financeira, o mercado é modelado por processos estocásticos, como o movimento Browniano.
+
+O mercado financeiro é tradicionalmente dividido em: mercado de capitais, que visa gerar liquidez para títulos e viabilizar a capitalização de empresas; mercado de crédito, onde ocorrem operações de empréstimo e financiamento; mercado de câmbio, para negociação de moedas estrangeiras; e mercado monetário, que controla a oferta de moeda e as taxas de juros de curto prazo.
+
+A sociologia tem investigado a formação e o impacto dos mercados financeiros na organização social. Estudos abordam a cultura de trabalho nas instituições financeiras, incluindo a automação, a competição interna e a concentração de poder em uma elite internacional.
+
+O direito desempenhou um papel na evolução do mercado financeiro, desde o keynesianismo do pós-Segunda Guerra Mundial até a financeirização. O Acordo de Bretton Woods e legislações como o Glass-Steagall Act influenciaram a regulação financeira. A desregulamentação e a criação de instrumentos financeiros, como os derivativos, marcaram a era da financeirização, com mudanças no papel dos bancos centrais e na gestão de riscos. A crise de 2007 levantou questionamentos sobre a eficácia da regulação e a complexidade do sistema financeiro global.
+
+A financeirização é caracterizada pela crescente liberdade dos fluxos de capital, novos participantes e instrumentos financeiros. O Acordo de Bretton Woods, inicialmente, pautou as regras da economia mundial, influenciando o "Estado de Bem-Estar Social". A desvinculação do dólar ao ouro em 1973, somada à Terceira Revolução Industrial, aumentou a importância do setor financeiro. A partir dos anos 1980, reformas conservadoras desregulamentaram ativos, impulsionando os mercados financeiros.

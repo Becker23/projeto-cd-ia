@@ -1,0 +1,309 @@
+A blockchain (também conhecido como “cadeia de blocos”) é uma tecnologia de registro distribuído que visa a descentralização como medida de segurança. São bases de registros e dados distribuídos e compartilhados, que têm a função de criar um índice global para todas as transações que ocorrem em um determinado mercado. Funciona como um livro-razão, só que de forma pública, compartilhada e universal, permitindo mecanismos de consenso e confiança na comunicação direta entre duas partes, ou seja, sem o intermédio de terceiros. Está constantemente crescendo à medida que novos blocos são adicionados a ela por um novo conjunto de registros. Os blocos são adicionados à blockchain de modo linear e cronológico. Cada nó - qualquer computador que conectado a essa rede que tem a tarefa de validar e repassar transações - obtém uma cópia da blockchain após o ingresso na rede. A blockchain possui informação completa sobre endereços e saldos diretamente do bloco gênese até o bloco mais recentemente concluído.
+A blockchain é vista como a principal inovação tecnológica do bitcoin visto que é a prova de todas as transações na rede. Seu projeto original tem servido de inspiração para o surgimento de novas criptomoedas e de bancos de dados distribuídos.
+
+
+== Definição ==
+
+Blockchain é um tipo de base de dados distribuída que guarda um registro de transações permanente e inviolável. A base de dados blockchain consiste em dois tipos de registros: transações individuais e blocos.
+Um bloco é a parte concreta da blockchain onde são registrados algumas ou todas as transações mais recentes e uma vez concluído é guardado na blockchain como base de dados permanente. Toda vez que um bloco é concluído um novo é gerado. Existe um número incontável de blocos na blockchain que são ligados uns aos outros - como uma cadeia - onde cada bloco contém uma referência para o bloco anterior.
+
+
+== História ==
+O primeiro trabalho em uma cadeia de blocos criptograficamente segura foi descrito em 1991 por Stuart Haber e W. Scott Stornetta. Eles queriam implementar um sistema em que os registros de data e hora dos documentos não pudessem ser violados ou feitos de forma retroativa. Em 1992, Bayer, Haber e Stornetta incorporaram as árvores Merkle ao projeto, o que melhorou sua eficiência ao permitir que vários documentos fossem coletados em um único bloco.
+Apesar dos primeiros estudos que originaram o conceito Blockchain ocorrerem no início da década de 90, a primeira rede blockchain foi executada de forma plena pela primeira vez no código fonte original do bitcoin. Portanto, estão intimamente ligados no que diz respeito ao surgimento de ambos.
+A definição original foi criada em 2008 com a publicação do artigo "Bitcoin: A Peer-to-Peer Electronic Cash System" publicado por Satoshi Nakamoto (cuja real identidade permanece em aberto apesar de haver algumas especulações a respeito). Em 2009 o código foi lançado como código aberto.
+Assim, em 2009 começa a rede do bitcoin quando Satoshi Nakamoto minerou os primeiros bitcoins. Satoshi Nakamoto desaparece em 2011 dos fóruns, artigos e contribuições públicas. Mas mesmo com a ausência de seu criador, o bitcoin continuou a ser desenvolvido e mercantilizado, com o esforço da comunidade que trabalha para resolver diversos problemas no código - incluindo, por exemplo, uma bifurcação na rede que originou o Bitcoin Cash.
+Sendo a base tecnológica  das criptomoedas, a blockchain tem recebido o interesse de bancos, empresas e organizações governamentais. Desde então, modificações têm sido feitas a partir do conceito original e novas aplicações tem sido construídas utilizando a tecnologia blockchain.
+Em 2014, surge o termo "Blockchain 2.0" usado para descrever um novo projeto no campo de banco de dados distribuído da blockchain.
+Em 2015, o jornal The Economist descreveu uma das implementações da segunda geração da blockchain, o Ethereum, como "uma linguagem de programação que permite usuários escreverem contratos inteligentes mais sofisticados [...]". Tal sacada permitiria a formação de "organizações autônomas descentralizadas" (DAO), companhias virtuais baseadas apenas em um conjunto de regras provenientes desta nova geração da blockchain.
+Em 2016, foi previsto o montante de 1 bilhão de dólares em investimento em tecnologia ligada à blockchain, pelo mercado financeiro, segundo pesquisa do jornal CCN.
+A evolução da blockchain tornou possível também o surgimento de conceitos distribuídos de blockchain, tal como a sidechain, que permitiria uma maior diversidade de blockchains sem comprometer a comunicação entre elas. Este é um conceito importante já que prepararia a rede para uma iminente tendência de diversificação já que diferentes empresas têm trabalhado na implementação de sua própria blockchain.
+
+
+== Descrição ==
+Blockchain é um banco de dados distribuído que teve seu primeiro destaque como base de funcionamento do bitcoin. Blockchain é, portanto, um livro-razão público que é composto por duas partes: uma rede peer-to-peer e um banco de dados distribuído descentralizado.
+
+
+=== Rede peer-to-peer ===
+
+De um modo geral e simples, uma rede P2P é uma arquitetura de computadores ou redes que compartilha tarefas, trabalho, ou arquivos entre pares (peers). Pares são parceiros na rede com iguais privilégios e influência no ambiente. Em uma rede P2P cada computador ou usuário é chamado de nó e coletivamente eles compõem uma rede P2P de nós.
+A rede P2P na blockchain consiste numa série de computadores e servidores onde cada um atua como um nó na rede. Quando uma nova mensagem entra na rede, a informação nesta mensagem é propagada entre todos os nós da rede P2P. A informação é normalmente encriptada e privada e não há como rastrear quem adicionou a informação na rede, apenas verificar sua validade.
+
+
+=== Banco de dados distribuído e descentralizado ===
+A rede como um todo é descentralizada o que significa que não há um ponto único de falha no sistema. Se um nó deixa a rede, outros nós já têm armazenada uma cópia exata de toda a informação compartilhada. De modo inverso, se um nó entra na rede, os nós iniciais imediatamente criam cópias de suas informações para o novo membro.
+
+
+=== Blocos e transações ===
+O bloco gênese é codificado no software e serve como o estado inicial do sistema. Ele pode conter informações sobre as regras ou instruções sobre o banco de dados restante.
+Feito isto, o banco de dados é formado a partir de uma série de blocos que juntos formam uma cadeia. É deste ponto que surge o nome 'cadeia de blocos' (blockchain). Cada bloco na cadeia contém informação ou transações. À medida que se adicionam transações, sua informação é guardada no bloco de acordo com o momento que ela foi processada. Esta combinação de informação e tempo cria um livro-razão que documenta valor ou outros recursos no banco de dados.
+Após as transações serem empilhadas no bloco, uma assinatura ou "hash" é adicionada no final do bloco. O hash é ligado ao bloco anterior da cadeia. Estes hashes formam as ligações voltando entre as cadeias até chegar ao bloco gênese. O hash inclui o número do bloco atual e o número do próximo bloco da cadeia. Também inclui a data e o momento que foi assinado além da quantidade de transações inclusas no bloco presente. O hash apresenta-se como uma chave encriptografada.
+
+
+=== Algoritmo de consenso ===
+No blockchain, o algoritmo de consenso é utilizado para resolver o problema de confiança, ou seja, nenhum dado inserido pode ser apagado e todas as novas inserções devem ser acreditadas por todos. Para isto, deve ser utilizado uma regra (algoritmo) que rege a inclusão de novos dados.
+Somente pode ser considerado que um novo bloco foi criado (minerado) caso este cumpra “também” a regra definida pelo Algoritmo de Consenso, sendo assim, o novo bloco é incluído no Blockchain, tornando os novos dados públicos.
+Outro ponto importante é que a definição de um algoritmo de consenso faz com que as decisões sobre o que será inserido do blockchain não dependam de nenhuma entidade centralizadora, garantindo assim a sua independência.
+Também por meio destas regras, cada usuário da rede tem a capacidade de verificar a autenticidade de cada bloco contido no blockchain e constatar por si só a autenticidade de todos os dados nele inseridos. Desta forma, ninguém precisa confiar em ninguém, pois a referida verificação faz com que cada usuário tenha a confiança no blockchain.
+Existem diversos algoritmos de consenso, os quais se pode citar:
+
+PoW – Proof-of-Work (prova de trabalho): este algoritmo provoca uma competição entre os computadores ligados a blockchain para ver quem será o primeiro a encontrar um hash respectivo ao novo bloco considerando a dificuldade imposta, fazendo com que os computadores com mais poder computacional tenham maiores probabilidades de “minerar” um novo bloco;
+PoS – Proof-of-Stake (prova de participação): a mineração de novos blocos por este algoritmo ocorre pela votação dos participantes da rede que possuem “ativos digitais” (da Blockchain que o utiliza), onde as recompensas e o peso dos votos estão diretamente relacionados com a quantidade de ativos de cada participantes;
+DPoS – Delegated-Proof-of-Stake (prova de participação delegada): este algoritmo é similar ao PoS, porém os participantes não votam diretamente se um bloco é válido ou não, ou seja, os participantes votam em Delegados e Testemunham que votarão por eles.
+
+
+== Vantagens ==
+Eliminação de troca por intermediário e falta de confiança
+Duas partes são capazes de fazer uma troca sem a supervisão ou intermediação de uma terceira parte, reduzindo fortemente ou até eliminando o risco de contraparte.
+Empoderamento dos usuários
+Usuários estão no controle de todas as suas informações e transações.
+Alta qualidade de dados
+Os dados da blockchain são completos, consistentes, datados, precisos e amplamente disponíveis.
+Durabilidade, confiabilidade e longevidade
+Devido as redes serem descentralizadas, a blockchain não tem um ponto central de falha e é mais resistente a ataques maliciosos.
+Integridade de processo
+Usuários podem confiar que suas transações serão executadas exatamente como o protocolo determina, removendo a necessidade de uma terceira parte.
+Transparência e imutabilidade
+Mudanças na blockchain são visíveis publicamente por todas as partes, criando transparência, e todas as transações são imutáveis, isto é, elas não podem ser alteradas ou deletadas.
+Simplificação de ecossistema
+Com todas a transações sendo adicionadas a um único livro-razão público, isso reduz a desordem e complicações geradas por múltiplos livros-razões.
+Transações mais rápidas
+Transações interbancárias podem potencialmente levar dias para serem compensadas e terem acordo final, especialmente fora do horário de trabalho. Transações com blockchain podem reduzir o tempo de transações para minutos e são processadas 24 horas por dia e 7 dias por semana.
+Menor custo por transação
+Eliminando o intermédio de terceiros e despesas gerais para troca de bens, blockchains têm o potencial de reduzir significativamente taxas de transações.
+Digital
+Praticamente qualquer documento ou bem pode ser expressado em forma de código e encapsulado ou referenciado por uma entrada do livro-razão, o que significa que a tecnologia blockchain tem aplicações muito amplas, a maioria ainda não pensada, muito menos implementada.
+
+
+== Desafios ==
+Tecnologia nascente
+Resolver desafios como velocidade de transação, o processo de verificação, e limites de dados será crucial para tornar a blockchain amplamente aplicável.
+Estado regulatório instável
+Como as moedas modernas sempre foram criadas e reguladas pelos governos nacionais, blockchain e bitcoin enfrentarão obstáculos na adoção generalizada por instituições financeiras preexistentes se a regulamentação de seu governo permanecer instável.
+Grande consumo de energia
+Mineradores da rede blockchain do bitcoin estão tentando trilhões de soluções por segundo em esforços para validar transações, usando uma quantidade substancial de poder computacional.
+Controle, segurança e privacidade
+Enquanto as soluções existem, incluindo blockchain privada e permissionada e forte encriptação, há ainda assuntos de segurança cibernética que precisam ser resolvidos antes que o público geral confie seus dados pessoais a uma solução blockchain.
+Questões de integração
+As aplicações da blockchain oferecem soluções que exigem mudanças significativas, ou a substituição completa de sistemas existentes. A fim de realizar a troca, as empresas precisam desenvolver uma estratégia de transição.
+Adoção cultural
+Blockchain representa uma troca completa para uma rede descentralizada que requer a participação de seus usuários e operadores.
+Custo
+Blockchain oferece uma grande economia em preço e tempo por transação mas os altos custos de capital inicial podem ser um impedimento.
+
+
+== Aplicações ==
+
+
+=== Web3 ===
+
+Diversos países estão discutindo e aprovando leis para censura e proteção de dados gerados pela internet. Nos dias atuais tudo que é realizado pela internet pode ser rastreado. A utilização da tecnologia Blockchain pode proporcionar uma internet anônima e efetivamente descentralizada.
+Em julho de 2018, foi aprovado no plenário do Senado Federal o PLC 53/2018, em que dispõe sobre a proteção de dados pessoais e altera a Lei 12.965/16 (Marco Civil da Internet), estabelecendo a  Lei Geral de Proteção de Dados brasileira (LGPD). Outros regulamentos similares ao LGPDP no Brasil são o General Data Protection Regulation (GDPR) na União Europeia, que passou a ser obrigatório em 25 de maio de 2018 e aplicável a todos os países da União Europeia, e o California Consumer Privacy Act of 2018 (CCPA), nos Estados Unidos, com sua implementação partindo de uma iniciativa em âmbito estadual, na Califórnia, aprovado em junho de 2018.
+A Web3, também chamada Web 3.0, mantida pelo Blockchain pode oferecer uma internet verdadeiramente descentralizada, proporcionar anonimato e garantir privacidade aos usuários. As empresas deixarão de utilizar servidores centralizados para armazenamento de dados. Através dessa tecnologia as empresas podem, por exemplo autenticar seus usuários por suas chaves sem armazenamento de dados pessoais dos clientes. Na web 3.0 os dados trafegados são criptografados e a decisão de compartilhar a informação com plataformas ou terceiros passa a ser do usuário.
+A utilização do Blockchain pela Web3 também proporciona menor propensão de interrupção do serviço por rodar em ambiente distribuído, sendo uma ótima alternativa para aplicações que geram grandes impactos negativos pela interrupção do serviço.
+A Web3 também é alvo de críticas online. O criptografo Moxie Marlinspike criticou a centralização da aplicativos na Web3, que muitas vezes dependem de serviços centralizados fornecidos por empresas como OpenSea e Infura. O professor universitário Nicholas Weaver enfatizou o alto custo para realizar operações e armazenar dados na blockchain Ethereum em comparação a serviços do Amazon Web Services, o mini computador Raspberry Pi e Unidades de estado sólido. Tim O'Reilly, considerado responsável pela popularização do termo Web 2.0, elogiou o potencial da Web3 para a implementação digital de confiança e identidade porém ressaltou o ciclo histórico de descentralização seguida de centralização na Web e desaprovou a alta especulação financeira em cima da blockchain.
+
+
+=== Sidechains ===
+Transações bitcoin são armazenadas em um livro-razão transparente, chamado blockchain. Ela é protegida por uma forte rede de hash distribuída, como já explicado. A sidechain é uma blockchain que valida dados de outras blockchains e permite a transferência de bitcoins e outros bens entre blockchains, promovendo uma nova plataforma, aberta para a inovação e desenvolvimento. O uso de um caminho duplo lateral permite que moedas digitais e outros bens sejam transferidos entre cadeias com uma taxa de câmbio fixa ou de outra forma determinística. Uma sidechain atrelada é uma blockchain cujos bens podem ser importados e retornados para outras sidechains. Sidechains permitem que a blockchain seja aprimorada com melhor desempenho e proteção de privacidade. Elas permitem também novas extensões para dar suporte a classes de bens inumeráveis, como ações, títulos, derivativos, moedas do mundo real e/ou virtual, bem como, adicionar recursos como contratos, alças de segurança e registros de propriedade do mundo real. Sidechains podem ter outras sidechains para coisas como micropagamentos. Elas permitem a experimentação e pré-lançamento de futuras sidechains e até mesmo de uma versão beta do bitcoin em si.
+
+
+=== Blockchains alternativas ===
+Blockchains alternativas (altcoins) são baseadas na tecnologia bitcoin em conceito e/ou código. Estes projetos geralmente adicionam funcionalidades à blockchain. altcoins podem fornecer soluções incluindo outras moedas digitais. Elas visam desempenho, anonimato, armazenamento e aplicações como contratos inteligentes. Começando com um forte foco em aplicações financeiras, a tecnologia blockchain está se expandindo para atividades incluindo aplicações descentralizadas e organizações colaborativas que eliminam intermediários.
+Porém, alguns problemas podem ser apontados devido a alta proliferação de altcoins. Primeiro, a segurança e confiabilidade de uma rede blockchain depende de seu tamanho - o número de nós envolvidos - e a blockchain do bitcoin tem vantagens em termos de poder computacional, que torna difícil criptomoedas incipientes ganhar ampla adoção. Segundo, bifurcação no desenvolvimento resulta em uma separação de bens e redes das altcoins. Isso significa que cada altcoin duplica grande quantidade de código e funcionalidade de outras blockchains sem ser diretamente integrada com elas. Isso significa também que bens, como em Bitcoin e Namecoin, não podem ser transferidos diretamente entre blockchains tornando necessário o uso de sidechains.
+
+Ethereum
+É uma plataforma descentralizada que executa contratos inteligentes utilizando uma blockchain customizada capaz de mover valor e representar a propriedade sobre um bem. Isto permite que desenvolvedores criem mercados, armazenem registros de dívidas, movimente fundos de acordo com instruções dadas à longo prazo sem a necessidade de uma terceira parte.
+Utiliza uma máquina virtual chamada EVM (Ethereum Virtual Machine), que roda de forma descentralizada em diferentes nodes espalhados pelo mundo. E para a elaboração dos contratos inteligentes, utiliza-se uma linguagem de programação chamada Solidity.
+Namecoin
+É uma tecnologia experimental de código aberto que melhora a descentralização, segurança, resistência à censura, privacidade e velocidade de certos componentes da infraestrutura da Internet como DNS e identidades e outras tecnologias.
+Datacoin
+É uma moeda confiável, livre de censura que pode ser usada para transações e armazenamento de dados na nuvem dentro de uma blockchain.
+Bitmessage
+Utiliza blockchain como um meio de armazenamento de mensagens por dois dias. Devido a sua estrutura em árvore, tudo exceto a raiz hash pode ser deletado sem comprometer a integridade da cadeia.
+
+
+=== Aplicações Descentralizadas ===
+Denominam-se aplicações descentralizadas aquelas que são distribuídas e executadas a partir de uma rede ponto a ponto sem uma entidade de controle. O front-end dessas aplicações é hospedado em uma plataforma de armazenamento descentralizada enquanto seu código de back-end é executado em uma rede p2p descentralizada.
+São características de uma aplicação descentralizada:
+
+A aplicação deve ter o seu código-fonte aberto, operar de forma autônoma e não possuir uma entidade controladora;
+Deve gerar tokens de acordo com um algoritmo criptográfico que atua como uma prova de que os nós da rede estão contribuindo;
+A utilização desses tokens é necessária para acessar a aplicação e qualquer contribuição deve ser recompensada com tokens da mesma;
+Os dados da aplicação e os registros de operação são criptografados e armazenados em uma blockchain pública descentralizada.
+Importante salientar que as modificações em aplicações descentralizadas devem ser decididas em consenso pela maioria dos seus usuários e deve haver um acordo sobre o algoritmo criptográfico utilizado como prova de trabalho.
+Diante do exposto infere-se que a blockchain, o Bitcoin e o Ethereum são exemplos de aplicações descentralizadas.
+Uma aplicação descentralizada é uma aplicação web que utiliza a tecnologia blockchain e tem um contrato inteligente como responsável pela conexão entre a aplicação e a blockchain.
+Os usuários de uma aplicação descentralizada usufruem de um certo anonimato, entretanto podem haver aplicações que requerem a autenticação do usuário para o acesso.
+O Desenvolvimento de aplicações descentralizadas se dá por meio da utilização de arquiteturas existentes para esta finalidade, como a do Ethereum. Contratos Inteligentes podem ser programados para fazer o back-end e tecnologias web existentes como Node.JS podem ser utilizadas para o desenvolvimento da camada de apresentação.
+
+
+=== Bancos e Blockchain ===
+Apesar das diferentes aplicações que a blockchain pode suportar, a aplicação financeira, lançada pela moeda criptografada (o bitcoin) é a que está exercendo maior impacto no momento. Muitos bancos já realizam experiências com a finalidade de adaptar o sistema aos seus próprios interesses e necessidades. A descentralização traz diferentes benefícios às instituições financeiras, contribuindo para aprimorar atividades como:
+
+Liquidação de operações no mercado financeiro;
+Pagamentos cross-border (banco nacional – investidor estrangeiro);
+Registro de títulos;
+Armazenamento de documentos e contratos;
+Rastreamento de transações;
+Pagamentos com pessoas que não dispõem de conta bancária;
+Resguardar dados dos clientes da rede.
+Os resultados já se fazem sentir ou são previstos com muita precisão. A tecnologia blockchain vem desenvolvendo importante papel no mercado de valores e transformando definitivamente a face do comércio. Conforme estudos realizados em co-autoria pelo Banco Santander, o sistema blockchain pode eliminar até 20 bilhões de dólares de custos bancários. O banco, que é o 14º maior do mundo, também assegura que é possível utilizar a blockchain em mais de 25 aplicações bancárias.
+Assim, bancos como o próprio Santander (sediado na Espanha), Citibank (sediado nos EUA), Goldman Sachs (sediado nos Estados Unidos), BBVA (sediado na Espanha), Westpac e Commonwealth Bank (sediados na Austrália) e muitos outros já estão investindo na nova tecnologia visando redução de gastos e maior eficiência nas negociações.
+No mercado brasileiro, depois do ano de 2017, os investimentos feitos pelas instituições financeiras no setor tecnológico têm aumentado e chegou a R$ 19,5 bilhões segundo a Federação Brasileira dos Bancos, assim projetos dos bancos brasileiros como a utilização do Blockchain para facilitar transações entre correntistas de diferentes instituições financeiras é de grande destaque.
+No primeiro semestre de 2018, os bancos brasileiros Banco do Brasil, Caixa Econômica Federal, SICOOB, Banrisul e bem como o Santander se juntaram no projeto de um novo serviço digital baseado em blockchain. O novo sistema foi apresentado no 11°Fórum Internacional de TI Banrisul e se chama Sistema Financeiro Digital (SFD), que permitirá a transferência de recursos entre correntistas de todos os cinco bancos envolvidos. Neste novo sistema os bancos terão transações que ocorrerão 24 horas por dia, sem excluir fins semana, e o dinheiro cairá na hora. Diferente do sistema atual onde as transferências por DOC ou TED que demoram até 1 dia, assim o usuário, no SFD, também não precisará informar CPF, número do banco, agência e conta corrente para fazer transferências bancárias.
+O Sistema Financeiro Digital (SFD) engloba uma transferência de valores que ocorrerá sem participação de terceira parte utilizando assim o sistema será peer-to-peer pelo Blockchain. O papel da terceira parte no SFD será desempenhando por um livro contábil público (Distributed Ledger Technology – DLT).
+O interesse por parte dos bancos coincide com o significativo aumento de fintechs no país e com o fato do Banco Central do Brasil procurar cada vez mais o caminho da regulamentação de operações de crédito que utiliza o sistema peer-to-peer (ponto a ponto). Em abril de 2018, o Bacen regulamentou as fintechs  de crédito permitindo que essas atuem como Sociedades de Empréstimo entre Pessoas (SEP), que conectam investidores a tomadores de recursos. Dessa forma para os bancos brasileiros isso representa um momento de grande desafio e reflexão sobre como irão agir para sobreviver frente aos ataques das fintechs, bem como repensar sua forma de atuar neste novo mercado.
+
+
+=== Qual é o impacto do blockchain para o mercado financeiro? ===
+As transações realizadas por meio do Blockchain têm ganhado cada vez mais espaço no mercado financeiro e não é à toa.
+Uma pesquisa realizada pela Infosys Finacle mostrou que mais de 80% dos profissionais da área financeira esperam trabalhar com o Blockchain até 2020. Além disso, quase metade das organizações em que eles atuam já estão investindo ou planejam investir nesse método em 2017.
+Ainda segundo o estudo, o investimento médio em projetos com essa tecnologia deve ser de aproximadamente 1 milhão de dólares somente esse ano.
+Esse tipo de operação tem diversas vantagens e a principal delas é o modelo peer-to-peer (ponto a ponto), no qual as informações podem ser compartilhadas sem a necessidade de um servidor central. Isso faz com que haja uma redução de custos significativa.
+Esse benefício também permite que não haja limitações de valores, já que qualquer quantia pode ser transferida em questão de segundos, ou melhor, quase instantaneamente. Essa questão elimina as dificuldades que muitos usuários enfrentam devido às restrições impostas pelos bancos e instituições financeiras.
+Portanto, as movimentações mais comuns realizadas pelo blockchain são as internacionais.
+
+
+=== Utilização da tecnologia blockchain na área de saúde ===
+A área de saúde vem apresentando diversas inovações que utilizam a tecnologia blockchain no desenvolvimento de novas soluções. Atualmente o prontuário médico eletrônico (Electronic Medical Report - EMR) é a excelência no que tange a gestão dos dados relativos à saúde da população. O compartilhamento e a integração desses dados de saúde é considerado crucial para melhorar a qualidade dos serviços de saúde, reduzir os custos médicos e acelerar as pesquisas biomédicas.
+No entanto, os EMRs estão distribuídos em hospitais e clínicas com sistemas descentralizados, o que dificulta o compartilhamento dos dados e, ainda, o trânsito desses dados para consolidação das informações representa risco à privacidade dos pacientes. Para solucionar esse problema o blockchain junto com contratos inteligentes podem melhorar a interoperabilidade dos dados de saúde, uma vez que todas as transações são validadas através do mecanismo de consenso e nenhum participante pode modificar o dados arbitrariamente.
+Recentemente, muitas empresas e instituições de pesquisa, como Philips, Gem Health, Google e IBM estão explorando ativamente as aplicações médicas baseadas na tecnologia blockchain.
+Além das pesquisas desenvolvidas pelas grandes corporações, alguns outros esforços de pesquisas em saúde ligadas a blockchain têm sido realizados. Yue et al. propôs um gateway de dados de saúde (HDG) baseado na plataforma de armazenamento blockchain, que permite que os pacientes processem seus próprios dados sem violar privacidade.
+Azaria et al. apresentou uma descentralização do sistema de gerenciamento de registros, chamada MedRec Arquivado em 27 de novembro de  2018, no Wayback Machine., que pode lidar com EMRs usando a tecnologia blockchain em um sistema que oferece aos pacientes um registro abrangente e imutável, de acesso fácil a suas informações médicas aproveitando as propriedades exclusivas do blockchain, o sistema gerencia autenticação, confidencialidade, responsabilidade e compartilhamento de dados.
+Liu et al. estabelece o conceito do BPDS (Blockchain based Privacy-Preserving Data Sharing). No BPDS, os EMRs originais são armazenados de forma segura na nuvem e os índices são reservados em um blockchain à prova de adulteração. O risco de vazamento de dados médicos pode ser muito reduzido e, ao mesmo tempo, os índices na blockchain garantem que os EMRs não podem ser modificados arbitrariamente e dados podem ser compartilhados de forma segura, de forma automática de acordo com permissões de acesso pré-definidas de pacientes através de contratos inteligentes.
+O desenvolvimento de um sistema global de gestão de dados de saúde implicará em profundas mudanças nas relações do cidadão com diversas áreas, tais como a farmacêutica, a atuarial, os planos de saúde, os hospitais e até mesmo com o governo.
+
+
+=== Quais são os principais desafios dessa tecnologia? ===
+Um dos maiores problemas do Blockchain é a falta de padronização no seu uso, o que gera enormes desafios e até mesmo dificuldades para pessoas e empresas.
+Outro fator é a necessidade de depender de uma colaboração geral para implementá-lo em alguma empresa. Para isso, é preciso envolver funcionários, tecnologia da informação, operadores e outras instituições para melhorar a usabilidade.
+O blockchain surgiu para revolucionar as transações financeiras no mundo. Por meio dele, as movimentações são realizadas com rapidez, segurança e transparência. Esse sistema permite realizar as operações quase em tempo real, priorizando a privacidade com informações sigilosas: e o mais interessante é que tudo pode ser feito de qualquer lugar do planeta pela internet.
+
+
+=== O blockchain é seguro? ===
+A tecnologia blockchain é responsável por questões de segurança e confiança de várias maneiras. Primeiro, os novos blocos são sempre armazenados linearmente em ordem cronológica. Em outras palavras, eles são sempre adicionados ao "final" do blockchain. Se você olhar para a cadeia de blocos Bitcoin, verá que cada bloco tem uma posição na cadeia chamada "altura". Em novembro de 2020, a altura do bloco atingiu 656.197 blocos até agora.
+Depois que um bloco é adicionado ao final da blockchain, é difícil voltar e alterar o conteúdo do bloco, a menos que a maioria das pessoas tenha chegado a um consenso. Isso ocorre porque cada bloco contém seu próprio hash, bem como o hash do bloco anterior e o carimbo de data / hora mencionado anteriormente. O código hash é criado por uma função matemática que converte informações digitais em uma sequência de números e letras. Se esta informação for editada de alguma forma, o código hash também mudará.
+Suponha que um hacker queira mudar o blockchain e roubar bitcoin de todos os outros. Se eles tiverem que alterar sua cópia, ela não será mais consistente com a cópia de todos os outros. Quando todas as outras referências cruzadas de suas cópias se referirem umas às outras, eles verão uma única cópia se destacar, e a versão dessa corrente hackeada será considerada ilegal.
+
+
+=== Cartórios e blockchain ===
+
+
+==== Cartórios no Brasil ====
+
+Os cartórios são organizações que prestam serviços notariais e de registro. No Brasil, a atividade é regulamentada pela LEI Nº 8.935, DE 18 DE NOVEMBRO DE 1994.
+De acordo com a Lei, compete aos notários:
+
+formalizar juridicamente a vontade das partes;
+intervir nos atos e negócios jurídicos a que as partes devam ou queiram dar forma legal ou autenticidade, autorizando a redação ou redigindo os instrumentos adequados, conservando os originais e expedindo cópias fidedignas de seu conteúdo;
+autenticar fatos.
+Aos tabeliães de notas compete com exclusividade:
+
+lavrar escrituras e procurações, públicas;
+lavrar testamentos públicos e aprovar os cerrados;
+lavrar atas notariais;
+reconhecer firmas;
+autenticar cópias.
+Os serviços notariais e de registros têm por fim "garantir a publicidade, autenticidade, segurança e eficácia dos atos jurídicos" e aquele delegado ao exercício da atividade é dotado de fé pública. Percebe-se, portanto, que o cartório atua como a terceira parte confiável.
+A necessidade de inserir uma terceira parte na formalização de negócios ou no registro de notas não promove apenas benefícios mas cria obstáculos e custos para as partes interessadas. Os trâmites burocráticos e os valores praticados muitas vezes dificultam vida do cidadão e podem até inviabilizar negócios.
+A comunicação entre cartórios no Brasil se mostra um tanto precária. Tendo como exemplo um cidadão nascido e registrado em uma cidade X, casado em uma cidade Y e falecido em uma cidade Z. Quando um familiar desse cidadão solicitar uma segunda via da certidão de nascimento haverá a necessidade de solicitar a atualização do registro de nascimento com as informações do casamento civil e óbito. Vejam que a atualização não é automática e não existe um sistema que permita a atualização. Normalmente essas atualizações são realizadas através de contato telefônico entre cartórios e envio de correspondências através da Empresa Brasileira de Correios e Telégrafos.
+Quando outras instituições precisam obter informações atualizadas de um indivíduo esse desencontro de informações pode gerar uma série de problemas. Um exemplo  é a atualização do cadastro de um correntista de uma instituição financeira. Quando o cliente vem a falecer, o Banco só registra a informação em seu sistema quando recebe o atestado de óbito. O lapso temporal entre a morte, a emissão do atestado de óbito e a apresentação do registro no Banco deixa tanto a instituição financeira quanto os recursos do falecido expostos a riscos que poderiam ser evitados em caso de comunicação imediata.
+
+
+==== Como a tecnologia blockchain pode ser utilizada em cartórios? ====
+Uma das aplicações mais comentadas é justamente a utilização do blockchain para substituir os cartórios. De acordo com William Mougayar (2017), os princípios da tecnologia blockchain são: comunicação Ponto a Ponto (Peer-to-Peer), eliminar terceira parte confiável e a criação sequencial de transações imodificáveis (com data e hora), mostrando assim a prova de trabalho criptografada. Assim seria possível realizar, por exemplo, a confirmação de identidade das partes, validação de contratos, lavrar atas notariais e lavrar escrituras e procurações.
+Além disso, como a cadeia de blocos funciona como um grande livro-razão onde todos possuem uma "cópia" do livro, o blockchain também passou a ser chamado de distributed ledger (livro-razão distribuído, conhecido pela sigla DLT).
+Diante dessas informações, percebe-se que essa seria uma excelente solução para o problema do atestado de óbito supracitado. Com o registro da morte devidamente armazenado no blockchain qualquer parte interessada com acesso à cadeia de blocos (ou cópia do livro-razão) seria capaz de consultar a situação do cidadão. Bancos, outros cartórios, o Governo Federal e a população seriam beneficiados com um serviço mais ágil e menos burocrático.
+Mas infelizmente não é tão simples implementar essa solução. Um dos dificultadores para utilizar o blockchain para realizar serviços notariais e de registros é o throughput (vazão ou taxa de transferência) e o fato de que o o blockchain não é um banco de dados eficiente para armazenamento de grande quantidade de informações, conforme exposto por Mougayar (2017). Para usufruir dos benefícios da cadeia de blocos, faz-se necessário a construção de um sistema que armazene as informações em um banco de dados e utilize o blockchain apenas para validar os dados.
+O desafio é grande mas a discussão existe. Em audiência pública promovida pela Comissão de Ciência e Tecnologia, Comunicação e Informática na Câmara dos Deputados foram ouvidos especialistas que defendem regulamentação de blockchain em transações virtuais. Diretora-presidente do Serviço Federal de Processamento de Dados (Serpro), Glória Guimarães disse que o blockchain pode ser a chave para a revolução digital dos serviços públicos no País, pois confere confiança ao meio digital. Entre as vantagens da tecnologia, ela destacou a automação de processos, a eliminação de intermediários, a redução de custos e o acesso à rastreabilidade. “Hoje o blockchain já é usado para controlar o registro de terrenos na Suécia e registros clínicos de pacientes na Estônia”, informou.
+Outro fato que merece destaque é o programa piloto da startup Ubitquity. De acordo com o Estudo de Caso no site da empresa, "o Brasil enfrenta uma alta taxa de corrupção e fraude, especialmente quando se trata de sistema de titulação de terras. O piloto da Ubitquity no Brasil adicionou uma camada extra de eficiência e confiança para o sistema.  Na região onde a Ubitquity conduziu seu piloto, nos municípios de Pelotas e Morro Redondo, os registros imobiliários podem ser comparados com os seus homólogos no blockchain - um registro imutável - e esta verificação garante a todas as partes envolvidas que os registros são legítimos".
+
+
+==== Blockchain e a segurança dos dados ====
+Por décadas, uma grande quantia dos dados gerados foi capturada e guardada em controle de grandes empresas que, por meio de seus modelos de negócio, extraem receitas volumosas e enriquecem na promessa de serviços gratuitos para nós usuários.
+Para ilustrar, a Internet gera hoje 2.5 quintilhões bytes de dados por dia, e 90% de todos os dados do mundo foram criados nos últimos dois anos. Mesmo diante deste cenário, vemos empresas como a gigante Facebook desastrosamente vazar milhões de dados sensíveis de seus usuários. Esses e outros casos levaram à regulações governamentais como o GDPR, instituindo regras para promover mais transparência e segurança para os dados que são extraídos da população.
+No entanto, este cenário pode encontrar uma solução na tecnologia Blockchain. Ao invés de preenchermos infinitos formulários que serão replicados de servidor para servidor, quando de posse dos nossos dados e nossas chaves públicas e privadas, nossos dados serão criptografados e autenticados pela rede descentralizada. Assim, as empresas que solicitam seus dados para identificação, não precisariam ficar com seus dados, bastando receber a confirmação da autenticidade pela blockchain. Dessa forma, temos o controle em nossas mãos. Ao invés de fornecermos nossos dados para gigantes de tecnologia em troca de “likes” e comentários, nós podemos escolher dar ou monetizá-los.
+Por fim, a blockchain também pode ajudar a resolver os ataques de hackers em busca de dados. Uma vez que os dados são descentralizados, as ações dos piratas se tornam menos eficientes já que precisariam de um números de ataques muito mais expressivos ao invés de apenas um grande alvo.
+
+
+=== Blockchain no mercado de videogame ===
+O blockchain está sendo usado com sucesso no mundo dos videogames e mais especificamente na venda e troca de ativos digitais (armas, escudos, poções, personalizações, etc.). Um exemplo de sucesso é o Crytokitties, que foi lançado em 2017 e ultrapassou 30% das operações diárias registradas no Ethereum.
+
+
+=== Blockchain e o compartilhamento de dados no âmbito da Administração Pública Federal Brasileira ===
+O compartilhamento de dados cadastrais, como o CPF (Cadastro de Pessoas Físicas), por exemplo, é de responsabilidade das administrações tributárias prevista no artigo 37, inciso XXII, da Constituição Federal Brasileira. Ademais, o CPF é um dos números de identificação com mais de 800 convênios de troca de informações entre a Receita Federal e demais órgãos.
+Dadas as inúmeras aplicações da tecnologia Blockchain e, visando atender a necessidade de compartilhamento de dados no âmbito da Administração Pública federal Brasileira, a Empresa de Tecnologia e Informações da Previdência Social - DATAPREV,  desenvolveu um novo serviço de troca de informações da base de cadastro dos CPFs chamada de "bCPF" (Blockchain do Cadastro de Pessoas Físicas).
+Atendendo a Portaria RFB nº 1.788/2018 em que "fica autorizada a disponibilização de dados por meio de fornecimento de réplicas, parciais ou totais, até 31 de julho de 2019, período em que o órgão ou entidade solicitante deverá adotar o mecanismo de compartilhamento de dados por meio de rede permissionada Blockchain ou outro autorizado pela Cotec.”, a solução bCPF busca simplificar o processo de disponibilização desta base de dados, através de mecanismos seguros, integrados e eficientes.
+O projeto piloto, com participação do Conselho de Justiça Federal, foi lançado e a previsão é de que até julho de 2019, diversas entidades de todos os poderes e esferas estejam utilizando a solução para a troca de informações da base CPF.
+A tecnologia permitiu a equipe técnica conceber e implementar a solução em apenas quatro meses, utilizando tempo menor e entregas mais rápidas, customizado para o ambiente da Receita Federal. Quatro tipos de tecnologias foram utilizadas no projeto: marketplace, APIs, nuvem e o Blockchain. A nova ferramenta muda a forma de compartilhamento dos dados de pessoa física para todos os entes de governo eliminando cópias físicas, mantendo cópias digitais via Blockchain com a segurança proporcionada por esta. A solução prevê ainda a utilização de smart contracts (contratos inteligentes), com funcionalidades e controles adicionais que tornam o bCPF seguro e viável.
+Este é um dos primeiros passos rumo ao necessário compartilhamento de dados e mostra que a tecnologia ainda tem muito a contribuir com a Administração Pública Federal Brasileira.
+
+
+=== BaaS em blockchain – Blockchain como Serviço ===
+O termo BaaS traz ideia semelhante ao termo SaaS (Software as a Service / Software como Serviço), de aplicações prontas para o negócio, trazendo eficiência e ganho de escala por ser desnecessário o desenvolvimento do projeto do zero e não sendo necessário instalação em dispositivo próprio por ser um serviço viabilizado através da conexão com a internet.
+BaaS significa a existência de um ambiente personalizável de desenvolvimento pronto para executar rotinas automatizadas, com mínima iteração, de fácil execução, com segurança da criptografia e imutabilidade de dados.
+Um BaaS deve provê o backend necessário à elaboração de uma blockchain do negócio do cliente, podendo ser pública, como Bitcoin e Ethereum, ou privadas, também chamadas de DLT (Distributed Ledger Technologies / Tecnologia Distribuída de Livro-razão).
+Exemplos de DLTs sobre BaaS recentes:
+
+Amazon Managed Blockchain: lançado em 2019, é um serviço fornecido pela Amazon Web Services para a criação e gerência de blockchains privadas.
+Huawei Blockchain Service (BCS): serviço criado pela Huawei Cloud, originalmente lançado apenas na China porém disponível globalmente desde 2018.
+JPMorgan: o banco anunciou durante o evento BlockFS que já está produzindo o seu sistema blockchain para transações interbancárias, com mais de 100 bancos cadastrados;[carece de fontes?]
+Insolar (INS): a criptomoeda, que passou por um processo de rebranding em 2018, anunciou a criação de um BaaS em sua nova rede, chamada de Blockchain 4.0, com aplicações definidas para métodos de pagamentos, mineração POS e mecanismos de votação à prova de fraude e transparente[carece de fontes?].
+
+
+=== Blockchain no mercado de propriedade intelectual ===
+Dentre as diversas formas de uso do blockchain, uma que se apresenta bastante promissora é a utilização na proteção e negociação dos ativos de propriedade intelectual.
+Utilizando-se de uma das características do blockchain, que é a de se assemelhar a um ‘livro contábil’ onde pode ser registrado e validado as transações de informações e ativos, uma empresa sueca, a MindArk, quer usar a tecnologia para realizar a troca de ativos de propriedade intelectual.
+Os custos para manter uma patente é muito elevado, tendo peso significativo, principalmente para aquelas que tem um portfólio de ativos grande.
+Para entendermos melhor, imagine uma empresa que possui patente de uma determinada tecnologia, entretanto por questões estratégicas não está fazendo uso da mesma, gerando elevados custos apenas para manter ativo o registro. Uma outra empresa percebeu uma oportunidade de mercado, e necessita utilizar a tecnologia patenteada pela primeira empresa.
+Nos moldes atuais a negociação da patente em questão pode tomar muito tempo e dinheiro, levando até a inviabilidade da oportunidade negocial.
+A proposta da MindArk é fazer uso do blockchain para dar maior agilidade e facilitar esse processo.
+Seria criado um Contrato Inteligente onde ficaria registrado a transação, com toda segurança provida pela tecnologia, seria utilizada também uma moeda virtual,  para o pagamento de royalties pelo licenciamento da patente, protegendo os dois lados de fraudes.
+A ideia seria criar um "banco de patentes" e conectar pessoas e empresas que tem interesse em utilizar e licenciar tais ativos, de forma online e segura, agregando valor às suas marcas, patentes, desenhos industriais, etc.
+
+
+=== Aplicações do blockchain à cadeia de logística ===
+A logística é um conjunto de métodos, procedimentos e meios necessários para a gestão da aquisição, movimentação, armazenamento de produtos e controle de estoque, bem como qualquer fluxo de informação associado a essas atividades. A gestão dessa cadeia de operações tem se tornado cada vez mais complexa, com a expansão dos mercados, a evolução nos conceitos de produto e no modo de consumir, a globalização e o advento do e-commerce, de maneira que tem se tornado uma área estratégica de extrema relevância para o diferencial competitivo das empresas.
+Dependendo do produto, a cadeia logística pode passar por diversos estágios, diferentes fornecedores, múltiplas localizações geográficas e gerar até centenas de registros documentais (faturas, atestes de recebimento, pagamentos…), que dão margem para problemas de diversas naturezas, dentre eles extravio, fraudes em documentações, falta de transparência quanto às ocorrências no trajeto e as condições de conservação dos produtos e falta de confiabilidade entre parceiros comerciais.
+O blockchain possui atributos que tem sido explorados como solução para vários desses problemas. Algumas contribuições apontadas por fornecedores que tem desenvolvido projetos de aplicação de blockchain na indústria da Logística:
+
+Aprimoramento do monitoramento da carga, em combinação com dispositivos IoT, de forma que os sensores são estruturados como nós da cadeia de blocos e, ao lerem um dispositivo de rastreamento na embalagem do produto, gravará a “posse" desse dispositivo chamando uma função de um contrato inteligente desenhado para essa finalidade, reduzindo os riscos de extravio e eliminando o papel do custom broker;
+Associando-se a demais soluções de IoT, incluindo sensores de temperatura, umidade, movimento, dentre outros, é possível auditar e controlar a conservação do produto em condições adequadas;
+Registro da proveniência dos produtos para demonstrar sua autenticidade;
+Minimização dos custos administrativos no transporte das cargas, com a utilização de blockchain na comunicação entre órgãos fiscalizadores competentes e parceiros comerciais para liberações da carga e planejamento de cada etapa da cadeia logística;
+Redução de atrasos no transporte com a eliminação de problemas relacionados à comunicação por documentos físicos;
+Aumento de confiança dos consumidores e entre parceiros comerciais;
+Contribuição para a gestão da frota a partir do registro da performance e do histórico de tráfego e manutenção de cada veículo de transporte, de forma a aprimorar o processo de renovação /revenda da frota e o de cálculo do seguro dos veículos;
+Processos logísticos são muito baseados na confiabilidade em documentos físicos. Um estudo da IBM e Maersk que investigou as operações de transporte de flores provenientes do Kenya até o Porto de Rotterdam identificou aproximadamente 200 comunicações documentais registradas durante o processo, dentre autorização de órgãos e autoridades competentes, atestes, faturas e outras. Além do custo para gerar e gerir toda a documentação, qualquer demora na emissão ou perda de quaisquer desses documentos pode acarretar em atrasos significativos no transporte ou até a perda da carga, bem como comprometer a integridade e qualidade do produto, a depender de suas necessidades e condições de armazenamento. Uma solução viável seria substituir toda essa cadeia de comunicação documental física por um fluxo de registros e aprovações por meio de contratos inteligentes executados ao longo da cadeia à medida que cada órgão competente ou parceiro comercial dessa cadeia assina novas transações com suas respectivas chaves privadas, atualizando as aprovações e informações a respeito da carga reduzindo o risco de fraude na documentação.Simultaneamente, o próximo porto e o próximo operador que executará a próxima etapa do transporte são notificados para sincronizar a prestação de seus serviços por meio da execução automática de funções estipuladas em contatos inteligentes, tornando todo o processo mais eficiente
+Outro case de aplicação da tecnologia blockchain à cadeia da logística, em combinação com soluções IoT, é o da empresa suíça SkyCell, que criou containers refrigerados para transporte de produtos biofarmacêuticos monitorados por sensores de temperatura, umidade e localização. Todo o registro captado pelos sensores é documentado na cadeia de blocos, bem como toda a documentação necessária para as várias etapas da operação de transporte.
+Fragilidades da utilização do blockchain na cadeia logística:
+
+Imutabilidade dos registros, tendo em vista que uma entrada de dados está sujeita a erro humano;
+A perda ou o vazamento da chave privada por algum participante da cadeia pode levar a uma perda massiva de acesso a dados;
+As operações de logística e a captação de dados por meio de dispositivos IoT geram grande quantidade de informações, para o que a estrutura do Blockchain não foi projetada. Se o bloco fosse utilizado para a finalidade de armazenamento, haveria diversas cópias de um mesmo arquivo sendo mantidas na rede por cada nó, representando desperdício de espaço e uma forma ineficiente de gerenciar esses dados.
+Para evitar esse problema, soluções vem sendo pensadas combinando o uso do armazenamento de dados fora do Blockchain, mas com controle de acesso pela Blockchain. O armazenamento seria realizado com um sistema de DHT (distributed hash table) mantido por um conjunto de nós previamente selecionados. Os dados são amplamente replicados pela rede de forma repartida, em que nenhum nó tem o arquivo inteiro. O Blockchain seria, então, utilizada para gerenciar onde esses dados estão distribuídos e quem tem acesso a eles 
+
+
+== Interoperabilidade ==
+Com o aumento do número de blockchains que têm aparecido, mesmo contando apenas as criptomoedas, a interoperabilidade de blockchain tem-se tornado um tópico muito importante. O objetivo é suportar transferência de assets de uma blockchain para outra blockchain. Wegner disse que a "interoperabilidade é a capacidade de dois ou mais componentes de software cooperarem apesar de diferenças de linguagem, interface e plataforma de execução". O objetivo da interoperabilidade de blockchain é portanto suportar essa cooperação entre blockchains, apesar desses tipos de diferenças.
+Existem várias soluções de interoperabilidade de blockchain disponíveis. Elas podem ser classificadas em três categorias: abordagens de interoperabilidade de criptomoedas, motores de blockchain e conectores de blockchain.
+O IETF tem um working group recente, Blockchain-interop, que já produziu um draft de arquitetura de interoperabilidade de blockchain.
+
+
+== Conclusão ==
+Blockchain é uma base de dados distribuída que mantém um livro-razão expansível de dados e registros. Este livro-razão é criptografado e protegido contra adulteração, revisão e exclusão. Os blocos que compõem a blockchain, processados continuamente à medida do tempo, contém hashes que linkam e indicam informação importante na base de dados. A mistura de transações, blocos e descentralização de dado no livro-razão permite grandes oportunidades em diversas áreas.
+
+
+== Referências ==
+
+
+== Ver também ==
+Blockchain na economia
+Economia computacional
+Economia da informação
+Economia da informação em rede
+Economia solidária
+Laissez-faire
+Moeda privada
+Sistema bancário livre

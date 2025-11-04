@@ -1,0 +1,20 @@
+Hidráulica (do grego hydro = água; e aulos = condução/tubo) é a parte da física que se dedica a estudar o comportamento dos fluidos em movimento e em repouso. É responsável pelo conhecimento das leis que regem o transporte, a conversão de energia, a regulação e o controle do fluido agindo sobre suas variáveis (pressão, vazão, temperatura, viscosidade, etc).
+
+
+== Subdivisões ==
+A hidráulica pode ser dividida em três partes para efeito de estudo: a hidrostática que trata dos fluidos parados, a hidrocinética, que estuda os fluidos em movimento, levando em consideração os efeitos da velocidade e a hidrodinâmica que leva em consideração as forças envolvidas no escoamento dos fluidos (forças da gravidade, da pressão, da tensão tangencial, da viscosidade, da compressibilidade e outras).
+A hidráulica pode ser também dividida em: teórica e prática. A hidráulica teórica também é conhecida na física como Mecânica dos Fluidos e a hidráulica prática ou hidráulica aplicada é, normalmente, também intitulada de Hidrotécnica. Dentre as aplicações da hidráulica destacam-se as máquinas hidráulicas (bombas e turbinas), as grandes obras de saneamento, fluviais ou marítimas, como as de usinas hidrelétricas, como a Usina hidrelétrica de Tucuruí, por exemplo, diques, pôlderes, molhes, quebra-mares,portos, vias navegáveis, emissários submarinos, estações de tratamento de água e de esgotos, etc.
+Para estudos hidráulicos complexos de grandes obras e estruturas utilizam-se os chamados modelos físicos e/ou matemáticos em laboratórios.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Rios, Jorge L. Paes - Curso de Hidráulica Aplicada - Universidade Católica de Petrópolis - Petrópolis, 1974.
+Neves, Eurico Trindade - Curso de Hidráulica - Editora Globo - Porto Alegre, 1974.
+Azevedo Netto et al. - Manual de Hidráulica - Editora Blucher - São Paulo, 2001.
+PORTO, Rodrigo de Melo. Hidráulica Básica, 2a ed, São Carlos SP: Escola de Engenharia de São ;.=~ç[´[i]i0~08´08-88=s USP, 2000, 519 pg.

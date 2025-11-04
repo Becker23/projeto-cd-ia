@@ -1,0 +1,170 @@
+Macroeconomia é uma das divisões da ciência econômica dedicada ao estudo, medida e observação de uma economia regional ou nacional como um todo individual. A macroeconomia é um dos dois pilares dos estudos da economia, sendo o outro a microeconomia.
+O estudo macroeconômico surgiu como forma de oposição ao sistema mercantilista vigente na Europa, este movimento foi chamado por Keynes de Revolução Clássica. Os dois dogmas mercantilistas atacados pelos clássicos eram, o metalismo (a crença de que a riqueza e o poder de uma nação estava no acúmulo de metais preciosos), e a crença na necessidade de intervenção estatal para direcionar o desenvolvimento do sistema capitalista. O primeiro trabalho clássico foi A Riqueza das Nações, 1776 de Adam Smith, sendo considerado a partir desta publicação o início da ciência econômica.
+O termo macroeconomia teve origem na década de 1930 a partir da Grande Depressão iniciada em 1929, onde foram intensificadas a urgência do estudo das questões macroeconômicas, sendo a primeira grande obra literária macroeconômica o livro Teoria Geral do Emprego, do Juro e da Moeda, do economista britânico John Maynard Keynes, dando origem a Revolução Keynesiana que se opôs à ortodoxia da Economia Clássica.
+A macroeconomia concentra-se no estudo do comportamento agregado de uma economia, ou seja, das principais tendências (a partir de processos microeconômicos) da economia no que concerne principalmente à produção, à geração de renda, ao uso de recursos, ao comportamento dos preços, e ao comércio exterior. Os objetivos da macroeconomia são principalmente: o crescimento da economia, o pleno emprego, a estabilidade de preços e o controle inflacionário.
+Um conceito fundamental à macroeconomia é o de sistema econômico, ou seja, uma organização que envolva recursos produtivos.
+
+
+== Estrutura macroeconômica ==
+A estrutura macroeconômica se compõe de cinco mercados:
+• Mercado de Bens e Serviços: determina o nível de produção agregada bem como o nível de preços;
+• Mercado de Trabalho: admite a existência de um tipo de mão-de-obra independente de características, determinando a taxa de salários e o nível de emprego;
+• Mercado Monetário: analisa a demanda da moeda e a oferta da mesma pelo Banco Central que determina a taxa de juros;
+• Mercado de Títulos: analisa os agentes econômicos superavitários que possuem um nível de gastos inferior a sua renda e deficitários que possuem gastos superiores ao seu nível de renda;
+• Mercado de Divisas: depende das exportações e de entradas de capitais financeiros determinada pelo volume de importações e saída de capital financeiro.
+
+
+== Principais conceitos ==
+
+
+== Agregados macroeconômicos ==
+A expressão agregados macroeconômicos designa, genericamente, os resultados da mensuração da atividade econômica como um todo. As palavras que estão por trás dessa expressão são conjunto, totalização, agregação. A dimensão total da economia é a referência do cálculo agregativo. Para sistematizá-lo desenvolveram-se diferentes Sistemas de Contabilidade Social.
+Os principais agregados macroeconômicos são produto (economia), renda e despesa.
+Produto - é a produção total de bens e serviços finais que são produzidos por uma sociedade num determinado período.
+Renda - renda pessoal ou consumo das famílias - somatório das remunerações recebidas pelos proprietários dos fatores de produção como retribuição pela utilização de seus serviços na atividade produtiva. Ex: salário, aluguéis, juros, lucros.
+
+Renda pessoal disponível (RPD) é a renda com que as famílias contam para poderem consumir.
+Poupança (S) é a parte da RPD que não foi consumida.
+Renda(D) = C + S
+W - salários - remuneração do fator de produção trabalho (comissões, honorários de profissionais liberais, ordenados dos executivos, mesmo que não assalariados)
+J - juros - prêmio pago aos detentores de recursos por abrir mão da preferência pela liquidez
+A - aluguéis - remuneração dos proprietários dos recursos naturais
+L - lucros - remuneração do fator de produção capital
+Renda(D) = W + J + A + L
+Despesas - é o total dos gastos efetuados pelos agentes econômicos na aquisição de bens e serviços produzidos pela sociedade.
+Investimento - refere-se às despesas voltadas para a ampliação da capacidade produtiva da economia. Ex. construção de uma hidroelétrica, a construção ou ampliação de uma fábrica, a aquisição de novas máquinas e equipamentos por uma firma, etc..
+Investimento Bruto = Formação bruta de Capital fixo + Variação de Estoque
+Ib = Fbkf + VarEst
+Investimento bruto é compra de bens de capital - somente produtos novos. Representam um acréscimo ao estoque de capital da economia. Bens de investimento  e bens de capital são sinônimos.
+Formação bruta de capital fixo refere-se à ampliação da capacidade produtiva futura de uma economia por meio de investimentos correntes em ativos fixos, ou seja, bens passíveis de utilização repetida e contínua em outros processos produtivos, por tempo superior a um ano, sem serem consumidos ao longo desses processos. Trata-se, portanto, de acréscimos ao estoque de bens duráveis destinados ao uso das unidades produtivas, realizados em cada ano, visando ao aumento da capacidade produtiva do país.
+Variações positiva de estoque são bens produzidos e não vendidos no período, para serem vendidos no futuro. Por significarem um acréscimo ao patrimônio da sociedade, tais variações são computadas como investimentos.
+Investimento bruto
+(-) depreciação
+(=) Investimento Líquido
+Iliq = Ib - Dep
+Depreciação - uma parte dos bens de capital em uso na economia poder sofrer desgastes física ou obsolescência. Isso configurará um decréscimo no estoque de capital denominado depreciação.
+Renda = consumo + poupança
+R = C + S
+Despesa = Consumo + Investimento
+D = C + I
+Como PRODUTO = RENDA = DESPESA
+C + I = C + S
+I = S
+
+
+== Taxa de câmbio e regimes cambiais ==
+Taxa de Câmbio é o preço da moeda estrangeira medido em unidades da moeda nacional.
+E de compra é o preço que o banco aceita pagar pela moeda estrangeira.
+Em um regime de câmbio flexível (flutuante) ela se forma pela interação entre a oferta e a demanda de moeda.
+Em um regime de câmbio fixo, ela é definida pelo Banco Central.
+
+
+== Modelo keynesiano simples ==
+O Modelo Keynesiano Simples, ou Básico, é um dos chamados regimes mistos da Macroeconomia. Este modelo veio substituir os modelos clássicos, e está calcado na rigidez de preços e salários no curto prazo e flexibilidade no longo prazo.
+Segundo os keynesianos, a Demanda Agregada determina a Produção. Keynes cunhou o termo "Demanda Efetiva", para descrever esse processo. Quanto maior a Demanda Efetiva de uma economia, maior será o crescimento econômico e o emprego dos fatores de produção, sobretudo do fator trabalho. Nesse sentido, a teoria poderia ser assim resumida:
+
+Para os Clássicos: A Oferta Agregada determina a Demanda Agregada (Lei de Say: "toda oferta cria sua própria demanda");
+Para os keynesianos: A Demanda Agregada determina a Oferta Agregada e o ritmo da produção.
+Nesse sentido, vale destacar que Keynes concordou com as ações do presidente americano Roosevelt no contexto da crise econômica mundial de 1929: utilização de grandes recursos do Estado para emprego dos fatores produtivos disponíveis - e o principal deles era a mão-de-obra, já que o desemprego apresentava altas taxas para o padrão americano.
+Essa intervenção positiva de Roosevelt na economia americana foi fundamento para a afirmação de Keynes de que o Estado deveria intervir na economia para que esta funcionasse adequadamente e apresentasse crescimento mesmo em períodos de crise, contrariamente ao que diziam os clássicos, de que o Estado não deveria intervir na economia, deixando agir a "mão invisível", descrita por Adam Smith.
+Para Keynes, poupança e consumo competem por recursos. Assim, quando um aumenta, o outro, necessariamente, tem de diminuir. No Modelo Keynesiano Simples o nível de Poupança é expressão da Renda menos Consumo. Matematicamente temos:
+
+S = Y - C
+Em que:
+
+S: Poupança
+Y: Renda
+C: Consumo
+O nível de Consumo é dependente da propensão marginal a consumir. Este, por sua vez, é dado como complementar da propensão marginal a poupar:
+
+c + s = 1
+Em que:
+
+C: Propensão Marginal a Consumir
+S: Propensão Marginal a Poupar
+
+
+== Modelo keynesiano generalizado ou modelo IS-LM ==
+
+A análise IS-LM procura sintetizar, em um só esquema gráfico, muitas situações da política econômica, por meio de duas curvas: As curvas IS e LM. O Modelo IS/LM resume os pontos de equilíbrio conjunto do lado monetário e do lado real da economia, entre a taxa de juros e o nível de renda nacional.
+Curva IS:
+A curva IS é o conjunto de combinações de i (taxa de juros) e y (renda) que equilibram o mercado de bens e serviços.
+Curva LM:
+A curva LM é o conjunto de combinações de i (taxa de juros) e y (renda) que equilibram o mercado monetário (oferta por moeda igual a demanda por moeda) e o mercado de títulos, ou seja, as combinações de taxas de juros e níveis de renda que tornam iguais a demanda por moeda e a oferta de moeda.
+
+
+== Temas de macroeconomia ==
+
+
+=== Crescimento e economia do desenvolvimento ===
+
+A economia do desenvolvimento estuda fatores que explicam o crescimento econômico – o aumento na produção per capita de um país ao longo de um extenso período de tempo. Os mesmos fatores são usados para explicar diferenças no nível de produção per capita entre países. Fatores muito estudados incluem a taxa de investimento, crescimento populacional, e mudança tecnológica. Que estão representados em formas empíricas e teóricas (como no modelo de crescimento neoclássico) e na contabilidade do crescimento. O campo distinto da economia do desenvolvimento examina aspectos econômicos do processo de desenvolvimento em países de baixa renda focando em mudanças estruturais, pobreza, e crescimento econômico. Abordagens em economia do desenvolvimento frequentemente incorporam fatores políticos e sociais.
+
+
+=== Sistemas econômicos ===
+Sistemas econômicos é o ramo da economia que estuda os métodos e instituições pelas quais sociedades determinam a propriedade, direção e alocação dos recursos econômicos e as suas respectivas trajetórias de desenvolvimento econômico. Um sistema econômico de uma sociedade é a unidade de análise. Entre sistemas contemporâneos em diferentes partes do espectro organizacional são os sistemas socialistas e os sistemas capitalistas, nos quais ocorre a maior parte da produção, respectivamente em empresas estatais e privadas. Entre esses extremos estão as economias mistas. Um elemento comum é a interação de influências políticas e econômicas, amplamente descritas como economia política. Sistemas econômicos comparados é a área que estuda a performance e o comportamento relativos de diferentes economias ou sistemas.
+
+
+=== Contabilidade nacional ===
+
+A contabilidade nacional é um método para listar a atividade econômica agregada de uma nação. As contas nacionais são sistemas contábeis de partidas dobradas  que fornecem informações detalhadas sobre a atividade econômica de um país. Essas incluem o produto nacional bruto (PNB), que fornece estimativas para o valor monetário da produção e da renda por ano ou por trimestre. O PNB permite que se acompanhe a performance de uma economia e seus componentes ao longo de ciclos econômicos ou períodos históricos. Dados de preços podem permitir a distinção entre valores reais e nominais, isto é, corrigir totais monetários para refletir as variações nos preços ao longo do tempo. As contas nacionais também incluem aferições do estoque de capital, riqueza de uma nação, e fluxos internacionais de capital.
+
+
+== Desenvolvimento da teoria macroeconômica ==
+
+
+=== Origem ===
+A macroeconomia descendeu dos campos da teoria do ciclo econômico e da teoria monetária. A teoria quantitativa da moeda foi particularmente influente antes da Segunda Guerra Mundial. Ela tomou muitas formas, incluindo a versão baseada na obra de Irving Fisher:
+
+  
+    
+      
+        M
+        ⋅
+        V
+        =
+        P
+        ⋅
+        Q
+      
+    
+    {\displaystyle M\cdot V=P\cdot Q}
+  
+
+Na visão típica da teoria quantitativa, a velocidade da moeda (V) e a quantidade de bens produzidos (Q) seriam constantes, assim qualquer aumento na oferta monetária (M) levaria a um aumento direto no nível de preços (P). A teoria quantitativa da moeda era um elemento central da teoria clássica econômica que prevaleceu no começo do século XX.
+
+
+=== Keynes e seus seguidores ===
+A macroeconomia, pelo menos em sua forma moderna, começou com a publicação de A Teoria Geral do Emprego, do Juro e da Moeda, de John Maynard Keynes, Quando a Grande Depressão atacou, os economistas clássicos tiveram dificuldade em explicar como os bens não eram vendidos e os trabalhadores ficavam desempregados. Na teoria clássica, os preços e salários cairiam até o mercado se ajustar e todos os bens e trabalho serem vendidos. Keynes ofereceu uma nova teoria econômica que explicava por que os mercados poderiam não se ajustar. Keynes apresentou uma nova teoria sobre como a economia funcionava. Em sua teoria, a teoria quantitativa não era usada mais pois as pessoas e as empresas tendiam a segurar seu dinheiro em tempos econômicos difíceis, um fenômeno que ele descreveu em termos de preferência pela liquidez. Keynes explicou como o efeito multiplicador ampliaria uma pequena diminuição no consumo ou investimento e causaria quedas por toda a economia. Keynes também destacou o papel que a incerteza e o espírito animal podem exercer na economia.
+A geração seguinte a Keynes combinou a macroeconomia da Teoria Geral com a economia neoclássica para criar a síntese neoclássica. Por volta dos anos 50, a maior parte dos economistas tinha aceitado o ponto de vista da síntese sobre a macroeconomia. Economistas como Paul Samuelson, Franco Modigliani, James Tobin, e Robert Solow desenvolveram teorias formais de Keynes e teorias do consumo, investimento, e demanda de dinheiro que escapavam do escopo da obra de Keynes.
+
+
+=== Monetarismo ===
+Milton Friedman atualizou a teoria quantitativa da moeda para incluir um papel para a demanda por moeda. Friedman amplia a interpretação da TQM proposta pela Universidade de Cambridge, no final do século XIX, argumentando que, a partir do inverso da velocidade da moeda, k =1/V, os agentes optavam por alocar seus recursos em títulos ou moeda, que obedeceria à renda, às preferências e, inclusive, à inflação, que desestimularia a retenção. Ele argumentou que o papel do dinheiro na economia era suficiente para explicar a Grande Depressão, e que as explicações orientadas para a demanda agregada não eram necessárias. Friedman argumentou que a política monetária era mais eficiente que a política fiscal. No entanto, questionou como ajustar a economia com políticas monetárias. Era a favor de uma política de crescimento estacionário na oferta monetária, ao invés de intervenções frequentes. Friedman também desafiou a relação entre inflação e desemprego da curva de Phillips. Friedman e Edmund Phelps (que não era um monetarista) propuseram uma versão "aumentada" da Curva de Phillips que excluía a possibilidade de um trade-off estável de longo prazo entre inflação e desemprego. Quando a crise do petróleo da década de 1970 criou um alta taxa de desemprego e inflação, Friedman e Phelps foram questionados. O monetarismo foi particularmente influente no começo da década de 1980. O monetarismo caiu em desgraça quando os bancos centrais descobriram ser difícil ajustar a oferta monetária ao invés das taxas de juros, como os monetaristas recomendavam. O monetarismo também tornou-se politicamente impopular quando os bancos centrais criaram recessões a fim de diminuir a inflação.
+
+
+=== Novos clássicos ===
+Outro desafio ao Keynesianismo veio da nova economia clássica. Um desenvolvimento central no novo pensamento clássico veio quando Robert Lucas introduziu as expectativas racionais à macroeconomia. Antes de Lucas, os economistas em geral usavam as expectativas adaptativas quando supunha-se que os agentes viam o passado recente para fazer expectativas sobre o futuro. Sobre expectativas racionais, supunha-se que os agentes eram mais sofisticados. Um consumidor não irá simplesmente assumir uma taxa de inflação de 2% devido ao fato de que esta foi a média dos anos anteriores; ele irá observar a política monetária atual e as condições econômicas para formar uma previsão mais informada. Quando os economistas novos clássicos introduziram as expectativas racionais em seus modelos, eles mostraram que a política monetária poderia ter apenas um impacto limitado.
+Lucas também fez uma crítica influente  aos modelos empíricos Keynesianos. Ele argumentou que modelos de previsão baseados em relações empíricas seriam instáveis. Ele defendia que os modelos baseados na teoria econômica fundamental seriam, a princípio, mais estáveis em relação às mudanças das economias. Seguindo a crítica de Lucas, os economistas novos clássicos, liderado por Edward Prescott e Finn Kydland, criaram a teoria dos ciclos reais de negócios (teoria RBC). Esses modelos foram baseados na combinação de equações fundamentais com a microeconomia neoclássica. Eles produziram modelos que explicavam recessões e desemprego com mudanças na tecnologia. Os modelos RBC não incluíram um papel para o dinheiro exercer na economia. As críticas aos modelos RBC argumentavam que o dinheiro claramente exerce um papel importante na economia, e que a ideia de que o regresso tecnológico pode explicar recessões recentes é também implausível. Dentro da lógica do RBC, os agentes são extremamente racionais, ao ofertarem mais trabalho quando os salários reais fossem maiores, o que leva à elaboração de modelos que retomam o postulado clássico do trade off entre lazer e trabalho. Apesar das questões acerca da teoria atrás dos modelos RBC, eles claramente foram influentes na metodologia econômica.
+
+
+=== Resposta nova keynesiana ===
+Os novos economistas keynesianos responderam à escola neoclássica adotando as expectativas racionais e focando no desenvolvimento de modelos baseados na microeconomia que são imunes à crítica de Lucas. Stanley Fischer e John B. Taylor produziram trabalhos iniciais nesta área, mostrando que a política monetária poderia ser efetiva mesmo em modelos com expectativas racionais e salários limitados por contratos. Outros novos economistas keynesianos expandiram esta obra e demonstraram que em outros casos nos quais os preços e salários inflexíveis levaram a uma política monetária e fiscal tiveram efeitos reais. Como os modelos clássicos, os modelos novos clássicos assumiram que os preços seriam capazes de se ajustar perfeitamente e que a política monetária apenas levaria a mudanças de preço. Os modelos novos keynesianos investigaram fontes de preços e salários resistentes (sticky), que não se ajustariam, assim levando a política monetária impactar quantidades ao invés de preços.
+No final da década de 1990, os economistas chegaram a um difícil consenso. A rigidez da nova teoria keynesiana foi combinada com as expectativas racionais e a metodologia RBC para produzir os modelos de equilíbrio dinâmico estocástico geral (DSGE). A fusão de elementos de diferentes escolas de pensamento tem sido apelidada a nova síntese neoclássica. Esses modelos agora são usados por muitos bancos centrais e exercem um papel central na macroeconomia moderna. As metas de inflação, a partir da equação proposta por John Taylor, conhecida como Taylor rule (regra de Taylor), passaram a ser utilizada pelos Bancos Centrais ao redor do planeta: enquanto a nova Zelândia foi sua pioneira, em 1990, o Brasil adotaria tal regime em junho de 1999, com o término do Plano Real I e o início do Plano Real II, a partir da lógica do "tripé macroeconômico." A partir dela, as autoridade monetárias controlam a taxa de juros de curto prazo, que detém influência sobre as expectativas dos agentes e, consequentemente, o nível geral de preços.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Blanchard, Olivier (2011). Macroeconomics Updated 5th ed. Englewood Cliffs: Prentice Hall. ISBN 9780132159869 
+Mankiw  -  Macroeconomics
+Iorio,Ubiratam (A economia do déficit público)
+VASCONCELLOS, Marco Antonio Sandoval de. Economia: micro e macro: teoria e exercícios, glossário com os 260 principais conceitos econômicos. 3. ed. - São Paulo: Altas, 2002.
+
+
+== Ligações externas ==
+GORDON, Robert J. Macroeconomia. Porto Alegre: Bookman, 2000.

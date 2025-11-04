@@ -1,0 +1,11 @@
+Robótica é um campo interdisciplinar que integra engenharia mecânica, engenharia elétrica, ciência da computação e outras áreas, dedicando-se ao projeto, construção, operação e aplicação de robôs. Um robô é tipicamente composto por partes mecânicas automatizadas, circuitos integrados, sistemas de controle elétrico e, frequentemente, inteligência computacional.
+
+O termo "robô" originou-se na peça teatral R.U.R. (Rossum's Universal Robots) de Karel Čapek, estreada em 1921, derivado da palavra checa "robota", que significa trabalho forçado ou servidão. O termo "robótica" foi popularizado pelo escritor Isaac Asimov.
+
+Os robôs são utilizados em diversos setores, como manufatura, transporte, saúde, agricultura, construção e serviços domésticos. Na manufatura, robôs são empregados para montagem, soldagem e manuseio de materiais, visando aumentar a produtividade e reduzir custos. No transporte, a robótica contribui para o desenvolvimento de veículos autônomos. Na área da saúde, robôs auxiliam em cirurgias e na automação de tarefas hospitalares. Robôs também são aplicados na agricultura de precisão, na construção civil e em tarefas domésticas, como limpeza.
+
+Os robôs são projetados com base em três aspectos principais: construção mecânica para realizar tarefas específicas, componentes elétricos para alimentação e controle, e software para programar o comportamento do robô. A programação pode envolver controle remoto, inteligência artificial ou uma combinação de ambos.
+
+O projeto de robôs requer conhecimentos em engenharia mecânica, engenharia elétrica, teoria de controle e ciência da computação, considerando aspectos como dimensionamento de atuadores, cálculos estruturais, seleção de materiais, planificação de movimentos, simulação, desenvolvimento de software e testes de desempenho.
+
+A robotização, processo de substituição de tarefas humanas por robôs, impulsiona a automação em diversos setores, incluindo computação, aeroespacial, automação industrial, setor militar e saúde.

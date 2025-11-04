@@ -1,0 +1,23 @@
+A química orgânica é o ramo da química que estuda os compostos que contêm carbono, suas propriedades, composição, reações e síntese. O carbono é um elemento capaz de formar quatro ligações químicas estáveis com diversos elementos, incluindo hidrogênio, oxigênio, nitrogênio, enxofre, fósforo e halogênios.
+
+Originalmente, no século XVIII, a química orgânica foi definida como o estudo de compostos extraídos de organismos vivos, em contraste com a química inorgânica, que se dedicava aos compostos minerais. Em 1807, Jöns Jacob Berzelius propôs a teoria da força vital, que postulava a necessidade de uma força inerente à vida para a síntese de compostos orgânicos, tornando a síntese artificial considerada impossível.
+
+Em 1828, Friedrich Wöhler sintetizou ureia a partir de cianato de amônio, demonstrando a possibilidade de criar um composto orgânico a partir de um inorgânico, o que refutou a teoria da força vital. Marcellin Berthelot subsequentemente sintetizou o acetileno em 1862 e o benzeno a partir do aquecimento do acetileno em 1866, consolidando a superação da teoria vitalista.
+
+Em 1858, Friedrich August Kekulé reformulou o conceito de química orgânica, definindo-a como o estudo dos compostos de carbono. Embora todos os compostos orgânicos contenham carbono, nem todo composto que contém carbono é classificado como orgânico, como é o caso do dióxido de carbono, ácido carbônico e grafite.
+
+No século XVIII, Carl Wilhelm Scheele isolou diversos compostos orgânicos de fontes naturais, como ácido tartárico da uva, ácido cítrico do limão e ácido lático do leite. Antoine Lavoisier analisou compostos orgânicos e constatou a presença constante do carbono.
+
+No século XIX, a síntese de sabonetes por Michel Chevreul e a síntese de ureia por Wöhler marcaram avanços. Adolph Kolbe realizou a primeira síntese de um composto orgânico a partir de seus elementos, o ácido acético, em 1845. A descoberta acidental do corante mauveína por William Perkin impulsionou o interesse pela química orgânica, e as descobertas de corantes por August Wilhelm von Hofmann na Alemanha contribuíram para o desenvolvimento da indústria química.
+
+Friedrich August Kekulé e Archibald Scott Couper propuseram, independentemente em 1858, que o carbono é tetravalente e forma cadeias, conceito crucial para o desenvolvimento da química orgânica. A indústria farmacêutica iniciou-se com a fabricação do ácido acetilsalicílico (aspirina) pela Bayer.
+
+No século XX, a indústria química orgânica expandiu-se nos Estados Unidos com a descoberta de plásticos como o raiom e o náilon. O petróleo substituiu o carvão como principal matéria-prima, impulsionando a indústria petroquímica. A síntese total da cânfora por Gustaf Komppa foi um marco em 1907. Polímeros e enzimas foram reconhecidos como grandes moléculas orgânicas, e a origem biológica do petróleo foi estabelecida. Mecanismos de reações orgânicas foram elucidados, permitindo a síntese de moléculas complexas como a vitamina B12.
+
+No século XXI, a química orgânica continua a desempenhar um papel central em diversas áreas, incluindo a síntese de fármacos, polímeros, fertilizantes e na garantia da qualidade da água e dos alimentos. A pesquisa continua ativa na síntese de novos compostos, descoberta de novas reações e determinação das propriedades de compostos orgânicos.
+
+O átomo de carbono possui características que o distinguem de outros elementos, incluindo a tetravalência, reconhecida por Kekulé em 1858, que permite a formação de quatro ligações covalentes. A teoria de ligação de valência (TLV) explica a formação dessas ligações através da hibridização de orbitais, enquanto a teoria do orbital molecular (TOM) não requer esse conceito. O carbono pode formar ligações simples, duplas ou triplas. A teoria da repulsão dos pares eletrônicos da camada de valência (VSEPR) explica as disposições espaciais dos átomos ligantes ao carbono.
+
+Devido à sua eletronegatividade intermediária, o carbono pode se ligar a elementos eletropositivos e eletronegativos, sendo o hidrogênio um ligante comum. As cadeias carbônicas podem formar estruturas lineares, ramificadas ou cíclicas, resultando em uma grande diversidade de compostos. Isômeros são compostos com a mesma fórmula molecular, mas diferentes estruturas ou arranjos espaciais.
+
+As reações orgânicas envolvem a quebra e a formação de ligações covalentes, e são influenciadas por fatores como a eletronegatividade e a presença de grupos funcionais. Os grupos funcionais são átomos ou grupos de átomos que conferem propriedades químicas específicas às moléculas orgânicas.

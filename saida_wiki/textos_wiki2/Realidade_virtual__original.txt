@@ -1,0 +1,180 @@
+A realidade virtual (em inglês virtual reality, abreviado VR) é uma tecnologia de interface entre um usuário e um sistema operacional através de recursos gráficos 3D ou imagens 360º cujo objetivo é criar a sensação de presença dentro do ambiente criado por técnicas computacionais diferente do real (um ambiente virtual 3D), com a interação realizada em tempo real, com o uso de equipamentos computacionais, que ajudem na ampliação da sensação de presença do usuário neste ambiente, referida como imersão.
+A realidade virtual é um ambiente simulado produzido por computador que o usuário pode interagir com este usando o óculos de realidade virtual, que substitui a visão/audição natural por imagens/sons criados por computador, dando ao usuário uma imersão natural neste ambiente.
+Segundo Pimentel (1995), realidade virtual (VR) é o uso de alta tecnologia para convencer o usuário de que ele se encontra em outra realidade, provocando o seu envolvimento por completo.
+Além da compreensão da VR como simulação da realidade através da tecnologia, a VR também se estende a uma apreensão de um universo não real, um universo de ícones e símbolos, mas permeando em um processo de significação o espectador desse falso universo o fornece créditos de um universo real. Em suma, uma realidade ficcional, contudo através de relações intelectuais, a compreendemos como sendo muito próxima do universo real que conhecemos.
+
+
+== História ==
+O conceito de realidade virtual vem, pelo menos, desde a década de 1970.  Já então Myron Krueger utilizava  o termo realidade artificial em seus estudos de combinação de computadores e sistemas de vídeo. 
+O conceito de 'realidade virtual' é creditado a Jaron Lanier, fundador da VPL Research Inc., que o cunhou, no início dos anos 1980, para diferenciar as simulações tradicionais feitas por computador de simulações envolvendo múltiplos usuários, em ambiente compartilhado. Já William Gibson utilizou o termo cyberspace  em 1984, no seu romance de ficção científica Neuromancer. 
+
+
+=== Cronologia ===
+1950 - a Força Aérea dos Estados Unidos constrói simuladores de voo para testes.
+1958 - a Philco desenvolve um par de câmeras remotas e o protótipo de um capacete com monitores que permitem ao usuário um sentimento de presença quando dentro de um ambiente.
+1962 - Morton Heilig inventa o Sensorama, uma cabine que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas e ar movimentado por ventiladores.
+1977 a 1982 - surgem as primeiras luvas digitais desenvolvidas pelo grupo da Universidade de Illinois.
+1987 - a VPL Research Inc.  começa a vender capacetes e luvas digitais.
+1991 - Nesse ano o conceito de realidade virtual chega ao mundo dos jogos com Sega anunciando o Sega VR para jogos arcade e o console Mega Drive, porém o projeto foi cancelado por volta de 1993/1994.
+1993 - Sega anunciou o headset Sega VR para o console Sega Genesis. A Nintendo, também seguindo a febre mundial da VR da época, desenvolveu o Nintendo Virtual Boy.
+
+1995 - A Forte Tecnologies lança o VFX1 Headgear, este sendo um dos primeiros consoles para jogos de primeira pessoa do mercado.
+2011 - Em 2011, foi lançado o iPhone Virtual Reality Viewer, um dispositivo que se acopla a um iPhone para criar experiências de visualização tridimensionais e imersivas.
+2012 - O Oculus Rift foi lançado em março de 2012, a partir de uma campanha de levantamento de fundos do Kickstarter.
+2014 - O Facebook adquiriu a empresa de óculos de realidade virtual Oculus VR, fabricante dos Oculus Rift por US$ 2 bilhões.
+2016 - O Microsoft HoloLens, lançado em março de 2016, é o primeiro computador holográfico autônomo, assim possibilitado que usuário crie hologramas no mundo ao seu redor de interaja com o mesmo.
+2016 - A versão do consumidor do Oculus Rift foi lançada em março, sem controles de movimento e rastreamento em escala de quarto.
+2016 - A Valve lança ao mercado, em parceria com a HTC, o HTC Vive. O headset abalou o mercado com um preço competitivo ao do Oculus Rift, controles de movimento e rastreamento na escala de um cômodo.
+
+
+== Conceitos ==
+Como foi dito na seção História da VR  nesta seção não seria diferente. Como foram vistos vários pontos de partida da realidade virtual apresentamos aqui várias definições do que é realidade virtual.
+O termo oficial criado por Jaron Lanier diz que: diferenciar simulações tradicionais feitas por computador de simulações envolvendo múltiplos usuários em um ambiente compartilhado.
+
+Interface homem-computador que simula um ambiente real e permite aos participantes interagirem com o mesmo.
+É a forma mais avançada de interface do usuário com o computador.
+Interface que simula um ambiente real e permite aos participantes interagir com o mesmo, permitindo as pessoas visualizar e manipular representações extremamente complexas.
+É o uso de computadores e interfaces com o usuário para criar o efeito de mundos tridimensionais que incluem objetos interativos com uma forte sensação de presença tridimensional.
+É uma técnica avançada de interface que permite ao usuário realizar imersão, navegação e interação em um ambiente sintético 3D gerado por computador, utilizando canais multi-sensorais.
+É a técnica que permite maior imersão ao utilizador.
+Todas as definições caem em um mesmo assunto e com características semelhantes mas uma complementando a outra.
+
+
+== Tipos ==
+Os sistemas de RV diferenciam-se conforme os níveis de imersão e interação com o usuário. Os níveis são determinados pelos dispositivos de E/S de dados e da velocidade e potência do computador.
+
+Tele-presença é um ambiente comum que será compartilhado por vários usuários em vários lugares diferentes se encontrando em um mesmo ambiente virtual.
+Tele-operação é uma ação a distância, por exemplo, a tele-conferência ou a utilização de robôs virtuais para trabalhos inumanos.
+
+
+== Tipos de sistemas ==
+De Mesa: Utilização de monitores e óculos em conjunto com um projetor onde o utilizador vê o mundo virtual.
+De Simulação: Utiliza-se, por exemplo, de dispositivos que façam com que o usuário se sinta no mundo virtual, quando na verdade não está.
+De Projeção: O utilizador está fora do mundo virtual, mas pode se comunicar com personagens ou objetos virtuais.
+
+
+== Característica ==
+Imersão: O Utilizador tem a sensação real de estar dentro do mundo virtual e que é capaz de manipular os objetos ali presentes como se eles fossem reais, visto que com o desenvolvimento tecnológico, estes objetos passaram à responder às interações realizadas pelo usuário (deformação, quebra, etc. ).
+Dispositivos que provocam esta sensação: Capacetes digitais e Caverna digital.
+É necessário salientar que o termo Realidade Virtual significava originalmente um sistema totalmente imersivo, actualmente a palavra tem sido utilizada para descrever sistemas que não utilizam componentes como luvas digitais, óculos estereoscópicos, etc, como exemplo temos os sistemas interativos baseados em textos como MOOs ou MUDs.
+Realidade Virtual não-imersiva é realizada com o uso de um monitor comum no qual o utilizador manipula o ambiente virtual através de um dispositivo de entrada (por exemplo: teclado, mouse, etc.).
+Interação: Uma das características de interação com a realidade virtual, são por meio de 4 sentidos sensoriais, como a visão, utilizando se de telas contidas em óculos RV, capacetes e a CAVE uma sala com 6 telas que reproduz uma verdadeira interação com o meio da realidade virtual, para o sentido da audição, nada além de fones de ouvidos ou caixas de som com uma boa qualidade sonora, para uma boa imersão com o meio, para o sentido do tato existem as luvas digitais, que por meio de infravermelhos ou localização inicial.
+Envolvimento: Exploração de um ambiente virtual.
+
+
+== Dispositivos ==
+As tecnologias computacionais mais utilizadas atualmente são: imagens tridimensionais, áudio, vídeo, rede, sistemas multiusuário e cooperativos, e equipamentos tais como: luva digital, óculos estereoscópicos, capacete de imersão, teclado, mouse, monitor e dispositivo de retorno háptico ­como os controladores de jogo ou equipamentos com retorno de força, que auxiliam na imersão do usuário nos sistemas. A sutileza dessa definição está na não-restrição do termo à utilização de equipamentos e técnicas.
+
+
+=== Aspectos a serem estudados por desenvolvedores ===
+Percepção sensorial: os cinco sentidos do corpo também devem estar presentes no mundo virtual.
+Hardware: uso de equipamentos não muito convencionais como luvas e capacetes e super-máquinas para processamento adequado das aplicações.
+Software: uso de sistemas paralelos e distribuídos e detecção de colisão.
+Interface com usuário: simulações em tempo real.
+
+
+=== Para smartphone ===
+Equipamentos de imersão virtual para uso com smartphone (adaptadores de celular):
+
+Google Cardboard, Daydream View
+SAMSUNG Gear VR R323 (2017)
+VR Box
+Xiaomi VR Play II
+VR Shinecon G01
+Aquário VRG-01
+Comtac VR Vision
+Mymax V-Box
+Multilaser Warrior JS080 (ou VR Glasses JS080)
+Loox VR Paper, VR Alpha
+HTC Vive Flow
+Xiaomi VR (2017 / 1280x1440), Play II.
+Virtual Zeiss VR ONE Plus, Cinemizer OLED (2012 / 870x500)
+Virtual Warrior JS080
+
+
+=== Para computador (PCVR) ===
+Equipamentos de imersão virtual para uso com computador: (óculos VR avançado, em inglês de tethered)
+
+Oculus: Rift DK2 (2014 / 960x1080), Rift (2019 / 1280x1440), Rift S PCVR (2019 / 1280x1440),
+HTC Vive, Vive Pro 2, Vive Cosmos,
+Steam VR
+HP Reverb G2
+Valve Index
+Samsung Odyssey+
+
+
+=== Para vídeo-game ===
+PlayStation VR (2016), VR II (2023, 2000x2040)
+
+
+=== Independentes ===
+Equipamentos de imersão virtual independentes (standalone ou all-in-one):
+
+Oculus/Meta: Go (2018), Quest (2019), Quest 2 (2020 / 1832x1920), Quest Pro (2022 / 1800x1920)
+HTC Vive: Focus (2019 / 1440x1600), Flow (2021 / 1600x1600),  Focus 3 (2021 / 2448x2448), XR Elite (2023)
+AjnaLens: AjnaXR (2023 / 1600x1600), AjnaXR Enterprise (2023 / 2280x2280)
+Lenovo: Legion VR700 (2022), ThinkReality VRX (2022), Mirage Solo, Mirage VR S3 (2020 / 1920x2160), ClassVR Premium
+Pico: Goblin, G2 4K (2019), Neo 2 Eye (2020), Neo 3 (2021), 4 Pro (2022 / 2160x2160), 4 Enterprise (2022 / 2160x2160)
+Pimax: Crystal QLED (2022 / 2880x2880), 12K QLED (2021)
+Snapdragon 835VR, 845 VR, XR2 HMD (2020)
+Lynx R1 (2022 / 1600x1600)
+Skyworth: Pancake 1, Pancake 1C (2022), Pancake 1Pro (2022 / 2280x2280)
+Arpara VR All In One (2021 / 2560x2560)
+Simula One (2021 / 2448x2448)
+Nolo X1, Sonic (2021), Sonic 2 (2023)
+TCL NXTwear V (2022 / 2280x2280)
+Lynx R1
+YVR 1 (2022 / 2160x2160), YVR 2 (2022)
+iQIYI: Qiyu 3 (2021 / 2160x2160), Dream, Dream Pro (2022 / 1832x1920)
+DPVR: M2 Pro (2016), P1, P1 Pro Light, P1 Ultra 4K (2021 / 1920x2160)
+XRSpace Manova
+ClassVR Premium
+QWR: VRone, VRone 4K
+3Glasses X1
+Xiaomi Mi VR
+Woxter Neo VR100
+
+
+=== Controladores e sensores ===
+Ultraleap Motion: sensores para captar movimentos das mãos e manipular objetos virtuais em um jogo ou aplicação profissional.
+VirZoom: bicicleta ergométrica com controles especiais para jogos.
+Roto VR: cadeira com um assento omnidirecional que se move em 360 que permite ter a experiência de direção de um veículo virtual
+Virtuix Omni One
+KatVR Kat Walk
+bHaptics TactGlove: luva háptica para metaverso mais imersivo; LRA (Linear Ressonant Actuator ou Atuador Ressonante Linear)
+bHaptics TactSuit X40: colete háptico LRA para sentir os impactos que o personagem também sente quando está em um jogo
+Caverna digital USP
+Sensor H2L Technologies: sensor tátil envia sinais elétricos ao cérebro emulando sensações como dor e peso
+Steam VR
+
+
+== Mal-estar da realidade virtual ==
+O termo Mal-estar da realidade virtual, vem do inglês Virtual Reality sickness. Ela ocorre quando a exposição do individuo ao ambiente é muito prolongada, os sintomas são semelhante ao ocorrido quando se viaja de carro ou avião, e o seu corpo não consegue acompanhar o movimento do olho por conta da velocidade, acarretando em enjoos, dores de cabeça, ocorre da pessoa ficar desorientada, vômito e náuseas. Porém os enjoos provocados pela realidade virtual se diferem aos do causados por movimentos, pois não incluem a velocidade do movimento do corpo ao motivo, e sim a exposição a uma luz que pode causar uma desorientação levando a pessoa a sentir tais sintomas.
+
+Técnicas para redução de enjoos durante o uso de RV: A utilização de um fundo estático no final das imagens projetada nos óculos, capacetes ou cavernas digitais, para que sirvam como referencial do usuário, assim podendo diminuir a quantidade de informação assimilada por segundo pelos seu olhos, diminuindo a ocorrência de enjoos. Outro método utilizado por desenvolvedores, e a não criação ou a redução das movimentações dentro da simulação que não são comuns ao corpo humano, como o teleporte, o efeito de flutuabilidade em gravidade zero e uma diminuição abrupta do campo de visão do usuário.
+
+
+== Aplicações ==
+A realidade virtual tem vindo a conhecer uma grande expansão em áreas como:
+
+Jogos e entretenimento: A realidade virtual no mundo dos jogos vem crescendo a cada ano. Já existem centenas de jogos, desde experiências simples como simuladores para tarefas cotidianas, como também jogos famosos como "Skyrim" e "Resident Evil 7". Apesar de todo o investimento e o crescimento que a Realidade Virtual teve ao longo desses últimos anos, ainda há algo segurando-a de se expandir ainda mais, que é o alto preço dos equipamentos necessários(óculos, controles). E por causa disso, empresas tentam disponibilizar de novas maneiras de introduzir os jogos de Realidade Virtual para as pessoas que não podem adquirir os equipamentos, e assim estimulá-las a aquecer esse mercado. Exemplo disso, a Google, criou e disponibilizou vários experimentos e protótipos de simuladores e jogos de VR, que podem ser jogados no PC ou no smartphone, sem os óculos. O Web VR Experiments é uma loja de simuladores e jogos, todos gratuitos, onde pode-se testar todos no próprio navegador. Todos os experimentos possuem um link para seus respectivos códigos fonte no GitHub para desenvolvedores interessados em criar e publicar suas criações no site.
+Comunicação à distância, com aplicações para a educação: Algumas escolas e universidades de todo o mundo já utilizam a Realidade Virtual para melhorar a aprendizagem dos alunos, principalmente na educação à distância (EAD), "trazendo" o aluno para mais perto do conteúdo e do professor. O uso da RV tem vários benefícios entre eles: envolvimento imediato, melhora da compreensão de assuntos complexos, melhora da absorção do conteúdo e reduz distrações. E não é só na EAD, nas salas de aula também, o Google criou um projeto chamado "Expeditions", onde simula centenas de locais diferentes para as crianças, utilizando dos óculos de Realidade Virtual, poderem explorar e aprender mais dinâmicamente o conteúdo.
+Simulação e treino de pilotos de avião: Mesmo sendo uma ideia relativamente nova, os primeiros passos estão sendo dados aos poucos. O treinamento de pilotos de avião está começando a mudar, exemplo disso é o treinamento da Força Aérea dos Estados Unidos que pretende mudar toda a dinâmica do treinamento de seus militares usando a Realidade Virtual. De acordo com eles, o treinamento tradicional que era feito antes com simuladores de voo levavam cerca de 28 semanas, além de custarem aproximadamente U$ 3 milhões, com a adição da Realidade Virtual o tempo de treinamento em um primeiro momento deve ser realizado em 20 semanas, e custará cerca de U$ 5 mil (por aluno), uma melhora incrível tanto em tempo de treinamento, quanto em gastos. E essa mudança não vem só para os pilotos, uma empresa alemã, já desenvolveu um aparelho que combina a Realidade Virtual com o exercício físico, simulando saltos de paraquedas. A Realidade Virtual também já está sendo implementada no treinamento para a aviação civil. Simuladores foram criados para serem usados no treinamento das tripulações de cabine de aviões, complementando o treinamento tradicional, contribuindo para o aprendizado dos procedimentos de segurança e de emergência.
+Teleconferência: É uma ideia que tem sido abordada pela Realidade Virtual, visando aprimorar as teleconferências atuais, que dispõem apenas de áudio e vídeo. Com o adeno da RV a experiência de imersão seria muito maior, a experiência de estar conversando pessoalmente com alguém seria muito boa, tanto para uma reunião formal quanto para aproximar pessoas que estão distantes. Embora ainda sejam ideias em desenvolvimento são um bom prognóstico do que as teleconferências, ou simplesmente chamadas em vídeo, podem se tornar daqui a alguns anos. Já houve eventos relacionados com tecnologia onde foi testada tal funcionalidade da Realidade Virtual. Apesar de ser ainda um protótipo e ainda faltarem tecnologias para aprimorar a experiência, pode-se considerar ter dado um bom primeiro passo.
+Concepção de projetos para design, arquitetura e urbanismo: A fim de interagir melhor com universo tridimensional a Realidade Virtual é utilizada nesse meio como forma de imersão em espaços multifacetados, pois muitos usuários ou clientes não conseguem visualizar os conceitos e características de um determinado produto ou serviço em formato tridimensional como os profissionais da área, portanto para que os usuários possam pensar além da dimensão 2D, o uso da realidade virtual os transportará para outra dimensão, sair de um papel ou tela e pensar que os usuários poderão ver o que está à sua frente mas também terá de ter a percepção do que está ao seu redor e atrás de si, acima e embaixo, trará uma a noção de distância e perspectiva. Sabendo disso, no universo da arquitetura, urbanismo e paisagismo ficará muito mais fácil que os clientes de um arquiteto consiga visualizar por completo um projeto arquitetônico, fazendo com que esses clientes "entrem" nos projetos arquitetônicos virtuais, mas também possam, depois da experiência, compartilhar suas impressões, sem antes mesmo ter sido construído, tudo através dessa realidade virtual imersiva, por sua vez o projeto poderá sofrer modificações ao gosto do cliente antes mesmo que o projeto entre em vigor, assim reduzindo os custos comparado com uma alteração tardia.  No ambiente de concept design aplica-se a mesma ideia sobre o uso da realidade virtual, porém voltada para transmitir uma representação visual de um design, conceito, filmes, vídeo games, ou revistas e livros antes do produto final.
+Engenharias: A aplicação da realidade virtual na engenharia auxilia no processo de aprendizagem dos alunos, pois a engenharia tem como fundamentação aplicar conhecimentos científicos e empíricos para construção de estruturas, equipamentos e dispositivos que baseiam-se na compreensão dos conceitos ou processos físicos e matemáticos, esses por sua vez são difíceis de serem compreendidos devido aos conceitos abstratos da ciência exata. A alternativa mais utilizada para ensino é a construção de protótipos, que geralmente têm custos elevados. Denominada de Engenharia Virtual (EV) , a realidade virtual atua com a finalidade de ajudar na compreensão dos conceitos abstratos da física e da matemática, criando por sua vez mundos virtuais, protótipos de máquinas, equipamentos e simulações de processos, podendo assim "materializar" as informações aprendidas.
+Segurança Pública (Treinamento de Militares): A realidade virtual vem sendo usado em todas as 3 áreas do serviço militar, isso inclui marinha, exercito e aeronáutica. Ela vem sendo utilizada perincipalmente em treinamentos de situação de perigo, em que o soldado possa aprender a reagir a tais situações, com tal mecanismo a exemplo é possível o treinamento em situações de risco de morte ou ferimentos graves, e onde o soldado em si não sofrera nenhum risco real. Outra utilização do sistema de realidade virtual é para tratamento de soldados com transtornos pós-traumáticos de guerra, onde ele pode reaprender a se controlar em situações de perigo em uma zona mais ''segura''.
+Medicina: A Realidade Virtual é aplicada na medicina em diversos aspectos, entre eles, os principais são: tratamento da dor, treinamento cirúrgico e tratamento de transtornos e fobias:
+Tratamento de dor: Nos Estados Unidos, foi descoberto que ao desviar a atenção do paciente da dor, pode reduzir cerca de 25% do sofrimento, e por isso a RV foi implantada em muitos casos devido ao grande nível de imersão que ela pode prover ao paciente e assim ter resultados mais promissores. Um uso bastante eficiente é para a vacinação das crianças, que se distraem facilmente com desenhos e jogos providos pela RV e não sentem a agulha. Estudos estão sendo feitos para que o uso da RV, na distração da dor, no futuro, possa através de estimulos no cérebro ativar bloquear os receptores de dor, da mesma forma em que um analgésico agiria.
+Treinamento cirúrgico: A RV , por poder recriar várias vezes uma cena ficticia e realista ao mesmo tempo, é perfeita para o treinamento de profissionais da saúde como: médicos, enfermeiros e cuidadores de pacientes. A RV já é aplicada em procedimentos como cirurgias e trabalhos de parto para o treinamento de novos médicos por ter funcionalidades de poderem repetir operações quantas vezes forem necessárias, com 0% de risco para pacientes. Além de poderem ser testados novos procedimentos e práticas e ter feedbacks instantâneos sobre o que acontece durante o procedimento virtual.
+Tratamento de transtornos e fobias: O uso da RV na pscicologia vem como mais uma técnica para complementar o tratamento de diversos transtornos e fobias, tais como: transtorno do pânico, medo de injeções e agulhas, aerofobia(medo de andar de avião), transtorno obsessivo compulsivo(TOC), ansiedade e muitos outros. O paciente será colocado aos poucos em frente a seus medos, semelhante a um videogame, o paciente vai subindo de nível aos poucos. Durante o tratamento com RV será avaliado o nível de estresse do paciente e é geralmente associado a outros tipos de tratamento, o principal, a hipnose, para que a experiência seja a mais real possível para o paciente. De acordo com profissionais da área o uso da RV consegue ser muito abrangente, ou seja, possui tratamento para vários tipos de fobias e transtornos, facilita o processo terapêutico e melhora os resultados. 
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O que é Óculos de Realidade Virtual?, por TechMob

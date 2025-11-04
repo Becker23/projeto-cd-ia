@@ -1,0 +1,11 @@
+Uma reação química é um processo que envolve a reorganização de átomos e moléculas, resultando na transformação de uma ou mais substâncias (reagentes) em novas substâncias (produtos) com propriedades diferentes. A massa total dos reagentes é conservada durante a reação, conforme demonstrado pela Lei da Conservação das Massas. As reações químicas são representadas por equações químicas, que indicam os reagentes e os produtos envolvidos.
+
+Evidências observáveis de uma reação química incluem mudanças de cor, formação de um precipitado, liberação de gases ou odores, e liberação ou absorção de calor. Diversos fatores podem influenciar a reação, como a afinidade entre os reagentes, a presença de catalisadores, a temperatura e a área de superfície de contato.
+
+As reações químicas podem ser classificadas em diversos tipos, incluindo reações de síntese (ou adição), decomposição (ou análise), simples troca, dupla troca, combustão, oxirredução (redox), ácido-base e catálise.
+
+A ocorrência de uma reação é determinada por fatores termodinâmicos e cinéticos. Termodinamicamente, reações são favorecidas pelo aumento da entropia e diminuição da energia (expressa pelas energias livres de Gibbs e Helmholtz). Cineticamente, a reação requer que os reagentes superem uma barreira de energia de ativação. Catalisadores podem aumentar a velocidade da reação ao reduzir a energia de ativação.
+
+Outras classificações de reações incluem reações unimoleculares, bimoleculares e termoleculares. Uma reação de isomerização representa um tipo adicional.
+
+Transformações químicas podem ocorrer por meio da junção de substâncias.

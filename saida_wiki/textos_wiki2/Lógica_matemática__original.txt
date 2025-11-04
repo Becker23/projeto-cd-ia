@@ -1,0 +1,245 @@
+A lógica matemática é uma subárea da matemática que explora as aplicações da lógica formal para a matemática. Basicamente,  tem ligações fortes com matemática, os  fundamentos da matemática e ciência da computação teórica. Os temas unificadores na lógica matemática incluem o estudo do poder expressivo de sistemas formais e o poder dedutivo de sistemas de prova matemática formal.
+A lógica matemática é muitas vezes dividida em campos da teoria dos conjuntos, teoria de modelos, teoria da recursão e teoria da prova. Estas áreas compartilham resultados básicos sobre lógica, particularmente lógica de primeira ordem, e definibilidade. Na ciência da computação, especialmente na classificação ACM, onde ACM vem do inglês (Association for Computing Machinery), lógica matemática engloba tópicos adicionais não descritos neste artigo; ver lógica em ciência da computação para este tópico anterior.
+Desde o seu surgimento, a lógica matemática tem contribuído e motivado pelo estudo dos fundamentos da matemática. Este estudo foi iniciado no final do século XIX, com o desenvolvimento de arcabouço axiomático para geometria, aritmética e análise. No início do século XX a lógica matemática foi moldada pelo programa de David Hilbert para provar a consistência das teorias fundamentais. Os resultados de Kurt Godel, Gerhard Gentzen, e outros, desde resolução parcial do programa, e esclareceu as questões envolvidas em provar a consistência. O trabalho na teoria dos conjuntos mostrou que quase toda a matemática ordinária pode ser formalizada em termos de conjuntos, embora existam alguns teoremas que não podem ser demonstrados em sistemas axiomáticos comuns para a teoria dos conjuntos. O trabalho contemporâneo nos fundamentos da matemática, muitas vezes se concentra em estabelecer quais as partes da matemática que podem ser formalizadas, em particular, sistemas formais (como em matemática reversa) ao invés de tentar encontrar as teorias em que toda a matemática pode ser desenvolvida.
+
+
+== Subáreas e escopo ==
+O manual de lógica matemática divide a  matemática contemporânea em quatro áreas:
+
+Teoria dos conjuntos;
+teoria dos modelos;
+teoria da recursão;
+teoria da prova e da matemática construtiva consideradas partes de uma única área.
+Cada área tem um foco distinto, apesar de ter várias técnicas e resultados comuns entre si.  A divisão das referidas áreas e os limites que separam a lógica matemática de outros campos de estudo não são bem definidas. A teoria da incompletude de Gödel representa não só   um  marco na teoria da recursão e teoria da prova, mas também contribuiu para o teorema de Löb da teoria dos modelos. O método do forçamento ("forcing") é aplicada na teoria dos conjuntos, na teoria dos modelos,  na teoria da recursão, assim como no estudos da matemática intuiticionística.
+O campo matemático conhecido como o da teoria das categorias usa muitos métodos axiomáticos formais nos quais se inclui o estudo da lógica categórica, mas essa teoria  não é comumente considerada um sub-ramo da lógica. Por causa da sua aplicabilidade em diversos campos da lógica, matemáticos como Saunders Mac Lane propuseram  usar a teoria das categorias  como fundamentos da matemática, independentemente da teoria dos conjuntos. Essas fundamentações usam tópicos que em muito se parecem com modelos generalizados das teorias dos conjuntos, e empregam lógica clássica ou não-clássica.
+
+
+== História ==
+A lógica matemática surgiu em meados do século XIX como um sub-ramo da Matemática e independente do estudo tradicional da lógica (Ferreirós 2001, p. 443). Antes do seu surgimento independente, a lógica foi estudada com a retórica, através do silogismo e a filosofia. Na primeira metade do século XX houve uma explosão de resultados fundamentais, acompanhados por debates vigorosos sobre as bases da matemática.
+Os estudos sobre o raciocínio foram inicialmente desenvolvidos por filósofos como Parménides e Platão, mas foi Aristóteles quem o elaborou mais detalhadamente e definiu a lógica como se estuda hoje em dia (como se estudava até o século XIX).
+Para mostrar que os sofistas (mestres da retórica e da oratória) podiam enganar os cidadãos utilizando argumentos incorretos, Aristóteles estudou a estrutura lógica da argumentação. Revelando, assim, que alguns argumentos podem ser convincentes, embora não sejam corretos. A lógica, segundo Aristóteles, é um instrumento para atingir o conhecimento científico, baseando-se no silogismo.
+Seguidores de Aristóteles reuniram seus princípios sobre lógica em um livro intitulado “Organon”, que significa “Instrumento da Ciência”.
+
+
+=== História moderna ===
+
+Teorias lógicas foram desenvolvidas em diversas culturas na história,  China, Índia, Grécia e no mundo Islâmico. Na Europa do século XVIII, filósofos matemáticos, como Leibniz e Lambert tentaram representar as operações da lógica formal  através de símbolos, de forma algébrica mas seus esforços e trabalhos permaneceram isolados e pouco reconhecidos.
+
+
+=== Século XIX ===
+Em meados do século XIX, George Boole e posteriormente Augustus De Morgan apresentaram tratamentos matemáticos sistemáticos. Seus trabalhos, alicerçados em trabalhos de algebristas como George Peacock, transformaram a doutrina tradicional de Aristóteles de forma que se encaixasse no estudo dos fundamentos da matemática (Katz 1998, p. 686). Charles Sanders Peirce construiu sobre os estudos de Boole almejando desenvolver uma sistema de relações lógica e quantificadores o qual ele publicou  diversas vezes entre 1870 e 1885. Gottlob Frege apresentou um desenvolvimento independente da lógica com quantificadores no seu  Begriffsschrift, publicado em  1879, um trabalho por muitos considerado como uma reviravolta na histórica da lógica. O trabalho de Frege permaneceu incerto, pelo menos até Bertrand Russell começar a promovê-lo no início da virada do século. As notações bidimensionais desenvolvidas por Frege nunca foram vastamente adotadas e caiu em desuso nos artigos e textos contemporâneos.
+De  1890 a 1905, Ernst Schröder publicou o Vorlesungen über die Algebra der Logik em três volumes. Esse trabalho compactava e desenvolvia os trabalhos de Boole, De Morgan, e Peirce e se tornou uma grande referência para lógica simbólica, como era conhecida no fim do século XIX.
+
+
+== Fundamentos teóricos ==
+Preocupações com a possível ausência de fundamentos matemáticos acarretaram o desenvolvimento de sistemas axiomáticos para áreas da matemática fundamental como a aritmética, análise e geometria.
+Em lógica o termo aritmético se refere à teoria dos números naturais. Giuseppe Peano (1889) publicou uma série de axiomas para serem usados pela aritmética que hoje carregam seu nome (Axiomas de Peano), usando variações do sistema lógico de Boole e Schröder, porém adicionando quantificadores. Peano não tinha conhecimento do trabalho de Frege. Contemporaneamente Richard Dedekind mostrou que os números naturais são unicamente caracterizados por suas propriedades da indução. Dedekind (1888) propôs a diferente caracterização na qual não existia a essência da lógica formal dos axiomas de Peano. Todavia, o trabalho de Dedekind's provou teoremas inacessíveis ao sistema desenvolvido por Peano, como por exemplo a inclusão da individualidade dos conjuntos de números naturais (até o isomorfismo) e as definições recursivas de adição e multiplicação da função sucessora e indução matemática.
+No meio do século XIX, foram descobertas falhas nos axiomas de Euclides para geometria (Katz 1998, p. 774). Além da independência do postulado paralelo, estabelecido por Nikolai Lobachevsky em 1826 (Lobachevsky 1840), matemáticos descobriram que certos teoremas tomadas como certo por Euclides não eram de fato demonstrável a partir de seus axiomas. Entre eles está o teorema que diz que uma linha contem pelo menos dois pontos, ou que círculos de mesmo raio cujo centro é separado pelo raio devem intersectar. Hilbert (1899) desenvolveu um conjunto completo dos axiomas para geometria, construindo nos [axiomas de Pasch] pelo Pasch (1882). O sucesso axiomatização da geometria motivou Hilbert a encontrar axiomatições completas de outras áreas da matemática, assim como os números naturais e da linha real. Isto proveria a maior área de pesquisa na primeira metade do século XX.
+
+
+== Lógica proposicional ==
+
+
+=== Proposições ===
+As proposições são determinadas por sentenças declarativas, pertencentes a uma certa linguagem, que formam um conjunto de palavras ou símbolos e expressam uma ideia. As sentenças declarativas são afirmações que podem receber apenas dois valores, Verdadeiro ou Falso. As proposições devem seguir os seguintes princípios:
+
+Princípio da identidade: garante que uma proposição é igual a ela mesma.
+Princípio da não-contradição: uma proposição não pode ser verdadeira e falsa.
+Princípio do terceiro excluído: uma proposição é verdadeira ou falsa.
+Exemplos:
+O cachorro é um animal. - Verdadeiro
+2 + 2 = 7 - Falso
+Qualquer sentença que não puder receber a atribuição de verdadeira ou falsa não é uma proposição. Sentenças interrogativas, exclamativas e imperativas não são proposições, pois não é possível dizer se são verdadeiras ou falsas.
+Exemplos de sentenças que não são proposições:
+
+Como foi a aula?
+O pior atentado nos EUA ocorreu em setembro de 2011?
+Limpe a cozinha.
+Que local de trabalho horroroso!
+Esta sentença não é verdadeira.
+
+
+=== Proposições compostas ===
+Proposição composta é a união de proposições simples por meio de um conector lógico. Este conector irá ser decisivo para o valor lógico da expressão.
+
+
+==== Precedência de operadores ====
+Em expressões que utilizam vários operadores não é possível saber qual proposição deve-se resolver primeiro.
+Exemplo: P Λ Q V R.
+Com isso, usar parênteses é fundamental. A expressão do exemplo poderia ficar assim: (P Λ Q) V R ou P Λ (Q V R).
+A ordem da precedência de operadores é:
+
+(), {}
+¬
+Λ, V, V
+→
+↔
+
+
+==== Tabela verdade ====
+A tabela verdade é construída para determinar o valor lógico de uma proposição composta. Segue uma excelente estratégia para a construção desta.
+Exemplo de construção da tabela verdade da proposição composta: p Λ q
+Primeiramente verifica-se quantas “variáveis”, ou proposições simples que temos na proposição composta do exercício. Neste caso existem duas: p e q.
+Em seguida elevamos 2 ao número de variáveis, ou seja, 2². Nossa base do expoente é 2 pelo fato de possuir-se apenas 2 valores lógicos possíveis nas proposições (Verdadeiro ou Falso). O resultado de 2² é 4. Então nossa tabela terá 4 linhas, nessas linhas estarão todos os valores lógicos possíveis da nossa proposição composta.
+
+Esta é a estrutura da tabela, agora para a preencher com os devidos valores lógicos utiliza-se a seguinte técnica: até a metade da primeira coluna coloca-se Verdadeiro, na outra metade Falso. Já na segunda coluna, intercala-se V e F. Desta forma adquira-se a seguinte tabela:
+
+Esta é uma das melhores estratégias para a montagem de uma tabela verdade.
+
+
+==== Conectivos lógicos ====
+Proposições podem ser ligadas entre si por meio de conectivos lógicos. Conectores que criam novas sentenças mudando ou não seu valor lógico (Verdadeiro ou Falso). Exemplos dos principais conectores lógicos:
+
+“¬” ou “~” (negação);
+“Λ” (conectivo “e”);
+“V” (conectivo “ou”);
+“→” (conectivo “se, então”);
+“↔” (conectivo “se, e somente se”);
+“V” (conectivo “ou exclusivo”);
+“↓” (conectivo “negação conjunta”);
+“↑” (conectivo “negação disjunta”).
+Exemplos de sentenças formadas com conectores e proposições:
+(2 + 2 = 4) V (1 < 4)  - Valor lógico da sentença: Verdadeiro V (ou) Verdadeiro = Verdadeiro
+Cachorro é um felino Λ (1 > 0)  - Valor lógico da sentença: Falso Λ (e) Verdadeiro = Falso
+
+
+==== Conector de negação (~) ====
+O conectivo de negação (~), nega o valor lógico de uma proposição. Considera-se p como uma proposição de valor lógico igual a verdadeiro, então sua negação é igual a falso. O mesmo seria se a proposição tivesse valor lógico inicial igual a falso, sua negação seria igual a verdadeiro. De acordo com esses conceitos podemos montar a seguinte tabela verdade:
+
+Exemplo:
+Considere p com o valor da seguinte proposição: 2 é um número par.
+p = Verdadeiro, portanto sua negação: ~p = Falso.
+
+
+==== Conector e (Λ) ====
+O conectivo e, também conhecido como AND e representado pelo símbolo “^” junta proposições as quais somente resultarão em Verdadeiro se todos os valores forem Verdadeiros.
+Exemplo: Considere as proposições p e q (Conjunção).
+
+Observação: Veja que nesta tabela consideramos todos os valores lógicos possíveis para p e q, em outras palavras: temos 2 proposições e estamos em uma base binária (0 ou 1, verdadeiro ou falso) então para se saber o número das possibilidades para essas proposições realiza-se o seguinte cálculo 2n, onde n é o número de proposições.
+
+
+==== Conector ou (V) ====
+O conectivo ou, também conhecido como OR e representado pelo símbolo “V” une proposições que, apenas uma sendo Verdadeiro é suficiente que a expressão inteira também seja.
+Exemplo:
+Considere as proposições p e q (Disjunção).
+
+
+==== Conector condicional (→) ====
+O conectivo condicional, representado pelo símbolo “→” une proposições criando uma estrutura condicional onde apenas uma das possibilidades resulta em F o valor lógico da expressão.
+Exemplo:
+Considere as proposições p e q (Condição). “Se p então q”
+
+Observação: não devemos confundir a operação condicional “→” com o relação implica " => " , pois, enquanto o primeiro representa uma operação entre proposições dando origem a uma outra proposição, o segundo indica apenas uma relação entre proposições dadas.
+Relação de implicação ( => ): uma proposição p implica q quando em sua tabelas-verdade,  não pode ocorrer 1 e 0 nessa ordem.
+
+p não Implica q, pois, na segunda linha aparece p = V e q = F.
+
+
+==== Conector bicondicional (↔) ====
+O conectivo bicondicional, é lido como “se, e somente se” e é representado pelo símbolo “↔”, ele une proposições onde o resultado lógico da expressão é verdadeiro apenas se os valores lógicos forem iguais.
+Exemplo:
+Considere as proposições p e q (bicondicional).
+“Se p, e somente se q”
+
+
+==== Ou exclusivo (V) ====
+O conectivo ou exclusivo, chamado também de disjunção exclusiva, é representado pelo símbolo “V”. Podemos dizer que ele significa: um ou outro, mas não ambos. Exemplo: Ou o gato é macho ou o gato é fêmea, mas não ambos. A tabela verdade do ou exclusivo esta representada abaixo.
+
+
+==== Negação conjunta e negação disjunta ====
+A negação disjunta é representada pelo conector ↑, significa a negação de duas proposições envolvendo o conector E (NAND).
+Exemplo:  p ↑ q  ⇔  ¬(p Λ q)  ⇔  ¬p v ¬q.
+A negação conjunta é representada pelo conector ↓, significa a negação de duas proposições envolvendo o conector OU (NOR).
+Exemplo:  p ↓ q  ⇔  ¬(p v q)  ⇔  ¬p Λ ¬q.
+Abaixo estão representadas as tabelas verdades das duas negações.
+
+Tabela verdade equivalente ao circuito NAND
+
+Tabela verdade equivalente ao circuito NOR
+
+
+==== Tautologia, contradição e contingência ====
+Ao montarmos uma tabela verdade contendo todos os valores lógicos possíveis de uma expressão a poderíamos classificar em tautologia, contradição e contingência.
+
+Tautologia: é uma proposição cujo resultado final é sempre verdadeiro.
+Exemplo:
+p v ~p (p OU não p)
+
+Veja que independente do valor de p a expressão sempre resulta em Verdadeiro, pois para o conector OU possuir um verdadeiro já é suficiente para resultar em Verdadeiro, além disso sempre teremos V em todas as combinações da expressão. Por isso a classificamos como uma tautologia.
+Vejamos outro exemplo:
+F → p (F então p)
+
+Neste outro caso também se obteve uma tautologia, devido ao fato da última coluna da tabela (resultado da expressão) ter somente Verdadeiro.
+
+Contradição: é uma proposição que resulta somente em falso, em outras palavras, a última coluna da sua tabela só possui o valor lógico falso.
+Exemplo:
+p ^ ~p
+
+Contingência: determinamos uma proposição de contingente quando ela não é tautológica nem contraditória, ou seja, ela é indeterminada.
+Exemplo:
+p V q (p OU q)
+
+Percebe-se que a última coluna não possui apenas um valor lógico, por isso a determinamos uma proposição contingente, ou indeterminada.
+
+
+==== Implicação lógica ou inferência ====
+Sejam P e Q duas proposições. Diremos que P implica logicamente a proposição Q, se Q for verdadeiro sempre que P for verdadeiro. Quando isso ocorre, dizemos que temos uma implicação lógica ou inferência e denotamos: P => Q (lemos: “P implica Q”).
+Exemplo: P Λ Q implica P V Q?
+
+Neste exemplo podemos dizer que P Λ Q => P V Q, pois onde P Λ Q é verdadeiro P V Q também é.
+Exemplo: P V Q implica P → Q?
+
+Neste exemplo não podemos dizer que P V Q => P → Q, pois temos na segunda linha que onde P V Q é verdadeiro P → Q é falso.
+
+
+==== Equivalência lógica ====
+Diremos que P é equivalente a Q, se as duas tabelas verdade foram idênticas. Quando isso ocorre, dizemos que temos uma equivalência lógica ou bi-implicação e denotamos P ⇔ Q (lemos: “P é equivalente a Q”).
+Exemplo: ¬(P Λ Q) é equivalente a (¬P V ¬Q)?
+
+Neste exemplo podemos dizermos que ¬(P Λ Q) ⇔ (¬P V ¬Q), pois o resultado da tabela verdade das duas expressões é o mesmo.
+Exemplo: P → Q é equivalente a Q → P?
+
+Neste exemplo não podemos dizer que P → Q ⇔ Q → P, pois o resultado das tabelas verdades das expressões são diferentes, nas linhas 2 e 3.
+
+
+==== Condições necessárias e suficientes ====
+Temos uma condição suficiente se quando ela ocorrer temos a garantia de que a outra condição ocorrerá. Por exemplo:
+“Se o cavalo corre então ele está vivo.”
+O cavalo correr é condição suficiente para ele estar vivo, ou seja, se o cavalo corre podemos garantir que ele está vivo.
+Por outro lado o cavalo estar vivo não garante que o cavalo corra, pois ele pode estar por exemplo vivo mas descansando, a este tipo de condição dá se o nome de condição necessária. Uma condição é necessária quanto não podemos garantir que a outra condição é valida.
+Esta relação entre condição suficiente e condição necessária é encontrada quando utilizamos um conector condicional, ou seja, quando temos uma estrutura condicional. O primeiro argumento(que vem antes do →), chamado de antecedente é uma condição suficiente. O segundo argumento, chamado de consequente é uma condição necessária.
+Entretanto em uma estrutura bicondicional temos uma proposição necessária e suficiente,.
+
+
+==== Proposições associadas a uma condicional ====
+Pegamos uma condicional qualquer como p → q, existem três tipos de proposições associadas a ela que são:
+
+Recíproca: a proposição recíproca de p → q é a proposição q → p. Como podemos ver foi feito uma troca entre a antecedente (p) e a consequente (q) para obter-se a recíproca cuja tabela esta abaixo:
+
+Exemplo: “Se a Maria é feia então todos são feios.”
+A recíproca seria: “Se todos são feios então Maria é feia.”
+
+Inversa: a proposição contrária de p → q é a proposição ~p → ~q. Basta negar a antecedente(p) e a consequente(q) para obtermos a proposição inversa.
+
+Exemplo: “Se a Maria é feia então todos são feios.”
+A inversa seria: “Se Maria não é feia então todos não são feios.”
+
+Contra positiva: a contra positiva da preposição p → q é ~q → ~p. Para encontramos a contra positiva basta juntar os passos da recíproca e da contrária, ou seja, deve se inverter os lugares do antecedente e do consequente e negar ambos. A proposição contra positiva tem o mesmo resultado que a proposição original.
+
+Exemplo: “Se a Maria é feia então todos são feios.”
+A contra positiva seria: “Se todos não são feios então Maria não é feia.”
+
+
+== Ver também ==
+Filosofia da matemática
+Fundamentos da matemática
+Principia Mathematica
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Carlos Fontes. Definição e Evolução da Lógica; 28 de abril de 2012. Disponível em: web.archive.org - afilosofia.no.sapo.pt
+Grupo iPED. Noções de lógica. Colégio web; 7 de maio de 2012. Disponível em: colegioweb.com.br
+GERÔNIMO, João Roberto; FRANCO Valdeni Soliane. Fundamentos de matemática: uma introdução à lógica matemática, teoria dos conjuntos, relações e funções. 2º Edição 2008.
