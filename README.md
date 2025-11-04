@@ -77,6 +77,22 @@ _\_ia.txt → versão reescrita por IA
 
 ---
 
+## Rodar aplicacao
+
+### Frontend
+```
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend
+```
+cd backend
+pip install -r requirements.txt
+python -m uvicorn main:app --reload --port 8080
+```
+
 ## 🖥️ Interface Web
 
 A aplicação web permite:
