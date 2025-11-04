@@ -1,0 +1,39 @@
+Aminoácidos são compostos orgânicos constituídos por carbono, hidrogênio, oxigênio e nitrogênio, podendo alguns conter enxofre. Sua estrutura geral compreende um grupo amina (-NH₂) e um grupo carboxila (-COOH). Em α-aminoácidos, os grupos carboxila e amina estão ligados ao mesmo átomo de carbono, denominado carbono α. Existem também aminoácidos com esses grupos em posições diferentes, como β-alanina e ácido γ-aminobutírico (GABA). O carbono α se liga também a um átomo de hidrogênio (exceto na prolina) e a uma cadeia lateral, representada por R, que define a identidade do aminoácido. A estrutura tridimensional (estereoquímica) é uma propriedade importante dos aminoácidos, que são classificados como polares, não polares ou neutros, com base na natureza da cadeia lateral.
+
+Vinte aminoácidos são considerados principais, denominados proteinogênicos ou padrão, utilizados na síntese de proteínas. A selenocisteína é um exemplo de aminoácido encontrado em proteínas específicas. Nove desses aminoácidos são considerados essenciais para humanos: isoleucina, leucina, valina, fenilalanina, metionina, treonina, triptofano, lisina e histidina, devendo ser obtidos através da dieta.
+
+Uma sequência de aminoácidos forma um peptídeo, que pode ser um dipeptídeo (dois aminoácidos), tripeptídeo (três aminoácidos), tetrapeptídeo (quatro aminoácidos) ou polipeptídeo (vários aminoácidos). Proteínas são polipeptídeos compostos por centenas ou milhares de aminoácidos.
+
+As ligações peptídicas unem os aminoácidos, estabelecendo-se entre o grupo amina de um aminoácido e o grupo carboxila de outro, com a liberação de uma molécula de água. Aminoácidos são moléculas anfóteras, podendo atuar como ácidos ou bases.
+
+A numeração dos carbonos na cadeia principal dos aminoácidos começa no carbono da carboxila, sendo o carbono α o carbono 2.
+
+Ornitina e citrulina são α-aminoácidos que participam do ciclo da ureia, auxiliando na remoção de íons amônio.
+
+Aminoácidos com cadeias laterais apolares incluem glicina, alanina, cisteína, valina, leucina, isoleucina, prolina, fenilalanina, triptofano e metionina. Alanina, valina, leucina e isoleucina possuem radicais hidrocarbonetos alifáticos. A prolina possui uma estrutura cíclica alifática onde o nitrogênio se liga a dois átomos de carbono. Fenilalanina, tirosina e triptofano são considerados aminoácidos aromáticos, sintetizados a partir da via do chiquimato.
+
+Aminoácidos polares neutros, como serina, treonina, tirosina, glutamina e asparagina, possuem cadeias laterais polares eletricamente neutras em pH neutro. Serina e treonina possuem um grupo hidroxila (-OH) ligado a grupos hidrocarbonetos alifáticos. A tirosina possui um grupo hidroxila ligado a um grupo hidrocarboneto aromático.
+
+Ácido glutâmico e ácido aspártico são aminoácidos polares ácidos, possuindo grupos carboxila em suas cadeias laterais.
+
+Histidina, lisina e arginina são aminoácidos polares básicos, com cadeias laterais básicas que são positivamente carregadas em pH neutro ou próximo.
+
+Os aminoácidos apolares apresentam substituintes hidrocarbonetos apolares ou modificados, sendo hidrofóbicos. Aminoácidos polares neutros possuem substituintes que tendem a formar ligações de hidrogênio. Aminoácidos ácidos possuem substituintes com grupo carboxílico e são hidrófilos. Aminoácidos básicos possuem substituintes com o grupo amino e são hidrófilos.
+
+Aminoácidos são incolores e, em sua maioria, apresentam sabor adocicado. São sólidos com solubilidade variável em água e exibem atividade óptica devido à presença de carbono assimétrico, geralmente na forma levógira. A glicina é solúvel em água e não apresenta atividade óptica.
+
+Os grupos carboxílico (-COOH) e amino (-NH₂) conferem aos aminoácidos características ácidas e básicas, respectivamente, tornando-os anfóteros, capazes de reagir tanto com ácidos quanto com bases.
+
+A titulação de aminoácidos com ácidos ou bases revela suas características ácido-básicas, dependentes dos grupos ácidos e básicos presentes na cadeia lateral.
+
+A aplicação de uma voltagem a uma solução contendo aminoácidos causa migração em direção a um dos polos, dependendo da carga predominante. O ponto isoelétrico (pI) é o pH no qual não se observa deslocamento para nenhum dos polos, sendo calculado pela média dos valores de pKa em que a carga passa de -1 para 0 e de 0 para +1. No pI, o número de cargas negativas e positivas é igual, diminuindo a solubilidade em água.
+
+A separação de enzimas de acordo com a carga é realizada por eletroforese.
+
+A classificação quanto ao destino metabólico considera o destino do grupo amina excretado na forma de ureia (mamíferos), amônia (peixes) ou ácido úrico (aves e répteis).
+
+Aminoácidos cetogênicos são aqueles que são degradados a acetil-CoA ou acetoacetil-CoA, dando origem a corpos cetônicos. Aminoácidos glicogênicos são degradados a piruvato, α-cetoglutarato, succinil-CoA, fumarato ou oxaloacetato, podendo ser convertidos em glicose ou glicogênio. Leucina e lisina são exclusivamente cetogênicos. Fenilalanina, triptofano, isoleucina e tirosina são cetogênicos e glicogênicos. Os demais são estritamente glicogênicos.
+
+Nutricionalmente, os aminoácidos são classificados como não essenciais (sintetizados pelo organismo: glutamina, alanina, asparagina, ácido aspártico, ácido glutâmico, serina) e essenciais (obtidos pela dieta: fenilalanina, isoleucina, leucina, valina, lisina, metionina, treonina, triptofano, histidina).
+
+Existem também aminoácidos condicionalmente essenciais, que se tornam necessários apenas em determinadas situações fisiológicas.

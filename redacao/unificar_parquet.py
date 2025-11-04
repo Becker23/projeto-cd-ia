@@ -33,16 +33,21 @@ dataset_unificado = pd.concat([ia_df] + dfs_humanos, ignore_index=True)
 
 # --- 4. Renomear 'label' -> 'classe' e ajustar valores ---
 dataset_unificado = dataset_unificado.rename(columns={"label": "classe"})
-dataset_unificado["classe"] = dataset_unificado["classe"].replace({
-    "ai": "ia",
-    "human": "humano"
-})
+dataset_unificado["classe"] = dataset_unificado["classe"].replace(
+    {"ai": "ia", "human": "humano"}
+)
 
 # --- 5. Salvar resultado ---
-output_path = os.path.join(caminho, "dataset_unificado.parquet")
+output_path = os.path.join(caminho, "set_redacoes.parquet")
 dataset_unificado.to_parquet(output_path, index=False)
+dataset_unificado.to_json(
+    output_path.replace(".parquet", ".json"),
+    orient="records",
+    lines=False,
+    force_ascii=False,
+)
 
-print("Dataset unificado salvo como dataset_unificado.parquet")
+print("Dataset unificado salvo como set_redacoes.parquet")
 print("Linhas totais:", len(dataset_unificado))
 print(dataset_unificado["classe"].value_counts())
 print(dataset_unificado.head())

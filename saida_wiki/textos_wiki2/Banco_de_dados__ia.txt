@@ -1,0 +1,17 @@
+Em informática, um banco de dados é uma coleção organizada de dados relacionados, geralmente armazenados e acessados eletronicamente. Os dados podem representar informações sobre pessoas, lugares, objetos ou outros assuntos. Bancos de dados são gerenciados por sistemas de gerenciamento de bancos de dados (SGBDs), softwares que permitem aos usuários definir, manipular, recuperar e gerenciar dados. Um sistema de banco de dados inclui o banco de dados propriamente dito, o SGBD e os aplicativos associados. O termo "banco de dados" pode referir-se ao SGBD, ao sistema de banco de dados completo ou a um aplicativo relacionado.
+
+Os SGBDs surgiram na década de 1970, substituindo sistemas de arquivos. Na década de 1980, os SGBDs relacionais se tornaram dominantes. Exemplos de SGBDs incluem MySQL, Oracle, PostgreSQL e Microsoft SQL Server, dentre outros.
+
+Bancos de dados são usados em diversas aplicações, como gestão de operações empresariais (armazenando dados de clientes, funcionários e fornecedores), sistemas de informação geográfica (armazenando mapas e imagens de satélite), redes sociais e aplicativos de gerenciamento de produção.
+
+O registro de informações acompanha a história da humanidade, desde pinturas pré-históricas e hieróglifos até a escrita alfabética. A invenção do papel e da prensa móvel impulsionou o uso do papel como meio de registro. No início da era da computação, utilizou-se papel e cartões perfurados. A praticidade, eficiência, rapidez e confiabilidade do registro eletrônico, junto com a redução de custos, impulsionaram o desenvolvimento de bancos de dados computadorizados.
+
+Os primeiros programas de banco de dados surgiram junto com os computadores. A evolução dos bancos de dados visou solucionar problemas como falta de controle de acesso, impossibilidade de execução simultânea de processos, dependência entre aplicações e arquivos, inconsistência de dados, segurança e duplicidade de informações. Os SGBDs oferecem maior produtividade no desenvolvimento de software e maior confiabilidade das informações.
+
+Existem diferentes modelos de banco de dados, incluindo o modelo plano (tabular), em rede, hierárquico, relacional, orientado a objetos e objeto-relacional.
+
+O modelo relacional, proposto por Edgar Frank Codd, organiza os dados em tabelas. Ele introduziu conceitos como álgebra relacional e cálculo relacional. Bancos de dados relacionais permitem consultas flexíveis e são amplamente utilizados em ambientes corporativos. Os primeiros sistemas comerciais relacionais surgiram na década de 1980.
+
+Uma transação em um banco de dados é um conjunto de operações percebido como uma única unidade de trabalho. As propriedades ACID (Atomicidade, Consistência, Isolamento, Durabilidade) garantem a integridade da transação.
+
+A segurança da informação em bancos de dados é crucial para proteger a privacidade dos dados. O controle de acesso restringe o acesso a dados confidenciais a usuários autorizados, garantindo a confidencialidade.

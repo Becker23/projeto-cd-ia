@@ -1,0 +1,81 @@
+Respiração celular é o conjunto de reações metabólicas através das quais as células obtêm energia dos nutrientes através da sua oxidação, utilizando múltiplas reações enzimáticas, uma cadeia de transporte de eletrões e a enzima ATP sintase. A forma mais difundida de respiração celular entre os seres vivos é a respiração aeróbia, que ocorre nas mitocôndrias dos eucariotas e na maioria das bactérias e que requer oxigénio. Em algumas espécies de bactérias, existe uma forma muito semelhante de respiração celular, mas que não necessita de oxigénio, denominada respiração anaeróbia.
+A respiração é um processo catabólico, uma vez que os nutrientes oxidados se decompõem, dando origem a moléculas muito simples, como o H2O e o CO2, e libertando energia, que é armazenada como ATP, sintetizada pela enzima ATP sintase, localizada na membrana interna mitocondrial ou na membrana plasmática bacteriana. O ATP obtido pela respiração celular servirá para suprir todas as necessidades energéticas da célula, como a biossíntese e outras funções celulares (transporte ativo, movimentação de flageloss, contração muscular, divisão celularetc.).
+Os nutrientes oxidados na respiração celular, atuando como doadores de eletrões no processo, são quase sempre moléculas orgânicas, principalmente açúcares e lípidos, e em determinadas circunstâncias os aminoácidos podem também ser "respirados" (oxidados). Os seres vivos que utilizam moléculas orgânicas como fonte de eletrões designam-se por organotróficos. Os animais, os protozoários e as bactérias precisam de comer ou absorver estes nutrientes orgânicos, mas as plantas, as algas e algumas bactérias fabricam-nos durante a fotossíntese.
+É menos comum que o dador de electrões, ou seja, a molécula que vai ser "respirada" (oxidada), seja uma molécula inorgânica, como o sulfureto, o H2, o Fe2+, o amoníaco etc., que são utilizadas apenas pelas bactérias, denominadas por esse motivo de litotróficos, que são muito poucas.
+Os nutrientes não funcionam apenas como doadores de eletrões, mas também fornecem os átomos de carbono (e outros elementos) de que a célula necessita. Os organismos que absorvem carbono de substâncias orgânicas são designados por heterótrofos, e os que o fazem de substâncias inorgânicas, especificamente o CO2, são designados por autótrofos. Existem bactérias que utilizam substâncias inorgânicas tanto como fonte de eletrões para a respiração (litotrofia) como fonte de carbono, uma vez que absorvem CO2 (autotrofia), sendo, por isso, tanto litotróficas como autótrofas.
+O aceptor final de eletrões, que se encontra no final da cadeia respiratória de transporte de eletrões e recolhe os eletrões libertados dos substratos que estão a ser oxidados, é quase sempre oxigénio, que no processo é transformado em água, e este tipo de respiração é designado por aeróbia. Em casos mais raros, o aceptor final não é o oxigénio, mas sim outra molécula, como o nitrato, sulfato, Fe3+ etc., e este tipo de respiração é designado por anaeróbia (não necessita de oxigénio), o que é muito raro e restrito a alguns grupos de bactérias.
+Neste artigo, iremos focar-nos principalmente na respiração aeróbica, mas também comentaremos a respiração anaeróbica e abordaremos brevemente as diferenças com a fermentação, que não é uma respiração.
+
+
+== Respiração aeróbia ==
+
+A respiração aeróbia é um processo metabólico que consiste na oxidação dos nutrientes e na obtenção de energia a partir dos mesmos sob a forma de ATP, para o qual é necessário oxigénio. Os hidratos de carbono, os lípidos e as proteínas podem ser processados e consumidos como fonte de energia, que acabam por ser completamente oxidados e reduzidos a dióxido de carbono e água, que são os produtos finais da respiração. Em alguns casos raros (em bactérias), as substâncias inorgânicas podem ser oxidadas na respiração aeróbia. Nos eucariotas, a respiração celular aeróbia ocorre nas mitocôndrias, embora a fase glicolítica anterior seja citosólica. Nas bactérias, ocorre no seu citosol e membrana.
+Os eletrões que os substratos perdem durante a sua degradação respiratória oxidativa são recolhidos pelas coenzimas, que os cederão à cadeia de transporte de eletrões e, como resultado, será produzido ATP durante a fosforilação oxidativa. Pequenas quantidades de ATP são também produzidas nas fases anteriores (glicólise) e no ciclo de Krebs através de fosforilações ao nível do substrato. De um modo geral, os eletrões que os substratos perderam durante a sua oxidação acabam por ser recolhidos pelo oxigénio no final da cadeia de transporte de eletrões, uma vez que este funciona como o aceptor final de eletrões.
+Na respiração aeróbia, grupos de dois carbonos devem entrar sob a forma de acetil-CoA no ciclo de Krebs. Este acetil-CoA pode ter diversas origens. Pode ser obtido a partir da glicose, que sofre um processo chamado glicólise no citosol, que a transforma em piruvato, dando origem à acetil-CoA. Para "respirar" (oxidar) a glicose, esta fase glicolítica tem de ocorrer constantemente. Pode também ser obtido a partir de ácidos gordos, através do processo catabólico mitocondrial de beta-oxidação de ácidos gordos, que produz grandes quantidades de acetil-CoA. Por fim, pode ser obtido com menos frequência a partir do catabolismo dos aminoácidos.
+A reacção global para a respiração de uma molécula de glicose (C6H12O6) é a seguinte:
+
+C6H12O6 + 6 O2 → 6 CO2 + 6 H2O 
+ΔG = -2880 kJ por mol de C6H12O6
+Um ΔG negativo indica que há libertação de energia, que é utilizada para formar ATP a partir do ADP. Estima-se, de um modo geral, que a produção de ATP por molécula de glicose seja de 36 a 38 (2 na glicólise, 2 no ciclo de Krebs e o restante na fosforilação oxidativa). Mas este é um valor máximo teórico, dado que em condições celulares reais o rendimento é menor, sendo estimado em 29 a 30 ATP por glicose.
+O metabolismo aeróbio é 19 vezes mais eficiente que o anaeróbio fermentativo (que produz apenas 2 mol de ATP por mol de glicose). Na oxidação da glicose, os processos respiratórios aeróbios e anaeróbios fermentativos partilham a fase inicial da glicólise. As fases pós-glicolíticas são diferentes.
+A equação da respiração celular da glicose apresentada acima é uma equação global, pois, na realidade, a respiração é um processo muito complexo, constituído por várias fases: glicólise (fase preliminar), descarboxilação do piruvato, ciclo de Krebs, transporte de electrões na cadeia de transporte de electrões e fosforilação oxidativa.
+
+
+=== Glicólise ===
+
+Ocorre no citosol de todos os organismos vivos. Pode ocorrer em condições anaeróbias (sem oxigénio) e é semelhante à fermentação. Consiste em 10 reações enzimáticas em que a glicose (uma molécula de 6 carbonos) é convertida em duas moléculas de piruvato (uma molécula de 3 carbonos), pelo que não há perda de carbono sob a forma de CO2 na glicólise. O piruvato é uma molécula mais oxidada do que a glicose. Durante estas reações, ocorrem duas fosforilação ao nível do substrato, resultando na produção de 2 ATP líquidos, que é o único ATP produzido diretamente na glicólise. São também produzidas duas moléculas da coenzima reduzida NADH que podem depois ser transportadas para as mitocôndrias por sistemas de transporte denominados lançadeiras (lançadeira de malato e glicerol-fosfato), onde podem doar os seus eletrões à cadeia de transporte de eletrões e produzir mais ATP (até 3 ATP por NADH, para um total de 6 ATP). Formam-se também duas moléculas de água. De seguida, em condições aeróbias, o piruvato será transportado para as mitocôndrias para continuar com a fase seguinte da respiração.
+A equação geral da glicólise é:
+
+Glicosa + 2 NAD+ + 2 Pi + 2 ADP → 2 piruvato + 2 NADH + 2 ATP + 2 H+ + 2 H2O
+
+
+=== Descarboxilação oxidativa do piruvato ===
+
+Nos eucariotas, em condições aeróbias, o piruvato entra na mitocôndria através de um sistema de transportadores de membrana. Uma vez aí, a enzima piruvato desidrogenase catalisa a sua descarboxilação e a ligação do resto da molécula à coenzima A. A reacção produz uma molécula de CO2, que provém do grupo carboxilo do piruvato e que é o primeiro carbono da glicose a ser perdido. Nos humanos, sai da célula, passa para o sangue e é expelido pelos pulmões durante a respiração pulmonar (noutros seres, sai pelas brânquias, traqueia, estomas das plantas, etc.). Os restantes dois carbonos do piruvato ligam-se à coenzima A, formando acetil-CoA, que irá então fornecer estes dois carbonos ao ciclo de Krebs na fase seguinte. É também produzida uma molécula da coenzima reduzida NADH, que segue para a cadeia de transporte de eletrões, onde levará à formação de 3 ATP por molécula. Lembremo-nos que cada glicose originou dois piruvatos, logo, todos os produtos desta fase são, na realidade, duplicados se os contarmos por glicose. A descarboxilação do piruvato é, portanto, uma reação de ligação entre a glicólise e o ciclo de Krebs. A reação é:
+
+piruvato + NAD+ + CoA-SH → acetil-CoA + NADH + CO2
+
+
+=== Ciclo de Krebs ===
+
+Também chamado de ciclo do ácido cítrico ou ciclo do ácido tricarboxílico. É um ciclo de reações enzimáticas que ocorre na matriz mitocondrial (e no citosol bacteriano) em que o grupo de dois carbonos fornecido pela acetil-CoA condensa com o oxalacetato para formar citrato, e depois o citrato sofre várias reações em que o oxalacetato é finalmente regenerado. A acetil-CoA que entra no ciclo provém do piruvato da glicólise ou do catabolismo dos lípidos e aminoácidos. Durante o ciclo do ácido cítrico, são libertadas duas moléculas de CO2 por cada acetil-CoA, pelo que todos os carbonos que entram são eventualmente eliminados (entre a descarboxilação do piruvato e o ciclo de Krebs, os 6 carbonos da glicose inicial são perdidos). No ciclo, existe uma fosforilação ao nível do substrato na qual é produzida uma molécula de GTP (que dá então, enzimaticamente, ATP) para cada acetil-CoA. Ocorrem também quatro desidrogenações em que se formam 3 moléculas de NADH e uma de FADH2 (esta última ligada à enzima como um grupo prostético). As coenzimas vão ceder os seus eletrões à cadeia de transporte de eletrões, que servirá para produzir cerca de 11 ATP. Somando o ATP produzido a partir do GTP, existiriam 12 ATP por cada coenzima A. Se contarmos pela glicose, o rendimento seria no ciclo de 24 ATP e contando a descarboxilação do piruvato e a glicólise, seria de até 38 ATP.
+
+
+=== Cadeia de transporte de electrões e fosforilação oxidativa ===
+
+A cadeia de transporte de eletrões, ou cadeia respiratória, está localizada na membrana interna mitocondrial ou na membrana bacteriana. É formada por um conjunto de transportadores que podem transferir eletrões entre si em reações redox. A cadeia recebe eletrões das coenzimas formadas durante a respiração. Estas coenzimas, no caso da respiração da glicose, formam-se no ciclo de Krebs, na descarboxilação do piruvato e na fase anterior à glicólise. Outras desidrogenações biológicas e a beta-oxidação dos ácidos gordos também podem produzir coenzimas reduzidas. Os eletrões libertados pelas coenzimas circulam pela cadeia respiratória, libertando gradualmente energia, que é utilizada para bombear protões para o espaço intermembranar mitocondrial (ou para o espaço periplasmático na superfície da bactéria). No final da cadeia encontra-se o oxigénio, que recolhe eletrões e se combina com os protões para formar água (½ O2 + 2e- + 2H→ + H→O). Precisamos de respirar oxigénio para que este desempenhe essa função na cadeia respiratória mitocondrial. Os protões bombeados para a cadeia acumulam-se no espaço intermembranar, criando um gradiente, dado que a membrana é impermeável aos mesmos e, uma vez bombeados, não conseguem regressar.
+Na membrana interna mitocondrial (e na membrana bacteriana) existe também uma enzima chamada ATP sintetase, que pode sintetizar ATP a partir de ADP e fosfato. Esta enzima possui um canal para a passagem dos protões acumulados. Quando este fluxo de protões passa pela enzima, esta é ativada e começa a sintetizar ATP. Este processo é designado por fosforilação oxidativa e produz a maior parte do ATP na célula. Portanto, o funcionamento da cadeia de transporte de eletrões é combinado com a fosforilação oxidativa.
+Em síntese, na respiração, os eletrões que foram arrancados dos substratos durante a sua oxidação passam para as coenzimas e, em seguida, circulam pela cadeia respiratória e chegam ao oxigénio. À medida que circulam, criam um gradiente de protões, que ativa a produção de ATP na ATP sintetase. Além disso, as coenzimas são recicladas (reoxidadas) ao ceder eletrões na cadeia e ficam prontas para serem reutilizadas.
+
+
+=== Balanço energético ===
+Na realidade, a respiração propriamente dita seria a partir do ciclo de Krebs, uma vez que as fases anteriores dependem do tipo de substância que é "respirada". Se oxidarmos ácidos gordos por beta-oxidação, por exemplo, a glicólise e a descarboxilação do piruvato já não ocorreriam previamente, mas seriam necessárias na oxidação da glicose.
+Na tabela seguinte, podemos ver as fases e o balanço energético total da respiração completa de uma molécula de glicose para o CO2 e o H2O. A produção máxima teórica de ATP é indicada.
+
+Embora o rendimento teórico seja de até 38 ATP por glicose, é geralmente mais baixo devido às perdas de eletrões na cadeia respiratória e aos custos do transporte ativo de moléculas para as mitocôndrias. Estima-se, em geral, que a produção líquida real não seja superior a 28 a 30 ATP por glicose, mas o número exato não é conhecido.
+
+
+== Comparação com a fermentação ==
+
+Na presença de oxigénio, o piruvato formado na glicólise é transportado para as mitocôndrias e entra na respiração celular mitocondrial (ou segue a respiração aeróbia bacteriana no próprio citosol). Mas, na ausência de oxigénio, o piruvato permanece no citosol e sofre mais algumas reações denominadas fermentações. Estas reações adicionais do piruvato servem para reoxidar as coenzimas formadas na glicólise e dar origem aos produtos finais da fermentação. Algumas células humanas (músculos durante o exercício intenso, por exemplo) podem realizar fermentação homoláctica, que converte o piruvato em lactato. A fermentação gera apenas os dois ATP líquidos formados na glicólise, tornando-a um processo energeticamente ineficiente, mas permite a obtenção de energia na anaerobiose. É um processo metabólico típico principalmente de bactérias e leveduras. Entre as bactérias, existem muitas rotas de fermentação possíveis. Existem bactérias anaeróbias facultativas, que podem alterar o seu metabolismo de acordo com as condições ambientais, e respiram quando há oxigénio e fermentam quando não há; consomem mais glicose durante os períodos de fermentação porque têm um menor rendimento energético.
+A equação geral da fermentação homolática é:
+
+glicose + 2 ADP + 2 Pi → 2 lactato- + 2 H+ + 2 ATP + 2 H2O
+A fermentação é muito diferente da respiração. As principais diferenças são:
+
+Não utiliza um aceptor externo de eletrões (o papel desempenhado pelo oxigénio na respiração aeróbia). Nas reações fermentativas, as coenzimas formadas nas reações anteriores geralmente recolhem os eletrões.
+A cadeia de transporte de eletrões não está envolvida.
+A ATP sintase não está envolvida nem existe fosforilação oxidativa, uma vez que todo o ATP é formado por fosforilações ao nível do substrato e sempre em quantidades muito mais reduzidas.
+Os produtos finais da fermentação são ainda moléculas relativamente complexas e pouco oxidadas. A respiração, pelo contrário, produz produtos finais muito simples e altamente oxidados (CO2 e H2O).
+
+
+== Respiração anaeróbia ==
+
+A respiração anaeróbia ocorre essencialmente em alguns grupos de bactérias. É semelhante à respiração aeróbia, mas com a principal diferença de que não utiliza o oxigénio como aceptor final de eletrões, mas sim outra substância, como o nitrato, sulfato, carbonato, Fe3+, fumarato etc. Por isso, pode funcionar em condições anaeróbias. Não tem nada a ver com fermentação, embora em ambos os processos não seja necessário oxigénio.
+
+
+== Ver também ==
+Ciclo de Krebs
+
+
+== Referências ==

@@ -1,0 +1,146 @@
+Química inorgânica ou química mineral é o ramo da química que estuda os elementos químicos, compostos inorgânicos e compostos organometálicos. Investiga as estruturas, propriedades e a explicação dos mecanismos de suas reações e transformações. Os materiais denominados inorgânicos compreendem cerca de 95% das substâncias existentes no planeta Terra.[carece de fontes?]
+As chamadas "substâncias inorgânicas", que servem de foco de estudo para a química inorgânica, são divididas em 4 grupos denominados como "funções inorgânicas". São eles:
+
+Ácidos
+Bases ou hidróxidos
+Sais
+Óxidos
+Muitos compostos inorgânicos são sais, constituídos de um cátion e um ânion agrupados por ligação iônica. Um exemplo de sal é o cloreto de magnésio MgCl2, que é constituído do cátion Mg2+ e ânions de cloro Cl−. Nesses compostos, as proporções de íons são tais que a carga elétrica é cancelada, fazendo com que o composto como um todo seja eletricamente neutro. Os íons são descritos por seu estado de oxidação e a facilidade de sua formação pode ser estimada a partir do seu potencial de ionização (para cátions) ou da afinidade eletrônica (ânions) de seus elementos formadores.
+Importantes classes de sais inorgânicos são as dos carbonatos, sulfatos e haletos. Muitos dos compostos inorgânicos são caracterizados por um alto ponto de fusão, que se deve à grande força das interações eletrostáticas entre os íons. Sais inorgânicos são tipicamente maus condutores no estado sólido. Outras características importantes são a solubilidade na água e a facilidade de cristalização. Alguns sais, como o cloreto de sódio(NaCl), são muito solúveis em água, enquanto outros, como o sulfato de bário(BaSO4), não o são.
+A mais simples reação inorgânica é a da dupla troca, quando da mistura de dois sais iônicos os seus íons são trocados sem a mudança no estado de oxidação. Na reação de oxi-redução, um dos reagentes, o oxidante, diminui seu número de oxidação e o outro reagente, o redutor, tem seu número de oxidação aumentado. O resultado é uma troca de elétrons. A troca de elétrons pode ocorrer indiretamente como também, por exemplo nas baterias, como um conceito chave da eletroquímica.
+Quando um dos reagentes contem átomos de hidrogênio, uma reação pode ocorrer pela troca de prótons na química do ácido-base. Em uma definição mais genérica, um ácido que pode ser qualquer substância química capaz de capturar um par de elétrons, é chamado de ácido de Lewis; por outro lado, qualquer molécula que tende a doar um par de elétrons é denominada de base de Lewis. Como um refinamento da interações ácido-base, a teoria HSAB leva em conta a polarização e tamanho dos íons.
+Compostos inorgânicos são naturalmente encontrados na natureza como minerais. O solo pode conter sulfeto de ferro como pirita, e o sulfato de cálcio como gipsita. Compostos inorgânicos também podem ser encontrados em outras diversas formas, tais como biomoléculas: eletrólitos (cloreto de sódio), armazenamento de energia (ATP) ou na construção (o polifosfato é o arcabouço do DNA).
+O primeiro composto inorgânico feito pelo homem foi o nitrato de amônia para fertilização do solo, produzido pelo processo de Haber. Compostos inorgânicos são sintetizados com o uso de catalisadores tais como pentóxido de vanádio e cloreto de titânio(III), ou com reagentes da química orgânica tais como hidreto de alumínio e lítio.
+
+
+== História ==
+
+Muitos materiais inorgânicos e alguns nutrientes já eram conhecidos na antiguidade: a obtenção de metais (ouro, prata, cobre, estanho, chumbo, ferro, mercúrio) a partir de minérios, a indústria cerâmica, a preparação de vidro (Egito), a produção de porcelana (China), os corantes minerais (acetato de cobre (II), alvaiade, cinábrio, Auripigmento), o enxofre para fumo, o cal (para argamassas usadas em construções) e sais tais como o cloreto de sódio (para a preparação de alimentos), o natrão (para a produção de vidro e sabões), e o alume (para uso em curtumes).
+Durante o período da alquimia, os métodos de preparação de ácido sulfúrico, ácido clorídrico, ácido nítrico e água régia (uma mistura de ácido clorídrico e ácido nítrico usada dissolver o ouro) já eram conhecidos pelo árabes. O processo de fabricação de ácidos foi posteriormente melhorado significativamente por Johann Rudolph Glauber em meados do século XVI, que ainda desenvolveu um método para a obtenção de ácido clorídrico fumegante. Robert Boyle desenvolveu sua magnum opus "O Químico Cético", abandonando as teorias aristotélicas de alquimia e contemplando a pesquisa experimental e conclusões com base em experimentos. Georg Ernst Stahl e Johann Joachim Becher desenvolveram, em 1700, a teoria do flogisto. Esta teoria, que se manteve por 80 anos até ser refutada, afirmava que as substâncias suscetíveis de sofrer combustão continham o flogisto, e que o processo de combustão consistia basicamente na perda desta substância. A causa da má interpretação da teoria do flogisto era a então substância ainda desconhecida presente no ar, o oxigênio. Joseph Priestley, estudando a composição do ar, percebeu a existência de uma substância no ar, a qual participava dos processos respiratórios e promovia reações de oxidação de metais aos seus óxidos. A teoria de elementos de Boyle considerava que um elemento químico era uma pluralidade de átomos idênticos, indivisíveis. John Dalton foi o primeiro a tabelar um conjunto de pesos atômicos de elementos e Jöns Jacob Berzelius desenvolveu a linguagem de fórmulas com uma ou duas letras latinas para os elementos químicos.
+O período seguinte foi a busca de novos elementos químicos, a determinação de seus pesos atômicos exatos e sua caracterização por reações com outras substâncias, sendo esta uma das tarefas mais importantes da química inorgânica. Lothar Meyer e Dmitri Mendeleev ordenaram dos elementos químicos por peso atômico e com base na capacidade de fazer ligações químicas, originando a tabela periódica. Svante Arrhenius, Jacobus Henricus van 't Hoff e Wilhelm Ostwald estimaram a constante de dissociação de sais, ácidos e bases em soluções aquosas. Alfred Werner questionou a validade das teorias e modelos aceitos na química orgânica, estruturando a nova química inorgânica em termos dos conceitos de coordenação e de estereoquímica. A química inorgânica passou por um período de menor atividade, que se estendeu até por volta de 1940. Entretanto, esse foi o período de renovação conceitual, marcado pelo surgimento das teorias quânticas. Com a Segunda Guerra Mundial, o mundo ingressou na era atômica, marcada pelo descobrimento dos elementos transurânicos e pelos avanços na radioquímica. A disponibilização de isótopos permitiu a realização de experimentos importantes sobre o comportamento cinético e mecanístico dos compostos inorgânicos, o qual foi racionalizado por Henry Taube, em 1949, com base nas teorias de ligação. O entendimento lógico do caráter lábil/inerte dos compostos de coordenação lançou a semente dos mecanismos de transferência de elétrons, propostos por Taube em 1953, definitivamente consagrados com o Prêmio Nobel que lhe foi outorgado em 1983.
+
+
+== Categoria das reações da química inorgânica ==
+Há quatro categorias das reações da química inorgânica: reação de síntese (ou combinação), reação de decomposição, reação de simples troca e reação de dupla troca.
+
+
+== Grupos da química inorgânica ==
+Na química inorgânica, existem quatro grupos funcionais mais recorrentes: óxidos, ácidos, bases e sais.
+Sobre ácidos e bases, podemos dizer que existem diversas teorias e diferentes definições para convencionar e denominar o que é um ácido e uma base. Como se trata de definições, não podemos falar que uma teoria está mais certa que a outra. Desta forma, utilizamos a definição que é mais conveniente para solucionar um determinado problema.
+No princípio da química, os ácidos eram identificados por seu gosto azedo, e por seu efeito em certos pigmentos de plantas. As bases eram substâncias que reagiam com os ácidos e formavam sais. A partir desses pressupostos Arrhenius (1884), sugeriu uma das teorias de ácidos e bases mais conhecidas dentro da ciência, e a que é mais difundida no Ensino Médio. Para Arrhenius, ''Substâncias que produziam H+ foram denominadas ácidos e aquelas que produziam OH- bases'' (JD Lee, Química Inorgânica não tão concisa). O estudo de Arrhenius, se limitou à soluções efetuadas exclusivamente em água, que até o final do século XIX, acreditava-se que era o único solvente no qual poderia ocorrer reações iônicas. A definição de ácido-base se tornava muito limitada dessa maneira, ''os conceitos de de ácido e base, definidos para reações aquosas, devem ser ampliados para englobar também solvente não-aquosos.
+Explorando as reações de ácidos e bases em solventes diferentes da água, como a amônia líquida, ácido acético glacial e ácido sulfúrico anidro, e também outros solventes que envolvem o hidrogênio, Johannes Nicolaus Brønsted e Thomas Martin Lowry (1923), desenvolveram uma nova concepção de ácidos e bases, para esse conjunto de pesquisadores, ácido é aquilo que tem um potencial de doar um próton ( ou em outra termologia, doar um H+), já uma base é aquilo que tem um potencial de receber um próton ( receber um H+). ''Espécies químicas que diferem na composição apenas por um próton são denominados ''pares conjugados''.  Portanto, cada ácido possui sua respectiva base conjugada que se forma quando o ácido doa um próton. Analogamente, cada base possui um ácido conjugado correspondente.''(JD Lee, Química Inorgânica não tão concisa). Exemplo:  
+  
+    
+      
+        
+          HCl
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟷
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          
+            Cl
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {HCl + H2O <-> H3O+ + Cl-}}}
+  
+. Nesta equação, o HCl atua como ácido, pois ele doa um próton, e o H2O atua como uma base, pois ela recebe um próton. O H3O+ atua como ácido conjugado da base H2O, e o Cl- atua como base conjugada do ácido HCl.
+Mais para frente, Gilbert Newton Lewis, trouxe uma nova concepção para ácidos e bases, esta que não dependerá da presença de prótons, apenas de elétrons. Para Lewis, ácidos são substâncias capazes de receber pares de elétrons, e bases são substâncias capazes de doar pares de elétrons. Exemplo: 
+  
+    
+      
+        
+          
+            H
+            
+              +
+            
+          
+          +
+          :
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            
+              [
+              H
+              ⟵:
+              
+                NH
+                
+                  3
+                
+                
+                  
+                
+              
+              ]
+            
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H+ + :NH3 -> [H<-:NH3]+}}}
+  
+ . Nesta equação, o próton H+ é um ácido para Lewis, e a amônia é uma base, pois o par de elétrons livres do nitrogênio pode ser doado para um próton. (JD Lee, Química Inorgânica não tão concisa).
+Óxidos são compostos binários derivados do Oxigênio (Exemplo: SO2), a eletronegatividade desse elemento só é menor que a do Flúor. O oxigênio exibe estados de oxidação negativos em todos os seus compostos, com exceção daqueles formados com o Flúor. ''O estado de oxidação -2 é claramente o mais comum, de modo que os compostos nesse estado de oxidação são chamados de óxidos''. ( BROWN, TL. Química a Ciência Central, 13ª ed. pag. 1007).
+Sais são sólidos iônicos, formados por um cátion e um ânion através de uma ligação iônica. Os elevados pontos de fusão apenas comprovam o força que uma ligação iônica possui. A interação e força de uma ligação iônica depende da carga e do tamanho dos íons, quanto maior for a carga dos íons, maior as atrações entre cátions e ânions. Um sal pode ser formado a partir de uma reação entre uma base e um ácido de Arrhenius, em que o produtor será o próprio sal e água.
+
+
+== Campo da química inorgânica ==
+Os maiores ramos da química inorgânica incluem:
+
+Minerais, tais como sal, amianto, silicatos etc.
+Metais e suas ligas, como ferro, cobre, alumínio, latão, bronze etc.
+Compostos envolvendo elementos não-metálicos, como silício, fósforo, cloro, oxigênio, por exemplo água.
+Compostos de coordenação que envolvem metais de transição e espécies doadoras de elétrons.
+Comercialmente, importantes substâncias inorgânicas incluem chips de silício, transistores, monitores de cristal líquido, cabos de fibra óptica e um grande número de catalisadores.
+A química inorgânica é baseada na físico-química e forma a base para a mineralogia. Ela frequentemente possui interseções com a geoquímica, química analítica, química ambiental e química organometálica.
+O leque da química inorgânica inclui compostos moleculares, os quais podem existir como moléculas discretas, e cristais (estudado(s) pela cristalografia e química do estado sólido).
+
+
+== Ver também ==
+Química orgânica
+
+
+== Referências ==

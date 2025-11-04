@@ -1,0 +1,69 @@
+## Processamento de Linguagem Natural: Ensinando Computadores a Entender Nossa Língua
+
+O Processamento de Linguagem Natural (PLN) é um campo da ciência da computação que busca permitir que computadores entendam e processem a linguagem humana, também conhecida como linguagem natural. Pense nisso como ensinar um computador a "ler" e "escrever" em português. O PLN é um ramo da inteligência artificial e se relaciona com áreas como recuperação de informação, representação de conhecimento e linguística.
+
+**O que um sistema de PLN faz?**
+
+Um sistema de PLN realiza diversas tarefas, incluindo:
+
+*   **Reconhecimento de fala:** Transforma a fala em texto (ex: o que você usa para dar comandos de voz no celular).
+*   **Classificação de texto:** Categoriza textos (ex: identificar se um e-mail é spam ou não).
+*   **Compreensão da linguagem natural:** Entende o significado do texto (ex: entender uma pergunta para poder respondê-la).
+*   **Geração de linguagem natural:** Cria texto automaticamente (ex: escrever um resumo de um artigo).
+
+### Uma Breve História do PLN
+
+A história do PLN começou na década de 1950. Um marco importante foi o artigo de Alan Turing, "Computing Machinery and Intelligence" (1950), que propôs o Teste de Turing como um critério para inteligência. Esse teste envolve a capacidade de um computador de se comunicar em linguagem natural de forma indistinguível de um humano.
+
+O PLN passou por diferentes fases, cada uma com suas características:
+
+**1. PLN Simbólico (1950 - Início dos anos 90): Regras Manuais**
+
+Nesta fase, os sistemas de PLN eram baseados em regras gramaticais e dicionários criados manualmente por especialistas.
+
+*   **Como funcionava:** Os programadores escreviam regras complexas para analisar e gerar a linguagem. Imagine um livro de receitas para o computador "entender" o português.
+*   **Exemplo:** O sistema ELIZA, que simulava um psicoterapeuta. Ele usava um conjunto limitado de regras para responder às perguntas dos usuários. Por exemplo, se você dissesse "Estou triste", ele poderia responder "Por que você está triste?".
+*   **Limitações:** Criar essas regras era um trabalho árduo e demorado. Além disso, os sistemas eram frágeis e não conseguiam lidar bem com variações na linguagem.
+
+**2. PLN Estatístico (1990 - Presente): Aprendizado com Dados**
+
+Com o aumento do poder computacional e a disponibilidade de grandes quantidades de dados (textos, traduções, etc), o PLN passou a usar algoritmos de aprendizado de máquina para analisar a linguagem.
+
+*   **Como funcionava:** Em vez de regras, o sistema "aprende" padrões na linguagem a partir dos dados. Ele analisa estatisticamente como as palavras são usadas e como as frases são construídas.
+*   **Exemplo:** Sistemas de tradução automática que aprendem a traduzir frases a partir de grandes quantidades de textos traduzidos.
+*   **Vantagens:** Mais robustez, capacidade de lidar com variações na linguagem e menor necessidade de conhecimento especializado.
+*   **Desafios:** Necessidade de grandes quantidades de dados de treinamento.
+
+**3. PLN com Redes Neurais (2010 - Presente): Aprendizado Profundo**
+
+Avanços recentes em aprendizado profundo (redes neurais com muitas camadas) revolucionaram o PLN.
+
+*   **Como funcionava:** As redes neurais aprendem representações complexas da linguagem, capturando nuances de significado e contexto.
+*   **Exemplo:** Sistemas de reconhecimento de fala que conseguem entender diferentes sotaques e ruídos de fundo.
+*   **Vantagens:** Desempenho superior em muitas tarefas, capacidade de aprender representações complexas da linguagem automaticamente.
+*   **Desafios:** Necessidade de ainda mais dados e poder computacional, interpretabilidade dos modelos (é difícil entender como a rede neural chegou a uma determinada conclusão).
+
+### Diferentes Abordagens em Detalhe:
+
+*   **Simbólica:** Baseada em regras predefinidas, como gramáticas. Útil quando há poucos dados disponíveis ou para tarefas específicas como tokenização.
+*   **Estatística:** Usa modelos estatísticos para aprender padrões a partir de dados. Mais robusta que a simbólica, mas requer muitos dados.
+*   **Redes Neurais:** Utiliza redes neurais profundas para aprender representações complexas da linguagem. Atualmente, a abordagem mais poderosa, mas exige muitos recursos computacionais.
+
+### Tarefas Comuns em PLN
+
+O PLN engloba diversas tarefas, algumas com aplicações diretas e outras como etapas para resolver problemas maiores:
+
+*   **Reconhecimento Óptico de Caracteres (OCR):** Converter imagens de texto em texto digital (ex: digitalizar um livro).
+*   **Reconhecimento de Fala:** Converter áudio em texto (ex: assistentes virtuais como a Siri).
+*   **Síntese de Fala (Text-to-Speech):** Converter texto em áudio (ex: leitores de tela para deficientes visuais).
+*   **Tokenização:** Dividir um texto em unidades menores (palavras ou partes de palavras).
+*   **Análise Morfológica:** Analisar a estrutura das palavras (ex: identificar o radical, prefixo e sufixo).
+*   **Análise Sintática:** Analisar a estrutura das frases (ex: identificar o sujeito, verbo e objeto).
+*   **Análise Semântica:** Entender o significado das palavras e frases.
+*   **Reconhecimento de Entidades Nomeadas (NER):** Identificar e classificar entidades em um texto (ex: pessoas, lugares, organizações).
+*   **Análise de Sentimento:** Determinar a opinião ou emoção expressa em um texto (ex: positivo, negativo, neutro).
+*   **Tradução Automática:** Traduzir texto de um idioma para outro.
+*   **Resumo Automático:** Gerar um resumo conciso de um texto.
+*   **Resposta a Perguntas:** Responder a perguntas em linguagem natural.
+
+O Processamento de Linguagem Natural está em constante evolução e tem um enorme potencial para transformar a forma como interagimos com a tecnologia.

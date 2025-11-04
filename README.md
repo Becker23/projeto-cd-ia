@@ -18,56 +18,60 @@ A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e 
 
 O dataset foi composto a partir de múltiplas fontes para garantir diversidade textual:
 
-| Fonte | Tipo de escrita | Propósito |
-|------|-----------------|-----------|
-| **Wikipédia** | Texto enciclopédico formal | Escrita humana confiável |
-| **Redações Nota 1000 do ENEM** | Texto argumentativo | Escrita humana estruturada |
-| **Reviews do Mercado Livre** | Texto informal espontâneo | Escrita natural cotidiana |
-| **Modelos de IA (ChatGPT / Gemini, etc.)** | Reescritas automáticas | Referência de texto artificial |
+| Fonte                          | Tipo de escrita            | Propósito                      |
+| ------------------------------ | -------------------------- | ------------------------------ |
+| **Wikipédia**                  | Texto enciclopédico formal | Escrita humana confiável       |
+| **Redações Nota 1000 do ENEM** | Texto argumentativo        | Escrita humana estruturada     |
+| **Reviews do Mercado Livre**   | Texto informal espontâneo  | Escrita natural cotidiana      |
+| **Modelos de IA (Gemini)**     | Reescritas automáticas     | Referência de texto artificial |
 
 Foram criados pares correspondentes para cada tema:
 
-*_original.txt → texto escrito por humano
-*_ia.txt → versão reescrita por IA
-
+_\_original.txt → texto escrito por humano
+_\_ia.txt → versão reescrita por IA
 
 ---
 
 ## 🧠 Metodologia
 
 1. **Pré-processamento de texto**
+
    - Normalização de acentuação e caracteres
    - Remoção de ruídos
    - Tokenização
 
 2. **Vetorização**
+
    - Representação utilizando **TF-IDF**
 
 3. **Modelos Avaliados**
+
    - **LinearSVC** (baseline eficiente e leve)
    - **BERT (Transformers)** como modelo contextual mais robusto
 
 4. **Avaliação**
    - Conjunto de treino e teste com divisão estratificada
-   - Métricas: *accuracy, precision, recall, f1-score* e matriz de confusão
+   - Métricas: _accuracy, precision, recall, f1-score_ e matriz de confusão
 
 ---
 
 ## 📈 Resultados Obtidos
 
 ### Modelo TF-IDF + LinearSVC
-| Métrica | Valor |
-|--------|-------|
-| **Acurácia** | **0.899** |
-| F1-score (Humano) | 0.892 |
-| F1-score (IA) | 0.905 |
+
+| Métrica           | Valor     |
+| ----------------- | --------- |
+| **Acurácia**      | **0.899** |
+| F1-score (Humano) | 0.892     |
+| F1-score (IA)     | 0.905     |
 
 ### Modelo BERT (Fine-Tuning)
-| Métrica | Valor |
-|--------|-------|
-| **Acurácia** | **0.956** |
-| F1-score (Humano) | 0.953 |
-| F1-score (IA) | 0.959 |
+
+| Métrica           | Valor     |
+| ----------------- | --------- |
+| **Acurácia**      | **0.956** |
+| F1-score (Humano) | 0.953     |
+| F1-score (IA)     | 0.959     |
 
 > O modelo **BERT apresentou desempenho superior**, indicando melhor capacidade de capturar nuances linguísticas entre escrita humana e IA.
 
@@ -77,13 +81,13 @@ Foram criados pares correspondentes para cada tema:
 
 A aplicação web desenvolvida com **Flask** permite:
 
-| Função | Descrição |
-|-------|-----------|
-| **Verificação de texto** | O usuário cola um texto e recebe diagnóstico + probabilidade |
-| **Jogo "Humano x IA"** | Mostra um trecho aleatório e o usuário tenta adivinhar sua origem |
-| **Pontuação dinâmica** | O jogo registra e exibe o desempenho do usuário |
+| Função                   | Descrição                                                         |
+| ------------------------ | ----------------------------------------------------------------- |
+| **Verificação de texto** | O usuário cola um texto e recebe diagnóstico + probabilidade      |
+| **Jogo "Humano x IA"**   | Mostra um trecho aleatório e o usuário tenta adivinhar sua origem |
 
 ### Executando a aplicação
+
 python app.py
 
 Depois acesse:
@@ -106,7 +110,7 @@ Carlos Augusto Freire Maia de Oliveira
 RA: 21.00781-0
 
 Cesar Augusto Bresciani Junior
-RA: 21.00478-0 
+RA: 21.00478-0
 
-ENZO LEONARDO SABATELLI DE MOURA
+Enzo Leonardo Sabatelli de Moura
 RA: 21.01535-0

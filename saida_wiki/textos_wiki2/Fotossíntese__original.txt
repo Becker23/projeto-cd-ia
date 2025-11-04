@@ -1,0 +1,92 @@
+A fotossíntese é um processo realizado por plantas e outros organismos para produzir seu próprio alimento e converter energia luminosa em energia química que, por meio da respiração celular, pode ser liberada posteriormente para alimentar as atividades do organismo. Parte dessa energia química é armazenada em moléculas de carboidratos, como açúcares e amidos, que são sintetizados a partir do dióxido de carbono e da água – daí o nome fotossíntese, do grego phōs (φῶς), "luz", e súnthesis (σύνθεσις), "colocar junto". A maioria das plantas, algas e cianobactérias realizam a fotossíntese; tais organismos são chamados fotoautotróficos. A fotossíntese é amplamente responsável pela produção e manutenção do teor de oxigênio da atmosfera da Terra e fornece a maior parte da energia necessária para a vida no planeta.
+Embora a fotossíntese seja realizada de forma diferente por cada espécie, o processo sempre começa quando a energia da luz é absorvida por proteínas chamadas centros de reação que contêm pigmentos/cromóforos de clorofila verde (ou outras colorações). Nas plantas, essas proteínas são mantidas dentro de organelas chamadas cloroplastos, que são mais abundantes nas células das folhas, enquanto nas bactérias elas estão embutidas na membrana plasmática. Nessas reações dependentes de luz, parte da energia é usada para tirar elétrons de substâncias adequadas, como água, produzindo oxigênio. O hidrogênio liberado pela separação da água é utilizado na criação de mais dois compostos que servem como reservas de energia a curto prazo, permitindo a sua transferência para conduzir outras reações: estes compostos são o fosfato de dinucleótido de nicotinamida e adenina reduzido (NADPH) e o trifosfato de adenosina (ATP), que sevem como a "moeda energética" das células.
+Nas plantas, algas e cianobactérias, os açúcares são sintetizados por uma sequência de reações independentes de luz chamada ciclo de Calvin. Neste, o dióxido de carbono atmosférico é incorporado a compostos orgânicos de carbono já existentes, como a ribulose bisfosfato (RuBP). Usando o ATP e o NADPH produzidos pelas reações dependentes de luz, os compostos resultantes são então reduzidos e removidos para formar mais carboidratos, como a glicose. Em outras bactérias, diferentes mecanismos, como o ciclo de Krebs reverso, são usados ​​para atingir o mesmo objetivo.
+Os primeiros organismos fotossintéticos provavelmente se desenvolveram no início da história evolutiva da vida e provavelmente usavam agentes redutores como hidrogênio ou sulfeto de hidrogênio, em vez de água, como fontes de elétrons. As cianobactérias apareceram mais tarde; o excesso de oxigênio que elas produziram contribuiu diretamente para a oxigenação da Terra, o que tornou possível a evolução de formas de vida complexas. Hoje, a taxa média global de captura de energia pela fotossíntese é de aproximadamente 130 terawatts, que é cerca de oito vezes o consumo atual de energia da civilização humana. Organismos fotossintéticos também convertem cerca de 100 a 115 bilhões de toneladas (91–104 de petagramas, ou bilhões de toneladas métricas) de carbono em biomassa por ano. A fotossíntese também é vital para os processos climáticos, pois captura o dióxido de carbono do ar e depois junta o carbono nas plantas e, posteriormente, nos solos e nos produtos colhidos. Estima-se que os cereais sozinhos se ligam a 3825 teragramas ou 3,825 petagramas de dióxido de carbono a cada ano, ou seja, 3,825 bilhões de toneladas métricas.
+
+
+== Processo da fotossíntese ==
+A fotossíntese é um processo físico-químico, a nível celular, realizado pelos seres vivos clorofilados, que utilizam dióxido de carbono e água, para obter glicose através da energia da luz solar, de acordo com a seguinte equação:
+
+A fotossíntese inicia a maior parte das cadeias alimentares na Terra. Sem ela, os animais e muitos outros seres heterotróficos seriam incapazes de sobreviver porque a base da sua alimentação estará sempre nas substâncias orgânicas proporcionadas pelas plantas verdes. A maior parte da vida na Terra usa a luz vermelha visível na fotossíntese, mas algumas usam luz infravermelha.
+
+
+== A relação da cor verde das plantas com a luz ==
+
+Aristóteles tinha observado e descrito que as plantas necessitavam de luz solar para adquirir a sua cor verde. No entanto, só em 1771, a fotossíntese começou a ser estudada por Joseph Priestley. Este químico inglês, confinando uma planta numa redoma de cristal comprovou a produção de uma substância que permitia a combustão e que, em certos casos, avivava a chama de um carvão em brasa. Posteriormente, concluiu-se que a substância observada era o gás oxigênio.
+As plantas possuem folhagem de coloração verde pois essa frequência de onda eletromagnética é refletida por não ser aproveitada de forma eficiente no processo da fotossíntese em que se converte a energia luminosa em química. Dessa forma, se um vegetal for iluminado somente com luz monocromática verde a taxa de fotossíntese será insuficiente para garantir a sua sobrevivência e ocorrerá a atrofia dos tecidos da planta, podendo resultar na morte do organismo.
+Enquanto a luz verde é a que gera o menor rendimento fotossintético, as frequências de luz azul, violeta e vermelho são as que apresentam o maior índice de absorção pela clorofila.
+
+
+=== A descoberta da fotossíntese ===
+Em 1778, Jan Ingenhousz, físico-químico neerlandês, verificou que uma vela colocada dentro de um frasco fechado não se apagava, desde que houvesse também no frasco partes verdes de plantas e o frasco estivesse exposto à luz, ou seja, que na presença de luz, as plantas libertam oxigénio.
+
+
+=== A incorporação da água pelas plantas ===
+Nicolas-Théodore de Saussure, já no início do século XIX descobriu que os vegetais incorporavam água em seus tecidos.
+Com o passar do tempo, os avanços no campo óptico e as tecnologias de estudo aprimoradas, possibilitaram os conhecimentos em relação a nutrição vegetal.
+
+
+=== A descoberta da retirada de nutrientes do solo ===
+
+Uma observação importante foi que o azoto, assim como diversos sais e minerais, era retirado do solo pelas plantas e que a energia proveniente do Sol se transformava em energia química, ficando armazenada numa série de produtos em virtude de um processo que então acabou por ser chamado de fotossíntese.
+A substância chamada de clorofila foi isolada na segunda década do século XIX. Ainda naquele século, descobriu-se que a clorofila era a responsável pela cor verde das plantas, além de desempenhar um papel importante na síntese da matéria orgânica. Julius von Sachs demonstrou que a clorofila se localizava nos chamados organelos celulares, que, por meio de estudos mais apurados, foram chamados de cloroplastos.
+
+
+=== A reprodução do ciclo da clorofila em laboratório ===
+Ao avançarem as técnicas bioquímicas, em 1954 foi possível o isolamento e extracção destes organelos. Foi Daniel Israel Arnon quem obteve cloroplastos a partir das células do espinafre, conseguindo reproduzir em laboratório as reações completas da fotossíntese.
+
+
+=== As etapas da fotossíntese ===
+Com estas técnicas, descobriu-se, por exemplo, que a fotossíntese ocorre ao longo de duas etapas:
+
+A fase fotoquímica ou fase luminosa (fase dependente da luz solar) é a primeira fase do processo fotossintético. Essa fase ocorre nos tilacoides. Seu evento principal é a fotofosforilação, que é a adição de fosfato inorgânico (Pi) ao difosfato de adenosina (ADP). A energia luminosa é captada por meio de pigmentos fotossintetizantes, capazes de conduzi-la até o centro de reação. Tal centro é composto por um par de clorofilas α, também denominado P700. Os elétrons excitados da P700 saem da molécula e são transferidos para uma primeira substância aceptora de elétrons, a ferredoxina. Esta logo os transfere para outra substância, e assim por diante, formando uma cadeia de transporte de elétrons. Tais substâncias aceptoras estão presente na membrana do tilacoide. Nessa transferência entre os aceptores, os elétrons vão liberando energia gradativamente e esta é aproveitada para transportar hidrogênio iônico de fora para dentro do tilacoide, reduzindo o pH do interior deste. A redução do pH ativa o complexo proteico "ATP sintetase". O fluxo de hidrogênios iônicos através do complexo gira, em seu interior, uma espécie de "turbina proteica", que promove a fosforilação de moléculas de adenosina difosfato dando origem à adenosina trifosfato (ATP). Ao chegarem ao último aceptor, os elétrons têm nível energético suficientemente baixo e retornam ao par de clorofilas 'a', fala-se em fotofosforilação cíclica.
+Porém, existe outra forma de fosforilação, a fotofosforilação acíclica onde os elétrons das moléculas de clorofila 'a' (P700), excitados pela luz, são captados pela ferredoxina, mas ao em vez de passarem pela cadeia transportadora são captados pelo NADP (nicotinamida adenina dinucleotídeo Fosfato) e não retornam para o P700. Este fica temporariamente deficiente de elétrons. Esses elétrons são repostos por outros provenientes de outro Em seguida passa aos citocromos e plastocianina até serem captados pelo P700, que se recompõe. Este processo de transporte também promove a síntese do (ATP). Já o P680 fica deficiente de elétrons. Esses elétrons serão repostos pela fotólise da água. A quebra da molécula da água por radiação (fotólise da água) produz íons de hidrogênios e hidróxidos. Os elétrons dos íons hidróxidos são utilizados para recompor o P680 e os íons hidrogênio são aceptados pelo NADP, com isso ocorre a formação de água oxigenada (H2O2) oriunda da reação de síntese entre as hidroxilas. A água oxigenada é decomposta pela célula em água e O2 sendo este último liberado do processo como resíduo. Com a repetição do processo forma-se o aporte energético e de NADPHs necessários para a fase escura.
+Equação:
+12H2O + 6NADP + 9ADP + 9P -(luz)→ 9ATP + 6NADPH2 + 3O2+ 6H2O
+
+A fase química ou reações de assimilação de carbono (algumas vezes chamada erroneamente de fase escura)  é um ciclo descoberto pelos cientistas Melvin Calvin, Andrew Benson e James Bassham. Nessa fase chamada de ciclo de Calvin ou ciclo das pentoses, que ocorre no estroma do cloroplasto, o tilacoide fornece ATP e NADPH2 ao estroma do cloroplasto, onde se encontra a pentose (ribulose fosfato), essa pentose ativada por um fosfato, fixa o carbono que provém do dióxido de carbono do ar sob a ação catalisadora da "RuBisCO" (ribulose bifosfato carboxilase-oxidase) e em seguida é hidrogenada pelo NAPH2 formando o aldeído que dará origem à glicose. Para a síntese de uma molécula de glicose são fixadas seis de dióxido de carbono, permitindo que o processo recicle a ribulose fosfato. devolvendo-a ao estroma. Desta fase resulta a formação de compostos orgânicos como a glicose, necessária à atividade da planta. A denominação de "fase escura" é incorreta pois para a "RuBisCO" entrar em atividade determinando a fixação do CO2 atmosférico para a formação de moléculas de glicose, ela precisa estar num estado reduzido, e para isso acontecer é necessário que a luz esteja presente.
+Equação:
+6CO2 + 12NADPH2 + 18ATP -(enzimas)→ 12NADP + 18ADP + 18P + 6H2O + C6H12O6
+Plantas jovens consomem mais dióxido de carbono e libertam mais oxigénio, pois o carbono é incorporado a sua estrutura física durante o crescimento.
+É importante realçar que a "fase escura" (cuja melhor definição é: reações de assimilação de carbono) não ocorre apenas à noite ou na ausência de luz, o nome refere-se ao facto desta fase não necessitar da luz para funcionar. Ela acontece logo após a fase clara numa reação em cadeia até que o substrato se esgote.
+A equação geral da formação de glicose é resultado da soma das duas equações:
+Equação simplificada da fase fotoquímica: 12H2O + 12NADP + 18ADP + 18P -(luz)→ 18ATP + 12NADPH2 + 6O2
+Equação simplificada da fase química: 6CO2 + 12NADPH2 + 18ATP -(enzimas)→ 12NADP + 18ADP + 18P + 6H2O + C6H12O6
+Somando-as e simplificando, obtém-se a equação geral da fotossíntese: 12H2O + 6CO2 → 6O2 +C6H12O6 + 6H2O
+
+
+== Organismos fotossintetizadores ==
+Além das plantas verdes, incluem-se entre os organismos fotossintéticos, as algas (como as diatomáceas, as euglenófitas), as cianofíceas (algas verde-azuladas) e diversas bactérias.
+
+
+=== Quimeras ===
+Os cientistas desenvolveram um sistema de proteína fotossintética usando clorofila e bacterioclorofila para aprimorar uma abordagem mais sustentável dos dispositivos tecnológicos movidos a energia solar. Ao fazer isso, os cientistas demonstraram que os dois sistemas de pigmentos poderiam trabalhar juntos para obter a conversão de energia solar.
+
+
+== Fatores que afetam ==
+Concentração de dióxido de carbono: É geralmente o fator limitante da fotossíntese para as plantas terrestres em geral, devido a sua baixa concentração na atmosfera, que é em torno de 0,04%.
+Temperatura: Para a maioria das plantas, a temperatura ótima para os processos fotossintéticos está entre 30 e 38 °C . Acima dos 45 °C a velocidade da reação decresce, pois cessa a atividade enzimática.
+Água: A água é fundamental como fonte de hidrogênio para a produção da matéria orgânica. Em regiões secas as plantas têm a água como um grande fator limitante.
+Morfologia foliar
+
+
+== Ponto de compensação fótico ==
+É chamado "ponto de compensação fótico" o instante em que as velocidades de fotossíntese e respiração são exatamente ou simplesmente as mesmas. Neste instante toda a glicose produzida na fotossíntese é "quebrada" na respiração, e todo dióxido de carbono(CO2) gasto na fotossíntese é produzido na respiração.
+
+
+== A importância da fotossíntese ==
+A fotossíntese é o principal processo de transformação de energia na biosfera. Ao alimentarmo-nos, parte das substâncias orgânicas, produzidas graças à fotossíntese, entram na nossa constituição celular, enquanto outras (os nutrientes energéticos) fornecem a energia necessária às nossas funções vitais, como o crescimento e a reprodução. Além do mais, ela fornece oxigênio para a respiração dos organismos heterotróficos. É essencial para a manutenção da vida na Terra.
+
+
+== Subprodutos remotos da fotossíntese ==
+De acordo com a teoria da geração orgânica do petróleo, indiretamente energia química presente no petróleo e no carvão, que são utilizados pelo ser humano como combustíveis, têm origem na fotossíntese, pois, são produtos orgânicos provenientes de seres vivos (plantas ou seres que se alimentavam de plantas) de outras eras geológicas.
+
+
+== Ver também ==
+Fotossíntese artificial
+
+
+== Referências ==
+
+
+== Bibliografia ==

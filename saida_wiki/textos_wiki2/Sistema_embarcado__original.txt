@@ -1,0 +1,84 @@
+Um sistema embarcado (português brasileiro) ou sistema embedido (português europeu) (ou ainda sistema embutido) é um sistema eletrônico microprocessado, completamente encapsulado, dedicado ao dispositivo ou sistema que ele controla. Diferentemente de computadores de propósito geral, como o computador pessoal, um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos. Já que o sistema é dedicado a tarefas específicas, através de engenharia pode-se otimizar o projeto reduzindo tamanho, recursos e custo do produto.
+Em geral tais sistemas não podem ter sua funcionalidade alterada durante o uso. Caso queira-se modificar o propósito, é necessário reprogramar todo o sistema.
+Sistemas como PDAs são geralmente considerados sistemas embarcados pela natureza do material informático (hardware) que os compõe, apesar de serem muito mais flexíveis em termos lógicos (software). Fisicamente, os sistemas embarcados são utilizados em diversos equipamentos, desde leitores MP3 a semáforos.
+
+
+== História ==
+Nos primeiros anos dos computadores digitais na década de 1940, os computadores eram por vezes dedicados a uma única tarefa. Eram, entretanto, muito grandes para serem considerados embarcados. O conceito de controlador programável foi desenvolvido algum tempo depois.
+O primeiro sistema embarcado reconhecido foi o sistema aeroespacial Apollo Guidance Computer, desenvolvido por Charles Stark Draper no MIT. O computador de guia, que operava em tempo real, era considerado o item mais arriscado do projeto Apollo. O uso de circuitos integrados monolíticos para reduzir o tamanho e peso do equipamento aumentou tal risco.
+O primeiro sistema embarcado maciçamente produzido foi sistema militar computador-guia do míssil nuclear LGM-30 Míssil Minuteman, lançado em 1961. Ele possuía um disco rígido para a memória principal. Quando a segunda versão do míssil entrou em produção em 1966, o computador guia foi substituído por um novo, que constituiu o primeiro uso em grande volume de circuitos integrados. A tecnologia desse projeto reduziu o preço de circuitos integrados como o NAND de mil para três dólares americanos cada, permitindo seu uso em sistemas comerciais.
+Desde suas primeiras aplicações na década de 1960, os sistemas embarcados vêm reduzindo seu preço. Também tem havido um aumento no poder de processamento e funcionalidade. Em 1978 foi lançada pela National Electrical Manufacturers Association a norma para microcontroladores programáveis.
+Em meados da década de 1980, vários componentes externos foram integrados no mesmo chip do processador, o que resultou em circuitos integrados chamados microcontroladores e na difusão dos sistemas embarcados.
+Com o custo de microcontroladores menor que um dólar americano, tornou-se viável substituir componentes analógicos caros como potenciômetros e capacitores por eletrônica digital controlada por pequenos microcontroladores. No final da década de 1980, os sistemas embarcados já eram a norma ao invés da exceção em dispositivos eletrônicos.
+
+
+== Características ==
+Sistemas embarcados são desenvolvidos para uma tarefa específica. Por questões como segurança e usabilidade, alguns inclusive possuem restrições para computação em tempo real. O software escrito para sistemas embarcados é muitas vezes chamado firmware, e armazenado em uma memória ROM ou memória flash ao invés de um disco rígido. Por vezes o sistema também é executado com recursos computacionais limitados: sem teclado, sem tela e com pouca memória.
+
+
+=== Interfaces do utilizador ===
+Sistemas embarcados podem possuir desde nenhuma interface do utilizador (dedicados somente a uma tarefa) a uma interface de utilizador completa, similar à dos sistemas operacionais desktop (em sistemas como PDAs). Sistemas mais simples utilizam botões, LEDs ou telas bastante limitadas, geralmente mostrando somente números ou uma fila pequena de caracteres.
+Sistemas mais complexos utilizam uma tela gráfica completa, usando tecnologias como tela tátil ou aquela em que o significado dos botões depende do contexto da tela. Computadores de mão também oferecem manípulos eletrónicos para apontar. O surgimento da World Wide Web forneceu aos desenvolvedores de sistemas embarcados a possibilidade de fornecer uma interface web através de uma conexão por rede. Isso evita o custo de uma tela sofisticada, ainda que seja fornecida uma interface complexa e completa a ser acessada em outro computador. De modo geral, roteadores usam tal habilidade.
+
+
+=== Processamento ===
+Em geral os sistemas embarcados possuem uma capacidade de processamento reduzida em comparação com computadores desktops. Ao invés de utilizar microprocessadores, os desenvolvedores preferem utilizar microcontroladores, pois estes já possuem diversos periféricos integrados no mesmo chip.
+Outra diferença é a variedade de arquiteturas disponíveis tais como ARM, MIPS, Coldfire/68k, PowerPC, x86, PIC, 8051, Atmel AVR, Renesas H8, SH, V850, FR-V, M32R, Z80 e Z8. Isso contrasta com o mercado de computadores pessoais, limitados à somente algumas arquiteturas.
+
+
+=== Periféricos ===
+Os sistemas embarcados comunicam-se com o meio externo através de periféricos. Estes periféricos podem ser combinados com o processador (como no caso dos sistemas microcontrolados) ou associados no sistema.
+Entre os periféricos mais comum temos:
+
+Entrada de dados através de teclas (geralmente através de teclados feitos com varredura matricial)
+LEDs;
+LCD (sendo os mais comuns os alfanuméricos por exemplo o HD44780);
+Interface serial - (Por exemplo RS 232, I2C);
+Universal Serial Bus - (USB);
+TCP/IP.
+
+
+=== Disponibilidade ===
+Sistemas embarcados residem em máquinas que, espera-se, possam trabalhar continuamente por anos ininterruptamente, e que possam por vezes recuperarem-se sozinhas após erros. Portanto, o software é geralmente desenvolvido e testado mais cuidadosamente de que em computadores pessoais. A recuperação de erros pode ser atingida com técnicas como o watchdog timer, que reinicia o sistema a menos que o software notifique periodicamente que está funcionando corretamente.
+
+
+== Alguns exemplos de onde são usados sistemas embarcados ==
+Aviônicos, como sistemas de controle inercial, controle de vôo e outros sistemas integrados nas aeronaves, como sistemas de orientação de mísseis e anticolisão
+Telefones celulares e centrais telefônicas
+Equipamentos de redes de computadores, como roteadores, hubs, switches e firewalls
+Impressoras
+Dispositivos de armazenamento (discos rígidos e disquetes)
+Equipamentos de automação comercial
+Em veículos automotores, controladores da tracção e antibloqueio dos freios (controle de tração, freios ABS); do motor (injeção eletrônica, ignição eletrônica, recursos para redução do consumo de combustível e emissão de poluentes)
+Calculadoras
+Eletrodomésticos, como fornos microondas, máquinas de lavar, aparelhos de TV não valvulados, DVD players
+Equipamentos médicos
+Videogames
+PDAs
+Urna eletrônica
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Jack G. , Michael Barr, Embedded Systems Dictionary, Taylor & Francis, 2003, ISBN 1-578-20120-9 (em inglês)
+Elecia White,  Making Embedded Systems: Design Patterns for Great Software , "O'Reilly Media, Inc.", 2011 ISBN 1-449-30214-9 (em inglês)
+Jack Ganssle,  The Art of Programming Embedded Systems , Elsevier, 2012 ISBN 0-080-49942-2 (em inglês)
+Michael Barr, Anthony Massa,  Programming Embedded Systems: With C and GNU Development Tools , "O'Reilly Media, Inc.", 2006 ISBN 0-596-55328-5 (em inglês)
+Jean J. Labrosse, Jack Ganssle, Robert Oshana,  Embedded Software , Elsevier, 2009 ISBN 0-080-55202-1 (em inglês)
+Mark Siegesmund,   Embedded C Programming: Techniques and Applications of C and PIC MCUS , Newnes, 2014 ISBN 0-128-01470-9 (em inglês)
+Cezar Taution, Software Embarcado - A nova onda da Informática, Brasport ISBN 8-574-52228-7
+Karim Yaghmour, Jon Masters, Phillipe Gerum, Gilad Ben-Yossef, Construindo Sistemas Linux Embarcados , Alta Books, ISBN 9-788-576-083-436 ISBN 8-576-08343-4
+Rodrigo M. A Almeida, Carlos Henrique Valério, Thatyana Faria Piola Seraphim, Programação de sistemas Embarcados, GEN LTC, 2016, ISBN 978-8535285185 (em português)
+Túlio Luiz dos Santos, Universidade Federal de Santa Catarina. Programa de Pós-Graduação em Engenharia Elétrica,    Desenvolvimento de um sistema embarcado para medição de corrente, Universidade Federal de Santa Catarina, Centro Tecnológico, Programa de Pós-graduação em Engenharia Elétrica, Florianópolis, 2010 OCLC 817160135
+Mathias José Kreutz Erdtmann, Universidade Federal de Santa Catarina. Programa de Pós-Graduação em Engenharia de Automação e Sistemas,  Desenvolvimento de uma plataforma robótica móvel incluindo sistema embarcado de visão estéreo , Universidade Federal de Santa Catarina, Centro Tecnológico, Programa de Pós-Graduação em Engenharia de Automação e Sistemas, Florianópolis, 2009 OCLC 817089299
+Andreu González Casaled, Francesc Xavier Estopà Mulet,   Sistema embarcado de verificación de coberturas ,  OCLC 804198983 (em castelhano)
+
+
+== Ligações externas ==
+
+«Entendendo os sistemas embarcados»

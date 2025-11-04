@@ -1,0 +1,13 @@
+A teoria dos grafos é um ramo da matemática que estuda as relações entre objetos de um conjunto, utilizando estruturas chamadas grafos. Um grafo é definido formalmente como um par *G* = (*V*, *E*), onde *V* é um conjunto não vazio de vértices (ou nós), e *E* é um conjunto de arestas, que são pares de vértices.
+
+Dependendo da aplicação, as arestas podem ser direcionadas (formando um dígrafo ou grafo orientado), ponderadas (com um valor numérico associado), ou permitir laços (arestas conectando um vértice a si mesmo). Um grafo com um único vértice e nenhuma aresta é chamado de grafo trivial.
+
+Grafos são usados para modelar diversas estruturas e problemas práticos. Por exemplo, a estrutura de links da Wikipédia pode ser representada como um dígrafo, onde os vértices são os artigos e as arestas representam os links entre eles. Dígrafos também são utilizados para representar máquinas de estado finito.
+
+O artigo de Leonhard Euler sobre o problema das sete pontes de Königsberg (1736) é frequentemente citado como o primeiro trabalho em teoria dos grafos e um dos primeiros resultados em topologia.  Posteriormente, Cayley estudou grafos do tipo árvore, com implicações na química teórica. O primeiro livro sobre a teoria dos grafos foi escrito por Dénes König em 1936. O problema das quatro cores é um problema famoso na teoria dos grafos.
+
+Na representação gráfica de um grafo, vértices são representados por círculos e arestas por linhas ou arcos conectando os vértices. Em dígrafos, a direção das arestas é indicada por setas.  Múltiplas representações gráficas podem corresponder ao mesmo grafo.
+
+Grafos podem ser armazenados em computadores através de estruturas de dados como listas de adjacência, listas de incidência, matrizes de adjacência e matrizes de incidência. A escolha da estrutura depende das características do grafo (esparso ou denso) e dos algoritmos a serem aplicados.
+
+Termos importantes na teoria dos grafos incluem: incidência (quando um vértice faz parte de uma aresta), adjacência (quando dois vértices estão conectados por uma aresta), grau (número de arestas incidentes a um vértice), passeio (uma sequência de vértices e arestas), caminho (um passeio sem vértices repetidos), ciclo (um caminho que começa e termina no mesmo vértice), grafo conexo (onde existe um caminho entre qualquer par de vértices), e grafo completo (onde todos os pares de vértices são adjacentes).

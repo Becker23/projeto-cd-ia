@@ -1,0 +1,13 @@
+Na matemática, o cálculo diferencial é um subcampo do cálculo que estuda as taxas nas quais as quantidades mudam. É uma das duas divisões tradicionais do cálculo, sendo a outra o cálculo integral – o estudo da área sob uma curva.
+Os principais objetos de estudo no cálculo diferencial são a derivada de uma função, noções relacionadas como o diferencial e suas aplicações. A derivada de uma função em um valor de entrada escolhido descreve a taxa de mudança da função perto desse valor de entrada. O processo de encontrar uma derivada é chamado de diferenciação. Geometricamente, a derivada em um ponto é a inclinação da reta tangente ao gráfico de uma função naquele ponto, desde que a derivada exista e esteja definida naquele ponto.
+A diferenciação tem aplicações em quase todas as disciplinas quantitativas. Na física, a derivada do deslocamento de um corpo em movimento em relação ao tempo é a velocidade do corpo e a derivada da velocidade em relação ao tempo é a aceleração. A derivada do momento de um corpo em relação ao tempo é igual à força aplicada ao corpo; reorganizando esta declaração de derivada leva à famosa equação F = ma associada à segunda lei de movimento de Newton. A taxa de reação de uma reação química é uma derivada. Em pesquisa operacional (PO), as derivadas determinam as maneiras mais eficientes de transportar materiais e projetar fábricas.
+As derivadas são frequentemente usadas para encontrar os máximos e mínimos de uma função. Equações envolvendo derivadas são chamadas de equações diferenciais e são fundamentais na descrição de fenômenos naturais. As derivadas são frequentemente usadas para encontrar os máximos e mínimos de uma função. Equações envolvendo derivadas são chamadas de equações diferenciais e são fundamentais na descrição de fenômenos naturais. Derivadas e suas generalizações aparecem em muitos campos da matemática, como análise complexa, análise funcional, geometria diferencial, teoria da medida e álgebra abstrata.
+
+
+== Derivada ==
+
+
+== História da diferenciação ==
+
+
+== Referências ==

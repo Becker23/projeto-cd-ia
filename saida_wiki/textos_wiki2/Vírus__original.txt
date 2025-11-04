@@ -1,0 +1,292 @@
+Vírus (do latim virus, "veneno" ou "toxina") são pequenos agentes infecciosos, a maioria com 20-300 nm de diâmetro, apesar de existirem vírus ɡiɡantes de (0,6–1,5 µm), que apresentam genoma constituído de uma ou várias moléculas de ácido nucleico (DNA ou RNA), as quais possuem a forma de fita simples ou dupla. Os ácidos nucleicos dos vírus geralmente apresentam-se revestidos por um envoltório proteico formado por uma ou várias proteínas, que pode ainda ser revestido por um complexo envelope formado por uma bicamada lipídica.
+As partículas virais são estruturas extremamente pequenas, submicroscópicas. A maioria dos vírus é tão diminuta que está além dos limites de resolução dos microscópios ópticos comuns. Por isso, para a sua visualização é  frequente o uso de microscópios eletrônicos. Vírus são estruturas simples, se comparados a células, e não são considerados organismos, pois não possuem organelas ou ribossomos, e não apresentam todo o potencial bioquímico (enzimas) necessário à produção de sua própria energia metabólica. Eles são considerados parasitas intracelulares obrigatórios (característica que os impede de serem considerados seres vivos), pois dependem de células para se multiplicarem. Além disso, diferentemente dos organismos vivos, os vírus são incapazes de crescer em tamanho e de se dividir. A partir das células hospedeiras, os vírus obtêm: aminoácidos e nucleotídeos; maquinaria de síntese de proteínas (ribossomos) e energia metabólica (ATP).
+Fora do ambiente intracelular, os vírus são inertes. Porém, uma vez dentro da célula, a capacidade de replicação dos vírus é surpreendente: um único vírus é capaz de multiplicar, em poucas horas, milhares de novos vírus. Os vírus são capazes de infectar seres vivos de todos os domínios (Eukarya, Archaea e Bactéria). Desta maneira, os vírus representam a maior diversidade biológica do planeta, sendo mais diversos que bactérias, plantas, fungos e animais juntos. Quase 200 mil tipos diferentes de vírus se espalham nos oceanos do mundo, de acordo com um estudo. A contagem de 2019 é 12 vezes maior do que o censo anterior de vírus marinhos registrado em 2016.
+Existem, individualmente, cerca de dez nonilhões (10³¹) de vírus no planeta Terra, uma quantidade cem milhões de vezes maior que o número de estrelas no universo observável.
+
+
+== Etimologia ==
+A palavra "vírus" vem do latim virus, que se refere a veneno, ou alguma substância nociva. Foi usada pela primeira vez, em inglês, em 1392. O termo "virulento", do latim virulentus (venenoso), data de 1400. O termo "virion" também é usado para se referir a uma única partícula viral infecciosa.
+
+
+== Histórico ==
+
+Em meados do século XIX, Louis Pasteur propôs a teoria microbiana das doenças, na qual explicava que todas as doenças eram causadas e propagadas por algum “tipo de vida diminuta” que se multiplicava no organismo doente, se transmitia para outro e o contaminava. Pasteur, no entanto, ao trabalhar com a raiva, constatou que, embora a doença fosse contagiosa e transmitida pela mordida de um animal raivoso, o micro-organismo não podia ser observado. Pasteur concluiu que o agente infeccioso estava presente mas era muito pequeno para ser observado através do microscópio.
+Em 1884, o microbiologista Charles Chamberland desenvolveu um filtro (conhecido como filtro Chamberland ou Chamberland-Pasteur), com poros mais pequenos do que uma bactéria. Fazendo passar uma solução que continha bactérias através desse filtro, as bactérias ficavam nele retidas e a solução filtrada obtida tornava-se estéril. Em 1886, Adolf Mayer demonstrou que a doença do tabaco podia ser transmitida a plantas saudáveis pela inoculação com extratos de plantas doentes. Em 1892, o biólogo Dmitri Ivanovski fez uso do filtro Chamberland para demonstrar que folhas de tabaco infectadas trituradas continuavam infectadas mesmo após a filtragem. Ivanovsky sugeriu que a infecção poderia ser causada por uma toxina produzida pelas bactérias, mas ele não persistiu nesta hipótese. Em 1898, o microbiologista Martinus Beijerinck repetiu a experiência independentemente e ficou convencido que a solução filtrada continha um novo agente infeccioso, denominado de contagium vivum fluidum (fluido vivo contagioso). Ele também observou que este agente apenas se reproduzia em células que se dividiam, mas não conseguiu determinar se este seria constituído de partículas, assumindo que os vírus estariam presentes no estado líquido. Beijerinck introduziu o termo 'vírus' para indicar que o agente causal da doença do mosaico do tabaco não tinha uma natureza bacteriana, e sua descoberta é considerada como o marco inicial da virologia. A teoria do estado líquido do agente foi questionada nos 25 anos seguintes, sendo descartada com o desenvolvimento de teste da placa por d'Herelle em 1917, pela cristalização desenvolvida por Wendell Meredith Stanley em 1935 e pela primeira microfotografia eletrônica realizada em 1939 do vírus do mosaico do tabaco.
+Em 1898, Friedrich Loeffler e Paul Frosch identificaram o primeiro agente filtrável de animais, o vírus da febre aftosa (Aphtovirus). E em 1901, Walter Reed identificou o primeiro vírus humano, o vírus da febre amarela (Flavivirus). Em 1908, Vilhelm Ellerman e Olaf Bang demonstraram o potencial oncogênico de um agente filtrável, descobrindo o vírus da leucose aviária. E em 1911, Peyton Rous transmitiu um tumor maligno de uma galinha para outra, descobrindo o vírus do sarcoma de Rous, e demonstrando que o câncer poderia ser transmitido por um vírus.
+Em 1915, o bacteriologista Frederick William Twort ao tentar propagar o vírus da vaccínia num meio de cultura bacteriana observou que as colônias morriam e que o agente dessa transformação era infeccioso. Twort propôs várias explicações para o ocorrido, como uma ameba, um protoplasma, um vírus ultramicroscópico ou uma enzima que afetava o crescimento. Independentemente, em 1917, o microbiologista Félix Hubert d'Herelle descobriu que colônias bacterianas eram atacadas por um agente e imediatamente o reconheceu como sendo um vírus, cunhando o termo bacteriófago. Ele utilizou os fagos para o tratamento de doenças bacterianas e fundou diversos institutos de fagos em vários países.
+Inicialmente, o único meio para recuperar quantidades significativas de vírus era por meio de infecção em animais suscetíveis. Em 1913, Edna Steinhardt e colaboradores conseguiram fazer crescer o vírus da vaccínia em fragmentos de córneas de cobaias. Em 1928, H.B. Maitland e M.C. Maitland cultivaram o vírus de vaccínia em suspensão de rins de galinhas moídos. Em 1931, o patologista Ernest William Goodpasture cultivou o vírus da varíola aviária na membrana corioalantóide de ovos de galinhas embrionados. Em 1937, Max Theiler cultivou o vírus da febre amarela em ovos de galinha e desenvolveu uma vacina a partir de uma estirpe do vírus atenuado. Em 1949, John Franklin Enders, Thomas Weller e Frederick Robbins cultivaram o vírus da poliomielite em culturas de células embrionárias humanas, o primeiro vírus a ser cultivado sem a utilização de tecido animal sólido ou ovos. Este método permitiu a Jonas Salk desenvolver uma vacina eficaz contra a poliomielite.
+As primeiras imagens de vírus foram obtidas após a invenção do microscópio eletrônico em 1931 pelos engenheiros Ernst Ruska e Max Knoll. Em 1935, o bioquímico e virologista Wendell Meredith Stanley examinou o vírus do mosaico do tabaco e descobriu que o mesmo era constituído principalmente por proteínas. Em 1937, Frederick Bawden e Norman Pirie separaram o vírus do mosaico em porções proteicas e de RNA. O vírus do mosaico do tabaco foi o primeiro a ser cristalizado e, por conseguinte, a sua estrutura pode ser analisada em detalhes. As primeiras imagens de raios-X de difração do vírus cristalizado foram obtidas por Bernal e Fankuchen em 1941. Com base nos seus quadros, Rosalind Franklin descobriu a estrutura completa do vírus em 1955. No mesmo ano, Heinz Fraenkel-Conrat e Robley Williams demonstraram que o RNA do vírus do mosaico do tabaco e o seu revestimento de proteína purificada (capsídeo) podiam montar-se por si só para formar vírus funcionais, sugerindo que este mecanismo simples foi, provavelmente, o meio pelo qual os vírus foram replicados dentro das células hospedeiras.
+A segunda metade do século XX foi a idade de ouro da descoberta do vírus e foram reconhecidas mais de 2 000 novas espécies de vírus de animais, plantas e bactérias. Em 1957, descobriu-se o arterivírus equino e o vírus da diarreia bovina (um pestivírus). Em 1963, Baruch Blumberg descobriu o vírus da hepatite B, e em 1965, Howard Temin descreveu o primeiro retrovírus. A transcriptase reversa, que é a enzima fundamental dos retrovírus, que utilizam para copiar o seu ARN para ADN, foi descrita em 1970, por Howard Martin Temin e David Baltimore, de forma independente. Em 1983, a equipe de Luc Montagnier do Instituto Pasteur, na França, isolou pela primeira vez o retrovírus que hoje conhecemos por HIV.
+
+
+== Taxonomia ==
+
+
+=== Classificação taxonômica ===
+
+Os vírus também são classificados dentro de grupos taxonômicos, assim como os seres vivos, porém, seguindo uma regra particular de classificação. Vírus não são agrupados em domínio, reino, filos ou classes. Desta maneira, a estrutura geral da taxonomia dos vírus é a seguinte:
+
+Ordem (-virales);
+Família (-viridae);
+Subfamília (-virinae);
+Gênero (-virus);
+Espécie.
+A nomenclatura para ordens, famílias, subfamílias e gêneros é sempre precedida pelos sufixos apresentados acima. Já a nomenclatura de espécies não possui um padrão universal. Cada ramo da virologia (vegetal, animal, bacteriana) adota um padrão de nomenclatura específico. Espécies de vírus de plantas normalmente apresentam nomes que fazem referência a planta hospedeira e a característica do sintoma causado pela infecção (e.g. Vírus do mosaico do tabaco). Espécies de vírus de bactérias (bacteriófagos) podem ser denominados como "fago" seguido de uma letra grega (e.g. Fago λ) ou código alfanumérico (e.g. Fago T7). Vírus que infectam vertebrados podem receber nomes em alusão à espécie hospedeira de origem (e.g. Papillomavírus Bovino), ao local de origem do vírus (e.g. Vírus Ebola, do rio Ébola, no Congo), à doença causada pelo vírus (e.g. Vírus da imunodeficiência humana - HIV).
+O Comitê Internacional de Taxonomia de Vírus (ICTV, do inglês "International Committee on Taxonomy of Virus") estabelece regras de classificação e nomenclatura de vírus. O ICTV é uma entidade composta por grupos especializados de virologistas de todas as partes do mundo.
+
+
+=== Classificação de Baltimore ===
+
+O Sistema de Classificação de Baltimore, criado por David Baltimore, é um modo de classificação que ordena os vírus em sete grupos, com base na característica do genoma viral e na forma como este é transcrito a mRNA. Neste sistema, os vírus são agrupados como apresentado a seguir:
+
+Grupo I: Vírus DNA dupla fita (dsDNA);
+Grupo II: Vírus DNA fita simples (ssDNA);
+Grupo III: Vírus RNA dupla fita (dsRNA);
+Grupo IV: Vírus RNA fita simples senso positivo ((+)ssRNA);
+Grupo V: Vírus RNA fita simples senso negativo ((-)ssRNA);
+Grupo VI: Vírus RNA com transcrição reversa (ssRNA-RT);
+Grupo VII: Vírus DNA com transcrição reversa (dsDNA-RT).
+
+
+==== Vírus de DNA ====
+No vírus de DNA, a replicação do genoma da maioria dos vírus de DNA ocorre no núcleo da célula. Se a célula possui o receptor apropriado na superfície, esses vírus entram por fusão com a membrana celular ou por endocitose. A maioria dos vírus de DNA é completamente dependente das máquinas de síntese de DNA e RNA da célula hospedeira e de suas máquinas de processamento de RNA. O genoma viral deve passar pelo envelope nuclear da célula para acessar esse mecanismo.
+
+
+==== Vírus de RNA ====
+Os vírus de RNA são únicos porque suas informações genéticas são codificadas em RNA; Isso significa que eles usam ácido ribonucleico (RNA) como material genético ou que, no processo de replicação, precisam de RNA. A replicação geralmente ocorre no citoplasma. Os vírus de RNA podem ser classificados em cerca de quatro grupos de acordo com seu modo de replicação. A polaridade do RNA (se pode ou não ser usado diretamente para produzir proteínas) determina em grande parte o mecanismo de replicação e se o material genético é de fita simples ou dupla. Os vírus de RNA usam suas próprias replicasses de RNA para criar cópias de seu genoma.
+
+
+== A origem ==
+A origem dos vírus não é totalmente clara, e provavelmente, esta seja tão complexa quanto a origem da vida. Porém, foram propostas algumas hipóteses. Além disso, o material genético viral ocasionalmente se integra à linha germinativa dos organismos hospedeiros, pela qual eles podem ser passados verticalmente para os filhotes do hospedeiro por muitas gerações. Isso fornece uma fonte inestimável de informações para os paleovirologia rastrearem vírus antigos que existiam há milhões de anos. Existem três hipóteses principais que visam explicar as origens dos vírus:
+
+Hipótese regressiva: Os vírus podem ter sido células pequenas que parasitaram células maiores. Com o tempo, os genes não exigidos pelo parasitismo foram perdidos. As bactérias rickettsia e clamídia são células vivas que, como os vírus, podem se reproduzir apenas dentro das células hospedeiras. Eles apoiam essa hipótese, pois sua dependência do parasitismo provavelmente causou a perda de genes que lhes permitiram sobreviver fora de uma célula. Isso também é chamado de 'hipótese da degeneração', ou 'hipótese de redução';
+Hipótese de origem celular: Alguns vírus podem ter evoluído a partir de pedaços de DNA ou RNA que "escaparam" dos genes de um organismo maior. O DNA escapado pode ter vindo de plasmídeos (pedaços de DNA nu que podem se mover entre células) ou transposons (moléculas de DNA que se replicam e se movem para diferentes posições dentro dos genes da célula). Uma vez chamados de "genes saltadores", os transposons são exemplos de elementos genéticos móveis e podem ser a origem de alguns vírus. Eles foram descobertos no milho por Barbara McClintock em 1950. Às vezes, isso é chamado de "hipótese da vaga",ou "hipótese da fuga";
+Hipótese de co-evolução: Isso também é chamado de "hipótese do vírus primeiro" e propõe que os vírus podem ter evoluído a partir de moléculas complexas de proteínas e ácidos nucleicos ao mesmo tempo em que as células apareceram pela primeira vez na Terra e que seriam dependentes da vida celular por bilhões de anos. Os viróides são moléculas de RNA que não são classificadas como vírus porque não possuem uma camada protéica. Eles têm características comuns a vários vírus e são frequentemente chamados de agentes subvirais. Os viróides são patógenos importantes das plantas. Eles não codificam proteínas, mas interagem com a célula hospedeira e usam o mecanismo hospedeiro para sua replicação. O vírus da hepatite delta em humanos possui um genoma de RNA semelhante aos viróides, mas possui uma camada protéica derivada do vírus da hepatite B e não pode produzir um deles. É, portanto, um vírus defeituoso. Embora o genoma do vírus da hepatite delta possa se replicar independentemente uma vez dentro de uma célula hospedeira, ele requer a ajuda do vírus da hepatite B para fornecer um revestimento protéico para que possa ser transmitido para novas células.
+No passado, havia problemas com todas essas hipóteses: a hipótese regressiva não explicava por que mesmo os menores parasitas celulares não se assemelham a vírus de forma alguma. A hipótese de escape não explicou os capsídeos complexos e outras estruturas nas partículas virais. A hipótese do primeiro vírus violou a definição de vírus, na medida em que requerem células hospedeiras. Os vírus agora são reconhecidos como antigos e como tendo origens anteriores à divergência da vida nos três domínios. Essa descoberta levou os virologistas modernos a reconsiderar e reavaliar essas três hipóteses clássicas.
+
+
+== Genoma ==
+
+Ao contrário das células, que apresentam genoma constituído por DNA e RNA, os vírus possuem DNA ou RNA como material genético, e todos os vírus possuem apenas um ou outro no vírion. No entanto, existem vírus que possuem ambos, porém, em estágio diferentes do ciclo reprodutivo. As moléculas de ácido nucleico dos vírus podem ser fita simples ou dupla, linear ou circular, e segmentada ou não. O genoma dos vírus de RNA tem ainda a característica de possuir senso positivo (atua como mRNA funcional no interior das células infectadas) ou senso negativo (serve de molde para uma RNA-polimerase transcrevê-lo dando origem a um mRNA funcional). A quantidade de material genético viral é menor que a da maioria das células. O peso molecular do genoma dos vírus de DNA varia de 1,5 × 106 a 200 × 106 Da. Já o dos de RNA varia de 2 × 106 a 15 × 106 Da. No genoma dos vírus estão contidas todas as informações genéticas necessárias para programar as células hospedeiras, induzindo-as a sintetizar todas as macromoléculas essenciais à replicação do vírus.
+Um genoma viral, independentemente do tipo de ácido nucleico, é quase sempre de fita simples ou dupla. Os genomas de fita simples consistem em um ácido nucleico não emparelhado, análogo à metade de uma escada dividida no meio. Os genomas de fita dupla consistem em dois ácidos nucleicos emparelhados complementares, análogos a uma escada. As partículas virais de algumas famílias de vírus, como as pertencentes aos Hepadnaviridae, contêm um genoma que é parcialmente de fita dupla e parcialmente de fita simples.
+
+
+== Mutação genética ==
+
+Os vírus sofrem alterações genéticas por vários mecanismos. Isso inclui um processo chamado desvio antigênico, em que bases individuais no DNA ou RNA se transformam em outras bases. A maioria dessas mutações pontuais é "silenciosa" - elas não alteram a proteína que o gene codifica - mas outras podem conferir vantagens evolutivas, como resistência a medicamentos antivirais.
+A mudança antigênica ocorre quando há uma grande mudança no genoma do vírus. Isso pode ser resultado de recombinação ou rearranjo. Quando isso acontece com os vírus influenza, podem ocorrer pandemias. Os vírus de RNA geralmente existem como quasispecies ou enxames de vírus da mesma espécie, mas com sequências de nucleosídeos genoma ligeiramente diferentes. Tais quasispecies são um alvo principal para a seleção natural.
+
+
+== Estrutura ==
+Dentre os vários grupos de vírus existentes, não existe um padrão único de estrutura viral. A estrutura mais simples apresentada por um vírus consiste de uma molécula de ácido nucleico coberta por muitas moléculas de proteínas idênticas. Os vírus mais complexos podem conter várias moléculas de ácido nucleico assim como diversas proteínas associadas, envoltório proteico com formato definido, além de complexo envelope externo com espículas. A maioria dos vírus apresentam conformação helicoidal ou isométrica. Dentre os vírus isométricos, o formato mais comum é o de simetria icosaédrica.
+
+
+=== Partícula ===
+Os vírus são formados por um agregado de moléculas mantidas unidas por forças secundárias, formando uma estrutura denominada partícula viral. Uma partícula viral completa é denominada vírion. Este é constituído por diversos componentes estruturais (ver tabela abaixo para mais detalhes):
+
+Ácido nucleico: molécula de DNA ou RNA que constitui o genoma viral;
+Capsídeo: envoltório proteico que envolve o material genético dos vírus;
+Nucleocapsídeo: estrutura formada pelo capsídeo associado ao ácido nucleico que ele engloba (Os capsídeos formados pelos ácidos nucleicos são englobados a partir de enzimas);
+Capsômeros: subunidades proteicas (monômeros) que agregadas constituem o capsídeo;
+Envelope: membrana rica em lipídios que envolve a partícula viral externamente. Deriva de estruturas celulares, como membrana plasmática e organelas;
+Peplômeros (espículas): estruturas proeminentes, geralmente constituídas de glicoproteínas e lipídios, que são encontradas ancoradas ao envelope, expostas na superfície.
+
+
+=== Morfologia ===
+Abaixo estão listadas as estruturas de vírions mais comuns:
+
+Legenda dos esquemas: █ Molécula de DNA — █ Molécula de RNA — █ Capsômeros do capsídeo — █ Envelope viral — █ Peplômeros (espículas) —  █ Fibras
+
+
+== Ciclo de replicação ==
+Como já mencionado anteriormente, vírus são parasitas intracelulares obrigatórios, pois necessitam do ambiente intracelular de um organismo vivo para se reproduzir. Ao processo de reprodução de um vírus dá-se o nome de replicação viral. O tempo de duração do ciclo de replicação viral varia entre as diversas famílias de vírus, podendo levar poucas horas ou até dias. Esta seção apresentará as etapas envolvidas num ciclo de replicação viral, focado principalmente em vírus que infectam animais. De uma maneira geral, a replicação pode ser dividida em 7 etapas:
+
+
+=== Adsorção do vírus à célula ===
+Uma etapa essencial à reprodução viral é a adsorção (ligação) do vírion a uma célula suscetível. A adsorção viral se dá por meio da interação entre proteínas virais, presentes no envelope ou no capsídeo, e receptores celulares que se encontram ancorados a membrana plasmática, expostos ao ambiente extracelular. A ligação entre alguns vírus e células também pode envolver a participação de correceptores (receptores secundários). A especificidade destas interações é alta, como em um modelo chave-fechadura, e determina o tropismo viral para infectar determinadas células e tecidos específicos. Ligações químicas não covalentes, tais como pontes de hidrogênio, atrações iônicas e forças de van der Waals, são responsáveis pela adesão entre as proteínas virais e os receptores celulares.
+Nos momentos iniciais da adsorção, a partícula viral interage com um ou poucos receptores, caracterizando uma ligação reversível. Porém, à medida que mais receptores se associam ao vírion, esta ligação passa a ser irreversível, possibilitando a posterior entrada do vírus na célula. Os receptores em geral são proteínas ou carboidratos presentes em glicoproteínas e glicolipídios. Muitas das proteínas receptoras são imunoglobulinas, transportadores transmembrana e canais, ou seja, são estruturas produzidas pelas células para executar funções comuns e essenciais ao bom funcionamento celular. Muitas funcionam como receptores de quimiocinas e fatores de crescimento, ou são responsáveis pelo contato e adesão célula a célula. Os vírus subvertem o papel primordial destas moléculas, utilizando-as como meio para adentrar nas células hospedeiras.
+
+
+=== Entrada no citosol ===
+Uma vez aderidos à membrana celular, os vírus devem introduzir seu material genético no interior da célula, a fim de que este seja processado (transcrito, traduzido, replicado). Este processo envolve a entrada (penetração) do vírion no citosol e posterior desmontagem do capsídeo para liberação (desnudamento) do genoma viral. Para alcançar o ambiente intracelular, cada vírus utiliza um mecanismo particular. Entre os principais mecanismos (veja imagem abaixo), estão:
+
+Endocitose: Após a adsorção, a partícula viral pode penetrar no citoplasma por meio de um processo denominado endocitose mediada por receptores, pela formação de endossomos (vesículas). Quando um vírus entra por endocitose, o seu vírion encontra-se envolto pela membrana vesicular. Vírus envelopados liberam os nucleocapsídeos de dentro dos endossomo promovendo a fusão entre o envelope viral e a membrana da vesícula. Já os vírus não envelopados, por não possuírem envelope, utilizam outras estratégias para sair dos endossomos: alguns, como os adenovírus, provocam a lise do endossomo, enquanto outros, como os poliovírus, geram poros na membrana vesicular e injetam o genoma viral diretamente no citosol;
+Fusão: Neste mecanismo, executado apenas por vírus envelopados, o nucleocapsídeo é liberado no interior da célula mediante a fusão entre o envelope viral e a membrana celular. A entrada por fusão pode ocorrer de duas formas: (1) direta, pela fusão do envelope viral com a membrana plasmática, a partir do meio extracelular, ou (2) indireta, sofrendo uma endocitose inicial com posterior fusão já no interior da célula, como citado anteriormente;
+Translocação: por meio da ação de uma proteína receptora, o vírion pode atravessar a membrana por meio de translocação, do ambiente extracelular para o citosol. Este mecanismo é raro e pouco entendido.
+
+
+=== Desnudamento do ácido nucleico ===
+Após o processo de penetração, assim que os nucleocapsídeos alcançam o citosol, estes são transportados pelo citoesqueleto (dentro de vesículas ou na forma de nucleocapsídeos livres) em direção ao local específico de processamento do genoma viral, que pode ser no próprio citosol ou no núcleo celular. Para que o genoma possa ser transcrito, traduzido, e replicado, o material genético do vírus deve ser previamente liberado e exposto no ambiente intracelular. A este processo dá-se o nome de desnudamento (ou decapsidação), um procedimento no qual o capsídeo é desmontado completamente ou parcialmente (veja imagem acima). O desnudamento pode ocorrer simultaneamente à entrada do vírus, ou pode acontecer em instantes posteriores. O sítio celular de desnudamento é bastante variável entre as diversas famílias de vírus, podendo ocorrer no citosol (e.g. Togavírus), no interior do endossomo (e.g. Picornavírus), nos poros nucleares (e.g. Adenovírus, Herpesvírus), no interior do núcleo (e.g. Parvovírus, Polyomavírus), ou simplesmente pode não ocorrer (e.g. Reovírus, Poxvírus).
+
+
+=== Transcrição e tradução da informação genética ===
+
+
+==== Síntese de mRNA ====
+Como mencionado anteriormente, o Sistema de Classificação de Baltimore foi criado com base nos diferentes mecanismos de transcrição que os vírus adotam para sintetizar mRNA a partir dos seus variados tipos de material genético. Os vírus podem ter genoma constituído por dsDNA, ssDNA, dsRNA, ssRNA, além de alguns serem capazes de realizar a transcrição reversa (ssRNA-RT e dsDNA-RT). Outra propriedade notável dos ácidos nucleicos virais é a polaridade (sentido, ou senso) das fitas de DNA e RNA. Fitas senso positivo (+) apresentam sequência idêntica à do mRNA, enquanto as senso negativo (-) apresentam sequência nucleotídica complementar. Diante desta complexidade de características, as estratégias de transcrição do genoma viral são tão variadas quanto os mecanismos de entrada, e podem envolver mais de uma etapa, as quais levam à conversão da informação genética viral em mRNA.
+
+Grupo I (dsDNA): Vírus de DNA dupla fita apresentam ORFs em ambas as fitas de DNA, as quais servem diretamente como moldes para a síntese de mRNA. Vírus do grupo I que transcrevem o DNA no interior do núcleo utilizam RNA polimerase II celular para a síntese de mRNA, já aqueles que executam este processo no citosol devem possuir sua própria RNA polimerase DNA-dependente (RpDd) para produzir os transcritos.
+
+Grupo II (ssDNA): Vírus de DNA fita simples apresentam fita positiva ou negativa. Para a síntese de mRNA, estes vírus produzem uma respectiva fita complementar ao seu genoma, gerando uma dupla fita que serve como molde para a transcrição. Estes procedimentos ocorrem no núcleo, com o auxílio de enzimas celulares (RpDd e DpDd (DNA polimerase DNA-dependente)).
+
+Grupo III (dsRNA): Vírus de RNA dupla fita apresentam uma fita positiva e outra negativa. A fita negativa é utilizada como molde para a síntese de mRNA, em processo que ocorre no citosol, com auxílio de uma RNA polimerase RNA-dependente (RpRd).
+
+Grupo IV ((+)ssRNA): Vírus de RNA fita simples senso positivo apresentam genoma com sequência idêntica à do mRNA, e podem ser utilizados prontamente para a síntese de proteínas. No entanto, é usual a síntese de novas cópias positivas do genoma, mediante a ação de uma RpRd, que produz uma fita negativa que serve como molde para a síntese de novas fitas positivas (mRNAs).
+
+Grupo V ((-)ssRNA): Vírus de RNA fita simples senso negativo, por possuírem genoma com sequência complementar ao mRNA, servem diretamente como molde para a produção de fitas senso positivo. A maioria dos vírus (-)ssRNA (e.g. Rhabdovírus, Filovírus, Bunyavírus, Arenavírus) normalmente procede a transcrição no citosol. Algumas exceções, como os Orthomixovírus, transcrevem seu material genético no núcleo.
+
+Grupo VI (ssRNA-RT): Vírus de RNA com transcrição reversa apresentam genoma de senso positivo. Por meio de uma enzima denominada transcriptase reversa (uma DNA polimerase RNA-dependente), os retrovírus produzem uma fita simples de DNA senso negativo que posteriormente serve de molde à síntese de uma fita positiva de DNA. Ao final, este processo gera uma fita dupla de DNA, que poderá ser integrada ao genoma do hospedeiro no núcleo, e utilizada para a síntese de mRNA viral.
+
+Grupo VII (dsDNA-RT): Vírus de DNA com transcrição reversa (e.g. Hepadnavírus) são vírus dsDNA que promovem a síntese de mRNA no núcleo, sob a ação da RNA polimerase II celular. Neste grupo, a transcrição reversa não ocorre antes síntese de mRNA, como observado nos retrovírus, mas sim posteriormente a replicação do genoma viral.
+
+
+==== Síntese de proteínas ====
+
+As proteínas virais são sintetizadas pela maquinaria celular (ribossomos e tRNAs). O processo de tradução ocorre no citosol, em ribossomos livres ou associados ao retículo endoplasmático. Algumas das proteínas sintetizadas em ribossomos livres são transportadas para o núcleo. Proteínas produzidas em ribossomos associados ao retículo são transportadas desta organela para o complexo de Golgi, onde podem sofrer modificações pós-traducionais (glicosilação e fosforilação). O destino final de muitas destas proteínas é a membrana celular, onde estas se concentram em regiões específicas. Em estágios finais da infecção, estas farão parte do envelope de partículas virais que sairão por brotamento nessas regiões. Dentro do ciclo de replicação, os primeiros produtos gênicos sintetizados são proteínas não estruturais, como proteínas de ligação ao DNA e enzimas. Entre estas enzimas estão as polimerases e outras moléculas catalíticas, as quais são componentes essenciais à replicação do genoma viral. Já as proteínas estruturais, que formarão as novas partículas virais, normalmente são sintetizadas tardiamente no ciclo de infecção. As novas cópias de material genético sintetizadas são utilizadas para a síntese de mRNAs, os quais codificarão proteínas estruturais que a partir de então serão produzidas em grandes quantidades para compor os vírus em formação. Os diferentes vírus de DNA e RNA possuem mecanismos próprios de regulação da expressão gênica, os quais controlam a produção de proteínas em momentos e quantidades apropriadas às necessidades virais.
+
+
+=== Replicação do genoma viral ===
+Na maioria dos casos, o genoma é replicado no mesmo local onde ocorre a transcrição do material genético do vírus, isto é, no citoplasma ou no núcleo. Assim como ocorre na transcrição, o processo de replicação de genomas virais envolve a participação de polimerases. Vírus de fita simples, dos grupos II, IV e V, precisam produzir uma fita complementar ao genoma, que posteriormente servirá de molde para a síntese do material genético. Vírus de fita dupla, dos grupos I e III, utilizam cada uma das duas fitas para gerar suas respectivas cópias complementares. Em geral, moléculas de DNA são sintetizadas a partir de outras moléculas de DNA (DNA → DNA), e o mesmo acontece com moléculas de RNA (RNA → RNA). A exceção a esta regra fica por conta dos vírus que realizam transcrição reversa. Membros do grupo VI (ssRNA-RT) replicam o seu genoma a partir de um intermediário de DNA (RNA → DNA → RNA). Já os membros do I (dsDNA-RT) replicam o seu genoma a partir de um intermediário de RNA (DNA → RNA → DNA).
+
+
+=== Montagem do vírion ===
+A montagem corresponde ao processo de formação das partículas virais infectivas (vírions). Neste estágio do ciclo de infecção, as proteínas estruturais sintetizadas em etapas anteriores se associam para constituir o capsídeo. Capsídeos com formato helicoidal são formados em torno da superfície da molécula de ácido nucléico. Já os capsídeos de simetria icosaédrica são montados previamente e depois preenchidos com o genoma viral, através de um poro na estrutura pré-formada denominada pró-capsídeo. O pró-capsídeo de alguns vírus pode sofrer modificações que levam a formação do capsídeo maduro. O sítio de montagem dos capsídeos depende do local de replicação viral na célula, e varia entre as diversas famílias de vírus. O procedimento de montagem de vírus não envelopados se resume a formação dos nucleocapsídeos, enquanto que para vírus envelopados a montagem só se finaliza depois da aquisição do envelope viral. A membrana lipídica do envelope se origina a partir de estruturas celulares, como: membrana plasmática (e.g. Paramyxovírus, Orthomixovírus, Rhabdovírus) e compartimentos membranosos intracelulares (complexo de Golgi, retículo endoplasmático, núcleo). Outro mecanismo de aquisição de envelope é a denominada “síntese de novo” de membranas, no qual o envelope é gradualmente construído em volta do nucleocapsídeo. Este processo pode ocorrer no núcleo (e.g. Baculovírus) ou no citoplasma (e.g. Poxvírus).
+
+
+=== Liberação de novas partículas virais ===
+A liberação dos vírions do citosol pode se dar por lise celular ou brotamento. A liberação por lise celular é mais comum aos vírus não envelopados, e ocorre quando a membrana plasmática da célula infectada se rompe, levando-a morte celular. Porém, nem todo processo de liberação viral causa danos a célula hospedeira. O brotamento é um mecanismo de liberação que pode provocar pouco ou nenhum prejuízo à célula. Vírus que obtém envelope a partir da membrana plasmática saem da célula por meio de brotamento direto do nucleocapsídeo em contato com a face interna da membrana, em regiões específicas, onde se localizam as glicoproteínas virais sintetizadas em momentos prévios da infecção. Vírus com envelope originado de compartimentos intracelulares (organelas) são liberados da célula por meio de vesículas que se fundem com a membrana plasmática. Após a liberação, quando os vírions se encontram no meio extracelular, a maioria deles permanece inerte até que outra célula hospedeira seja infectada, reiniciando o ciclo de replicação viral.
+
+
+== Doenças humanas virais ==
+Assim como muitos parasitas, os vírus são patogênicos aos seres vivos. Ao invadirem as células de um indivíduo, eles prejudicam o funcionamento normal dessas células e, consequentemente, provocam doenças. Entre as principais viroses humanas estão: gripe, hepatite (A, B e C), caxumba, sarampo, varicela (catapora), SIDA (AIDS), raiva, dengue, febre amarela, poliomielite (paralisia infantil), rubéola, meningite, encefalite, herpes, pneumonia, entre outras doenças. Recentemente foi mostrado que o câncer cervical é causado ao menos em partes pelo papilomavírus (que causa papilomas, ou verrugas), representando a primeira evidência significante em humanos para uma ligação entre câncer e agentes virais.
+
+
+=== Epidemiologia ===
+A epidemiologia viral é o ramo da ciência médica que lida com a transmissão e o controle de infecções por vírus em humanos. A transmissão de vírus pode ser vertical, o que significa de mãe para filho, ou horizontal, o que significa de pessoa para pessoa. Exemplos de transmissão vertical incluem o vírus da hepatite B e o HIV, onde o bebê já nasceu infectado pelo vírus. Outro exemplo, mais raro, é o vírus da varicela zoster, que, apesar de causar infecções relativamente leves em crianças e adultos, pode ser fatal para o feto e o bebê recém-nascido.
+A transmissão horizontal é o mecanismo mais comum de disseminação de vírus nas populações. A transmissão pode ocorrer quando: os fluidos corporais são trocados durante a atividade sexual, por exemplo, HIV; o sangue é trocado por transfusão contaminada ou compartilhamento de agulhas, por exemplo, hepatite C; troca de saliva pela boca, por exemplo, vírus Epstein-Barr; comida ou água contaminada é ingerida, por exemplo, norovírus; aerossóis contendo virions são inalados, por exemplo, vírus influenza; e vetores de insetos, como mosquitos, penetram na pele de um hospedeiro, por exemplo, dengue. A taxa ou velocidade de transmissão de infecções virais depende de fatores que incluem a densidade populacional, o número de indivíduos suscetíveis (ou seja, aqueles que não são imunes), a qualidade dos cuidados com a saúde e o clima.
+A epidemiologia é usada para quebrar a cadeia de infecção nas populações durante surtos de doenças virais. São usadas medidas de controle baseadas no conhecimento de como o vírus é transmitido. É importante encontrar a fonte ou fontes do surto e identificar o vírus. Uma vez identificado o vírus, às vezes a cadeia de transmissão pode ser interrompida pelas vacinas. Quando as vacinas não estão disponíveis, o saneamento e a desinfecção podem ser eficazes. Frequentemente, as pessoas infectadas são isoladas do resto da comunidade e as que foram expostas ao vírus são colocadas em quarentena.
+
+
+=== Epidemias e pandemias ===
+
+Uma pandemia é uma epidemia mundial. A Gripe espanhola, que durou até 1919, foi uma pandemia de gripe da categoria 5 causada por um vírus da gripe A incomumente grave e mortal. As vítimas eram frequentemente jovens adultos saudáveis, em contraste com a maioria dos surtos de gripe, que afetam predominantemente pacientes jovens, idosos ou enfraquecidos. Estimativas mais antigas dizem que matou de 40 a 50 milhões de pessoas, enquanto pesquisas mais recentes sugerem que pode ter matado até 100 milhões de pessoas, ou 5% da população mundial em 1918.
+Embora as pandemias virais sejam eventos raros, o HIV - que evoluiu a partir de vírus encontrados em macacos e chimpanzés - tem sido uma pandemia desde pelo menos a década de 1980. Durante o século XX, houve quatro pandemias causadas pelo vírus influenza e as que ocorreram em 1918, 1957 e 1968 foram graves. A maioria dos pesquisadores acredita que o HIV se originou na África Subsariana durante o século XX; agora é uma pandemia, com cerca de 37,9 milhões de pessoas vivendo com a doença no mundo todo. Houve cerca de 770 mil mortes por AIDS em 2018. O Programa Conjunto das Nações Unidas sobre HIV/AIDS (UNAIDS) e a Organização Mundial da Saúde (OMS) estimam que a AIDS matou mais de 25 milhões de pessoas desde que foi reconhecida pela primeira vez em 5 Junho de 1981, tornando-a uma das epidemias mais destrutivas da história registrada. Em 2007, houve 2,7 milhões de novas infecções por HIV e 2 milhões de mortes relacionadas ao HIV.
+
+Vários patógenos virais altamente letais são membros dos Filoviridae. Filovírus são vírus do tipo filamento que causam febre hemorrágica viral e incluem ebolavírus e marburgvírus. O vírus Marburg, descoberto pela primeira vez em 1967, atraiu a atenção da imprensa em abril de 2005 para um surto em Angola. A doença pelo vírus Ebola também causou surtos intermitentes com altas taxas de mortalidade desde 1976, quando foi identificado pela primeira vez. A pior e mais recente é a epidemia de 2013-2016 na África Ocidental.
+A síndrome respiratória aguda grave (SARS) e a síndrome respiratória do Oriente Médio (MERS) são causadas por novos tipos de coronavírus. Sabe-se que outros coronavírus causam infecções leves em seres humanos, então a virulência e a rápida disseminação de infecções por SARS - que em julho de 2003 haviam causado cerca de 8 mil casos e 800 mortes - eram inesperadas e a maioria dos países não estava preparada.
+
+Um coronavírus relacionado surgiu em Wuhan, China em novembro de 2019 e se espalhou rapidamente pelo mundo. Pensa-se que tenha se originado em morcegos e posteriormente chamado de síndrome respiratória aguda grave como coronavírus 2, infecções pelo vírus causaram uma pandemia em 2020. Restrições sem precedentes em tempos de paz foram impostas a viagens internacionais e o toque de recolher imposto em várias grandes cidades do mundo.
+
+
+=== Câncer ===
+
+Os vírus são uma causa estabelecida de câncer em humanos e outras espécies. O câncer viral ocorre apenas em uma minoria de pessoas infectadas (ou animais). Os vírus do câncer provêm de uma variedade de famílias de vírus, incluindo vírus de RNA e DNA, e, portanto, não existe um tipo único de "oncovírus" (um termo obsoleto originalmente usado para retrovírus de transformação aguda). O desenvolvimento do câncer é determinado por uma variedade de fatores, como imunidade ao hospedeiro e mutações no hospedeiro.
+Os vírus aceitos para causar câncer em humanos incluem alguns genótipos de papilomavírus humano, vírus da hepatite B, vírus da hepatite C, vírus Epstein-Barr, herpesvírus associado ao sarcoma de Kaposi e vírus linfotrópico T humano. O vírus do câncer humano descoberto mais recentemente é um poliomavírus (poliomavírus de células Merkel) que causa a maioria dos casos de uma forma rara de câncer de pele chamada carcinoma de células Merkel.
+
+
+=== Prevenção e tratamento de doenças virais ===
+Devido ao uso das células do hospedeiro, os vírus tornam-se difíceis de se combater. Como os tratamentos quimioterápicos para a infecções virais são limitados, os tratamentos sintomáticos, como descanso, hidratação e analgésicos, são as alternativas mais comuns para reduzir os incômodos causados pela maioria das doenças virais, principalmente infecções respiratórias. Pesquisas realizadas com camundongos infectados com o vírus coxsackie B demonstraram que esforços físicos severos, repetitivos e exaustivos prolongaram a infecção e provocaram o retardo do início da resposta imune via interferons e anticorpos.
+Quando as células são atacadas por vírus, o sistema de defesa do organismo parasitado passa a produzir anticorpos específicos que combatem o vírus invasor. Isso ocorre porque os vírus são formados por proteínas diferentes das do organismo parasitado. Estas proteínas são reconhecidas como não próprias do organismo e são neutralizadas pelos anticorpos. Assim, caso o mesmo vírus invada o organismo novamente, a memória imunológica desencadeará rapidamente uma resposta imune específica contra o vírus, e a doença não se instalará.
+
+
+==== Vacina virais ====
+
+As vacinas são soluções médicas eficazes para prevenir algumas infecções virais. Elas podem ser produzidas a partir de vírus inativados ou atenuados, ou a partir de subunidades de proteínas virais.
+Uma vez introduzidos num indivíduo, os componentes das vacinas são capazes de estimular o organismo a produzir uma resposta imunológica humoral e/ou celular. O indivíduo desenvolve memória imunológica quando é exposto uma ou algumas vezes aos antígenos presentes na vacina. A vacinação é empregada com o objetivo de prevenir a manifestação de doenças virais futuras. Portanto, vacinas não são aplicadas com o intuito de curar viroses já instaladas, mas sim para evitar o desenvolvimento da doença.
+A vacina Sabin, usada para prevenir a poliomielite (ou paralisia infantil), é uma das vacinas virais atenuadas mais amplamente utilizadas no mundo. Testes com macacos demonstraram que o vírus atenuado, diferentemente da cepa viral patogênica, não possui virulência contra os tecidos nervosos do cérebro e da medula espinhal. Porém, como o organismo não diferencia um vírus do outro, ele passa a produzir os anticorpos necessários, imunizando o indivíduo vacinado contra o vírus da poliomielite.
+
+
+==== Drogas antivirais ====
+
+As drogas antivirais são substâncias utilizadas no tratamento específico contra determinados vírus. Entre as principais substâncias antivirais, estão: o aciclovir (contra o herpesvírus), a ribavirina (contra o vírus da hepatite C), o oseltamivir (contra o vírus da gripe), o ritonavir, o indinavir, a zidovudina, entre outras, contra o vírus da AIDS (SIDA). Diferentemente do que ocorre nos casos de infecções bacterianas, os antibióticos não são úteis contra infecções virais. O uso abusivo e inadequado de antibióticos, como contra infecções virais, tem se tornado um grave problema de saúde pública por ser uma das causas do recorrente surgimento de bactérias resistentes a múltiplos antibióticos.
+
+
+== Infecção em outras espécies ==
+Os vírus infectam toda a vida celular e, embora os vírus ocorram universalmente, cada espécie celular tem seu próprio intervalo específico que geralmente infecta apenas essas espécies. Alguns vírus, chamados satélites, podem se replicar apenas dentro de células que já foram infectadas por outro vírus.
+
+
+=== Vírus de planta ===
+
+Existem muitos tipos de vírus de plantas, mas geralmente causam apenas uma perda de rendimento, e não é economicamente viável tentar controlá-los. Os vírus das plantas são frequentemente transmitidos de planta para planta por organismos, conhecidos como vetores. Geralmente são insetos, mas alguns fungos, vermes de nematóides e organismos unicelulares têm se mostrado vetores.
+Quando o controle de infecções por vírus de plantas é considerado econômico, para frutos perenes, por exemplo, os esforços estão concentrados na morte dos vetores e na remoção de hospedeiros alternativos, como as ervas daninhas.  Os vírus vegetais não podem infectar seres humanos e outros animais porque eles podem se reproduzir apenas nas células vegetais vivas.
+
+
+=== Vírus de bactéria ===
+
+Os bacteriófagos são um grupo comum e diversificado de vírus e são a entidade biológica mais abundante em ambientes aquáticos - há até dez vezes mais desses vírus nos oceanos do que as bactérias, atingindo níveis de 250 000 000 bacteriófagos por mililitro de água do mar. Esses vírus infectam bactérias específicas ligando-se às moléculas receptoras da superfície e entrando na célula.
+Dentro de um curto período de tempo, em alguns casos, apenas alguns minutos, a polimerase bacteriana começa a traduzir o mRNA viral em proteína. Essas proteínas tornam-se novos virions dentro da célula, proteínas auxiliares, que ajudam na montagem de novos virions, ou proteínas envolvidas na lise celular. As enzimas virais auxiliam na quebra da membrana celular e, no caso do fago T4, em pouco mais de vinte minutos após a injeção, mais de trezentos fagos podem ser liberados.
+
+
+=== Vírus de animais ===
+Os vírus são patógenos importantes do gado. Doenças como febre aftosa e febre catarral ovina são causadas por vírus. Animais de companhia, como gatos, cães e cavalos, se não forem vacinados, são suscetíveis a infecções virais graves. O parvovírus canino é causado por um pequeno vírus de DNA e as infecções geralmente são fatais em filhotes. Como todos os invertebrados, a abelha é suscetível a muitas infecções virais. A maioria dos vírus coexiste inofensivamente no hospedeiro e não causa sinais ou sintomas de doença.
+
+
+=== Vírus de arqueias ===
+Alguns vírus se replicam dentro das arqueias: são vírus de DNA de fita dupla com formas incomuns e às vezes únicas. Esses vírus foram estudados com mais detalhes nas arqueias termofílicas, particularmente as ordens Sulfolobales e Termoproteales.
+As defesas contra esses vírus envolvem interferência de RNA de sequências repetitivas de DNA em genomas arcaicos que estão relacionados aos genes dos vírus. A maioria das arqueias possui sistemas CRISPR-Cas como defesa adaptativa contra vírus. Isso permite que a arqueia retenha seções do DNA viral, que são usadas para direcionar e eliminar infecções subsequentes pelo vírus, usando um processo semelhante à interferência do RNA.
+
+
+== Vírus no ecossistema aquático ==
+
+Os vírus são a entidade biológica mais abundante em ambientes aquáticos. Existem cerca de dez milhões deles em uma colher de chá de água do mar. A maioria desses vírus são bacteriófagos que infectam bactérias heterotróficas e cianófagos que infectam cianobactérias e são essenciais para a regulação dos ecossistemas de água salgada e de água doce. Os bacteriófagos são inofensivos para plantas e animais e são essenciais para a regulação dos ecossistemas marinhos e de água doce são importantes agentes de mortalidade do fitoplâncton, a base da cadeia alimentar em ambientes aquáticos.
+Eles infectam e destroem bactérias em comunidades microbianas aquáticas e são um dos mecanismos mais importantes de reciclagem do ciclo de carbono e nutrientes em ambientes marinhos. As moléculas orgânicas liberadas pelas células bacterianas mortas estimulam o crescimento bacteriano e algal fresco, em um processo conhecido como desvio viral. Em particular, a lise de bactérias por vírus demonstrou melhorar o ciclo do nitrogênio e estimular o crescimento do fitoplâncton. A atividade viral também pode afetar a bomba biológica, o processo pelo qual o carbono é sequestrado no oceano profundo.
+Os microrganismos constituem mais de 90% da biomassa no mar. Estima-se que os vírus matem aproximadamente 20% dessa biomassa por dia e que haja 10 a 15 vezes mais vírus nos oceanos do que bactérias e archaea. Os vírus também são os principais agentes responsáveis pela destruição do fitoplâncton, incluindo a proliferação de algas prejudiciais, o número de vírus nos oceanos diminui ainda mais no mar e mais fundo na água, onde há menos organismos hospedeiros.
+
+
+== Origem da diversidade genética viral ==
+Diversos são os processos responsáveis por gerar variabilidade genética dentro de uma população viral. Entre tais processos, estão: mutações, recombinações, rearranjos genéticos em coinfeções, entre outros. A fidelidade e a frequência dos processos de replicação, as taxas de ocorrência de coinfecções, o modo de transmissão, o tamanho e a estrutura das populações (virais e de hospedeiros) são fatores que influenciam a geração da variabilidade genética viral. Quando os vírus se reproduzem no interior de uma célula, o material genético viral pode sofrer mutações, originando uma grande diversidade genética a partir de um único tipo de vírus. Vírus de RNA, que dependem das enzimas RNA polimerase ou transcriptase reversa para se replicar, apresentam taxas de mutação mais elevadas, se comparados a vírus de DNA. Isto ocorre porque tais enzimas não são capazes de corrigir os erros provocados no decorrer da replicação. Vírus de DNA, que usam a maquinaria enzimática celular, apresentam taxas reduzidas de mutações genéticas, pois utilizam enzimas celulares que possuem a habilidade de reparar os erros gerados durante a síntese de DNA.
+
+
+== Agentes infecciosos subvirais ==
+Agentes subvirais são partículas infecciosas subcelulares bastante simples estruturalmente que não são enquadradas como vírus no sentido estrito do termo. Entres tais agentes, destacam-se os vírus satélite, os virusóides, os viróides, os RNAs satélite, os RNAs interferentes defectivos (DI-RNAs) e os príons:
+
+Vírus satélites: são moléculas de DNA ou RNA viral que carecem de informações genéticas essenciais para garantir sua independência replicativa. Vírus satélites dependem de outros vírus (vírus helper) para obter os fatores biológicos (proteínas) necessários para a infecção de uma célula;
+Virusóides: são moléculas de ssRNA circular que não codificam proteínas. Dependem de vírus helpers para se replicar e formar capsídeos;
+Viróides: são patógenos de plantas constituídos apenas por moléculas de ssRNA circular, altamente estáveis, as quais não são capazes de codificar nenhuma proteína;
+
+RNAs satélite: considerados subtipos de virusóides, são constituídos por pequenas moléculas de RNA, que variam de 200 a 1700 nucleotídeos, sendo que os maiores são capazes de codificar algumas proteínas;
+RNAs interferentes defectivos (DI-RNAs): são pequenas moléculas de RNA viral provenientes de genomas virais que perderam função essenciais em decorrência de seguidas deleções. Um DI-RNA depende essencialmente do vírus parental (que o originou) para se replicar;
+Príons (ou priões): são agentes infecciosos que não possuem nenhum ácido nucleico, sendo constituídos exclusivamente por um único tipo de proteína estruturalmente modificada que tem a capacidade de converter proteínas semelhantes e normais em proteínas alteradas quanto a conformação tridimensional. Tais proteínas alteradas se agregam e causam danos em células nervosas.
+
+
+== Aplicações ==
+
+
+=== Ciências da vida e medicina ===
+
+Os vírus são importantes para o estudo da biologia molecular e celular, pois fornecem sistemas simples que podem ser usados para manipular e investigar as funções das células. O estudo e o uso de vírus forneceram informações valiosas sobre aspectos da biologia celular. Por exemplo, os vírus têm sido úteis no estudo da genética e ajudaram a entender os mecanismos básicos da genética molecular, como replicação de DNA, transcrição, Modificação pós-transcricional, tradução, transporte de proteínas e imunologia.
+A genética usa vírus como vetores para inserir genes nas células que estudam. Isso é útil para fazer com que as células produzam matérias estranhas ou para estudar o efeito da inserção de novos genes no genoma. Da mesma forma, a terapia de vírus usa vírus como vetores para tratar várias doenças, porque pode atingir especificamente células e DNA. Usos promissores são mostrados no câncer e na terapia genética. Os cientistas da Europa Oriental têm usado a fagoterapia como uma alternativa aos antibióticos há algum tempo, e o interesse nessa abordagem está aumentando devido ao alto nível de resistência a antibióticos em algumas bactérias patogênicas.
+
+
+=== Armas ===
+
+A capacidade dos vírus de causar epidemias devastadoras nas sociedades humanas levou à preocupação de que os vírus pudessem ser armados para a guerra biológica. Outra preocupação foi levantada pela recreação bem-sucedida do infame vírus da influenza de 1918 em um laboratório.
+O vírus da varíola devastou inúmeras sociedades ao longo da história antes de sua erradicação. Existem apenas dois centros no mundo autorizados pela OMS a manter estoques de vírus da varíola: o VECTOR do Centro Estadual de Pesquisa em Virologia e Biotecnologia na Rússia e os Centros de Controle e Prevenção de Doenças nos Estados Unidos. Pode ser usada como arma, pois a vacina contra a varíola às vezes teve efeitos colaterais graves, não sendo mais usada rotineiramente em nenhum país. Assim, grande parte da população humana moderna quase não tem resistência estabelecida à varíola e seria vulnerável ao vírus.
+
+
+=== Ciência dos materiais e nanotecnologia ===
+As tendências atuais em nanotecnologia prometem fazer um uso muito mais versátil de vírus. Do ponto de vista de um cientista de materiais, os vírus podem ser considerados nanopartículas orgânicas. Sua superfície carrega ferramentas específicas que lhes permitem atravessar as barreiras de suas células hospedeiras.
+O tamanho e a forma dos vírus, o número e a natureza dos grupos funcionais em sua superfície são definidos com precisão. Como tal, os vírus são comumente usados na ciência dos materiais como andaimes para modificações de superfície ligadas covalente mente. Uma qualidade específica dos vírus é que eles podem ser adaptados pela evolução direcionada. As poderosas técnicas desenvolvidas pelas ciências da vida estão se tornando a base das abordagens de engenharia para os nanomateriais, abrindo uma ampla gama de aplicações muito além da biologia e da medicina.
+Devido ao seu tamanho, forma e estruturas químicas bem definidas, os vírus têm sido usados como modelos para organizar os materiais em nanoescala. Exemplos recentes incluem trabalhos no Naval Research Laboratory em Washington, DC, usando partículas do vírus do mosaico do caupi (CPMV) para amplificar sinais em sensores baseados em microarrays de DNA. Nesta aplicação, as partículas do vírus separam os corantes fluorescentes usados para sinalizar para impedir a formação de dímeros não fluorescentes que atuam como inibidores. Outro exemplo é o uso do CPMV como uma placa de ensaio em nanoescala para eletrônica molecular.
+
+
+=== Vírus sintéticos ===
+Muitos vírus podem ser sintetizados de novo ("do zero") e o primeiro vírus sintético foi criado em 2002. Embora seja um equívoco, não é o vírus real que é sintetizado, mas seu genoma de DNA (no caso de um vírus de DNA) ou uma cópia de cDNA de seu genoma (no caso de vírus de RNA). Para muitas famílias de vírus, o DNA ou RNA sintético nu (uma vez convertido enzimaticamente a partir do cDNA sintético) é infeccioso quando introduzido na célula.
+Ou seja, eles contêm todas as informações necessárias para produzir novos vírus. Essa tecnologia está sendo usada agora para investigar novas estratégias de vacinas. A capacidade de sintetizar vírus tem conseqüências de longo alcance, uma vez que os vírus não podem mais ser considerados extintos, desde que as informações de sua sequência genômica sejam conhecidas e células permissivas estejam disponíveis.
+
+
+== Ver também ==
+Lista de doenças causadas por vírus
+Lista de vírus
+Introdução aos vírus
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+«International Committee on Taxonomy of Viruses - ICTV» (em inglês) 
+«ViralZone - SIB Swiss Institute of Bioinformatics» (em inglês)

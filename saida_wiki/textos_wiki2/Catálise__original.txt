@@ -1,0 +1,63 @@
+Catálise, em química, é o aumento da velocidade de uma reação, devido à adição de uma substância (catalisador); sendo assim, a catálise pode ser simplesmente definida como sendo a ação do catalisador.
+Existem dois tipos de catálise: a homogénea, na qual o catalisador se dissolve no meio em que ocorre a reação (sem mudança de fase), e a heterogénea, que ocorre próximo ou na superfície entre duas fases, ou por intermédio de uma interface (por exemplo através de adsorção dos reagentes). O processo no qual um dos próprios produtos da reação promove a catálise, é chamado de “autocatálise”.
+As substâncias que reduzem a ação dos catalisadores são chamadas inibidores catalíticos se são reversíveis, e venenos catalíticos se são irreversíveis. Os promotores ou ativadores são substâncias que aumentam a atividade catalítica, quando não são catalisadores.
+Um exemplo comum de um processo catalítico, é quando a tromboplastina catalisa a reação de conversão de uma proteína sanguínea com íons de cálcio (transformando a protrombina em trombina). Após outros processos, forma-se o coágulo.[carece de fontes?]
+
+
+== Tipos de catálise ==
+
+
+=== Catálise ácida ===
+A que é provocada por íons hidrogênio ou por substância de natureza ácida. Pode ser realizada através de um solvente prótico (por exemplo ácido sulfúrico).
+
+
+=== Catálise básica ===
+A que é provocada por íons hidroxila ou por substância de natureza básica, como aminas.
+
+
+=== Catálise ácido-básica ===
+Um grande número de reações bioquímicas envolve a formação de intermediários instáveis carregados que tendem a retornar à forma de seus reagentes de origem, impedindo a reação. A estabilização destes intermediários se dá através da transferência de prótons de ou para eles, o que gera compostos propensos a serem quebrados nos produtos, ao invés de quebrados nos reagentes. Em processos não-enzimáticos, essa transferência é feita entre o intermediário e doadores ou aceptores de prótons. Quando o doador de prótons é o H+ (H3O+) ou o aceptor, o OH-, ambos provenientes da água, o processo é chamado de catálise ácido-básica específica. Se a estabilização do intermediário pelos íons da água é mais rápida do que a quebra desse intermediário nos reagentes, não há necessidade de outras moléculas catalíticas. Em processos não-enzimáticos em que a água não é suficiente para a estabilização dos intermediários e outras moléculas são necessárias para a transferência de prótons, como ácidos ou bases fracas, o processo é chamado catálise ácido-básica geral. 
+Algumas cadeias laterais de aminoácidos precisamente posicionadas nos sítios catalíticos de várias enzimas são ionizáveis e desempenham o papel de doadores ou aceptores de prótons, aumentando a taxa de transferência de prótons na ordem de 102 to 105. Eleva-se então a velocidade da reação, uma vez que os intermediários são estabilizados e podem ser convertidos nos produtos da reação em questão ou simplesmente impedidos de retornarem ao estado de reagentes e deslocarem o equilíbrio da reação no sentido contrário à formação dos produtos.
+
+
+=== Catálise homogênea ===
+A catálise homogênea diz respeito a processos nos quais um catalisador está em solução com pelo menos um dos reagentes. Ocorre quando a mistura catalisadores e reagentes é uma mistura homogênea.
+
+
+=== Catálise heterogênea ===
+É um tipo de catálise onde reagentes, produtos e catalisadores encontram-se em fases diferentes. Normalmente o catalisador é sólido e os reagentes e produtos estão na forma líquida ou gasosa. Nesse caso, o catalisador fornece uma superfície onde os reagentes irão reagir mais facilmente, e com menor energia de ativação.
+
+
+==== Catálise por transferência de fase ====
+Aquela que emprega catalisador capaz de retirar um reagente de uma fase, por exemplo aquosa e transferi-lo para outra fase, por exemplo orgânica (benzeno, etc), na qual sua reatividade se torna maior.
+
+
+=== Catálise Metálica ===
+Aproximadamente um terço de todas as enzimas conhecidas necessita de um ou mais íons metálicos para realizar atividade catalítica. Esse tipo de catálise recebe o nome de catálise metálica.
+Existem duas classes de enzimas que necessitam de íons metálicos e que se diferenciam pela intensidade da interação entre o íon e a proteína:
+1. Metaloenzimas contêm íons metálicos firmemente ligados, normalmente são íons de metais de transição, como Fe 2+, Fe 3+, Cu2+, Zn 2+, Mn 2+ ou Co 3+.
+2. Enzimas ativadas por metais ligam frouxamente íons metálicos presentes nas soluções, geralmente íons de metais alcalinos e alcalino terrosos, Na+, K+, Mg2+ ou Ca2+.
+Os íons metálicos participam dos processos catalíticos principalmente de três maneiras:
+1. Ligando-se aos substratos de modo a orientá-los de forma apropriada para a reação.
+2. Mediando reações de oxidorredução por alterações reversíveis no estado de oxidação do íon metálico.
+3. Estabilizando eletrostaticamente ou então protegendo cargas negativas.
+Interações iônicas entre metais ligados a enzimas e substratos podem ajudar a orientar o substrato para a reação ou estabilizar estados de transição carregados. Esse tipo de uso de interações fracas entre metais e substratos é similar a alguns dos usos da energia de ligação enzima-substrato. Os metais também podem ser mediadores de reações de oxidorredução por mudanças reversíveis no estado de oxidação do íon metálico. 
+Em relação ao terceiro processo descrito, tem-se que, em muitas reações catalisadas por íons metálicos, o íon age quase que da mesma maneira pela qual um próton neutraliza cargas negativas, isto é, como um ácido de Lewis. Além do mais, os íons metálicos em geral são catalisadores muito mais efetivos do que os prótons, pois os íons metálicos podem estar presentes em altas concentrações em pH neutro e possuem cargas maiores que + 1. Deste modo, os íons metálicos podem ser considerados como se fossem "superácidos".
+Os íons metálicos propiciam catálise nucleofílica pela ionização da água.
+A carga de um íon metálico faz as moléculas de água ligadas a ele ficarem mais ácidas do que as moléculas de H2O livre, formando uma fonte de íons OH- mesmo em pH abaixo do neutro.
+Um exemplo instrutivo desse fenômeno aparece no mecanismo catalítico da anidrase carbônica, uma enzima de ocorrência ampla que catalisa a reação:
+CO2 + H2O    ↔   HCO3- + H+
+A anidrase carbônica contém um íon Zn2+ essencial que se situa no fundo de uma fenda do sítio ativo, o qual tem ~15A de profundidade, e coordena-se em um arranjo tetraédrico com três cadeias laterais de histidina (His) evolutivamente invariáveis e com um átomo de oxigênio (O) de um íon HCO3 -  ou de uma molécula de água.
+Uma outra função enzimática importante dos íons metálicos é a proteção de cargas. Por exemplo, os verdadeiros substratos das cinases (enzimas de transferência de grupos fosfato que utilizam ATP) são os complexos ATP-Mg2+, e não simplesmente ATP. Neste caso, o papel do íon Mg2+, além do efeito de orientação, é proteger eletrostaticamente as cargas negativas dos grupos fosfato. De outro modo, essas cargas tenderiam a repelir os pares de elétrons dos agentes de ataques nucleofilicos, principalmente aqueles de caráter aniônico.
+
+
+== Ver também ==
+
+Envenenamento catalítico
+Inibição enzimática
+
+
+== Notas ==
+
+
+== Referências ==

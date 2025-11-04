@@ -1,0 +1,13 @@
+Proteínas são macromoléculas biológicas compostas por uma ou mais cadeias de aminoácidos. Presentes em todos os organismos vivos, participam em uma vasta gama de processos celulares, incluindo replicação do DNA, resposta a estímulos, transporte de moléculas e catálise de reações bioquímicas como enzimas. Desempenham funções estruturais e mecânicas, como a actina e miosina nos músculos e proteínas no citoesqueleto. Envolvem-se também na sinalização celular, resposta imunitária e ciclo celular.
+
+As proteínas diferem em sua sequência de aminoácidos, determinada pela sequência genética, o que geralmente leva ao enovelamento em uma estrutura tridimensional específica que influencia sua atividade.
+
+Enquanto a maioria dos microrganismos e plantas sintetizam todos os aminoácidos, animais, incluindo humanos, devem obter alguns através da dieta. Esses aminoácidos, denominados essenciais, são adquiridos pelo consumo de alimentos contendo proteínas, que são transformadas em aminoácidos durante a digestão. Alimentos de origem animal, como carne, ovos, leite e peixe, são fontes de proteínas completas. Fontes vegetais incluem leguminosas como feijão, lentilha, soja e grão-de-bico.
+
+Uma proteína contém pelo menos um polipeptídeo, uma cadeia linear resultante da condensação de aminoácidos ligados por ligações peptídicas. A sequência de aminoácidos é definida pela sequência de um gene. Após a síntese, os resíduos podem ser modificados quimicamente por modificação pós-traducional, alterando suas propriedades. Em alguns casos, grupos não peptídicos, denominados cofatores ou grupos prostéticos, são adicionados. As proteínas podem formar complexos proteicos para realizar funções específicas.
+
+O corpo humano não consegue armazenar o excesso de proteínas, que são digeridas em aminoácidos, convertidos em moléculas úteis pelo fígado através da desaminação. A amónia resultante é convertida em ureia e excretada pelos rins.
+
+As necessidades de consumo de proteínas variam dependendo de fatores como idade, atividade física, estado fisiológico (gravidez, amamentação), e condições de saúde. As recomendações variam entre diferentes autoridades de saúde.
+A insuficiência proteica pode levar à desnutrição e doenças como o kwashiorkor.
+As proteínas podem ser isoladas de outros componentes celulares por técnicas como precipitação, ultracentrifugação, eletroforese e cromatografia. Sua estrutura e função são estudadas por métodos como imuno-histoquímica, mutagénese sítio-dirigida, ressonância magnética nuclear e espectrometria de massa.

@@ -1,0 +1,13 @@
+Visão computacional é um campo da ciência da computação que se dedica ao desenvolvimento de sistemas artificiais capazes de interpretar informações a partir de imagens ou dados multidimensionais. Envolve a criação de teorias e tecnologias para que máquinas "enxerguem", com aplicações em áreas como controle de processos (robótica industrial, veículos autônomos), detecção de eventos, organização de informações, modelagem de objetos e ambientes, e interação humano-computador.
+
+A visão computacional se relaciona com o estudo da visão biológica, que investiga a percepção visual em humanos e animais, buscando modelos de funcionamento em termos fisiológicos. Enquanto a visão biológica se concentra em sistemas naturais, a visão computacional foca em sistemas artificiais de visão, implementados por hardware ou software.
+
+Subcampos de pesquisa incluem reconstrução de cenas, detecção de objetos, reconhecimento de padrões, aprendizagem de máquina e restauração de imagens.
+
+A visão computacional se interliga com inteligência artificial, especialmente em sistemas que realizam ações mecânicas, onde atua como um sensor de visão, fornecendo informações sobre o ambiente. Também se relaciona com física, pois muitos métodos dependem da compreensão da interação da radiação eletromagnética com os objetos e sensores. A neurobiologia, com seus estudos sobre sistemas biológicos de visão, oferece inspiração para a imitação de sistemas naturais. O processamento de sinais também contribui, estendendo métodos univariáveis para múltiplas dimensões. Estatística, otimização e geometria computacional são outras áreas relevantes.
+
+Aplicações da visão computacional incluem processamento de imagens médicas para diagnóstico, inspeção de qualidade industrial, sistemas de auxílio militar (detecção de alvos), e navegação autônoma de veículos terrestres e espaciais.
+
+Tarefas típicas incluem: reconhecimento de objetos, identificação de instâncias individuais (faces, impressões digitais), detecção de condições específicas em imagens (células anormais), estimativa de movimento a partir de sequências de imagens, reconstrução tridimensional de cenas, e restauração de imagens para remover ruído.
+
+Sistemas de visão computacional geralmente envolvem etapas de aquisição de imagem, pré-processamento (correção de ruído, contraste), extração de características (bordas, cantos, texturas), detecção e segmentação de regiões de interesse, e processamento de alto nível para classificação e tomada de decisões.

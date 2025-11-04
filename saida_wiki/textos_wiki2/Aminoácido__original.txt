@@ -1,0 +1,206 @@
+Aminoácidos são compostos de carbono (C), hidrogênio (H), oxigênio (O) e nitrogênio (N) - também chamado de azoto em Portugal - e alguns contêm enxofre (S), como a metionina e a cisteína. A estrutura  geral dos aminoácidos apresenta um grupo amina e um grupo carboxilo.
+Os  α-aminoácidos têm a carboxila (COOH) e a amina (NH2) ligados ao mesmo carbono. São conhecidos aminoácidos com os grupos em posições diferentes, como a β-alanina ou o ácido-γ-aminobutírico (GABA). Os outros ligantes do carbono são um hidrogênio (exceção: prolina) e a cadeia lateral, representada pela letra R no desenho ao lado. A glicina tem dois átomos de hidrogênio ligados ao carbono α, enquanto os outros aminoácidos apresentam uma cadeia carbônica, que determina a identidade de um aminoácido específico. A fórmula bidimensional mostrada aqui pode transmitir somente parte da estrutura comum dos aminoácidos, porque uma das propriedades mais importantes de tais compostos é a forma tridimensional, ou estereoquímica. Os aminoácidos são classificados em polares, não-polares e neutros, dependendo da natureza da cadeia lateral.
+Existem 20 aminoácidos principais, sendo denominados aminoácidos proteinogênicos ou padrão. Outros aminoácidos como a selenocisteína são encontrados em proteínas específicas. Desses 20, nove são ditos essenciais: isoleucina, leucina, valina, fenilalanina, metionina, treonina, triptofano, lisina e histidina. O organismo humano não é capaz de produzi-los, e por isso é necessária a sua ingestão através dos alimentos para evitar a sua deficiência no organismo. Uma cadeia de aminoácidos denomina-se de "peptídeo", esta pode possuir dois aminoácidos (dipeptídeos), três aminoácidos (tripeptídeos), quatro aminoácidos (tetrapeptídeos), ou muitos aminoácidos (polipeptídeos). O termo proteína é dado quando há  entre centenas e milhares de aminoácidos na composição do polipeptídeo.
+As ligações entre aminoácidos denominam-se ligações peptídicas e estabelecem-se entre o grupo amina e o grupo carboxilo de dois aminoácidos diferentes, com a perda de uma molécula de água. Os aminoácidos são moléculas anfóteras, ou seja, podem se comportar como ácido ou como base. 
+
+
+== Aminoácidos ==
+
+
+=== Fórmula geral ===
+São aqueles que apresentam fórmula geral: R - CH (NH2)- COOH  na qual R é uma cadeia orgânica.  No aminoácido glicina o substituinte é o hidrogênio; O carbono ligado ao substituinte  R é denominado carbono 2 ou alfa. Os vários alfa-aminoácidos diferem em qual cadeia lateral (grupo- R) está ligado o seu carbono alfa, e podem variar em tamanho a partir de apenas um átomo de hidrogénio na glicina a um grupo heterocíclico grande, como no caso do triptofano.
+
+
+=== Outros aminoácidos encontrados na natureza ===
+Ornitina e citrulina são α-aminoácidos que desempenham um papel vital no corpo. Eles são usados como parte do ciclo da ureia para se livrar dos iões de amónio que, de outro modo, iriam nos envenenar. No entanto, não são utilizados como blocos de construção na síntese de polipéptidos.
+
+
+== Simbologia e nomenclatura ==
+Na nomenclatura dos aminoácidos, a numeração dos carbonos da cadeia principal é iniciada a partir do carbono da carboxila.
+
+Observação: A numeração dos carbonos da cadeia principal pode ser substituída por letras gregas a partir do carbono 2 (α).
+Exemplo: Ácido 2-amino-3-metil-pentanoico = Ácido α-amino-β-metil-pentanóico.
+
+
+== Estrutura ==
+
+
+=== Estrutura tridimensional ===
+
+
+==== Aminoácidos apolares ====
+Os aminoácidos com cadeias apolares são a glicina, alanina, cisteína, valina, leucina, isoleucina,  prolina, fenilalanina, triptofano e a metionina. O radical presente nos aminoácidos alanina, a valina, a leucina, e a isoleucina são de hidrocarbonetos alifático. A prolina tem uma estrutura cíclica alifática e o nitrogênio está ligado a dois átomos de carbono, como na pirrolidina, uma amina secundária, em contraste com os grupos amino primários de todos os outros aminoácidos. A fenilalanina, tirosina e triptofano também são classificados como aminoácidos aromáticos, formados a partir da rota do chiquimato.
+
+
+==== Aminoácidos polares neutros ====
+Este grupo de aminoácido tem cadeias laterais polares eletricamente neutras (sem cargas) em pH neutro. Este grupo inclui a serina, a treonina, a tirosina, a glutamina, e a asparagina. Na serina, e na treonina, o grupo polar é uma hidroxila (-OH) ligadas a grupos hidrocarboneto alifáticos. O grupo hidroxila na tirosina é ligado a um grupo hidrocarboneto aromático, o qual  eventualmente perde um próton em meio alcalino (pH > 10 ) e forma a base conjugada.
+
+
+==== Aminoácidos polares ácidos ====
+Dois aminoácidos, o ácido glutâmico e o ácido aspártico, possuem grupos carboxila em suas cadeias laterais, além daquele presente em todos os aminoácidos.
+
+
+==== Aminoácidos polares básicos ====
+Há três aminoácidos (a histidina, a Lisina e a Arginina) que possuem cadeias laterais básicas, e em todos e eles cadeia lateral é carregada positivamente em pH neutro ou perto dele.
+
+
+== Classificação quanto ao substituinte ==
+A classificação quanto ao substituinte pode ser feita em:
+Aminoácidos apolares: Apresentam como substituintes hidrocarbonetos apolares ou hidrocarbonetos modificados, exceto a glicina. São substituintes hidrofóbicos.
+Alanina: CH3- CH (NH2) - COOH
+Leucina: CH3(CH2)3-CH2-CH (NH2)- COOH
+Valina:  CH3-CH(CH3)-CH (NH2)- COOH
+Isoleucina: CH3-CH2-CH (CH3)-CH (NH2)- COOH
+Prolina:-CH2-CH2-CH2- ligando o grupo amino ao carbono alfa
+Fenilalanina: C6H5-CH2-CH (NH2)- COOH
+Triptofano: R aromático- CH (NH2)- COOH: Metionina: CH3-S-CH2-CH2.
+Aminoácidos polares neutros: Apresentam substituintes que tendem a formar ligação de hidrogênio.
+Glicina: H- CH (NH2) - COOH
+Serina: OH-CH2- CH (NH2)- COOH
+Treonina: OH-CH (CH3)- CH (NH2)- COOH
+Cisteina: SH-CH2- CH (NH2)- COOH
+Tirosina: OH-C6H4-CH2- CH (NH2)- COOH
+Asparagina: NH2-CO-CH2- CH (NH2)- COOH
+Glutamina: NH2-CO-CH2-CH2- CH (NH2)- COOH.
+Aminoácidos ácidos: Apresentam substituintes com grupo carboxílico.São hidrófilos.
+Ácido aspártico: HCOO-CH2- CH (NH2)- COOH
+Ácido glutâmico: HCOO-CH2-CH2- CH (NH2)- COOH.
+Aminoácidos básicos: Apresentam substituintes com o grupo amino. São hidrófilos
+Arginina: {{{1}}}- CH (NH2)- COOH
+Lisina: NH3-CH2-CH2-CH2-CH2- CH (NH3)- COOH
+Histidina: H-(C3H2N2)-CH2- CH (NH2)- COOH.
+
+
+== Propriedades ==
+Organolépticas: Incolores. A maioria de sabor adocicado.
+Físicas: Sólidos com solubilidade variável em água. Apresentam atividade óptica por apresentarem carbono assimétrico, em geral,na forma levógira. A glicina é solúvel em água e não apresenta atividade óptica
+Químicas: O grupo carboxílico (-COOH) na molécula confere ao aminoácido uma característica ácida e o grupo amino (-NH2) uma característica básica. Por isso, os aminoácidos apresentam um caráter anfótero, ou seja, reagem tanto com ácidos como com bases formando sais orgânicos.
+
+
+=== Tabela de abreviaturas e propriedades padrão de aminoácidos ===
+
+
+== Curva de titulação ==
+A titulação de aminoácidos com ácidos ou bases mostra as características ácido-básicas deste grupo de compostos e depende da presença de grupos ácidos e básicos na cadeia lateral. Para aminoácidos que não apresentam estes grupos na cadeia lateral, a titulação seguem um perfil semelhante. 
+Em pH ácido (pH < 2), os grupos carboxila e amino estão protonados. A adição de íons hidroxila (OH-) pela titulação promove a desprotonação do grupo mais ácido, no caso, o ácido carboxílico. Esta reação impede um rápido aumento do pH da solução, porque o OH- adicionado é utilizado para desprotonar o COOH até completar a reação. Quando todo o COOH reagiu, a glicina está na forma 2 e a adição de mais NaOH aumenta [OH-] e o pH do meio, até se aproximar do segundo pKa (pKa2 = 9,6), no qual a [OH-] é suficiente para abstrair o próton do grupo NH3+, e a glicina passa para a forma 3. Esta reação prossegue até que todo o NH3+ seja transformado em NH2, e novamente o OH- leva a um aumento de pH.
+
+
+== Ponto isoelétrico ==
+Ao aplicar uma diferença de voltagem a uma solução contendo um eletrólito (molécula com carga), ele vai sofrer a ação deste campo, devido às cargas elétricas. Para os aminoácidos a migração se dá para um dos polos: positivo ou negativo, de acordo com a carga predominante em solução. Se houver o predomínio da forma negativa será observado um deslocamento do aminoácido para o ânodo (polo positivo), se predominar a forma positiva, o deslocamento será para o cátodo (polo negativo), e se existir somente a forma 2, não vai ocorrer deslocamento observável, porque será eletricamente neutro.
+A distribuição destas formas depende do pH da solução, por isso o deslocamento das espécies também depende do pH. O pH em que não se observa deslocamento para nenhum dos polos para um aminoácido ou peptídio e chamado de ponto isoelétrico (pI). Este valor pode ser calculado pela média dos valores do pKa que a carga passa de -1 para 0 e de 0 para +1. Para a glicina o valor de pI é (2,3 + 9,6)/2 = 5,95 ou aproximadamente 6,0. Neste valor de pH o número de cargas negativas e positivas de glicina em solução é igual, ou seja, o peptídio está neutro, o que diminui sua solubilidade em água, e em alguns casos forma um precipitado. Abaixo está a tabela de valores de pKa e pI para os aminoácidos proteinogênicos.
+
+Valores de pKa para os aminoácidos naturais
+
+A separação de enzimas de acordo com a carga é chamada de eletroforese e se constitui em uma ferramenta útil para a purificação e determinação da atividade enzimática.
+
+
+== Classificação quanto ao destino ==
+Essa classificação é dada em relação ao destino tomado pelo aminoácido quando o grupo amina é excretado do corpo na forma de ureia (mamíferos), amônia (peixes) e ácido úrico (aves e répteis).
+
+
+=== Destino cetogênico ===
+Quando o álcool restante da quebra dos aminoácidos vai para qualquer fase do ciclo de Krebs na forma de acetil coenzima A ou outra substância.
+Os aminoácidos que são degradados a acetil-coa ou acetoacetil-coa são chamados de cetogênicos porque dão origem a corpos cetônicos. A sua capacidade de formação de corpos cetônicos fica mais evidente quando o paciente tem a diabetes melitus, o que vai fazer com que o fígado produza grande quantidade dos mesmos.
+
+
+=== Destino glicogênico ===
+Quando o álcool restante da quebra dos aminoácidos vai para a via glicolítica.
+Os aminoácidos que são degradados a piruvato, a-cetoglutarato, succinil-coa, fumarato ou oxaloacetato são denominados glicogênicos. A partir desses aminoácidos é possível fazer a síntese de glicose, porque esses intermediários e o piruvato podem ser convertidos em fosfoenolpiruvato e depois em glicose ou glicogênio.
+Do conjunto básico dos 20 aminoácidos, os únicos que são exclusivamente cetogênicos são a leucina e a lisina. A fenilalanina, triptofano, isoleucina e tirosina são tanto cetogênicos quanto glicogênicos. E os aminoácidos restantes (14) são estritamente glicogênicos (lembrando que o corpo pode gerar Acetil-Coa a partir da glicose)..
+
+
+== Classificação nutricional ==
+Os aminoácidos se unem através de ligações peptídicas, formando os peptídeos e as proteínas. Para que as células possam produzir suas proteínas, elas precisam de aminoácidos, que podem ser obtidos a partir da alimentação ou serem produzidos pelo próprio organismo.
+Os aminoácidos podem ser classificados nutricionalmente, quanto ao radical e quanto ao seu destino.
+
+
+=== Aminoácidos não-essenciais ===
+Aminoácidos não-essenciais ou dispensáveis: São aqueles que o corpo humano pode sintetizar.são eles: glutamina, alanina, asparagina, ácido aspártico, ácido glutâmico, serina.
+
+
+=== Aminoácidos essenciais ===
+Os aminoácidos essenciais são aqueles que não podem ser produzidos pelo corpo humano. Dessa forma, são somente adquiridos pela ingestão de alimentos vegetais ou animais. São eles:  fenilalanina, isoleucina, leucina, valina, lisina, metionina, treonina, triptofano, histidina. 
+
+
+=== Aminoácidos essenciais apenas em determinadas situações fisiológicas ===
+Aminoácidos  condicionalmente essenciais são os aminoácidos que devido a determinadas patologias, não podem ser sintetizados pelo corpo humano. Assim, é necessário obter estes aminoácidos através da alimentação, de forma a satisfazer as necessidades metabólicas do organismo. São eles: cisteína, glicina, prolina, tirosina.
+
+
+== Isomeria ==
+
+Com exceção única da glicina, todos os aminoácidos obtidos pela hidrólise de proteínas em condições suficientemente suaves apresentam atividade óptica. Esses aminoácidos apresentam 4 grupos diferentes ligados ao carbono central, ou seja, esse carbono é assimétrico, assim esse carbono é chamado centro quiral.
+A existência de um centro quiral permite que esses aminoácidos formem esteroisômeros devido aos diferentes arranjos espaciais ópticamente ativos. Dentre os esteroisômeros existem aqueles que se apresentam como imagens especulares um do outro sem sobreposição, a estes chamamos enantiômeros.
+Os enantiômeros podem ser D ou L, sendo essa classificação referente à semelhança com a estrutura do carboidrato  D-gliceraldeído e do L-gliceraldeído, respectivamente. Somente os L-aminoácidos são constituintes das proteínas.
+
+
+== Síntese ==
+Todos os aminoácidos são derivados de intermediários da glicólise, do ciclo do ácido cítrico ou das via das pentoses-fosfato. O nitrogênio entra nessas vias através do glutamato. Há uma grande variação no nível de complexidade das vias, sendo que alguns aminoácidos estão a apenas alguns passos enzimáticos dos seus precursores e em outros as vias são complexas, como no caso dos aminoácidos aromáticos.
+Os aminoácidos podem ser essenciais ou não-essenciais.
+
+Os aminoácidos não-essenciais são mais simples de serem sintetizados e o são produzidos pelos próprios mamíferos. Por isso eles não necessariamente precisam estar na alimentação.
+Já os aminoácidos essenciais precisam estar presentes na dieta, já que não são sintetizados pelos mamíferos.
+As biossintéticas de aminoácidos são agrupadas de acordo com a família dos precursores de um deles. Existe a adição a esses precursores do PRPP (fosforribosil pirofosfato).
+As principais famílias são:
+
+A do alfa-cetoglutarato que origina o glutamato, a glutamina, a prolina e a arginina.
+A do 3-fosfoglicerato  de onde são derivados a serina, a glicina e a cisteína.
+O oxaloacetato dá origem ao aspartato, que vai originar a asparagina, a metionina, a treonina e a lisina.
+O piruvato dará origem a alanina, a valina, a leucina e a isoleucina.
+
+
+== Obtenção ==
+Hidrólise de proteínas
+As proteínas são moléculas formadas por até milhares de aminoácidos unidos por ligações peptídicas (que ocorre entre a carboxila de um aminoácido e o grupo amino de outro). Essas ligações podem ser quebradas por hidrólise produzindo uma mistura complexa de aminoácidos.
+Síntese
+Rearranjo de Hoffmann, síntese de Strecker e síntese de Gabriel são  métodos sintéticos para a obtenção de alfa-aminoácidos.
+
+
+== Ionização ==
+Os aminoácidos são substâncias anfóteras, ou seja, pode atuar como ácidos ou como bases.
+Existem 2 grupos ácidos fortes ionizados, um –COOH e um –NH3+ . Em solução essas duas formas estão em equilíbrio protônico. R-COOH e R-NH3+, representam a forma protonada ou ácida, parceiras nesse equilíbrio. E as formas R-COO- e R-NH2 são as bases conjugadas.
+Assim, dependendo do meio, os aminoácidos podem atuar como ácidos (protonado, podendo doar prótons), neutros (a forma protonada e a forma receptora de prótons em equilíbrio) e base (base conjugada do ácido correspondente, ou seja, perdeu prótons, e agora é receptora deles).
+Os aminoácidos reagem com o ácido nitroso produzindo nitrogênio e um hidroxi-acido. A aplicação desta reação é  a determinação da dosagem de aminoácidos,no sangue, medindo-se o volume de nitrogênio produzido (método de Slyke).
+Na putrefação dos organismos, certas enzimas reduzem os aminoácidos em aminas como a putrescina e a cadaverina.
+
+
+== Outros aminoácidos ==
+Ácido β-aminopropiônico (β-alanina): aminoácido natural componente do ácido pantotênico (vitamina do grupo B).
+
+
+=== Aminoácidos ômega ===
+Ácido ε-aminocaproico: aminoácido sintético usado na fabricação de fibras sintéticas e de plásticos.
+"Aminoácidos" nocivos
+Outro tipos de aminoácidos são os ácidos de aminas, que são pequenas particulas unimoleculares incutidas nas amêndoas e amendoins, e que por tanto são altamente nutritivas para as unhas, cabelos e pele.
+
+
+=== Aminoácidos não canônicos ===
+Aminoácidos não canônicos (ncAAs, do inglês non-canonical amino acids) são moléculas estruturalmente relacionadas aos 20 aminoácidos codificados pelo código genético universal, mas que não fazem parte diretamente desse conjunto. Nos organismos vivos, além dos aminoácidos codificados diretamente pelo código genético, existem exemplos como a selenocisteína e a pirrolisina, que são incorporados por recodificação de códons de parada. Outros, como a hidroxiprolina e a citrulina, resultam de modificações químicas enzimáticas e cumprem papéis estruturais ou regulatórios.
+A partir da década de 2000, avanços em biologia sintética permitiram expandir esse repertório, introduzindo aminoácidos artificiais em proteínas por meio de pares ortogonais de tRNA e aminoacil-tRNA sintetase. Essa tecnologia possibilitou não apenas substituir aminoácidos naturais por análogos, mas também adicionar novas funcionalidades químicas às proteínas.
+Os aminoácidos não canônicos apresentam modificações tanto na cadeia lateral quanto no esqueleto da molécula. Algumas categorias incluem:
+
+α,α-dialquil glicinas, como o ácido α-aminoisobutírico (Aib), que induzem estruturas helicoidais estáveis.
+Aminoácidos cíclicos, em que a cadeia lateral retorna ao carbono alfa, promovendo rigidez conformacional.
+Análogos de prolina, usados para modular voltas e dobras em peptídeos.
+Aminoácidos β-substituídos e α,β-desidratados, que restringem ângulos de rotação e favorecem conformações específicas.
+Aminoácidos com backbone modificado, como retro-inversos ou depsipeptídeos, que alteram a orientação das ligações peptídicas.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+CAMPBELL, Mary K. Bioquímica. 3º edição, Artmed, 2006.
+
+
+== Ver também ==
+Categoria:Aminoácidos, todos os artigos sobre aminoácidos
+Experiência de Miller e Urey
+Sequência de DNA
+Aminoácido proteinogénico
+Código genético
+
+
+== Ligações externas ==

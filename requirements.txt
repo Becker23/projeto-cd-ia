@@ -1,0 +1,13 @@
+scikit-learn
+numpy
+pandas
+dotenv
+torch
+transformers
+flask
+nltk
+requests
+python-slugify
+google-generativeai
+pyarrow
+pytorch

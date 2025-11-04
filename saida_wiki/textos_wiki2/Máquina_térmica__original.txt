@@ -1,0 +1,391 @@
+Máquina térmica, ou motor térmico,  em termodinâmica, é aquela integrada num sistema que realiza a conversão de calor  (energia térmica) em trabalho mecânico. Isto se dá quando uma fonte de calor leva uma substância de trabalho de um estado de baixa temperatura para um estado de temperatura mais alta. A substância de trabalho (normalmente gás ou vapor em expansão térmica) transfere essa energia através de sua expansão no interior da máquina térmica acionando o sistema mecânico (pistão, rotor ou outro) e realizando trabalho. Durante essa expansão, a substância de trabalho perde calor para o meio.
+O trabalho pode ser definido a partir das trocas de calor:
+
+  
+    
+      
+         
+        
+          W
+          
+            t
+          
+        
+        =
+        
+          Q
+          
+            1
+          
+        
+        −
+        
+          Q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ W_{t}=Q_{1}-Q_{2}}
+  
+ (1)
+onde 
+  
+    
+      
+        
+          Q
+          
+            1
+          
+        
+      
+    
+    {\displaystyle Q_{1}}
+  
+ e 
+  
+    
+      
+        
+          Q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Q_{2}}
+  
+ são respectivamente o calor cedido da fonte quente e o calor recebido pela fonte fria.
+Apesar de sua limitação de eficiência, têm uma grande vantagem que são várias formas de energia que podem ser transformadas em calor como reações exotérmicas (como combustão), absorção de luz de partículas energéticas, fricção, dissipação e resistência.
+Como a fonte de calor que abastece a energia térmica da máquina pode ser gerada virtualmente por qualquer tipo de energia, estas são extremamente versáteis e como enorme gama de aplicação.
+
+
+== Visão geral ==
+
+Em termodinâmica, máquinas térmicas são usualmente projetadas utilizando um modelo padrão, como o Ciclo Otto. O modelo teórico pode ser refinado e ampliado com dados reais de um motor em funcionamento, usando ferramentas como um diagrama indicador. Desde que o modelo padrão foi criado, poucas mudanças foram implementadas, podendo-se dizer que um ciclo termodinâmico é um caso ideal de um motor mecânico. Em termos gerais, quanto maior for a diferença na temperatura entre a fonte de calor e o dissipador frio, maior é a eficiência térmica potencial do ciclo. A temperatura baixa da máquina térmica está limitada a temperatura do ambiente, ou seja, não muito inferior a 300 Kelvin. Por isso a maioria dos esforços para melhorar as eficiências termodinâmicas das máquinas térmicas tem como foco o aumento da temperatura de origem, dentro dos limites dos materiais. A eficiência teórica máxima de uma máquina térmica é igual à diferença de temperatura entre as extremidades quentes e frias, dividida pela temperatura na extremidade quente, todas expressas em graus Kelvin, ou a temperatura absoluta.
+
+
+== Potência ==
+Máquinas térmicas podem ser caracterizadas pela sua potência específica, que é normalmente dada em quilowatts (kW) ou em cavalo-vapor (cv). Essa característica oferece uma aproximação da saída de pico de potência de um motor. Isto não deve ser confundido com a eficiência de combustível, uma vez que a eficiência é elevada, muitas vezes requer uma relação de ar-combustível pobre, e, portanto, menor quantidade de potência.
+
+
+== Rendimento ==
+O rendimento das máquinas térmicas pode ser, de uma maneira geral, a razão entre o trabalho total e o trabalho (ou calor) necessário para que ela funcione, ou seja, é o que se obtém pelo que se dá de trabalho:
+
+  
+    
+      
+        n
+        =
+        
+          
+            
+              W
+              
+                t
+              
+            
+            
+              Q
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle n={\frac {W_{t}}{Q_{1}}}}
+  
+ (2)
+mas pela equação (1) podemos melhorar a equação (2):
+
+  
+    
+      
+        n
+        =
+        
+          
+            
+              (
+              
+                Q
+                
+                  1
+                
+              
+              −
+              
+                Q
+                
+                  2
+                
+              
+              )
+            
+            
+              Q
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle n={\frac {(Q_{1}-Q_{2})}{Q_{1}}}}
+  
+
+e por fim:
+
+  
+    
+      
+        n
+        =
+        1
+        −
+        
+          
+            
+              Q
+              
+                2
+              
+            
+            
+              Q
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle n=1-{\frac {Q_{2}}{Q_{1}}}}
+  
+ (3)
+O rendimento é a eficiência com que uma máquina térmica funciona. Em geral o rendimento das máquinas é baixo:
+
+motores de automóveis rendem em média 22%;
+motores a diesel rendem em média 25%;
+grandes turbinas a gás da ordem de 33%
+o motor Stirling tem um dos maiores rendimentos, podendo chegar a 40%.
+Supondo que uma máquina térmica receba 100 cal de calor da fonte e, simultaneamente, realize um trabalho útil de 20 cal. Essa máquina teria então uma eficiência,
+
+  
+    
+      
+        n
+        =
+        
+          
+            W
+            
+              Q
+              
+                1
+              
+            
+          
+        
+        =
+        20
+        
+          /
+        
+        100
+      
+    
+    {\displaystyle n={\frac {W}{Q_{1}}}=20/100}
+  
+, 
+  
+    
+      
+        n
+        =
+        0
+        ,
+        2
+      
+    
+    {\displaystyle n=0,2}
+  
+ ou 
+  
+    
+      
+        20
+        %
+      
+    
+    {\displaystyle 20\%}
+  
+. Isso significa apenas 20% da energia térmica fornecida à máquina é convertida em trabalho útil sendo o restante não aproveitado pela máquina. Como a quantidade total de energia não pode aumentar ou diminuir temos:
+
+  
+    
+      
+        
+          Q
+          
+            1
+          
+        
+        =
+        W
+        +
+        
+          Q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Q_{1}=W+Q_{2}}
+  
+
+Portanto:
+
+  
+    
+      
+        100
+        =
+        20
+        +
+        
+          Q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 100=20+Q_{2}}
+  
+
+  
+    
+      
+        
+          Q
+          
+            2
+          
+        
+        =
+        100
+        −
+        20
+      
+    
+    {\displaystyle Q_{2}=100-20}
+  
+
+  
+    
+      
+        
+          Q
+          
+            2
+          
+        
+        =
+        80
+      
+    
+    {\displaystyle Q_{2}=80}
+  
+
+
+== Exemplos ==
+
+
+=== Motor de combustão interna ===
+
+O motor a combustão é uma máquina térmica comumente relacionada à automóveis. Na animação ao lado podemos observar as fases do processo e entender como a energia de determinados gases pode ser convertida em movimento, que é a justificativa para classificarmos essa máquina como uma máquina térmica, ou seja, que converte energia térmica (calor) em trabalho. A eficiência do motor a combustão é de aproximadamente 25%.
+
+
+==== Fase 1 ====
+Uma mistura de gases (ar e combustível) devidamente dosados por um carburador ou pela injeção eletrônica, preenche o cilindro a medida que o pistão libera espaço, mantendo o sistema a uma pressão constante. Esta mistura geralmente separa uma parte de combustível para cada 15 partes de ar, entretanto dosagens diferentes podem melhorar o desempenho do motor dependendo da necessidade. Nesta fase do processo ainda não há nenhum princípio termodinâmico envolvido.
+
+
+==== Fase 2 ====
+Em seguida o pistão sobe e comprime a mistura gasosa. Essa compressão pode ser considerada uma transformação adiabática, pois é muito rápida e não permite que o gás troque calor com o meio externo. Nesse ponto a temperatura e a pressão do gás estão muito elevadas.
+Deve-se lembrar que o motor precisa estar em movimento para funcionar, ou seja, o pistão deve ser acionado e estar em movimento antes de ser adicionada a mistura gasosa e o motor iniciar seu funcionamento normal. Essa partida do pistão era feita com uma manivela nos primeiros veículos, e atualmente é feita por um motor elétrico auxiliar (motor de arranque), alimentado pela bateria do carro.
+
+
+==== Fase 3 ====
+Na terceira fase do processo, uma faísca (como a do fogão automático) faz com que o gás entre em combustão. Quando as moléculas do combustível entram em combustão há um rompimento de ligações químicas e esse processo origina novos gases (CO2 e H2O). A pressão gerada pelo aumento do volume pode ser relacionada pela lei dos gases ideais, e é essa pressão que empurra o pistão e mantém o movimento contínuo do sistema mecânico. Essa expansão do gás em combustão também é um processo adiabático devido a velocidade com que o pistão desce e retorna a pressão inicial do sistema.
+
+
+==== Fase 4 ====
+Nesta última etapa os gases queimados precisam ser expulsos do cilindro para recomeçar o processo. Devido a inércia, o pistão é impulsionado para cima e nesse momento a válvula de escape abre e os gases são empurrados para fora. Esse processo também é isobárico pois o pistão não comprime os gases, apenas os empurra para fora.
+
+
+=== Motor de combustão externa ===
+
+
+==== Motor Stirling ====
+
+O motor Stirling, também conhecido como "motor de ar quente" ou "motor de gás quente" opera aproveitando a expansão/retração térmica dos gases. Qualquer gás, quando aquecido expande-se e, retrai-se quando resfriado. Assim o "motor de ar quente" aproveita tal característica dos gases para criar movimento. Como a fonte de calor/combustão trabalha fora da câmara (ou cilindro), tal motor é definido como motor de combustão externa. Teoricamente, o motor Stirling seria a máquina térmica mais eficiente na conversão de energia térmica em trabalho.
+
+
+==== Motor a vácuo ====
+
+Pode-se definir o motor a vácuo como sendo de ciclo aberto e combustão externa. Também é denominado "lambe chama" (flame licker), "motor de chama" (flame engine), "dançarino de chama" (flame dancer)  e "comedor de fogo" pela forma de seu funcionamento.
+
+
+=== Motor a vapor ===
+
+A locomotiva a vapor ficou conhecida como Maria Fumaça devido a coluna de vapor e fuligem que marcava o caminho do primeiro vagão. Geralmente, o material que fornece energia térmica (carvão, lenha) era levado nesses primeiros vagões. Além desse combustível, a máquina precisa de água, que vai absorver essa energia e liberá-la realizando trabalho para dar movimento ao transporte. A eficiência do motor a vapor é inferior a 10%. A animação abaixo ilustra as articulações ligadas ao pistão e nos ajuda a compreender como o movimento de vai-e-vem pode girar uma roda. Entretanto, a classificação de máquina térmica para este sistema está relacionada com o vapor que empurra o pistão. É principalmente na caldeira da locomotiva, onde o combustível é queimado, o lugar em que os conceitos da termodinâmica podem ser melhor observados.
+A energia térmica proveniente do material em combustão aquece um reservatório com água. Essa transferência de calor pode ser calculada pela diferença de temperatura, pelo volume de água que vira vapor de água e pelo calor específico da água. Esse vapor sobe e uma válvula permite que ele entre no cilindro onde está o pistão. Uma vez que não há mais espaço, e, sabendo que o volume do vapor continua crescendo conforme mais energia é transferida para o reservatório de água, a pressão dentro do cilindro aumenta até que o pistão é empurrado e seu movimento abre outra válvula que libera o vapor.
+Uma vez iniciado o movimento, o pistão retorna a posição inicial devido a sua inércia e isso faz com que a válvula permita que o vapor do reservatório ocupe o espaço do cilindro, completando o ciclo.
+
+
+=== Geladeira ===
+
+A geladeira ou frigorífico é uma das máquinas que revolucionou a vida do homem. Entretanto, pouco pensamos sobre seu ciclo de refrigeração. Quanta física há no processo de resfriar a comida? O equipamento pode ser caracterizado como uma máquina térmica onde estamos interessados no calor dissipado, e não no trabalho realizado. Parece errado, depois de tudo o que vimos, pensar que quanto mais calor for dissipado melhor será o rendimento da geladeira, mas é exatamente isso.
+O processo de refrigeração é um ciclo térmico, ilustrado na imagem da esquerda.
+
+
+==== Fase 1 ====
+O hidrofluorocarboneto é o gás atualmente utilizado em refrigeradores e ar-condicionados. É ele quem faz o ar dentro da geladeira esfriar, graças a troca de calor por condução e por convecção. Inicialmente esse gás percorre a serpentina exterior da geladeira, também chamada de radiador, para que fique à temperatura ambiente. Essa serpentina geralmente fica atrás do equipamento, mas pode ficar em qualquer lugar desde que fique à temperatura ambiente.
+
+
+==== Fase 2 ====
+Na segunda fase do ciclo o gás passa por um pequeno capilar e em seguida entra em uma tubulação com um volume maior do que o pequeno capilar onde se encontrava. Essa mudança de volume diminui a pressão do gás e sua temperatura, deixando a tubulação gelada. Essa relação entre pressão temperatura e volume é conhecida como equação de estado.
+
+
+==== Fase 3 ====
+Já resfriado o gás passa por uma outra serpentina, deixando o material mais gelado. É nessa parte que a geladeira começa a gelar: o ar troca calor com a serpentina por condução e fica mais denso que o resto do ar da geladeira. Esse ar mais pesado troca de lugar com o ar quente por convecção e o ar quente entra em contato com a serpentina, tornando-se frio também. Essa serpentina precisa estar na parte mais alta da geladeira para que o processo de convecção ocorra e a temperatura interna fique aproximadamente igual.
+
+
+==== Fase 4 ====
+É na quarta fase do processo que realizamos trabalho sobre o sistema, ou seja, fazemos exatamente o contrário do que vinhamos fazendo até agora com as máquinas térmicas. Um motor elétrico é utilizado para comprimir o gás gelado e fazer com que ele volte a tubulação externa a uma pressão muito maior do que a anterior. Ao elevar a pressão também aumentamos a temperatura, ou seja, o gás sai mais quente do que estava dentro da geladeira. Além de estar mais quente do que antes, ele precisa estar mais quente do que a temperatura ambiente, para que o sistema dissipe perca calor. Além de elevar a temperatura, o compressor empurra o gás para que o ciclo continue.
+
+
+=== Turbinas ===
+
+O termo turbinas é utilizado aqui para caracterizar qualquer sistema que utilize os princípios da termodinâmica para converter algum tipo de energia em energia elétrica. A explicação resume bem essa sessão de máquinas térmicas, pois em geral o mecanismo de transformação é o mesmo: uma hélice (ou pá) que gira uma turbina, podendo esta ser um motor ou um corpo com propriedades magnéticas.
+
+
+==== Usina nuclear ====
+
+Esse processo fica bem claro em uma usina nuclear, pois o calor gerado no processo (seja ele fissão ou fusão) é convertido, em parte, em energia elétrica por um processo termodinâmico.
+Funciona da seguinte maneira: A partir de um processo nuclear de fissão ou fusão é extraída energia de materiais radioativos, e essa energia é liberada no ambiente na forma de calor. Esse ambiente é uma câmara com água, que esquenta muito rápido e evapora, originando colunas gigantes de vapor. A câmara é completamente vedada, a não ser a superfície, que é obstruída por um conjunto de pás giratórias. Devido a imensa pressão do vapor d'água as hélices gigantes giram e liberam o gás aos poucos. Esse movimento rotatório das pás é propagado para algum eixo de motor ou corpo magnético, que vai acabar gerando energia elétrica usando os mesmos princípios de uma usina hidrelétrica, por exemplo.
+
+
+== Ver também ==
+
+
+== Referências ==

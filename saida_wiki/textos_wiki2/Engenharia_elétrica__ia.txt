@@ -1,0 +1,21 @@
+Engenharia elétrica é o ramo da engenharia que se dedica ao estudo e aplicação da eletricidade, do eletromagnetismo e da eletrônica. O campo surgiu no século XIX com a comercialização, distribuição e utilização da energia elétrica.
+
+Nos Estados Unidos, a engenharia elétrica abrange sistemas de energia elétrica e sistemas eletrônicos, sendo abordada de forma integrada por instituições como o MIT, Caltech, Stanford e Universidade de Michigan. No Brasil, alguns cursos de engenharia elétrica incorporam a eletrônica como parte significativa do currículo.
+
+Na Europa, a engenharia eletrotécnica e a eletrônica são frequentemente oferecidas como cursos separados, com a eletrotécnica focada em sistemas de energia elétrica e a eletrônica em sistemas eletrônicos. Outros cursos relacionados incluem engenharia eletrônica e de telecomunicações, engenharia de sistemas e comunicações, engenharia informática e engenharia informática e de computadores.
+
+A eletricidade despertou interesse científico desde o final do século XVII. William Gilbert, inventor do versório e o primeiro a distinguir entre magnetismo e eletricidade estática, é considerado um dos primeiros engenheiros eletricistas. Alessandro Volta inventou o eletróforo em 1775 e a pilha voltaica em 1800.
+
+No século XIX, Georg Ohm quantificou a relação entre corrente elétrica e diferença de potencial (1827), Michael Faraday descobriu a indução eletromagnética (1831) e James Clerk Maxwell unificou as equações do eletromagnetismo (1873). A partir de 1830, a eletricidade foi aplicada em utilizações práticas, como o telégrafo. Padronização de unidades como volt, ampere, coulomb, ohm, farad e henry ocorreu em 1893.
+
+Em 1882, a Universidade Técnica de Darmstadt fundou o primeiro departamento de engenharia elétrica. Universidades como MIT e Cornell começaram a oferecer cursos de graduação em engenharia elétrica em 1885. Thomas Edison apresentou o primeiro sistema de transmissão de energia elétrica em 1882. Charles Algernon Parsons inventou a turbina a vapor em 1884. O sistema de energia por corrente alternada se desenvolveu rapidamente após 1886.
+
+No desenvolvimento da rádio, Heinrich Hertz transmitiu ondas de rádio em 1888. Karl Ferdinand Braun introduziu os tubos de raios catódicos em 1897. John Fleming inventou o diodo em 1904 e Robert von Lieben e Lee De Forest desenvolveram o triodo. Guglielmo Marconi aplicou métodos de Hertz em sistemas sem fios, transmitindo ondas através do Atlântico em 1901. Albert Hull desenvolveu o magnetron em 1920. O exército britânico desenvolveu a tecnologia de radar em 1934.
+
+Konrad Zuse apresentou o Z3, o primeiro computador eletromecânico programável, em 1941. Tommy Flowers projetou o Colossus, o primeiro computador eletrônico digital programável, em 1943. O ENIAC, de John Presper Eckert e John Mauchly, marcou o início da era da computação em 1946.
+
+A engenharia elétrica possui diversas áreas de especialização, incluindo sistemas de energia elétrica, eletrônica de potência, sistemas de controle e automação, eletrônica, computação, telecomunicações e sistemas biomédicos.
+
+O currículo da engenharia elétrica inclui matemática, física, química e outras disciplinas. Os alunos passam tempo em laboratórios estudando fenômenos elétricos, particularmente o eletromagnetismo. Algumas instituições enfatizam a eletrotécnica, enquanto outras focam na eletrônica.
+
+A engenharia eletrotécnica foca no sistema de potência elétrica, incluindo geração, transmissão, distribuição e utilização de energia. A engenharia eletrônica surgiu com a invenção da válvula e se desenvolveu com a chegada do transistor.

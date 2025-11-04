@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.8137254901960784,
+  "labels": [
+    "humano",
+    "ia"
+  ],
+  "confusion_matrix": [
+    [
+      81,
+      20
+    ],
+    [
+      18,
+      85
+    ]
+  ],
+  "n_train": 475,
+  "n_test": 204
+}

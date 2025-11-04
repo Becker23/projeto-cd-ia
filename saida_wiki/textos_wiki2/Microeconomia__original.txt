@@ -1,0 +1,224 @@
+A Microeconomia é definida como um problema de alocação de recursos escassos em relação a uma série possível de fins. Os desdobramentos lógicos desses problemas levam ao estudo do comportamento econômico individual de consumidores e firmas, bem como a distribuição da produção e rendimento entre eles. A Microeconomia é considerada a base da moderna teoria econômica, estudando suas relações fundamentais. As famílias são consideradas fornecedores de trabalho e capital, e demandantes de bens de consumo. As firmas são consideradas demandantes de trabalho e fatores de produção e fornecedoras de produtos.
+Os consumidores maximizam a utilidade a partir de um orçamento determinado. As firmas maximizam lucro a partir de custos e receitas possíveis. Estes mecanismos apresentam-se nos aspectos metodológicos de oferta e demanda (vide gráfico adjacente, Figura 1.1).
+A microeconomia procura analisar o mercado e outros tipos de mecanismos que estabelecem preços relativos entre os produtos e serviços, alocando de modos alternativos os recursos dos quais dispõe determinados indivíduos organizados numa sociedade.
+A microeconomia preocupa-se em explicar como é gerado o preço dos produtos finais e dos fatores de produção num equilíbrio, geralmente perfeitamente competitivo. Divide-se em:
+
+Teoria do Consumidor: Estuda as preferências do consumidor analisando o seu comportamento, as suas escolhas, as restrições quanto a valores e a demanda de mercado. A partir dessa teoria se determina a curva de demanda;
+Teoria da Firma: Estuda a estrutura econômica de organizações cujo objetivo é maximizar lucros.  Organizações que para isso compram fatores de produção e vendem o produto desses fatores de produção para os consumidores. Estuda estruturas de mercado tanto competitivas quanto monopolísticas. A partir dessa teoria se determina a curva de oferta;
+Teoria da Produção: Estuda o processo de transformação de fatores adquiridos pela empresa em produtos finais para a venda no mercado. Estuda as relações entre as variações dos fatores de produção e suas consequências no produto final. Determina as curvas de custo, que são utilizadas pelas firmas para determinar o volume ótimo de oferta.
+A Microeconomia explica também as práticas de mercado, sendo estas divididas em: Monopólio, Monopsónio, Oligopólio, Oligopsônio, Concorrência perfeita e Concorrência monopolística.
+Para Paul Krugman e Robin Wells,
+
+"uma das principais questões da microeconomia é a busca da validade da intuição de Adam Smith, saber se os indivíduos na busca dos seus interesses próprios contribuem para promover os interesses da sociedade no seu conjunto".
+Efetivamente, o foco de interesse da microeconomia é, antes de tudo, o estudo das escolhas dos agentes económicos, isto é, da forma estes procedem dado um conjunto de diferentes opções, comparando os benefícios e inconvenientes para a prossecução dos seus objetivos ou para a satisfação dos seus interesses - o postulado utilitarista.
+A microeconomia estuda as interações que ocorrem nos mercados em função da informação existente e da regulação estatal. Distingue-se o mercado de um produto ou serviço  dos mercados de fatores de produção, tais como os recursos naturais, o capital e o trabalho.
+A teoria compara os agregados da quantidade global demandada pelos compradores e a quantidade fornecida pelos vendedores, o que determina o preço. Constrói modelos que descrevem como o mercado pode conseguir o equilíbrio entre o preço e a quantidade, ou como pode reagir às alterações do mercado ao longo do tempo, que é o que se denomina de mecanismo da oferta e da procura. As estruturas de mercado, como sejam a concorrência perfeita e o monopólio, são analisados em função das suas consequências, em termos de comportamento e da eficiência económica.
+A análise de um mercado é feita a partir de hipóteses simplificadoras: racionalidade dos agentes, equilíbrio parcial (parte-se do pressuposto de que os outros mercados não são afetados). Uma análise em equilíbrio geral permite avaliar as consequências sobre os outros mercados, e pode permitir compreender as interações e os mecanismos que podem levar a um equilíbrio.
+
+
+== Conceito ==
+
+A Microeconomia, também conhecida como a "teoria dos preços", analisa a formação de preços no mercado, ou seja, como a empresa e o consumidor interagem e decidem qual o preço e a quantidade de determinado bem ou serviço em mercados específicos.
+Assim, enquanto a Macroeconomia enfoca o comportamento da Economia como um todo, considerando variáveis globais como consumo agregado, renda nacional e investimentos globais, a análise microeconômica preocupa-se com a formação de preços de bens e serviços (por exemplo, soja, automóveis) e de fatores de produção (salários, aluguéis, lucros) em mercados específicos.
+A teoria microeconômica não deve ser confundida com a economia de empresas pois tem enfoque distinto. A Microeconomia estuda o funcionamento da oferta e da demanda na formação do preço no mercado, isto é, o preço obtido pela interação do conjunto de consumidores com o conjunto de empresas que fabricam um dado bem ou serviço.
+Do ponto de vista da economia de empresas, que estuda uma empresa específica, prevalece a visão contábil-financeira na formação do preço de venda de seu produto, baseada principalmente nos custos de produção, enquanto na Microeconomia predomina a visão do mercado.
+A abordagem econômica se diferencia da contábil mesmo quando são tratados os custos de produção, pois o economista analisa não só os custos efetivamente incorridos, mas também aqueles decorrentes das oportunidades sacrificadas, ou seja, dos custos de oportunidade ou implícitos. Os custos de produção do ponto de vista econômico não são apenas os gastos ou desembolsos financeiros incorridos pela empresa (custos explícitos), mas incluem também quanto as empresas gastariam se tivessem de alugar ou comprar no mercado os insumos que são de sua propriedade (custos implícitos).
+Os agentes da demanda - os consumidores - são aqueles que se dirigem ao mercado com o intuito de adquirir um conjunto de bens ou serviços que lhes maximize sua função utilidade. No Direito utilizou-se a conceituação econômica para se definir consumidor: pessoa natural ou jurídica que no mercado adquire bens ou contrata serviços como destinatário final, visando atender a uma necessidade própria. Deve-se salientar que o Código Brasileiro de Defesa do Consumidor considera o consumidor como hipossuficiente, uma vez que entre fornecedor e consumidor há um desequilíbrio que favorece o primeiro.
+A conceituação de empresa, entretanto, possui duas visões: a econômica e a jurídica. Do ponto de vista econômico, empresa ou estabelecimento comercial é a combinação realizada pelo empresário dos fatores de produção: capital, trabalho, terra e tecnologia, de tal modo organizados para se obter o maior volume possível de produção ou de serviços ao menor custo.
+Na doutrina jurídica, reconhece-se o estabelecimento como uma universalidade de direito, incluindo-se na atividade econômica um complexo de relações jurídicas entre o empresário e a empresa. O empresário é, assim, o sujeito da atividade econômica, e o objeto é constituído pelo estabelecimento, que é o complexo de bens corpóreos e incorpóreos utilizados no processo de produção. A empresa, nesse contexto, é o complexo de relações jurídicas que unem o sujeito ao objeto da atividade econômica.
+A Microeconomia esta voltada fundamentalmente para:
+
+As unidades individualizáveis da economia, como o consumidor e a empresa, considerados isoladamente, ou em agrupamentos homogêneos;
+O comportamento do consumidor, a busca da satisfação máxima (com sua restrição orçamentaria), e outras motivações;
+O comportamento da empresa, a busca do lucro máximo (com sua estrutura de custos e com a atuação da concorrência) e outras motivações;
+Os mecanismos do funcionamento do mercado. Oferta e procura;
+Imperfeições e Funções do mercado, na utilização eficaz dos recursos escassos da sociedade e na geração dos produtos destinado a satisfação e necessidades ilimitáveis;
+As remunerações pagas aos agentes que participam do processo produtivo e sua repartição da renda social;
+Os preços recebidos pelas unidades que geram cada um dos bens de serviços que compõem o produto social;
+Custo e Benefícios privados e o interesse maior do bem-comum.
+
+
+== Pressupostos básicos da análise microeconômica ==
+A hipótese coeteris paribus
+Para analisar um mercado específico, a Microeconomia se vale da hipótese de que tudo o mais permanece constante (em latim, coeteris paribus). O foco de estudo é dirigido apenas àquele mercado, analisando-se o papel que a oferta e a demanda nele exercem, supondo que outras variáveis interfiram muito pouco, ou que não interfiram de maneira absoluta.
+Adotando-se essa hipótese, torna-se possível o estudo de determinado mercado, selecionando-se apenas as variáveis que influenciam os agentes econômicos - consumidores e produtores - nesse particular mercado, independentemente de outros fatores, que estão em outros mercados, poderem influenciá-los.
+Sabemos, por exemplo, que a procura de uma mercadoria é normalmente mais afetada por seu preço e pela renda dos consumidores. Para analisar o efeito do preço sobre a procura, supomos que a renda permanece constante (coeteris paribus); da mesma forma, para avaliar a relação entre a procura e a renda dos consumidores, supomos que o preço da mercadoria não varia. Temos, assim, o efeito "puro" ou "líquido" de cada uma dessas variáveis sobre a procura.
+Papel dos preços relativos
+Na análise microeconômica, são mais relevantes os preços relativos, isto é, os preços de um bem em relação aos demais, do que os preços absolutos (isolados) das mercadorias.
+Por exemplo, se o preço do guaraná cai 10%, e o da soda igualmente cai 10%, nada deve acontecer com a demanda (procura) dos dois bens (supondo que as demais variáveis permaneceram constantes). Agora, tudo o mais permanecendo constante, se cai apenas o preço do guaraná, permanecendo inalterado o preço da soda, deve-se esperar um aumento na quantidade procurada de guaraná, e uma queda na soda. Embora não tenha havido alteração no preço absoluto da soda, seu preço relativo aumentou, quando comparado com o do guaraná.
+Objetivos da empresa
+A grande questão na Microeconomia, que inclusive é a origem das diferentes correntes de abordagem, reside na hipótese adotada quanto aos objetivos da empresa produtora de bens e serviços.
+A análise tradicional supõe o princípio da racionalidade, segundo o qual o empresário sempre busca a maximização do lucro total, otimizando a utilização dos recurso de que dispõe. Essa corrente enfatiza conceitos como receita marginal, custo marginal e produtividade marginal em lugar de conceitos de média (receita média, custo médio e produtividade média), daí ser chamada de marginalista. A maximização do lucro da empresa ocorre quando a receita marginal iguala-se ao custo marginal.
+As correntes alternativas consideram que o móvel do empresário não seria a maximização do lucro, mas fatores como aumento da participação nas vendas do mercado, ou maximização da margem sobre os custos de produção, independente da demanda de mercado.
+Geralmente a abordagem marginalista compõe a teoria microeconômica propriamente dita, pelo que é chamada de teoria tradicional, enquanto as demais abordagens são usualmente analisadas nas disciplinas denominadas teoria da organização industrial ou economia industrial.
+
+
+== Tópicos de estudo ==
+
+
+=== Mercado ===
+
+A microeconomia, tal como a macroeconomia, é um método fundamental de análise à economia enquanto sistema.
+Examina o comportamento dos agentes (tais como os agregados familiares e as firmas) e as suas interações em mercados específicos, considerando a escassez de recursos e a regulação governamental.
+Um determinado mercado pode ser para de um produto, por exemplo milho, ou de serviços de um fator de produção, por exemplo, os serviços de um pedreiro. A teoria considera agregados de uma quantidade demandada por compradores e quantidade ofertada por vendedores para cada preço possível por unidade. A microeconomia une esses dois aspectos para descrever como o mercado pode atingir o equilíbrio entre o preço e a quantidade negociada ou explicar as variações do mercado ao longo do tempo.
+Esta análise é geralmente referido como análise de  oferta e demanda. As estruturas do mercado, como concorrência perfeita e monopólio, são também estudadas para as suas implicações no comportamento e na eficiência econômica.
+A análise das alterações num mercado geralmente parte do pressuposto simplificador de que o comportamento nos outros mercados permanece inalterado (ceteris paribus), ou seja, é uma análise de equilíbrio parcial.
+A teoria do equilíbrio geral permite alterações em diferentes mercados e agregados de todos os mercados, incluindo a sua evolução e interações em direção ao ponto de equilíbrio.
+
+
+=== Produção, custo e eficiência ===
+
+Em microeconomia, produção é um processo que usa insumos para criar produtos, destinados ao comércio ou ao consumo. A produção é um fluxo, logo é mensurável através de um rácio por unidade de tempo. É comum distinguir entre a produção de bens de consumo (alimentos, cortes de cabelo, etc.) vs. bens de investimento (novos tratores, edifícios, estradas, etc.), bens públicos (defesa nacional, segurança pública, protecção civil, etc.) ou bens privados (computadores novos, automóveis, etc.).
+O custo de oportunidade está relacionado com o custo econômico: é o valor da melhor alternativa dispensada, quando se tem que fazer uma escolha entre duas ações desejadas, mas mutuamente exclusivas. É descrita como sendo a expressão da "relação básica entre escassez e escolha". O custo de oportunidade é um fator que garante a utilização eficiente dos recursos escassos, pois o custo é ponderado face ao valor gerado, no momento de decidir aumentar ou reduzir uma atividade.
+Os custos de oportunidade não se restringem a custos monetários. Podem também ser medidos em tempo, lazer, ou qualquer outra coisa que corresponda a um benefício alternativo (utilidade).
+As entradas para o processo de produção incluem fatores de produção básicos como o trabalho, capital (bens duradouros usados na produção, como uma fábrica) e terra (incluindo recursos naturais). Outros fatores incluem bens intermédios usados na produção dos bens finais, como seja o aço num carro novo.
+A eficiência económica descreve o quanto um sistema utiliza bem os recursos disponíveis, dada a tecnologia disponível. A eficiência pode aumentar se conseguirmos obter um maior resultado sem aumentar os recursos usados, ou seja, se conseguirmos reduzir o "desperdício". Dizemos que temos uma eficiência de Pareto quando estamos num ponto onde nenhuma alteração na forma como usamos os recursos disponíveis consegue melhorar o resultado para alguém sem piorar a situação de outro.
+
+A fronteira de possibilidades de produção (FPP) é uma ferramenta analítica que representa a escassez, custo e eficiência. No caso mais simples, estudamos uma economia que produz apenas dois bens. A FPP é uma tabela ou gráfico (ver ilustração) que mostra as várias combinações de quantidades dos dois produtos que é possível ter, dado a tecnologia e os fatores de produção disponíveis em cada ponto na curva
+Cada ponto na curva mostra uma produção potencial total máxima para a economia, que é a produção máxima de um bem, dada uma quantidade de produção do outro bem.
+O ponto A no gráfico, por exemplo, mostra que FA  de comida e CA de computadores podem ser produzidos quando a produção é eficiente. Assim como FB de comida e CB de computadores (ponto B).
+A escassez é representada na figura pelas pessoas poderem querer, mas não poderem consumir, para além da FPP. Quando a produção de um bem aumenta, a produção do outro diminui, numa relação inversa.
+Isso ocorre porque uma maior produção de um bem requer a transferência de insumos da produção do outro bem, diminuindo-a. A inclinação da curva num ponto determina o trade-off entre os dois bens. Mede o quanto uma unidade adicional de um bem implica reduzir o outro bem, que é um exemplo de custo de oportunidade. Ao longo da FPP, escassez significa que escolher mais de um bem implica ter menos do outro. Ainda assim, numa economia de mercado, o movimento ao longo da curva pode ser explicado como uma escolha que os agentes vêm como preferível.
+Por construção, cada ponto na curva mostra a eficiência produtiva, por maximizar a produção para um total dado de insumos. Um ponto "dentro" da curva é possível mas representa ineficiência produtiva (uso de insumos com desperdício), no sentido de que a produção de um ou ambos os bens poderia aumentar movendo-se no sentido nordeste em direção a um ponto na curva. Um exemplo de ineficiência pode ser de uma alta taxa de desemprego durante uma recessão. Estar na curva pode ainda não satisfazer completamente a eficiência alocativa (também apelidado de eficiência de Pareto) se a curva não consistir numa combinação de produtos que os consumidores tenham preferência face a outros pontos ou combinações.
+Muito da economia aplicada em políticas públicas está preocupada em determinar como a eficiência de uma economia pode ser aumentada.
+Encarar a realidade da escassez para então perceber como podemos organizar a sociedade para ter o uso mais eficiente dos recursos tem sido descrito como sendo a "essência da economia", onde a disciplina "faz a sua contribuição ímpar".
+
+
+=== Especialização ===
+
+A especialização é considerada um aspecto chave para a eficiência económica, devido a diferentes agentes (indivíduos ou países) terem diferentes vantagens comparativas.
+Mesmo que um país detenha vantagem absoluta em todos os setores, tem vantagem em se especializar nas áreas onde tenha as maiores vantagens comparativas, efetuando depois trocas comerciais com outros países, Consegue desta forma obter uma maior quantidade dos produtos onde não se especializou comparado com a opção de produzir tudo por si. Um exemplo disso é a especialização dos países desenvolvidos em produtos de alta tecnologia, preferindo adquirir os bens de manufatura aos países em desenvolvimento, onde a mão-de-obra é barata e abundante.
+A teoria defende que desta forma se consegue obter um maior total de  produtos e utilidade, comparando com a situação em que cada país decide pela produção própria de todos os produtos.
+A teoria da vantagem comparativa é responsável pela crença generalizada dos economistas nos benefícios do comércio livre.
+O conceito aplica-se a indivíduos, fazendas, fábricas, fornecedores de serviços e a economias.
+Em qualquer um destes sistemas produtivos podemos ter:
+
+uma divisão do trabalho onde cada trabalhador é responsável por uma tarefa distinta e especializada fazendo parte do esforço produtivo, ou
+diferentes formas de uso de capital fixo e da terra.
+A Riqueza das Nações (1776), de Adam Smith faz uma discussão notável dos benefícios da divisão do trabalho.  A forma como os indivíduos podem aplicar da melhor forma o seu trabalho, ou qualquer outro recurso, é um tema central do primeiro livro da obra. Smith afirmava que um indivíduo deveria investir recursos, por exemplo, terra e trabalho, de forma a obter o maior retorno possível.
+Desta forma, as várias aplicações de um mesmo recurso devem ter uma taxa de retorno igual (ajustada pelo risco relativo associado a cada atividade). Caso contrário, acabaria por ocorrer uma realocação de recursos melhorando o retorno.
+Essa ideia, escreveu George Stigler, é a proposição central da teoria econômica.
+O economista francês Turgot fez o mesmo raciocínio dez anos antes, em 1766.
+De forma mais geral, a teoria diz que,  incentivos do mercado, como preços da produção e dos insumos de produção, determinam a alocação dos fatores de produção através da vantagem comparativa.
+Isto ocorre porque são escolhidos os insumos mais baratos, mantendo baixo o custo de oportunidade de um tipo de produto.
+Com este processo, a produção agregada aumenta como efeito colateral. Esta especialização da produção cria oportunidades para ganhos com o comércio em que os detentores dos recursos beneficiam do comércio vendendo um tipo de produto contra outros bens de maior valor. Uma medida dos ganhos de comércio é o aumento na produção (formalmente, a soma do acréscimo do excedente do consumidor e dos lucros do produtor) resultante da especialização na produção e do consequente comércio.
+
+
+=== Aspectos metodológicos da oferta e demanda ===
+
+A teoria de oferta e demanda explica os preços e as quantidades dos bens transacionados numa economia de mercado e as respetivas variações. Na teoria microeconômica em particular, refere-se à determinação do preço e quantidade num mercado de concorrência perfeita (isto é, no qual tampouco produtores ou consumidores individualmente têm poder para alterar as variáveis de mercado). Tem tido um papel fundamental na construção de modelos para  outras estruturas de mercado (como monopólio,oligopólio e competição monopolística) e para outras abordagens teóricas.
+Para que se entenda o funcionamento econômico (e microeconômico, principalmente) é preciso que se entenda os mecanismos de mercado, isto é, as regulações de oferta e demanda. Para isso, em fins didáticos e práticos, divide-se um mercado competitivo agregado em dois espectros: mercados de consumidores (representado pela demanda, ou procura) e mercado de produtores (representado pela oferta).
+Graficamente (ver Figura 1.1), em um gráfico com eixo vertical representado por preços (P), e horizontalmente representado por quantidade (Q), representam-se as curvas em sentidos opostos, em proveniência de suas Leis (ver Lei da oferta e da procura), que sinteticamente, indicam:
+A Lei da Demanda (ou Procura) dita que quanto maiores os preços, menor será a quantidade demandada (Qd): os consumidores tendem a minimizar seus desembolsos. Por isso, a curva de demanda é sempre decrescente.
+A Lei da Oferta dita que quanto maiores os preços, maior será a quantidade ofertada (Qs): os produtores tendem a maximizar seus lucros. Por isso, a curva de oferta é sempre crescente.
+Alguns determinantes podem afetar as quantidades demandadas e ofertadas de cada mercado. São diversas variáveis, que se alteram conforme as prioridades dos mercados, mas pode-se citar algumas, que são comumente válidas. São estas as principais:
+
+Relacionando-se oferta e demanda, tem-se o que se chama de movimentos de mercado. Matematicamente, adota-se Qs (para quantidade ofertada) e Qd (para quantidade demandada), para que se note as seguintes condições de mercado:
+Quando Qs > Qd (quantidade ofertada maior do que quantidade demandada), tem-se o que, economicamente, chama-se por Excedente econômico (graficamente, acima do ponto de equilíbrio) . Quando Qs < Qd (quantidade ofertada menor do que quantidade demandada), tem-se o que chama-se por Escassez (graficamente, abaixo do ponto de equilíbrio). Quando Qs = Qd (quantidade ofertada é igual a quantidade demandada), tem-se o que chama-se por Equilíbrio de mercado.
+Segundo o conceito smithiano (Adam Smith) do laissez-faire, a tendência é que o equilíbrio de mercado (onde Qs = Qd) seja sempre retomado. Isto é, considerando um cenário de excedente (no qual Qs > Qd), a tendência é que os preços abaixem; o contrário também é válido. Se o mercado encontra-se em um ciclo de escassez (no qual Qs < Qd), a tendência é o aumento de preços, para que retome-se o equilíbrio de mercado. Analisando estes cenários com exemplos numéricos (totalmente fictícios), tem-se:
+
+(Verifique que, na Tabela, quanto maior o preço, maior a Qs e menor a Qd; o contrário também manifesta-se. Isso caracteriza as Leis de oferta e procura).
+Em cenários de escassez, a tendência de que os preços aumentem é natural, somente assim, os consumidores estarão menos dispostos a gastar (Qd reduz-se) e há incentivo a produção (Qs aumenta); por fim, retoma-se o equilíbrio de mercado (Qs = Qd). O contrário é válido. Em cenários de excedente, a tendência de que os preços caiam é explicada pela disposição dos consumidores em demandar mais a menores preços (Qd aumenta) e desincentiva a produção (Qs reduz-se); por fim, retoma-se o equilíbrio de mercado (Qs = Qd).
+Nos modelos matemáticos de cálculo econômico, pode-se ainda valorizar o que chama-se por Superávit do Consumidor e Superávit do Produtor (ver Economic Surplus).
+
+
+=== Externalidades ===
+
+Esta área da economia estuda se os mercados levam em consideração de maneira adequada todos os benefícios e custos sociais. Uma externalidade ocorre quando há custos ou benefícios sociais significativos advindos da produção ou do consumo que não são refletidos nos preços de mercado. Por exemplo, a poluição do ar pode ser considerada uma externalidade negativa e educação pode ser uma externalidade positiva. Os governos, no papel de um planejador social benevolente, frequentemente estabelecem impostos ou restringem a venda de bens que geram externalidades negativas e fornecem subsídios ou de alguma forma promovem a compra de bens que causam externalidades positivas com o intuito de corrigir distorções nos preços causadas por essas externalidades.
+A economia do meio ambiente estuda os assuntos relativos à degradação, recuperação ou preservação do meio ambiente. Em particular, externalidades da produção ou do consumo, como a poluição do ar, podem levar a falhas de mercado. A disciplina considera como políticas públicas podem ser usadas para corrigir tais falhas. Opções incluem regulação que reflita uma análise de custo-benefício ou soluções de mercado que alterem incentivos como multas por emissão ou redefinição de direitos de propriedade.  A economia do meio ambiente não deve ser confundida com novas escolas de pensamento econômico referidas como Economia ecológica.
+
+
+=== Economia agrícola ===
+
+A economia da agricultura é uma das mais antigas e mais bem estabelecidas áreas da economia. É o estudo das forças econômicas que afetam o setor agrícola e o impacto do setor agrícola no resto da economia. É uma área da economia que, graças à necessidade de se aplicar a teoria microeconômica a situações complexas do mundo real, tem contribuído com avanços importantes de aplicação mais geral; o papel do risco e da incerteza, o comportamento das famílias e as ligações entre direito de propriedade e incentivos. Mais recentemente áreas como o comércio internacional de commodities e meio ambiente tem recebido grande atenção.
+
+
+=== Economia financeira ===
+
+A economia financeira, muitas vezes chamada simplesmente de finanças, está preocupada com a alocação dos recursos financeiros em um ambiente de risco (ou incerteza). Assim, seu foco está na operação dos mercados financeiros, na avaliação de preços de ativos financeiros, e na estrutura financeira das empresas.
+
+
+=== Economia industrial ===
+A economia industrial, também conhecida nos Estados Unidos como organização industrial, estuda o comportamento estratégico das firmas, a estrutura dos mercados e suas interações. As estruturas comuns do mercado incluem competição perfeita, competição monopolística, várias formas de oligopólio e monopólio.
+
+
+=== Economia da informação ===
+
+A economia da informação examina como a informação (ou sua falta) afeta o processo decisório econômico. Um importante foco da disciplina é o conceito de assimetria de informação, onde um participante possui mais ou melhor informação que a outra. A existência da assimetria de informação abre espaço para o surgimento de problemas como risco moral e seleção adversa estudada na teoria dos contratos. A economia da informação tem relevância em muitas áreas como finanças, seguros,  direito, e processo decisório em condições de risco e incerteza.
+
+
+=== Economia do trabalho ===
+
+A economia do trabalho procura entender o funcionamento do mercado e a sua dinâmica relacionada ao trabalho. Os mercados de trabalho funcionam através das interações entre trabalhadores e empregadores. A economia do trabalho observa os ofertantes de força-de-trabalho (trabalhadores), seus demandantes (empregadores) e tenta entender os padrões resultantes de salários e outras rendas do trabalho, de emprego e desemprego. Usos práticos incluem a assistência na formulação de políticas de pleno emprego.
+
+
+=== Economia e direito ===
+
+Economia e direito, ou a análise econômica do direito, é uma abordagem da teoria do direito que aplica métodos da economia ao direito. Inclui o uso de conceito econômicos para explicar os efeitos de normas legais a fim de determinar quais normas são economicamente eficientes e para prever quais normas o serão.  O artigo seminal de Ronald Coase "The Problem of Social Cost", publicado em 1961, sugeriu que direitos de propriedade bem definidos poderiam superar os problemas das  externalidades. Desde que os custos de transação se aproximassem de zero, acordo mutuamente benéficos regulariam quem arcaria com o custo da externalidade.
+
+
+=== Economia gerencial ===
+
+A economia gerencial aplica análise microeconômica para especificar decisões nas organizações. Ela se aproveita pesadamente de métodos quantitativos como pesquisa operacional e programação e também de métodos estatísticos como a regressão ausentes a certeza e informação perfeita. Um tema unificador é a tentativa de otimizar decisões de negócios, inclusive minimização de custo por unidade e maximização de lucro, dados os objetivos da firma e limitações impostas pela tecnologia e condições de mercado.
+
+
+=== Finanças públicas ===
+
+Finanças públicas é o ramo da economia que lida com os gasto e receita dos orçamentos das entidades do setor público, geralmente o governo. O campo aborda questões como incidência fiscal (quem realmente paga um imposto), análise custo-benefício de programas do governo, efeitos na eficiência econômica e distribuição de renda de diferentes tipos de gastos e impostos e políticas fiscais. Essa última, um aspecto da teoria da escolha pública, modela o comportamento do setor público de forma análoga à microeconomia, envolvendo interações de eleitores, políticos e burocratas interessados em si mesmos.
+
+
+=== Economia do bem-estar ===
+
+A economia do bem-estar é um ramo da economia que usa técnicas microeconômicas  para determinar simultaneamente eficiência de alocação dentro de uma economia e a distribuição de renda associada a ela. Ela tenta medir o bem-estar social examinando as atividades econômicas dos indivíduos que compõem a sociedade.
+
+
+== Teoria microeconómica tradicional ==
+A teoria microeconómica standard assume que os agentes económicos, as famílias ou as empresas são "racionais", isto é, supõe-se terem habilidades cognitivas e informações suficientes para, por um lado, construir critérios para escolher entre diferentes opções possíveis e identificar as restrições sobre estas escolhas, tanto restrições "internas" (a sua capacidade tecnológica, no caso das empresas, por exemplo), como as "externas" (por exemplo, as resultantes da conjuntura económica) e, por outro, para maximizar sua satisfação dadas as restrições. É o paradigma do homo economicus, que não implica a priori que os critérios de escolha dos indivíduos sejam puramente egoístas. Podem perfeitamente ser "racionalmente"  altruístas.
+Esta teoria deve sua existência à síntese feita pela economia matemática neoclássica de 1940 e 1950, entre os contributos da corrente marginalista do século XIX e a teoria do equilíbrio geral de Walras e Pareto.
+John Hicks e Paul Samuelson são considerados os pais da microeconomia tradicional atual, que podemos dividir em quatro áreas:
+
+A teoria do consumidor, que estuda o comportamento das famílias ao fazer opções de consumo sujeitas a restrições orçamentais;
+A teoria da firma, que estuda o comportamento de empresas que pretendem maximizar seus lucros sujeitos a restrições tecnológicas;
+A teoria das trocas dos mercados, que podem ou não ser concorrenciais;
+A teoria do ótimo econômico, que recorre ao conceito de Pareto para avaliar a eficiência económica das interações coletivas entre os agentes, através do comércio.
+A teoria tradicional surge no contexto do equilíbrio geral walrasiano e tende a "assimilar o funcionamento real da sociedade ao do modelo de equilíbrio geral abstrato".
+
+
+=== Mercado e imperfeições de mercado ===
+
+Agir pelo interesse individual conduz muitas vezes ao interesse geral, mas nem sempre é assim. Paul Krugman e Robin Wells notam que "a mão invisível não é sempre nossa aliada".
+Uma  falha de mercado é um situação na qual o mercado não consegue a alocação óptima dos recursos económicos e dos bens e serviços. Isso pode acontecer, por exemplo, no caso de um monopólio (ou de um cartel), ou de uma situação em que coexista desemprego e falta de mão-de-obra, ou ainda a existência de poluição.
+A falha de mercado, no sentido de alocação económica, é um conceito diferente da anomalia de mercado, que tem um caráter mais financeiro, não da falta de eficiência do mercado. A anomalia de mercado diz respeito ao rendimento financeiro e a uma anomalia nos preços devida a fenómenos comportamentais. Estes dois fenómenos podem ser a causa ou a consequência um do outro, ou resultar de uma causa comum.
+O conceito de falha tem também um aspecto político, e por isso algo controverso, na medida em que serve para justificar intervenções políticas para “corrigir”, ou até mesmo suprimir, o mercado. Apesar disso, a generalidade dos economistas utiliza o termo mas para se referir às situações em que o funcionamento real de um mercado se afasta significativamente do mercado perfeito, devido ao efeito de três causas principais:
+
+de estruturas de mercado sub-optimais (falta de transparência, latência, etc.);
+da não internalização de custos (como nos casos de  externalidades, bens públicos e assimetria de informação, seleção adversa, risco moral e do problema do principal-agente);
+das ineficiências de preço (não consideração de informação na formação dos preços) devidas a desvios comportamentais.
+O autores liberais, após o surgimento da teoria da escolha pública, acrescentam uma quarta causa, que na sua opinião tem consequências bem mais graves:
+
+as intervenções estatais. A expressão falha do Estado (no sentido de falha do governo, em inglês government failure), surge por analogia com a "falha de mercado".
+
+
+=== Externalidades ===
+Esta área da economia estuda se os mercados levam em consideração de maneira adequada todos os benefícios e custos sociais. Uma externalidade ocorre quando há custos ou benefícios sociais significativos advindos da produção ou do consumo que não são refletidos nos preços de mercado. Por exemplo, a poluição do ar pode ser considerada uma externalidade negativa e educação pode ser uma externalidade positiva. Os governos, no papel de um planejador social benevolente, frequentemente estabelecem impostos ou restringem a venda de bens que geram externalidades negativas e fornecem subsídios ou de alguma forma promovem a compra de bens que causam externalidades positivas com o intuito de corrigir distorções nos preços causadas por essas externalidades.
+A economia do meio ambiente estuda os assuntos relativos à degradação, recuperação ou preservação do meio ambiente. Em particular, externalidades da produção ou do consumo, como a poluição do ar, podem levar a falhas de mercado. A disciplina considera como políticas públicas podem ser usadas para corrigir tais falhas. Opções incluem regulação que reflita uma análise de custo-benefício ou soluções de mercado que alterem incentivos como multas por emissão ou redefinição de direitos de propriedade.  A economia do meio ambiente não deve ser confundida com novas escolas de pensamento econômico referidas como Economia ecológica.
+
+
+=== Novas teorias: compreendendo melhor a concorrência imperfeita ===
+A partir dos anos 1970, o paradigma dominante na microeconomia sofre uma inflexão de modo a melhor integrar todas as anomalias e imperfeições do mercado. Para Pierre Cahuc "a nova microeconomia foi construída progressivamente, a partir de críticas dispersas, muitas inicialmente de forma isolada, ao modelo walrasiano". De uma forma mais geral, para a economista Anne Perrot, o edifício teórico da microeconomia tradicional deixava "desarmado o economista que procurasse uma representação positiva do funcionamento do mercado". Esta mudança aconteceu num momento em que a macroeconomia buscava os seus fundamentos microeconómicos, de forma que iria gerar alguma convergência entre os dois campos.
+O quadro geral da nova microeconomia é preferencialmente reduzido à análise de um só mercado e o seu estudo científico baseia-se mais em constatações que se julga serem representativas do funcionamento da economia (que são apelidados de "factos estilizados").
+A nova microeconomia enfatiza os problemas relativos aos estímulos, à informação e à teoria dos jogos. Por "estímulo" entende-se toda a ação de um agente económico (incluindo o Estado) que levem a certos agentes económicos adotar este ou aquele comportamento. Esta noção tem todo o sentido se considerarmos que a informação disponível é inevitavelmente limitada por um agente económico desejoso de incentivar outros agentes a ter comportamentos do seu interesse.
+A teoria dos jogos, por seu lado, é um ramo da matemática aplicada que estuda as interações estratégicas entre agentes. Segundo essa teoria, os agentes escolhem as estratégias que maximizam os seus benefícios, sendo dadas as estratégias que os outros agentes irão escolher. Propõem um modelo formal das situações em que os decisores interagem com outros agentes. A teoria dos jogos generaliza a abordagem de maximização desenvolvida anteriormente para a análise de mercados. Foi desenvolvida a partir do livro de 1944 Theory of Games and Economic Behavior, de John von Neumann e Oskar Morgenstern. É também empregue em numerosos domínios não económicos: estratégia nuclear, ética, ciência política e teoria evolucionista.
+A extensão da abordagem microeconómica conduziu também ao desenvolvimento da "teoria dos contratos". Esta teoria conceptualiza as organizações, instituições, famílias e empresas como conjuntos de contratos (nós de contratos, na terminologia económica). Uma empresa é, por exemplo, um nó composto por contratos de trabalho, ligando-a aos seus assalariados, por contratos ligando-a aos seus clientes e fornecedores, por contratos de produtos bancários e financeiros, por contratos legais ligando-a ao seu Estado ou região em matéria fiscal e de regulação. Os mercados são outro caso particular de nós de contratos, neste caso de contratos de comércio. Os Estados, no sentido das organizações políticas que administram determinados espaços geográficos, são um outro exemplo de nó contratual, representando as Constituições contratos gerais ligando estas organizações ao povo que governam.
+Um aspecto importante dos contratos é, regra geral, serem "incompletos", isto é, não conseguem especificar totalmente as obrigações das partes em todas as situações possíveis. O desenvolvimento desta teoria gerou naturalmente um aprofundamento das teorias da negociação e renegociação. De facto, o seu propósito é não só explicar como e porquê os contratos são formados entre os agentes, mas também as razões pelas quais eles os põem, ou não, em causa com o decorrer do tempo.
+A nova microeconomia pode ser usada pela economia industrial, economia do trabalho e pela economia pública, devido à sua capacidade para se aproximar das preocupações práticas de certos industriais.
+
+
+== Ver também ==
+Macroeconomia
+Economia Internacional
+Economia de mercado
+Economia socialista
+
+
+== Referências ==

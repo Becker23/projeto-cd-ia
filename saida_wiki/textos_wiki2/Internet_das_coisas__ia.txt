@@ -1,0 +1,7 @@
+A Internet das Coisas (IoT, do inglês *Internet of Things*, ou IdC em português e espanhol) refere-se à interconexão digital de objetos cotidianos com a internet. Essa conexão se concentra nos objetos em si, mais do que nas pessoas, permitindo que objetos físicos, como veículos e edifícios, equipados com tecnologia embarcada, sensores e conectividade de rede, coletem e transmitam dados.  A IoT estende a internet atual para conectar objetos com capacidade computacional e de comunicação, possibilitando o controle remoto e o uso dos objetos como provedores de serviços.
+
+O conceito da Internet das Coisas foi proposto em 1999 por Kevin Ashton no Laboratório de Auto-ID do MIT, onde se pesquisava a identificação por radiofrequência em rede (RFID) e tecnologias de sensores. A expressão passou a designar a conexão avançada de dispositivos, sistemas e serviços, ultrapassando o conceito tradicional de comunicação máquina a máquina (M2M) e abrangendo uma ampla variedade de protocolos, domínios e aplicações.
+
+Prevê-se que a IoT codifique e rastreie um grande número de objetos, com estimativas de dezenas de bilhões de dispositivos conectados à internet em anos recentes. O protocolo IPv6, com sua capacidade de identificar um número muito maior de dispositivos, é um elemento fundamental para o crescimento da IoT.
+
+A conexão de dispositivos por meio de sinais de rádio de baixa potência é uma área ativa de pesquisa na IoT, como alternativas ao Wi-Fi e Bluetooth.

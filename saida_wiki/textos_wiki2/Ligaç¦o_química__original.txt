@@ -1,0 +1,89 @@
+Ligações químicas são conjunções estabelecidas entre átomos para formarem moléculas ou, no caso de ligações iônicas ou metálicas, agregados atômicos (superátomos) organizados de forma a constituírem a estrutura básica de uma substância ou composto. Na natureza existem por volta de uma centena de elementos químicos. Os átomos destes elementos, ao se unirem, formam a grande diversidade de substâncias.
+As ligações químicas podem ocorrer através da doação e recepção de elétrons entre os átomos, que se transformam em íons que se mantêm unidos via a denominada ligação iônica. Como exemplo tem-se o cloreto de sódio (NaCl). Compostos iônicos conduzem eletricidade no estado líquido ou dissolvidos, mas não quando sólidos. Eles normalmente têm um alto ponto de fusão e alto ponto de ebulição. Uma analogia seria comparar os elementos químicos ao alfabeto que, uma vez organizado seguindo uma dada regra ou ordem, leva as letras a formarem palavras imbuídas de significado distinto e bem mais amplo daquele disponível quando separadas. 
+Os átomos, comparando, seriam as letras, e organizando-as seriam as palavras. Na escrita não podemos simplesmente ir juntando as letras para a formação de palavras: aasc em português não tem significado (salvo se corresponder a uma sigla); porém se organizarmos essas mesmas letras teremos a palavra casa, que certamente tem significado "físico". Assim como na escrita, há regras físico-químicas a serem obedecidas, e a união estabelecida entre átomos não ocorre de qualquer forma, devendo haver condições apropriadas para que a ligação entre os átomos ocorra, tais como: afinidade, contato, energia, etc.
+Outro tipo de ligações químicas ocorre através do compartilhamento de elétrons: a ligação covalente. Como exemplo tem-se a água (H2O). Dá-se o nome de molécula apenas à estrutura em que todos os seus átomos conectam-se uns aos outros de forma exclusiva via ligação covalente. Existe também a ligação metálica onde os elétrons das últimas camadas dos átomos do metal soltam-se dos respectivos íons formados e passam a se movimentar livremente entre todos os íons de forma a mantê-los unidos. Um átomo encontra-se assim ligado não apenas ao seu vizinho imediato, como na ligação covalente, mas sim a todos os demais átomos do objeto metálico via uma nuvem de elétrons de longo alcance que se distribui entorno dos mesmos.
+
+
+== Regra do octeto ==
+
+Um certo número de elementos adquire estabilidade eletrônica quando seus átomos apresentam oito elétrons na sua camada mais externa, e usualmente esses se ligam de forma a buscarem completar esses oito elétrons, especificamente ao completar suas camadas externas. Dadas as variações na distribuição eletrônica, existem muitas exceções para essa regra, a exemplo do Hidrogênio (H) que se estabiliza com dois elétrons na última camada. Como exemplo da regra do octeto, válida contudo de forma bem regular para os principais elementos representativos da tabela periódica, temos o caso do átomo de carbono, que é tetravalente (pode realizar quatro ligações), e além dele todos os átomos que pertencem a família de número 14 da tabela periódica que, também tetravalentes, encontram-se no eixo central dessa regra (Octeto). De fato, a regra do octeto vale somente para os elementos representativos do nível dois, como o carbono, o nitrogênio e o oxigênio (que são alguns dos elementos mais utilizados no ensino de química). Ao descer para o nível três, porém, os átomos já tendem a adquirir uma configuração estável com 18 elétrons, e para outro níveis já se torna difícil estabelecer um padrão para as distribuições eletrônicas, devidos às variações citadas anteriormente. A regra é, contudo, uma ótima aproximação para o ensino a nível médio, porém se torna obsoleta para campos de engenharia química, e nuclear, por exemplo.
+A regra do octeto termina com 8 elétrons em sua última camada para todos os gases nobres, exceto o hélio que termina com 2 elétrons na camada de valência.
+
+
+== Ligações Iônicas ou Eletrovalentes ==
+O lítio tem um elétron em sua camada de valência, mantido com pouca dificuldade porque sua energia de ionização é baixa. O flúor possui 7 elétrons em sua camada de valência. Quando um elétron se move do lítio para o flúor, cada íon adquire a configuração de gás nobre. A energia de ligação proveniente da atração eletrostática dos dois íons de cargas opostas tem valor negativo suficiente para que a ligação se torne estável.Ligações iônicas são um tipo de ligação química baseada na atração eletrostática entre dois íons carregados com cargas opostas.
+Na formação da ligação iônica, um metal tem uma grande tendência a perder elétron(s), formando um íon positivo ou cátion. Isso ocorre devido à baixa energia de ionização de um metal, isto é, é necessária pouca energia para remover um elétron de um metal.
+Simultaneamente, o átomo de um ametal (não-metal) possui uma grande tendência a ganhar elétron(s), formando um íon de carga negativa ou ânion. Isso ocorre devido à sua grande afinidade eletrônica. Sendo assim, os dois íons formados, cátion e ânion, se atraem devido a forças eletrostáticas e formam a ligação iônica.
+Se estes processos estão interligados, ou seja, o(s) elétron(s) perdido(s) pelo metal é(são) ganho(s) pelo ametal, então, seria "como se fosse" que, na ligação iônica, houvesse a formação de íons devido à "transferência" de elétrons do metal para o ametal. Esta analogia simplista é muito utilizada no Ensino Médio, que destaca que a ligação iônica é a única em que ocorre a transferência de elétrons. A regra do octeto pode ser utilizada para explicar de forma simples o que ocorre na ligação iônica. Exemplo: Antes da formação da ligação iônica entre um átomo de sódio e cloro, as camadas eletrônicas se encontram da seguinte forma:
+
+11Na - K = 2; L = 8; M = 1
+17Cl - K = 2; L = 8; M = 7
+O sódio possui 1 elétron na última camada (camada M). Bastaria perder este elétron para que ele fique "estável" com 8 elétrons na 2ª camada (camada L). O cloro possui 7 elétrons na sua última camada (camada M). É bem mais fácil ele receber 1 elétron e ficar estável do que perder 7 elétrons para ficar estável, sendo isto o que acontece.
+Sendo assim, é interessante ao sódio doar 1 elétron e ao cloro receber 1 elétron. No esquema abaixo, está representado este processo, onde é mostrado apenas a camada de valência de cada átomo. Seria como se fosse que os átomos se aproximam e ocorre a transferência de elétron do sódio para o cloro:
+
+O resultado final da força de atração entre cátions e ânions é a formação de uma substância sólida, em condições ambientes (25 °C, 1 atm). Não existem moléculas nos sólidos iônicos. Em nível microscópico, a atração entre os íons acaba produzindo aglomerados com formas geométricas bem definidas, denominadas retículos cristalinos. No retículo cristalino cada cátion atrai simultaneamente vários ânions e vice-versa.
+
+
+=== Características dos compostos iônicos ===
+Apresentam forma definida, são sólidos nas condições ambientes;
+Possuem altos ponto de fusão e ponto de ebulição;
+Conduzem corrente elétrica quando dissolvidos em água ou fundidos;
+OBS.: O hidrogênio faz ligação iônica com metais também. Embora possua um elétron, não é metal, logo, não tende a perder esse elétron. Na verdade, o hidrogênio tende a receber um elétron ficando com configuração eletrônica igual à do gás hélio.
+
+
+== Ligações Covalentes ou Moleculares ==
+
+Uma ligação covalente ou molecular é aquela onde os átomos possuem a tendência de compartilhar os elétrons de sua camada de valência, ou seja, de sua camada mais instável. Neste tipo de ligação não há a formação de íons, pois as estruturas formadas são eletronicamente neutras, como o exemplo abaixo, da água. O átomo de oxigênio (O) necessita de dois elétrons para ficar estável e o H irá compartilhar seu elétron com o O. Sendo assim o O ainda necessita de um elétron para se estabilizar, então é preciso de mais um H e esse H compartilha seu elétron com o O, estabilizando-o. Sendo assim é formado uma molécula o H2O. 
+
+Ao compartilharem elétrons, os átomos podem originar uma ou mais substâncias simples diferentes. Esse fenômeno é denominado alotropia. Essa substâncias são chamadas de variedades alotrópicas. As variedades podem diferir entre si pelo número de átomos no retículo cristalino. Ex.: Carbono, Oxigênio, Enxofre, Fósforo.
+
+
+=== A Formação de uma ligação covalente diminui a energia potencial ===
+Para ocorrer uma ligação iônica, o efeito do abaixamento de energia da energia reticular precisa ser maior que o resultado líquido da combinação do efeito de elevação da energia de ionização (EI) e da afinidade eletrônica (AE). Muitas vezes, isto não é possível, em especial quando as energias de ionização de todos os átomos envolvidos são grandes. Isto acontece, por exemplo, quando não-metais se combinam para formar moléculas. Nesses casos, a natureza utiliza um caminho diferente para diminuir a energia - o compartilhamento de elétrons.
+Assim que os dois átomos se aproximam, o elétron de cada átomo começa a sentir a atração de ambos os núcleos. Isto provoca um deslocamento da densidade eletrônica em torno de cada átomo para a região entre os dois átomos. Portanto assim que a distância entre os dois núcleos diminui, ocorre um aumento na probabilidade de encontrarmos ambos os elétrons nas proximidades de ambos os núcleos. De fato, quando a molécula é formada, cada um dos átomos de hidrogênio na molécula de H2 realiza o compartilhamento dos dois elétrons.
+Na molécula de H2, o acúmulo da densidade eletrônica entre os dois átomos atrai ambos os núcleos e faz com que eles se mantenham juntos. Entretanto, como possuem a mesma carga, os dois núcleos se repelem, assim como os dois elétrons. Portanto, na molécula formada, os átomos são mantidos a uma distância na qual todas essas atrações e repulsões estão balanceadas.
+De maneira geral, os núcleos são mantidos separados e a força liquida de atração produzida pelo compartilhamento do par de elétrons é chamada de ligação covalente.
+Cada ligação covalente é caracterizada por duas grandezas, a distância média entre dois núcleos, mantidos juntos pela ligação, e a energia necessária para separar os dois átomos para produzir, novamente, os átomos neutros. Na molécula de hidrogênio, as forças atrativas puxam os núcleos para uma distância de 75 pm, e essa distância é chamada comprimento de ligação (ou, as vezes, distância de ligação). Pelo fato de uma ligação covalente manter os átomos unidos, é necessário realizar trabalho (energia precisa ser fornecida) para separá-los. A quantidade de energia necessária para "quebrar" a ligação (ou a energia liberada quando a ligação é formada) é chamada energia de ligação.
+
+
+=== Características dos compostos moleculares ===
+Podem ser encontrados nos três estados físicos;
+Apresentam ponto de fusão e ponto de ebulição menores que os compostos iônicos;
+Quando puros, não conduzem eletricidade;
+Quando no estado sólido, podem apresentar dois tipos de retículos cristalinos.
+
+
+== Ligações covalentes coordenadas ==
+Este tipo de ligação ocorre quando os átomos envolvidos já atingiram a estabilidade com os oito ou dois elétrons na camada de valência. Sendo assim eles compartilham seus elétrons disponíveis, como se fosse um empréstimo para satisfazer a necessidade de oito elétrons do elemento com o qual está se ligando.
+
+
+== Ligação metálica ==
+
+A ligação metálica ocorre entre metais, isto é, átomos de alta eletropositividade (tendência a doar elétrons).
+Num sólido, os átomos estão dispostos de maneira variada, mas sempre próximos uns aos outros, compondo um retículo cristalino. Enquanto certos corpos apresentam os elétrons bem presos aos átomos, em outros, algumas dessas partículas permanecem com certa liberdade de se movimentarem no cristal. É o que diferencia, em termos de condutibilidade elétrica, os corpos condutores dos isolantes. Nos corpos condutores, muitos dos elétrons se movimentam livremente no cristal, de forma desordenada, isto é, em todas as direções. E, justamente por ser caótico, esse movimento não resulta em qualquer deslocamento de carga de um lado a outro do cristal.
+Aquecendo-se a ponta de uma barra de metal, coloca-se em agitação os átomos que a formam e os que lhe estão próximos. Os elétrons aumentam suas oscilações e a energia se propaga aos átomos mais internos. Neste tipo de cristal os elétrons livres servem de meio de propagação do calor - chocam-se com os átomos mais velozes, aceleram-se e vão aumentar a oscilação dos mais lentos. A possibilidade de melhor condutividade térmica, portanto, depende da presença de elétrons livres no cristal. Estudando-se o fenômeno da condutibilidade elétrica, nota-se que, quando é aplicada uma diferença de potencial, por meio de uma fonte elétrica às paredes de um cristal metálico, os elétrons livres adquirem um movimento ordenado: passam a mover-se do polo negativo para o polo positivo, formando um fluxo eletrônico orientado na superfície do metal, pois como se trabalha com cargas de mesmo sinal, estas procuram a maior distância possível entre elas. Quanto mais elétrons livres no condutor, melhor a condução se dá.
+Os átomos de um metal têm grande tendência a perder elétrons da última camada e transformar-se em cátions. Esses elétrons, entretanto, são simultaneamente atraídos por outros íons, que então o perdem novamente e assim por diante. Por isso, apesar de predominarem íons positivos e elétrons livres, diz-se que os átomos de um metal são eletricamente neutros.
+Os átomos mantêm-se no interior da rede não só por implicações geométricas, mas também por apresentarem um tipo peculiar de ligação química, denominada ligação metálica. A união dos átomos que ocupam os "nós" de uma rede cristalina dá-se por meio dos elétrons de valência que compartilham (os situados em camadas eletrônicas não são completamente cheias). A disposição resultante é a de uma malha formada por íons positivos e uma nuvem eletrônica.
+
+
+=== Teoria da nuvem eletrônica ===
+Segundo essa teoria, alguns átomos do metal "perdem" ou "soltam" elétrons de suas últimas camadas; esses elétrons ficam "passeando" entre os átomos dos metais e funcionam como uma "cola" que os mantém unidos. Existe uma força de atração entre os elétrons livres que se movimentam pelo metal e os cátions fixos.
+
+
+=== Propriedade dos metais ===
+Brilho metálico característico;
+Resistência à tração;
+Condutibilidade elétrica e térmica elevadas;
+Alta densidade;
+Maleabilidade (facilidade em serem reduzidos a chapas e lâminas finas, processo conhecido como laminação);
+Ductilidade (facilidade em serem conformados em fios, processo conhecido como trefilagem);
+Ponto de fusão elevado;
+Ponto de ebulição elevado.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+e-Química- Vídeo sobre Ligações Químicas.

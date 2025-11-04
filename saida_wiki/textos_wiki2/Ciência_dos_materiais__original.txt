@@ -1,0 +1,30 @@
+Ciência dos materiais é um campo interdisciplinar de pesquisa e descoberta de materiais. A engenharia de materiais é um campo de engenharia de encontrar usos para materiais em outros campos e indústrias.
+As origens intelectuais da ciência dos materiais vêm do Iluminismo, quando os pesquisadores começaram a usar o pensamento analítico da química, da física e da engenharia para entender antigas observações fenomenológicas em metalurgia e mineralogia. Como tal, o campo da ciência dos materiais foi por muito tempo considerado pelas instituições acadêmicas como um subcampo desses campos relacionados. A partir da década de 1940, a ciência dos materiais começou a ser mais amplamente reconhecida como um campo específico e distinto da ciência e da engenharia, e as principais universidades técnicas do mundo criaram escolas dedicadas ao seu estudo.
+Os cientistas de materiais enfatizam a compreensão de como a história de um material (processamento) influencia sua estrutura e, portanto, as propriedades e o desempenho do material. A compreensão das relações processamento-estrutura-propriedades é chamada de paradigma dos materiais. Este paradigma é usado para avançar a compreensão em uma variedade de áreas de pesquisa, incluindo nanotecnologia, biomateriais e metalurgia.
+A ciência dos materiais também é uma parte importante da engenharia forense e da análise de falhas – investigando materiais, produtos, estruturas ou componentes que falham ou não funcionam como pretendido, causando ferimentos pessoais ou danos à propriedade. Essas investigações são fundamentais para entender, por exemplo, as causas de vários acidentes e incidentes aéreos.
+
+
+== História ==
+
+O material de escolha de uma determinada época é muitas vezes um ponto de definição. Frases como Idade da Pedra, Idade do Bronze, Idade do Ferro e Idade do Aço são exemplos históricos, ainda que arbitrários. Originalmente derivada da fabricação de cerâmica e sua suposta metalurgia derivada, a ciência dos materiais é uma das formas mais antigas de engenharia e ciência aplicada. A ciência moderna dos materiais evoluiu diretamente da metalurgia, que por sua vez evoluiu do uso do fogo. Um grande avanço na compreensão dos materiais ocorreu no final do século XIX, quando o cientista americano Josiah Willard Gibbs demonstrou que as propriedades termodinâmicas relacionadas à estrutura atômica em várias fases estão relacionadas às propriedades físicas de um material. Elementos importantes da moderna ciência dos materiais foram produtos da Corrida Espacial; a compreensão e engenharia das ligas metálicas, sílica e materiais de carbono, utilizados na construção de veículos espaciais que permitem a exploração espacial. A ciência dos materiais conduziu e foi impulsionada pelo desenvolvimento de tecnologias revolucionárias, como borrachas, plásticos, semicondutores e biomateriais.
+Antes da década de 1960, muitos departamentos de ciência de materiais eram departamentos de engenharia de metalurgia ou cerâmica, refletindo a ênfase do século XIX e início do século XX em metais e cerâmicas. O crescimento da ciência dos materiais nos Estados Unidos foi catalisado em parte pela Agência de Projetos de Pesquisa Avançada, que financiou uma série de laboratórios universitários no início dos anos 1960, "para expandir o programa nacional de pesquisa básica e treinamento nas ciências dos materiais". Em comparação com a engenharia mecânica, o campo nascente da ciência dos materiais concentrou-se em abordar os materiais do nível macro e na abordagem de que os materiais são projetados com base no conhecimento do comportamento no nível microscópico. Devido ao conhecimento expandido da ligação entre os processos atômicos e moleculares, bem como as propriedades gerais dos materiais, o design dos materiais passou a ser baseado em propriedades específicas desejadas. Desde então, o campo da ciência dos materiais se ampliou para incluir todas as classes de materiais, incluindo cerâmicas, polímeros, semicondutores, materiais magnéticos, biomateriais e nanomateriais, geralmente classificados em três grupos distintos: cerâmicas, metais e polímeros. A mudança proeminente na ciência dos materiais durante as últimas décadas é o uso ativo de simulações de computador para encontrar novos materiais, prever propriedades e entender fenômenos.
+
+
+== Ver também ==
+Aço
+Carbono acetilênico linear
+Kevlar
+Laser
+Cristal líquido
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+
+MS&T conference organized by the main materials societies
+MIT OpenCourseWare for MSE
