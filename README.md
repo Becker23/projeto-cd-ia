@@ -3,7 +3,7 @@
 Este projeto desenvolve e avalia um classificador capaz de identificar se um texto foi escrito por **um humano** ou **gerado por um modelo de Inteligência Artificial**.  
 A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e **Aprendizado de Máquina**, incluindo vetorização via **TF-IDF** e classificação utilizando **LinearSVC**, e o modelo **BERTimbau**, um modelo BERT pré-treinado com textos da língua portuguesa, além de uma interface web interativa para demonstração e experimentação.
 
-**Para um relatório mais detalhado, leia o arquivo "Projeto_Semestral_CD.ipynb" disponível neste repositório.**
+**Para um relatório mais detalhado, leia o arquivo "Projeto_Semestral_CD.ipynb" disponível neste repositório ou [neste link](https://colab.research.google.com/drive/1AcidKOIanc64XdTVEW6PTRkf4c5L84Tw?usp=sharing#scrollTo=hcqBUpwTcX5A)**
 
 **Os modelos utilizados neste projeto não estão no repositório por excederem o limite de tamanho do GitHub. Sendo assim, baixe o arquivo [models.zip](https://drive.google.com/file/d/1eONooP6zkEe-VbriwtVH_Ja0qP149ZFP/view?usp=sharing) do Google Drive. Após baixar, extraia a pasta "models" (a pasta inteira, não os arquivos) dentro de app/backend/.**
 
