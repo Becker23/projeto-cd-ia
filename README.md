@@ -119,6 +119,10 @@ A aplicação web permite:
 | Manipulação de Dados | Pandas / NumPy                    |
 | Interface            | React, JavaScript                 |
 
+## Google colab
+
+https://colab.research.google.com/drive/1AcidKOIanc64XdTVEW6PTRkf4c5L84Tw?usp=sharing#scrollTo=hcqBUpwTcX5A
+
 ## 👤 Autores
 
 Carlos Augusto Freire Maia de Oliveira
