@@ -9,6 +9,7 @@ A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e 
 
 **O artigo está disponível neste repositório em "Classificação de textos humanos e gerados por Inteligência Artificial.pdf" ou então [neste link](https://github.com/Becker23/projeto-cd-ia/blob/f453bd150e5beaf6bf942aeb94bf33be549e9731/Classifica%C3%A7%C3%A3o%20de%20textos%20humanos%20e%20gerados%20por%20Intelig%C3%AAncia%20Artificial.pdf)**
 
+**O vídeo do YouTube está disponível [neste link](https://www.youtube.com/watch?v=IuJX64d9ndQ)**
 ---
 
 ## 🎯 Objetivos
