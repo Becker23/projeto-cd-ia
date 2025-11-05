@@ -7,6 +7,8 @@ A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e 
 
 **Os modelos utilizados neste projeto não estão no repositório por excederem o limite de tamanho do GitHub. Sendo assim, baixe o arquivo [models.zip](https://drive.google.com/file/d/1eONooP6zkEe-VbriwtVH_Ja0qP149ZFP/view?usp=sharing) do Google Drive. Após baixar, extraia a pasta "models" (a pasta inteira, não os arquivos) dentro de app/backend/.**
 
+**O artigo está disponível neste repositório em "Classificação de textos humanos e gerados por Inteligência Artificial.pdf" ou então [neste link](https://github.com/Becker23/projeto-cd-ia/blob/f453bd150e5beaf6bf942aeb94bf33be549e9731/Classifica%C3%A7%C3%A3o%20de%20textos%20humanos%20e%20gerados%20por%20Intelig%C3%AAncia%20Artificial.pdf)**
+
 ---
 
 ## 🎯 Objetivos
