@@ -12,7 +12,6 @@ import json
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Constants
-BASE_DIR = Path(r"C:\Users\Enzo\Documents\projects\projeto-cd-ia")
 MAX_LENGTH = 256  # Reduced from 512
 BATCH_SIZE = 4  # Reduced from 8
 EPOCHS = 5

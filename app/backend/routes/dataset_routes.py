@@ -6,12 +6,16 @@ import os
 
 router = APIRouter(prefix="/dataset", tags=["Datasets"])
 
+
 class SampleResponse(BaseModel):
     samples: list[dict]
 
+
 @router.get("/random25", response_model=SampleResponse)
 def get_random_25(max_chars: int = 200):
-    file_path = os.path.join(os.path.dirname(__file__), os.pardir, "models", "set_final_combinado.json")
+    file_path = os.path.join(
+        os.path.dirname(__file__), os.pardir, "models", "dataset_final.json"
+    )
     print(file_path)
 
     if not os.path.exists(file_path):
