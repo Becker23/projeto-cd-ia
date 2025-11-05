@@ -123,6 +123,10 @@ A aplicação web permite:
 
 https://colab.research.google.com/drive/1AcidKOIanc64XdTVEW6PTRkf4c5L84Tw?usp=sharing#scrollTo=hcqBUpwTcX5A
 
+## Vídeo Explicativo Youtube
+
+https://www.youtube.com/watch?v=IuJX64d9ndQ
+
 ## 👤 Autores
 
 Carlos Augusto Freire Maia de Oliveira
