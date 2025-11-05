@@ -44,7 +44,7 @@ vectorizer = TfidfVectorizer(
 X_train_tfidf = vectorizer.fit_transform(X_train)
 
 # Save the vectorizer for future use
-vectorizer_path = str(BASE_DIR / "vectorizer.pkl")
+vectorizer_path = str(BASE_DIR / "app/backend/models/vectorizer.pkl")
 with open(vectorizer_path, "wb") as f:
     pickle.dump(vectorizer, f)
     print(f"Vectorizer salvo como {vectorizer_path}")
@@ -65,7 +65,7 @@ report = classification_report(y_test, y_pred, digits=4)
 cm = confusion_matrix(y_test, y_pred, labels=["humano", "ia"]).tolist()
 
 # Save the model
-model_path = str(BASE_DIR / "modelo_tfidf_linearsvc.pkl")
+model_path = str(BASE_DIR / "app/backend/models/modelo_tfidf_linearsvc.pkl")
 with open(model_path, "wb") as f:
     pickle.dump(model, f)
 

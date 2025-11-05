@@ -1,7 +1,11 @@
 # 🧠 Classificador de Textos: Humano vs. Inteligência Artificial
 
 Este projeto desenvolve e avalia um classificador capaz de identificar se um texto foi escrito por **um humano** ou **gerado por um modelo de Inteligência Artificial**.  
-A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e **Aprendizado de Máquina**, incluindo vetorização via **TF-IDF** e classificação utilizando **LinearSVC**, além de uma interface web interativa para demonstração e experimentação.
+A solução combina técnicas de **Processamento de Linguagem Natural (PLN)** e **Aprendizado de Máquina**, incluindo vetorização via **TF-IDF** e classificação utilizando **LinearSVC**, e o modelo **BERTimbau**, um modelo BERT pré-treinado com textos da língua portuguesa, além de uma interface web interativa para demonstração e experimentação.
+
+**Para um relatório mais detalhado, leia o arquivo "Projeto_Semestral_CD.ipynb" disponível neste repositório ou [neste link](https://colab.research.google.com/drive/1AcidKOIanc64XdTVEW6PTRkf4c5L84Tw?usp=sharing#scrollTo=hcqBUpwTcX5A)**
+
+**Os modelos utilizados neste projeto não estão no repositório por excederem o limite de tamanho do GitHub. Sendo assim, baixe o arquivo [models.zip](https://drive.google.com/file/d/1eONooP6zkEe-VbriwtVH_Ja0qP149ZFP/view?usp=sharing) do Google Drive. Após baixar, extraia a pasta "models" (a pasta inteira, não os arquivos) dentro de app/backend/.**
 
 ---
 
@@ -25,12 +29,7 @@ O dataset foi composto a partir de múltiplas fontes para garantir diversidade t
 | **Reviews do Mercado Livre**   | Texto informal espontâneo  | Escrita natural cotidiana      |
 | **Modelos de IA (Gemini)**     | Reescritas automáticas     | Referência de texto artificial |
 
-Foram criados pares correspondentes para cada tema:
-
-_\_original.txt → texto escrito por humano
-_\_ia.txt → versão reescrita por IA
-
----
+Para cada tipo de fonte, foram gerados datasets com textos tanto gerados por humanos quanto gerados por Inteligência Artificial.
 
 ## 🧠 Metodologia
 
@@ -50,8 +49,13 @@ _\_ia.txt → versão reescrita por IA
    - **BERT (Transformers)** como modelo contextual mais robusto
 
 4. **Avaliação**
+
    - Conjunto de treino e teste com divisão estratificada
    - Métricas: _accuracy, precision, recall, f1-score_ e matriz de confusão
+
+5. **Cross-validation**
+   - Avaliação de acurácia do modelo em diferentes conjuntos de treinamento e teste
+   - Avaliação de possível _over-fitting_ do modelo
 
 ---
 
@@ -61,9 +65,9 @@ _\_ia.txt → versão reescrita por IA
 
 | Métrica           | Valor     |
 | ----------------- | --------- |
-| **Acurácia**      | **0.899** |
-| F1-score (Humano) | 0.892     |
-| F1-score (IA)     | 0.905     |
+| **Acurácia**      | **0.814** |
+| F1-score (Humano) | 0.810     |
+| F1-score (IA)     | 0.817     |
 
 ### Modelo BERT (Fine-Tuning)
 
@@ -71,15 +75,16 @@ _\_ia.txt → versão reescrita por IA
 | ----------------- | --------- |
 | **Acurácia**      | **0.956** |
 | F1-score (Humano) | 0.953     |
-| F1-score (IA)     | 0.959     |
+| F1-score (IA)     | 0.958     |
 
 > O modelo **BERT apresentou desempenho superior**, indicando melhor capacidade de capturar nuances linguísticas entre escrita humana e IA.
 
 ---
 
-## Rodar aplicacao
+## Rodar aplicação
 
 ### Frontend
+
 ```
 cd frontend
 npm install
@@ -87,6 +92,7 @@ npm run dev
 ```
 
 ### Backend
+
 ```
 cd backend
 pip install -r requirements.txt
@@ -101,7 +107,6 @@ A aplicação web permite:
 | ------------------------ | ----------------------------------------------------------------- |
 | **Verificação de texto** | O usuário cola um texto e recebe diagnóstico + probabilidade      |
 | **Jogo "Humano x IA"**   | Mostra um trecho aleatório e o usuário tenta adivinhar sua origem |
-
 
 ## 🛠️ Tecnologias Utilizadas
 

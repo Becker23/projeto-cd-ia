@@ -12,7 +12,7 @@ import json
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Constants
-BASE_DIR = Path(r"C:\Users\Enzo\Documents\projects\projeto-cd-ia")
+BASE_DIR = Path(__file__).resolve().parent
 MAX_LENGTH = 256  # Reduced from 512
 BATCH_SIZE = 4  # Reduced from 8
 EPOCHS = 5
@@ -184,7 +184,7 @@ def main():
         json.dump(metrics, f, ensure_ascii=False, indent=2)
 
     # Save model
-    model_path = str(BASE_DIR / "modelo_bert")
+    model_path = str(BASE_DIR / "app/backend/models/modelo_bert")
     model.save_pretrained(model_path)
     tokenizer.save_pretrained(model_path)
 

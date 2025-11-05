@@ -1,0 +1,4 @@
+app/backend/__pycache__/
+app/backend/venv/
+app/backend/models
+app/frontend/node_modules/
