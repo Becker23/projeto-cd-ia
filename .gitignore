@@ -2,3 +2,6 @@ app/backend/__pycache__/
 app/backend/venv/
 app/backend/models
 app/frontend/node_modules/
+.vscode
+app/backend/controller/__pycache__/
+app/backend/routes/__pycache__/
